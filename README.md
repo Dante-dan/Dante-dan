@@ -39,7 +39,7 @@
   <a href="https://x.com/Dante21299538" title="Dante's X"><img src="https://img.shields.io/static/v1?message=Dante&logo=x&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  /></a>
   <a href="mailto:duanjl.china@gmail.com" title="EMail"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  /></a>
   <a href="https://www.linkedin.com/in/duanjl-71b772200/" title="Dante LinkedIn"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  /></a>
-  <a href="https://blog.dh-pie.cloud/" title="Dante's Blog"><img src="https://img.shields.io/badge/Dante%20Blog-000000" alt="Blog logo"  /></a>
+  <a href="https://blog.dh-pie.cloud/" title="Dante's Blog"><img src="https://img.shields.io/badge/Dante's%20Blog-000000" alt="Blog logo"  /></a>
 </div>
 
 ###
