@@ -12,7 +12,7 @@
 
 ###
 
-<div align="center">
+<div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
@@ -34,7 +34,7 @@
 
 ###
 
-<div align="left">
+<div>
   <a href="https://www.youtube.com/channel/UCauMlHNsHln_PCwX9K1_9rw" title="Youtube"><img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  /></a>
   <a href="https://x.com/Dante21299538" title="Dante's X"><img src="https://img.shields.io/static/v1?message=Dante&logo=x&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  /></a>
   <a href="mailto:duanjl.china@gmail.com" title="EMail"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  /></a>
