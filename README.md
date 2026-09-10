@@ -1,64 +1,62 @@
-<h2 align="left">Hi 👋! My name is Dante and I'm a NodeJs Developer, from China </h2>
-
-###
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Dante-dan&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Dante-dan&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+
+# Dante / Agent Workbench
+
+<samp>TypeScript · AI agents · Open source</samp>
+
+<br /><br />
+
+<samp>
+  <a href="https://dhpie.com">blog</a> ·
+  <a href="https://github.com/Dante-dan?tab=repositories">code</a> ·
+  <a href="https://github.com/search?q=is%3Apr+author%3ADante-dan&type=pullrequests">contributions</a> ·
+  <a href="mailto:duanjl.china@gmail.com">contact</a>
+</samp>
+
 </div>
 
-###
+```text
+$ whoami
+Dante — developer from China, building with AI agents.
 
+$ cat workflow.txt
+question → investigate → build → verify → contribute → write
+```
 
-###
+I build with TypeScript and AI agents. I investigate issues, work on fixes,
+and contribute to the design discussions behind the tools I use.
+I write about the process on [dhpie.com](https://dhpie.com).
 
-<div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="30" alt="vue logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuxtjs/nuxtjs-original.svg" height="30" alt="nuxt logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="30" alt="nest logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-</div>
+### `~/upstream` — selected contributions
 
-###
+- **[Cherry Studio · OpenCode session headers](https://github.com/CherryHQ/cherry-studio/pull/20267)** — preserve session headers in the Pi integration. Merged.
+- **[Cindy · authentication transitions](https://github.com/makecindy/cindy/pull/4173)** — wait for the owner transition before login initialization. Merged.
 
-<div>
-  <a href="https://www.youtube.com/channel/UCauMlHNsHln_PCwX9K1_9rw" title="Youtube"><img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  /></a>
-  <a href="https://x.com/Dante21299538" title="Dante's X"><img src="https://img.shields.io/static/v1?message=Dante&logo=x&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  /></a>
-  <a href="mailto:duanjl.china@gmail.com" title="EMail"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  /></a>
-  <a href="https://www.linkedin.com/in/duanjl-71b772200/" title="Dante LinkedIn"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  /></a>
-  <a href="https://blog.dh-pie.cloud/" title="Dante's Blog"><img src="https://img.shields.io/badge/Dante's%20Blog-000000" alt="Blog logo"  /></a>
-</div>
+<details>
+<summary>Design discussions I've participated in</summary>
 
-###
+- **[Browser Use · action evidence](https://github.com/browser-use/browser-use/issues/5137#issuecomment-5611003822)** — separate protocol completion, event processing, asynchronous activity, and observed effects.
+- **[OpenCode · asynchronous HITL](https://github.com/anomalyco/opencode/issues/6330#issuecomment-5611211947)** — typed requests with a lifecycle and replaceable UI handlers.
+- **[OpenCode · team supervision](https://github.com/anomalyco/opencode/issues/12711#issuecomment-5611430297)** — route human input across agents; make priority, progress, and interruption explicit.
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Dante-dan&limit=5&theme=dark&combine_all_yearly_contributions=true)
+</details>
 
-<br clear="both">
+[More contributions →](https://github.com/search?q=is%3Apr+author%3ADante-dan&type=pullrequests)
 
-### 🐍 Commits
-<img src="https://raw.githubusercontent.com/Dante-dan/Dante-dan/output/snake.svg" alt="Snake animation" />
+### `~/notes` — writing in public
 
-###
+- [Open-source field notes: browser receipts, async HITL, and agent supervision](https://dhpie.com/en/posts/cn/open-source-daily-2026-09-09)
+- [Agent coding 的核心不是 prompt，而是反馈回路](https://dhpie.com/posts/cn/agent-coding-de-he-xin-bu-shi-prompt-er-shi-fan-kui-hui-lu)
+- [我是怎么一步步不再自己写代码的](https://dhpie.com/posts/cn/how-i-stopped-writing-code)
 
+[More on my blog →](https://dhpie.com)
 
-### 🐱 Random Dev Meme
-<img src='https://memer-new.vercel.app/' style="height: 400px;"/>
+### `~/stack`
 
----
-[![](https://visitcount.itsvg.in/api?id=Dante-dan&icon=0&color=0)](https://visitcount.itsvg.in)
+<samp>TypeScript · JavaScript · Node.js · Vue · Nuxt · React · Python</samp>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### `~/activity`
+
+<img src="https://raw.githubusercontent.com/Dante-dan/Dante-dan/output/snake.svg" alt="Animated snake following my GitHub contribution graph" width="100%" />
+
+<div align="center"><sub>Building, testing, and thinking out loud.</sub></div>
