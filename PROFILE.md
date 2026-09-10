@@ -24,7 +24,9 @@ responses also preserve previous content. Only public data is requested.
 
 SVGs are committed to `assets/`; the snake lives on `output`. Light/dark variants follow
 GitHub's color scheme. `style-cards.py` aligns Summary Cards typography/colors without
-changing its data. Language percentages reflect repository code volume, not proficiency.
+changing its data. Language percentages reflect repository code volume, not proficiency. The Metrics
+viewer-affiliation filter is disabled because the built-in token represents this
+repository; filtering by that viewer would incorrectly count only the profile repo.
 Reactions cover a bounded sample of comments and issue/PR bodies from 90 days, not lifetime totals.
 
 The Metrics recent-activity plugin currently crashes on reduced GitHub event payloads
