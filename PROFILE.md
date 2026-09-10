@@ -19,14 +19,15 @@ responses also preserve previous content. Only public data is requested.
 | --- | --- |
 | [GitHub Readme Stats Action](https://github.com/stats-organization/github-readme-stats-action) | Contribution totals; no rank or second language chart |
 | [GitHub Profile Summary Cards](https://github.com/vn7n24fzkq/github-profile-summary-cards) | Commit time distribution, UTC+8; other generated cards are discarded |
-| [lowlighter/metrics](https://github.com/lowlighter/metrics) | Public repository language mix and reactions on recent comments |
+| [lowlighter/metrics](https://github.com/lowlighter/metrics) | Reactions on recent comments |
 | [Platane/snk](https://github.com/Platane/snk) | Optional contribution animation inside a disclosure |
 
 SVGs are committed to `assets/`; the snake lives on `output`. Light/dark variants follow
 GitHub's color scheme. `style-cards.py` aligns Summary Cards typography/colors without
-changing its data. Language percentages reflect repository code volume, not proficiency. The Metrics
-viewer-affiliation filter is disabled because the built-in token represents this
-repository; filtering by that viewer would incorrectly count only the profile repo.
+changing its data. The repository-scoped built-in token restricts Metrics' GraphQL repository dataset
+in practice; its language card only counted this profile repository. That misleading
+card is intentionally omitted. Overall contribution totals and reactions were verified
+separately. A future language card needs independently verified public-repository data.
 Reactions cover a bounded sample of comments and issue/PR bodies from 90 days, not lifetime totals.
 
 The Metrics recent-activity plugin currently crashes on reduced GitHub event payloads
