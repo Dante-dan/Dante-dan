@@ -1,0 +1,130 @@
+name: Refresh profile
+on:
+  schedule:
+    - cron: '23 22 * * *'
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths: ['scripts/**', '.github/workflows/profile.yml']
+permissions:
+  contents: write
+concurrency:
+  group: profile-refresh
+  cancel-in-progress: false
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@11d5960a326750d5838078e36cf38b85af677262
+      - name: Refresh public projects, upstream PRs and blog RSS
+        id: feeds
+        continue-on-error: true
+        run: python3 scripts/update-profile.py
+        env:
+          GH_TOKEN: ${{ github.token }}
+      - name: Contribution totals (dark)
+        id: stats_dark
+        continue-on-error: true
+        uses: stats-organization/github-readme-stats-action@e856fc8de9d7729b463c468911e232cfbdc3d55e
+        with:
+          card: stats
+          path: assets/stats-dark.svg
+          fail_on_error: 'true'
+          options: username=Dante-dan&hide_rank=true&show_icons=true&hide_border=true&bg_color=0d1117&text_color=c9d1d9&title_color=58a6ff&icon_color=58a6ff&custom_title=Public%20contributions&disable_animations=true
+      - name: Commit time distribution (dark)
+        id: time_dark
+        continue-on-error: true
+        uses: vn7n24fzkq/github-profile-summary-cards@e722eded97059b31d7e8ad3ae0267b74ff24172d
+        with:
+          USERNAME: Dante-dan
+          UTC_OFFSET: 8
+          AUTO_PUSH: false
+          THEME: github_dark
+        env:
+          GITHUB_TOKEN: ${{ github.token }}
+      - name: Keep only the time card (dark)
+        if: steps.time_dark.outcome == 'success'
+        run: cp profile-summary-card-output/github_dark/4-productive-time.svg assets/time-dark.svg
+      - name: Contribution totals (light)
+        id: stats_light
+        continue-on-error: true
+        uses: stats-organization/github-readme-stats-action@e856fc8de9d7729b463c468911e232cfbdc3d55e
+        with:
+          card: stats
+          path: assets/stats-light.svg
+          fail_on_error: 'true'
+          options: username=Dante-dan&hide_rank=true&show_icons=true&hide_border=true&bg_color=ffffff&text_color=24292f&title_color=0969da&icon_color=0969da&custom_title=Public%20contributions&disable_animations=true
+      - name: Commit time distribution (light)
+        id: time_light
+        continue-on-error: true
+        uses: vn7n24fzkq/github-profile-summary-cards@e722eded97059b31d7e8ad3ae0267b74ff24172d
+        with:
+          USERNAME: Dante-dan
+          UTC_OFFSET: 8
+          AUTO_PUSH: false
+          THEME: github
+        env:
+          GITHUB_TOKEN: ${{ github.token }}
+      - name: Keep only the time card (light)
+        if: steps.time_light.outcome == 'success'
+        run: cp profile-summary-card-output/github/4-productive-time.svg assets/time-light.svg
+      - name: Publish successful updates
+        if: always()
+        run: bash scripts/commit-profile.sh
+      - name: Report incomplete refresh
+        if: steps.feeds.outcome == 'failure' || steps.stats_dark.outcome == 'failure' || steps.stats_light.outcome == 'failure' || steps.time_dark.outcome == 'failure' || steps.time_light.outcome == 'failure'
+        run: |
+          echo 'Some sources failed. Their previous content was retained.'
+          exit 1
+  metrics:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - name: Public language mix and comment reactions
+        uses: lowlighter/metrics@65836723097537a54cd8eb90f61839426b4266b6
+        with:
+          token: ${{ github.token }}
+          user: Dante-dan
+          filename: assets/languages.svg
+          committer_branch: main
+          base: ''
+          template: classic
+          config_timezone: Asia/Singapore
+          config_animations: no
+          config_display: large
+          repositories_forks: no
+          repositories_affiliations: owner
+          plugin_languages: yes
+          plugin_languages_sections: most-used
+          plugin_languages_limit: 6
+          plugin_languages_details: percentage
+          plugin_languages_ignored: html, css
+          plugin_reactions: yes
+          plugin_reactions_details: count
+          plugin_reactions_days: 90
+          plugin_reactions_limit: 100
+          plugin_reactions_limit_issues: 50
+          plugin_reactions_limit_discussions: 0
+          plugin_reactions_limit_discussions_comments: 0
+          config_order: languages, reactions
+          output_condition: data-changed
+      - name: Recent conversations
+        uses: lowlighter/metrics@65836723097537a54cd8eb90f61839426b4266b6
+        with:
+          token: ${{ github.token }}
+          user: Dante-dan
+          filename: assets/activity.svg
+          committer_branch: main
+          base: ''
+          template: classic
+          config_timezone: Asia/Singapore
+          config_animations: no
+          plugin_activity: yes
+          plugin_activity_limit: 4
+          plugin_activity_days: 30
+          plugin_activity_visibility: public
+          plugin_activity_filter: issue, comment, review
+          plugin_activity_timestamps: yes
+          plugin_activity_skipped: Dante-dan/Dante-dan
+          output_condition: data-changed

@@ -102,3 +102,7 @@ dist
 
 # TernJS port file
 .tern-port
+
+# Intermediate card generation and Python caches
+profile-summary-card-output/
+__pycache__/
