@@ -17,6 +17,8 @@ jobs:
     timeout-minutes: 20
     steps:
       - uses: actions/checkout@11d5960a326750d5838078e36cf38b85af677262
+      - name: Test feed failure handling
+        run: python3 -m unittest discover -s scripts -p 'test_*.py'
       - name: Refresh public projects, upstream PRs and blog RSS
         id: feeds
         continue-on-error: true
@@ -31,7 +33,7 @@ jobs:
           card: stats
           path: assets/stats-dark.svg
           fail_on_error: 'true'
-          options: username=Dante-dan&hide_rank=true&show_icons=true&hide_border=true&bg_color=0d1117&text_color=c9d1d9&title_color=58a6ff&icon_color=58a6ff&custom_title=Public%20contributions&disable_animations=true
+          options: username=Dante-dan&card_width=340&hide_rank=true&show_icons=true&hide_border=true&bg_color=0d1117&text_color=c9d1d9&title_color=58a6ff&icon_color=58a6ff&custom_title=Public%20contributions&disable_animations=true
       - name: Commit time distribution (dark)
         id: time_dark
         continue-on-error: true
@@ -54,7 +56,7 @@ jobs:
           card: stats
           path: assets/stats-light.svg
           fail_on_error: 'true'
-          options: username=Dante-dan&hide_rank=true&show_icons=true&hide_border=true&bg_color=ffffff&text_color=24292f&title_color=0969da&icon_color=0969da&custom_title=Public%20contributions&disable_animations=true
+          options: username=Dante-dan&card_width=340&hide_rank=true&show_icons=true&hide_border=true&bg_color=ffffff&text_color=24292f&title_color=0969da&icon_color=0969da&custom_title=Public%20contributions&disable_animations=true
       - name: Commit time distribution (light)
         id: time_light
         continue-on-error: true
@@ -69,6 +71,8 @@ jobs:
       - name: Keep only the time card (light)
         if: steps.time_light.outcome == 'success'
         run: cp profile-summary-card-output/github/4-productive-time.svg assets/time-light.svg
+      - name: Harmonize card typography and colors
+        run: python3 scripts/style-cards.py
       - name: Publish successful updates
         if: always()
         run: bash scripts/commit-profile.sh
@@ -92,7 +96,7 @@ jobs:
           template: classic
           config_timezone: Asia/Singapore
           config_animations: no
-          config_display: large
+          config_display: regular
           repositories_forks: no
           repositories_affiliations: owner
           plugin_languages: yes
@@ -108,23 +112,5 @@ jobs:
           plugin_reactions_limit_discussions: 0
           plugin_reactions_limit_discussions_comments: 0
           config_order: languages, reactions
-          output_condition: data-changed
-      - name: Recent conversations
-        uses: lowlighter/metrics@65836723097537a54cd8eb90f61839426b4266b6
-        with:
-          token: ${{ github.token }}
-          user: Dante-dan
-          filename: assets/activity.svg
-          committer_branch: main
-          base: ''
-          template: classic
-          config_timezone: Asia/Singapore
-          config_animations: no
-          plugin_activity: yes
-          plugin_activity_limit: 4
-          plugin_activity_days: 30
-          plugin_activity_visibility: public
-          plugin_activity_filter: issue, comment, review
-          plugin_activity_timestamps: yes
-          plugin_activity_skipped: Dante-dan/Dante-dan
+          plugins_errors_fatal: yes
           output_condition: data-changed

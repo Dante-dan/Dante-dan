@@ -1,6 +1,7 @@
 #!/usr/bin/env python3
 """Refresh bounded public-data sections; preserve each previous block on failure."""
 import html
+from datetime import datetime, timedelta, timezone
 import json
 import os
 from pathlib import Path
@@ -79,6 +80,42 @@ def notes():
     return '\n'.join(rows)
 
 
+def activity():
+    events = json.loads(fetch(f'https://api.github.com/users/{USER}/events/public?per_page=100'))
+    rows, seen = [], set()
+    cutoff = datetime.now(timezone.utc) - timedelta(days=30)
+    for event in events:
+        if not event.get('public') or event.get('actor', {}).get('login', '').lower() != USER.lower():
+            continue
+        if datetime.fromisoformat(event['created_at'].replace('Z', '+00:00')) < cutoff:
+            continue
+        payload = event.get('payload', {})
+        repo = event.get('repo', {}).get('name', '')
+        kind = event.get('type')
+        if kind == 'IssueCommentEvent':
+            item, response, verb = payload.get('issue', {}), payload.get('comment', {}), 'Commented'
+        elif kind == 'IssuesEvent':
+            item, response, verb = payload.get('issue', {}), {}, payload.get('action', 'Updated').capitalize()
+        elif kind in {'PullRequestReviewEvent', 'PullRequestReviewCommentEvent'}:
+            item = payload.get('pull_request', {})
+            response = payload.get('review', payload.get('comment', {}))
+            verb = 'Reviewed' if kind == 'PullRequestReviewEvent' else 'Commented'
+        else:
+            continue
+        number = item.get('number', payload.get('number'))
+        url = response.get('html_url') or item.get('html_url')
+        if not number or not url or (repo, number) in seen or repo.lower() == f'{USER}/{USER}'.lower():
+            continue
+        seen.add((repo, number))
+        date = event['created_at'][:10]
+        title = clean(item.get('title'), 100)
+        suffix = f' — {title}' if title else ''
+        rows.append(f'- `{date}` {verb} on **[{clean(repo)}#{number}]({link(url)})**{suffix}')
+        if len(rows) == 4:
+            break
+    return '\n'.join(rows) or 'No public conversations in the last 30 days.'
+
+
 def replace_block(text, name, body):
     start, end = f'<!-- {name}:start -->', f'<!-- {name}:end -->'
     if text.count(start) != 1 or text.count(end) != 1 or text.index(start) >= text.index(end):
@@ -94,7 +131,7 @@ def main():
     path = ROOT / 'README.md'
     text = path.read_text()
     failed = False
-    for name, loader in [('workbench', workbench), ('upstream', upstream), ('notes', notes)]:
+    for name, loader in [('workbench', workbench), ('upstream', upstream), ('notes', notes), ('activity', activity)]:
         try:
             text = replace_block(text, name, loader())
             print(f'Updated {name}')
