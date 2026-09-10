@@ -31,6 +31,18 @@ class ProfileTests(unittest.TestCase):
         with self.assertRaises(ValueError):
             m.link('https://evil.example/post')
 
+    def test_activity_handles_reduced_payloads_and_deduplicates_threads(self):
+        import json
+        from datetime import datetime, timezone
+        def event(kind, payload):
+            return dict(type=kind, public=True, actor={'login': 'Dante-dan'}, repo={'name': 'team/project'}, created_at=datetime.now(timezone.utc).isoformat(), payload=payload)
+        comment = event('IssueCommentEvent', {'issue': {'number': 1, 'title': 'A discussion'}, 'comment': {'html_url': 'https://github.com/team/project/issues/1#issuecomment-2'}})
+        events = [event('PullRequestEvent', {'pull_request': {}}), event('PullRequestReviewEvent', {}), comment, comment]
+        with patch.object(m, 'fetch', return_value=json.dumps(events).encode()):
+            result = m.activity()
+        self.assertEqual(result.count('team/project#1'), 1)
+        self.assertIn('#issuecomment-2', result)
+
     def test_empty_or_duplicate_markers_do_not_erase_content(self):
         source = '<!-- notes:start -->old<!-- notes:end -->'
         for body, text in [('', source), ('new', source + source)]:

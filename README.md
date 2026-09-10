@@ -2,9 +2,7 @@
 
 # Dante / Agent Workbench
 
-<samp>TypeScript · AI agents · Open source</samp>
-
-<br />
+<p><samp>TypeScript · AI agents · Open source</samp></p>
 
 <samp>
   <a href="https://dhpie.com">blog</a> ·
@@ -17,10 +15,11 @@
 
 ```text
 $ whoami
-Dante — developer from China, building with AI agents.
+Dante · developer · China
 
 $ cat workflow.txt
-question → investigate → build → verify → contribute → write
+question → investigate → build
+verify → contribute → write
 ```
 
 I build with TypeScript and AI agents. I investigate issues, work on fixes,
@@ -78,14 +77,14 @@ I write about the process on [dhpie.com](https://dhpie.com).
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/stats-dark.svg" />
-  <img src="assets/stats-light.svg" alt="Public GitHub contribution totals" width="49%" />
+  <img src="assets/stats-light.svg" alt="Public GitHub contribution totals" width="390" />
 </picture>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/time-dark.svg" />
-  <img src="assets/time-light.svg" alt="Commit distribution by time of day, UTC+8" width="49%" />
+  <img src="assets/time-light.svg" alt="Commit distribution by time of day, UTC+8" width="390" />
 </picture>
 
-<img src="assets/languages.svg" alt="Public repository languages and reactions received on recent comments" width="100%" />
+<img src="assets/languages.svg" alt="Public repository languages and reactions received on recent comments" width="650" />
 
 
 
