@@ -84,7 +84,7 @@ I write about the process on [dhpie.com](https://dhpie.com).
   <img src="assets/time-light.svg" alt="Commit distribution by time of day, UTC+8" width="390" />
 </picture>
 
-<img src="assets/languages.svg" alt="Public repository languages and reactions received on recent comments" width="650" />
+<img src="assets/reactions.svg" alt="Reactions received on recent public comments and issue bodies" width="650" />
 
 
 
