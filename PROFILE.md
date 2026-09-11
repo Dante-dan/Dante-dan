@@ -41,3 +41,29 @@ publishing error cards. Scheduled updates do not recursively trigger themselves.
 
 Run locally: `GH_TOKEN="$(gh auth token)" python3 scripts/update-profile.py`.
 Validate: `python3 -m unittest discover -s scripts -p 'test_*.py'`.
+
+## Accepted contribution shelf
+
+The existing daily Action now refreshes `contributions`. Two-column linked project
+icons sit above the latest PR feed, following the restrained linked typography of
+[antfu](https://github.com/antfu/antfu) and generated sections of
+[simonw](https://github.com/simonw/simonw). Each project links to its repository,
+accepted contribution evidence, and the author's PR history.
+
+The shelf shows projects whose latest accepted code PR is within a rolling 365 days.
+Older projects remain in **Earlier contributions**, a collapsed archive. A new accepted
+contribution moves a project back to the visible shelf. Public merged PRs to other
+accounts are discovered on every refresh; documentation-only changes are omitted
+using changed-file source extensions. Tests count as code. This is a PR-based code
+contribution showcase, not an exhaustive commit inventory (direct pushes and unknown
+cherry-picks are not inferred). Search pagination/incomplete results and upstream
+failures preserve the previous shelf and fail the feed step honestly.
+
+`scripts/contribution-sources.json` holds logo overrides and verified integrations
+whose original PR was closed instead of merged. ECC #3044 is linked to actual
+Dante-authored commits integrated through #3071; each refresh verifies attribution
+and ancestry. Its latest-PR label is `integrated`. Future such cases need an explicit
+source/commit mapping rather than guessing from comments. Conventional merged PRs
+are automatic. Logos are stored in `assets/projects`; official project assets are
+preferred, otherwise the repository owner's GitHub avatar is used. The JSON records
+custom image sources, while fallback avatars come from the GitHub repository API.

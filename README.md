@@ -36,26 +36,58 @@ I write about the process on [dhpie.com](https://dhpie.com).
 - **[dan-skills](https://github.com/Dante-dan/dan-skills)** — Public TypeScript project.
 <!-- workbench:end -->
 
+### `~/contributions`
+
+<!-- contributions:start -->
+<sub>Code accepted upstream · last 12 months</sub>
+
+<table>
+<tr>
+<td width="50%" valign="middle"><a href="https://github.com/affaan-m/ECC"><img src="assets/projects/affaan-m--ECC.svg" width="36" height="36" alt="ECC icon" /></a>&nbsp; <a href="https://github.com/affaan-m/ECC"><strong>ECC</strong></a><br /><sub><a href="https://github.com/affaan-m/ECC/commit/d3af582bade744680d9c3114c7dd7850f98b4474">integrated contribution</a> · <a href="https://github.com/affaan-m/ECC/pulls?q=is%3Apr+author%3ADante-dan">all PRs ↗</a></sub></td>
+<td width="50%" valign="middle"><a href="https://github.com/makecindy/cindy"><img src="assets/projects/makecindy--cindy.png" width="36" height="36" alt="Cindy icon" /></a>&nbsp; <a href="https://github.com/makecindy/cindy"><strong>Cindy</strong></a><br /><sub><a href="https://github.com/makecindy/cindy/pull/4219">merged contribution</a> · <a href="https://github.com/makecindy/cindy/pulls?q=is%3Apr+author%3ADante-dan">all PRs ↗</a></sub></td>
+</tr>
+<tr>
+<td width="50%" valign="middle"><a href="https://github.com/CherryHQ/cherry-studio"><img src="assets/projects/CherryHQ--cherry-studio.png" width="36" height="36" alt="Cherry Studio icon" /></a>&nbsp; <a href="https://github.com/CherryHQ/cherry-studio"><strong>Cherry Studio</strong></a><br /><sub><a href="https://github.com/CherryHQ/cherry-studio/pull/20267">merged contribution</a> · <a href="https://github.com/CherryHQ/cherry-studio/pulls?q=is%3Apr+author%3ADante-dan">all PRs ↗</a></sub></td>
+</tr>
+</table>
+
+<details>
+<summary>Earlier contributions</summary>
+
+<table>
+<tr>
+<td width="50%" valign="middle"><a href="https://github.com/cpsoinos/nuxt-svgo"><img src="assets/projects/cpsoinos--nuxt-svgo.png" width="36" height="36" alt="nuxt-svgo icon" /></a>&nbsp; <a href="https://github.com/cpsoinos/nuxt-svgo"><strong>nuxt-svgo</strong></a><br /><sub><a href="https://github.com/cpsoinos/nuxt-svgo/pull/201">merged contribution</a> · <a href="https://github.com/cpsoinos/nuxt-svgo/pulls?q=is%3Apr+author%3ADante-dan">all PRs ↗</a></sub></td>
+<td width="50%" valign="middle"><a href="https://github.com/GoogleChromeLabs/uach-retrofill"><img src="assets/projects/GoogleChromeLabs--uach-retrofill.png" width="36" height="36" alt="uach-retrofill icon" /></a>&nbsp; <a href="https://github.com/GoogleChromeLabs/uach-retrofill"><strong>uach-retrofill</strong></a><br /><sub><a href="https://github.com/GoogleChromeLabs/uach-retrofill/pull/43">merged contribution</a> · <a href="https://github.com/GoogleChromeLabs/uach-retrofill/pulls?q=is%3Apr+author%3ADante-dan">all PRs ↗</a></sub></td>
+</tr>
+<tr>
+<td width="50%" valign="middle"><a href="https://github.com/frejs/fre"><img src="assets/projects/frejs--fre.png" width="36" height="36" alt="fre icon" /></a>&nbsp; <a href="https://github.com/frejs/fre"><strong>fre</strong></a><br /><sub><a href="https://github.com/frejs/fre/pull/264">merged contribution</a> · <a href="https://github.com/frejs/fre/pulls?q=is%3Apr+author%3ADante-dan">all PRs ↗</a></sub></td>
+<td width="50%" valign="middle"><a href="https://github.com/youzan/vant"><img src="assets/projects/youzan--vant.png" width="36" height="36" alt="Vant icon" /></a>&nbsp; <a href="https://github.com/youzan/vant"><strong>Vant</strong></a><br /><sub><a href="https://github.com/youzan/vant/pull/8387">merged contribution</a> · <a href="https://github.com/youzan/vant/pulls?q=is%3Apr+author%3ADante-dan">all PRs ↗</a></sub></td>
+</tr>
+</table>
+
+</details>
+<!-- contributions:end -->
+
 ### `~/upstream`
 
 <sub>Latest pull requests to other projects</sub>
 
 <!-- upstream:start -->
+- `open` **[LodyAI/Lody#563](https://github.com/LodyAI/Lody/pull/563)** — fix(cli): coalesce overlapping history refreshes
+- `open` **[LodyAI/Lody#577](https://github.com/LodyAI/Lody/pull/577)** — fix: wait for metadata before archive cascade
 - `open` **[CherryHQ/cherry-studio#20353](https://github.com/CherryHQ/cherry-studio/pull/20353)** — fix(ai-runtime): clamp agent output token limit
-- `open` **[LodyAI/Lody#587](https://github.com/LodyAI/Lody/pull/587)** — fix(cli): list remote machine projects without daemon
-- `closed` **[affaan-m/ECC#3044](https://github.com/affaan-m/ECC/pull/3044)** — fix(install): handle missing Windows settings device IDs safely
-- `open` **[browser-use/browser-use#5771](https://github.com/browser-use/browser-use/pull/5771)** — fix(browser): clean up local browser process trees
-- `merged` **[makecindy/cindy#4219](https://github.com/makecindy/cindy/pull/4219)** — fix(mobile): open managed Markdown video links
+- `open` **[CherryHQ/cherry-studio#20378](https://github.com/CherryHQ/cherry-studio/pull/20378)** — feat(knowledge): accept all recognized text files
+- `open` **[multica-ai/multica#8297](https://github.com/multica-ai/multica/pull/8297)** — MUL-7275: fix(skills): normalize Windows archive entry paths
 <!-- upstream:end -->
 
 <details>
 <summary>Recent conversations · issues, comments &amp; reviews</summary>
 
 <!-- activity:start -->
-- `2026-09-10` Commented on **[anomalyco/opencode#39565](https://github.com/anomalyco/opencode/issues/39565#issuecomment-5626839789)** — core: interrupted tools cannot retain partial results
-- `2026-09-10` Commented on **[CherryHQ/cherry-studio#20353](https://github.com/CherryHQ/cherry-studio/pull/20353#discussion_r3984374106)**
-- `2026-09-10` Commented on **[cline/cline#14045](https://github.com/cline/cline/issues/14045#issuecomment-5626683693)** — ACP session/load succeeds and replays history, but the next session/prompt returns end\_turn with ze…
-- `2026-09-10` Commented on **[anomalyco/opencode#44511](https://github.com/anomalyco/opencode/issues/44511#issuecomment-5626488101)** — v2: redesign filesystem snapshots around mutation epochs
+- `2026-09-11` Commented on **[CherryHQ/cherry-studio#20378](https://github.com/CherryHQ/cherry-studio/pull/20378#issuecomment-5631400699)** — feat(knowledge): accept all recognized text files
+- `2026-09-11` Commented on **[apache/maka#5182](https://github.com/apache/maka/issues/5182#issuecomment-5630424254)** — feat(desktop): move a Session between Maka installations from the app
+- `2026-09-11` Commented on **[LodyAI/Lody#594](https://github.com/LodyAI/Lody/pull/594#discussion_r3986483704)**
+- `2026-09-11` Commented on **[apache/maka#5183](https://github.com/apache/maka/issues/5183#issuecomment-5630353494)** — bug(runtime-host): a transcript page that spans a Turn boundary can exceed the client&#x27;s 256-message…
 <!-- activity:end -->
 
 </details>

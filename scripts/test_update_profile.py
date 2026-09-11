@@ -11,14 +11,15 @@ spec.loader.exec_module(m)
 
 class ProfileTests(unittest.TestCase):
     def test_one_failed_source_keeps_its_previous_content(self):
-        original = '\n'.join(f'<!-- {n}:start -->\nold {n}\n<!-- {n}:end -->' for n in ('workbench', 'upstream', 'notes', 'activity'))
+        original = '\n'.join(f'<!-- {n}:start -->\nold {n}\n<!-- {n}:end -->' for n in ('contributions', 'workbench', 'upstream', 'notes', 'activity'))
         with tempfile.TemporaryDirectory() as directory:
             path = Path(directory) / 'README.md'
             path.write_text(original)
-            with patch.object(m, 'ROOT', Path(directory)), patch.object(m, 'workbench', return_value='new projects'), patch.object(m, 'upstream', side_effect=TimeoutError), patch.object(m, 'notes', return_value='new posts'), patch.object(m, 'activity', return_value='new conversations'):
+            with patch.object(m, 'ROOT', Path(directory)), patch.object(m, 'contributions', side_effect=TimeoutError), patch.object(m, 'workbench', return_value='new projects'), patch.object(m, 'upstream', side_effect=TimeoutError), patch.object(m, 'notes', return_value='new posts'), patch.object(m, 'activity', return_value='new conversations'):
                 self.assertEqual(m.main(), 1)
             result = path.read_text()
             self.assertIn('old upstream', result)
+            self.assertIn('old contributions', result)
             self.assertIn('new projects', result)
             self.assertIn('new posts', result)
 

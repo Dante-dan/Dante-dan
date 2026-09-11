@@ -53,6 +53,12 @@ def workbench():
     return '\n'.join(rows)
 
 
+def contributions():
+    sys.path.insert(0, str(ROOT / "scripts"))
+    from contributions import collect
+    return collect(fetch, ROOT)
+
+
 def upstream():
     query = urllib.parse.quote(f'is:pr author:{USER} -user:{USER} is:public sort:updated-desc')
     prs = json.loads(fetch(f'https://api.github.com/search/issues?q={query}&per_page=5'))
@@ -62,6 +68,12 @@ def upstream():
     for p in prs['items']:
         repo = p['repository_url'].split('/repos/')[1]
         status = 'merged' if p['pull_request'].get('merged_at') else p['state']
+        sources = json.loads((ROOT / 'scripts/contribution-sources.json').read_text())
+        for entry in sources['integrated']:
+            if repo == entry['repo'] and p['number'] == entry['source_pr'] and status == 'closed':
+                integrated = json.loads(fetch(f"https://api.github.com/repos/{repo}/pulls/{entry['via_pr']}"))
+                if integrated.get('merged_at'):
+                    status = 'integrated'
         rows.append(f"- `{status}` **[{clean(repo)}#{p['number']}]({link(p['html_url'])})** — {clean(p['title'], 110)}")
     return '\n'.join(rows)
 
@@ -131,7 +143,7 @@ def main():
     path = ROOT / 'README.md'
     text = path.read_text()
     failed = False
-    for name, loader in [('workbench', workbench), ('upstream', upstream), ('notes', notes), ('activity', activity)]:
+    for name, loader in [('contributions', contributions), ('workbench', workbench), ('upstream', upstream), ('notes', notes), ('activity', activity)]:
         try:
             text = replace_block(text, name, loader())
             print(f'Updated {name}')

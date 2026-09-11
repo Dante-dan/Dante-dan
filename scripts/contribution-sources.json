@@ -1,0 +1,14 @@
+{
+  "logos": {
+    "affaan-m/ECC": {"name": "ECC", "url": "https://raw.githubusercontent.com/affaan-m/ECC/main/assets/ecc-icon.svg"},
+    "CherryHQ/cherry-studio": {"name": "Cherry Studio", "url": "https://raw.githubusercontent.com/CherryHQ/cherry-studio/main/build/icon.png"},
+    "makecindy/cindy": {"name": "Cindy"},
+    "youzan/vant": {"name": "Vant", "url": "https://fastly.jsdelivr.net/npm/@vant/assets/logo.png"}
+  },
+  "integrated": [{
+    "repo": "affaan-m/ECC",
+    "source_pr": 3044,
+    "via_pr": 3071,
+    "commits": ["d3af582bade744680d9c3114c7dd7850f98b4474", "f6501eeeacbfcfaf3f9fe185d4e2ce7097dcf01e"]
+  }]
+}
