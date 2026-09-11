@@ -63,10 +63,10 @@ I write about the process on [dhpie.com](https://dhpie.com).
 <sub>Latest pull requests to other projects</sub>
 
 <!-- upstream:start -->
+- `open` **[CherryHQ/cherry-studio#20378](https://github.com/CherryHQ/cherry-studio/pull/20378)** — feat(knowledge): accept all recognized text files
 - `open` **[LodyAI/Lody#563](https://github.com/LodyAI/Lody/pull/563)** — fix(cli): coalesce overlapping history refreshes
 - `open` **[LodyAI/Lody#577](https://github.com/LodyAI/Lody/pull/577)** — fix: wait for metadata before archive cascade
 - `open` **[CherryHQ/cherry-studio#20353](https://github.com/CherryHQ/cherry-studio/pull/20353)** — fix(ai-runtime): clamp agent output token limit
-- `open` **[CherryHQ/cherry-studio#20378](https://github.com/CherryHQ/cherry-studio/pull/20378)** — feat(knowledge): accept all recognized text files
 - `open` **[multica-ai/multica#8297](https://github.com/multica-ai/multica/pull/8297)** — MUL-7275: fix(skills): normalize Windows archive entry paths
 <!-- upstream:end -->
 
