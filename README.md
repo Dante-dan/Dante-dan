@@ -120,14 +120,14 @@ I write about the process on [dhpie.com](https://dhpie.com).
 
 
 
-<details>
-<summary>A little motion · contribution snake</summary>
-<br />
+### `~/arcade`
+
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Dante-dan/Dante-dan/output/snake-dark.svg" />
-  <img src="https://raw.githubusercontent.com/Dante-dan/Dante-dan/output/snake.svg" alt="Animated contribution snake" width="100%" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Dante-dan/Dante-dan/output/bomberman-contribution-graph-dark.svg" />
+  <img src="https://raw.githubusercontent.com/Dante-dan/Dante-dan/output/bomberman-contribution-graph.svg" alt="Bomberman animates my GitHub contributions" width="100%" />
 </picture>
-</details>
+
+<sub>Bomberman · powered by <a href="https://github.com/abozanona/pacman-contribution-graph">Arcade Contribution Graph</a></sub>
 
 ---
 

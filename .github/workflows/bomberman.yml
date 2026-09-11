@@ -1,4 +1,4 @@
-name: Generate snake animation
+name: Generate Bomberman animation
 
 on:
   schedule: # execute daily
@@ -10,26 +10,29 @@ on:
     branches:
     - main
     paths:
-    - .github/workflows/snake.yml
+    - .github/workflows/bomberman.yml
+
+concurrency:
+  group: contribution-animation
+  cancel-in-progress: false
 
 jobs:
   generate:
     permissions:
       contents: write
     runs-on: ubuntu-latest
-    timeout-minutes: 5
+    timeout-minutes: 20
 
     steps:
-      - name: generate snake.svg
-        uses: Platane/snk/svg-only@d8f6715049803e982ee5ff501b6b9b7d5deeb09b
+      - name: Generate Bomberman contribution graphs
+        uses: abozanona/pacman-contribution-graph@7332e1de7903ab780c3692a4127a59cc13872daa
         with:
           github_user_name: ${{ github.repository_owner }}
-          outputs: |
-            dist/snake.svg
-            dist/snake-dark.svg?palette=github-dark
+          games: bomberman
+          github_token: ${{ github.token }}
 
 
-      - name: push snake.svg to the output branch
+      - name: Publish Bomberman SVGs to the output branch
         uses: crazy-max/ghaction-github-pages@c05ee637ec73429400a359430db8e5629f3f2564
         with:
           target_branch: output

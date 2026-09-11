@@ -1,7 +1,7 @@
 # Profile automation
 
 Daily at 06:23 Asia/Singapore (`22:23 UTC`), or manually from **Actions → Refresh profile**.
-The snake updates at 06:43. GitHub schedules may run late; inactive repositories may have
+Bomberman updates at 06:43 via `bomberman.yml`. GitHub schedules may run late; inactive repositories may have
 scheduled workflows disabled by GitHub after 60 days.
 
 - `workbench`: three most recently pushed public, owned, non-archived repositories; excludes forks and this profile. Descriptions come from repository metadata.
@@ -20,9 +20,9 @@ responses also preserve previous content. Only public data is requested.
 | [GitHub Readme Stats Action](https://github.com/stats-organization/github-readme-stats-action) | Contribution totals; no rank or second language chart |
 | [GitHub Profile Summary Cards](https://github.com/vn7n24fzkq/github-profile-summary-cards) | Commit time distribution, UTC+8; other generated cards are discarded |
 | [lowlighter/metrics](https://github.com/lowlighter/metrics) | Reactions on recent comments |
-| [Platane/snk](https://github.com/Platane/snk) | Optional contribution animation inside a disclosure |
+| [Arcade Contribution Graph](https://github.com/abozanona/pacman-contribution-graph) | Bomberman contribution animation, always visible with light/dark variants |
 
-SVGs are committed to `assets/`; the snake lives on `output`. Light/dark variants follow
+SVGs are committed to `assets/`; Bomberman lives on `output`. Light/dark variants follow
 GitHub's color scheme. `style-cards.py` aligns Summary Cards typography/colors without
 changing its data. The repository-scoped built-in token restricts Metrics' GraphQL repository dataset
 in practice; its language card only counted this profile repository. That misleading
