@@ -41,27 +41,27 @@ I write about the process on [dhpie.com](https://dhpie.com).
 <!-- contributions:start -->
 <sub>Code accepted upstream · last 12 months</sub>
 
-<table>
+<table width="100%">
 <tr>
-<td width="50%" valign="middle"><a href="https://github.com/affaan-m/ECC"><img src="assets/projects/affaan-m--ECC.svg" width="36" height="36" alt="ECC icon" /></a>&nbsp; <a href="https://github.com/affaan-m/ECC"><strong>ECC</strong></a><br /><sub><a href="https://github.com/affaan-m/ECC/commit/d3af582bade744680d9c3114c7dd7850f98b4474">integrated contribution</a> · <a href="https://github.com/affaan-m/ECC/pulls?q=is%3Apr+author%3ADante-dan">all PRs ↗</a></sub></td>
-<td width="50%" valign="middle"><a href="https://github.com/makecindy/cindy"><img src="assets/projects/makecindy--cindy.png" width="36" height="36" alt="Cindy icon" /></a>&nbsp; <a href="https://github.com/makecindy/cindy"><strong>Cindy</strong></a><br /><sub><a href="https://github.com/makecindy/cindy/pull/4219">merged contribution</a> · <a href="https://github.com/makecindy/cindy/pulls?q=is%3Apr+author%3ADante-dan">all PRs ↗</a></sub></td>
+<td width="420" valign="top"><a href="https://github.com/affaan-m/ECC"><img src="assets/projects/affaan-m--ECC.svg" align="left" width="56" height="56" hspace="12" alt="ECC icon" /></a><a href="https://github.com/affaan-m/ECC"><strong>ECC</strong></a><br /><sub><a href="https://github.com/affaan-m/ECC/commit/d3af582bade744680d9c3114c7dd7850f98b4474">integrated contribution</a><br /><a href="https://github.com/affaan-m/ECC/pulls?q=is%3Apr+author%3ADante-dan">all PRs ↗</a></sub></td>
+<td width="420" valign="top"><a href="https://github.com/makecindy/cindy"><img src="assets/projects/makecindy--cindy.png" align="left" width="56" height="56" hspace="12" alt="Cindy icon" /></a><a href="https://github.com/makecindy/cindy"><strong>Cindy</strong></a><br /><sub><a href="https://github.com/makecindy/cindy/pull/4219">merged contribution</a><br /><a href="https://github.com/makecindy/cindy/pulls?q=is%3Apr+author%3ADante-dan">all PRs ↗</a></sub></td>
 </tr>
 <tr>
-<td width="50%" valign="middle"><a href="https://github.com/CherryHQ/cherry-studio"><img src="assets/projects/CherryHQ--cherry-studio.png" width="36" height="36" alt="Cherry Studio icon" /></a>&nbsp; <a href="https://github.com/CherryHQ/cherry-studio"><strong>Cherry Studio</strong></a><br /><sub><a href="https://github.com/CherryHQ/cherry-studio/pull/20267">merged contribution</a> · <a href="https://github.com/CherryHQ/cherry-studio/pulls?q=is%3Apr+author%3ADante-dan">all PRs ↗</a></sub></td>
+<td width="420" valign="top"><a href="https://github.com/CherryHQ/cherry-studio"><img src="assets/projects/CherryHQ--cherry-studio.png" align="left" width="56" height="56" hspace="12" alt="Cherry Studio icon" /></a><a href="https://github.com/CherryHQ/cherry-studio"><strong>Cherry Studio</strong></a><br /><sub><a href="https://github.com/CherryHQ/cherry-studio/pull/20267">merged contribution</a><br /><a href="https://github.com/CherryHQ/cherry-studio/pulls?q=is%3Apr+author%3ADante-dan">all PRs ↗</a></sub></td>
 </tr>
 </table>
 
 <details>
 <summary>Earlier contributions</summary>
 
-<table>
+<table width="100%">
 <tr>
-<td width="50%" valign="middle"><a href="https://github.com/cpsoinos/nuxt-svgo"><img src="assets/projects/cpsoinos--nuxt-svgo.png" width="36" height="36" alt="nuxt-svgo icon" /></a>&nbsp; <a href="https://github.com/cpsoinos/nuxt-svgo"><strong>nuxt-svgo</strong></a><br /><sub><a href="https://github.com/cpsoinos/nuxt-svgo/pull/201">merged contribution</a> · <a href="https://github.com/cpsoinos/nuxt-svgo/pulls?q=is%3Apr+author%3ADante-dan">all PRs ↗</a></sub></td>
-<td width="50%" valign="middle"><a href="https://github.com/GoogleChromeLabs/uach-retrofill"><img src="assets/projects/GoogleChromeLabs--uach-retrofill.png" width="36" height="36" alt="uach-retrofill icon" /></a>&nbsp; <a href="https://github.com/GoogleChromeLabs/uach-retrofill"><strong>uach-retrofill</strong></a><br /><sub><a href="https://github.com/GoogleChromeLabs/uach-retrofill/pull/43">merged contribution</a> · <a href="https://github.com/GoogleChromeLabs/uach-retrofill/pulls?q=is%3Apr+author%3ADante-dan">all PRs ↗</a></sub></td>
+<td width="420" valign="top"><a href="https://github.com/cpsoinos/nuxt-svgo"><img src="assets/projects/cpsoinos--nuxt-svgo.png" align="left" width="56" height="56" hspace="12" alt="nuxt-svgo icon" /></a><a href="https://github.com/cpsoinos/nuxt-svgo"><strong>nuxt-svgo</strong></a><br /><sub><a href="https://github.com/cpsoinos/nuxt-svgo/pull/201">merged contribution</a><br /><a href="https://github.com/cpsoinos/nuxt-svgo/pulls?q=is%3Apr+author%3ADante-dan">all PRs ↗</a></sub></td>
+<td width="420" valign="top"><a href="https://github.com/GoogleChromeLabs/uach-retrofill"><img src="assets/projects/GoogleChromeLabs--uach-retrofill.png" align="left" width="56" height="56" hspace="12" alt="uach-retrofill icon" /></a><a href="https://github.com/GoogleChromeLabs/uach-retrofill"><strong>uach-retrofill</strong></a><br /><sub><a href="https://github.com/GoogleChromeLabs/uach-retrofill/pull/43">merged contribution</a><br /><a href="https://github.com/GoogleChromeLabs/uach-retrofill/pulls?q=is%3Apr+author%3ADante-dan">all PRs ↗</a></sub></td>
 </tr>
 <tr>
-<td width="50%" valign="middle"><a href="https://github.com/frejs/fre"><img src="assets/projects/frejs--fre.png" width="36" height="36" alt="fre icon" /></a>&nbsp; <a href="https://github.com/frejs/fre"><strong>fre</strong></a><br /><sub><a href="https://github.com/frejs/fre/pull/264">merged contribution</a> · <a href="https://github.com/frejs/fre/pulls?q=is%3Apr+author%3ADante-dan">all PRs ↗</a></sub></td>
-<td width="50%" valign="middle"><a href="https://github.com/youzan/vant"><img src="assets/projects/youzan--vant.png" width="36" height="36" alt="Vant icon" /></a>&nbsp; <a href="https://github.com/youzan/vant"><strong>Vant</strong></a><br /><sub><a href="https://github.com/youzan/vant/pull/8387">merged contribution</a> · <a href="https://github.com/youzan/vant/pulls?q=is%3Apr+author%3ADante-dan">all PRs ↗</a></sub></td>
+<td width="420" valign="top"><a href="https://github.com/frejs/fre"><img src="assets/projects/frejs--fre.png" align="left" width="56" height="56" hspace="12" alt="fre icon" /></a><a href="https://github.com/frejs/fre"><strong>fre</strong></a><br /><sub><a href="https://github.com/frejs/fre/pull/264">merged contribution</a><br /><a href="https://github.com/frejs/fre/pulls?q=is%3Apr+author%3ADante-dan">all PRs ↗</a></sub></td>
+<td width="420" valign="top"><a href="https://github.com/youzan/vant"><img src="assets/projects/youzan--vant.png" align="left" width="56" height="56" hspace="12" alt="Vant icon" /></a><a href="https://github.com/youzan/vant"><strong>Vant</strong></a><br /><sub><a href="https://github.com/youzan/vant/pull/8387">merged contribution</a><br /><a href="https://github.com/youzan/vant/pulls?q=is%3Apr+author%3ADante-dan">all PRs ↗</a></sub></td>
 </tr>
 </table>
 

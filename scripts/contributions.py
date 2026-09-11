@@ -16,7 +16,7 @@ def render(projects, now=None):
         (recent if stamp >= cutoff else older).append(p)
 
     def cards(items):
-        rows = ['<table>']
+        rows = ['<table width="100%">']
         for i in range(0, len(items), 2):
             rows.append('<tr>')
             for p in items[i:i + 2]:
@@ -25,7 +25,7 @@ def render(projects, now=None):
                 icon = html.escape(p['icon'], quote=True)
                 evidence = html.escape(p['evidence'], quote=True)
                 history = 'https://github.com/' + repo + '/pulls?q=is%3Apr+author%3ADante-dan'
-                rows.append(f'<td width="50%" valign="middle"><a href="https://github.com/{repo}"><img src="{icon}" width="36" height="36" alt="{name} icon" /></a>&nbsp; <a href="https://github.com/{repo}"><strong>{name}</strong></a><br /><sub><a href="{evidence}">{p["status"]} contribution</a> · <a href="{history}">all PRs ↗</a></sub></td>')
+                rows.append(f'<td width="420" valign="top"><a href="https://github.com/{repo}"><img src="{icon}" align="left" width="56" height="56" hspace="12" alt="{name} icon" /></a><a href="https://github.com/{repo}"><strong>{name}</strong></a><br /><sub><a href="{evidence}">{p["status"]} contribution</a><br /><a href="{history}">all PRs ↗</a></sub></td>')
             rows.append('</tr>')
         return '\n'.join(rows + ['</table>'])
 
