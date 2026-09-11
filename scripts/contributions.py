@@ -23,7 +23,7 @@ def render(projects, now=None):
             icon = html.escape(p['icon'], quote=True)
             evidence = html.escape(p['evidence'], quote=True)
             history = 'https://github.com/' + repo + '/pulls?q=is%3Apr+author%3ADante-dan'
-            rows.append(f'<table align="left" width="390"><tr><td width="64" valign="middle"><a href="https://github.com/{repo}"><img src="{icon}" width="56" height="56" alt="{name} icon" /></a></td><td width="300" valign="middle"><a href="https://github.com/{repo}"><strong>{name}</strong></a><br /><sub><a href="{evidence}">{p["status"]} contribution</a><br /><a href="{history}">all PRs ↗</a></sub></td></tr></table>')
+            rows.append(f'<table align="left" width="270"><tr><td width="64" valign="middle"><a href="https://github.com/{repo}"><img src="{icon}" width="56" height="56" alt="{name} icon" /></a></td><td width="200" valign="middle"><a href="https://github.com/{repo}"><strong>{name}</strong></a><br /><sub><a href="{evidence}">{p["status"]} contribution</a><br /><a href="{history}">all PRs ↗</a></sub></td></tr></table>')
         return '\n'.join(rows) + '\n<br clear="all" />'
 
     body = '<sub>Code accepted upstream · last 12 months</sub>\n\n'

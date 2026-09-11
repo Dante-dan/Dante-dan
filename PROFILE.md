@@ -44,7 +44,7 @@ Validate: `python3 -m unittest discover -s scripts -p 'test_*.py'`.
 
 ## Accepted contribution shelf
 
-The existing daily Action now refreshes `contributions`. Wrapping two-column project cards (one per row on narrow screens)
+The existing daily Action now refreshes `contributions`. Wrapping fixed-width project cards (three, two or one per row as space allows)
 sit above the latest PR feed, following the restrained linked typography of
 [antfu](https://github.com/antfu/antfu) and generated sections of
 [simonw](https://github.com/simonw/simonw). Each project links to its repository,
@@ -71,3 +71,6 @@ custom image sources, while fallback avatars come from the GitHub repository API
 Cards use independent left-aligned tables and a clear break, preserving real links
 within GitHub sanitization. Icon and text cells both use vertical middle alignment.
 Verified on the live profile at desktop width and a 390px viewport.
+
+Each card targets 270px and preserves independently clickable project and contribution
+links. Cards wrap naturally rather than stretching to fill every row.
