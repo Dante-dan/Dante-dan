@@ -44,8 +44,8 @@ Validate: `python3 -m unittest discover -s scripts -p 'test_*.py'`.
 
 ## Accepted contribution shelf
 
-The existing daily Action now refreshes `contributions`. Three-column linked project
-icons sit above the latest PR feed, following the restrained linked typography of
+The existing daily Action now refreshes `contributions`. Wrapping two-column project cards (one per row on narrow screens)
+sit above the latest PR feed, following the restrained linked typography of
 [antfu](https://github.com/antfu/antfu) and generated sections of
 [simonw](https://github.com/simonw/simonw). Each project links to its repository,
 accepted contribution evidence, and the author's PR history.
@@ -67,3 +67,7 @@ source/commit mapping rather than guessing from comments. Conventional merged PR
 are automatic. Logos are stored in `assets/projects`; official project assets are
 preferred, otherwise the repository owner's GitHub avatar is used. The JSON records
 custom image sources, while fallback avatars come from the GitHub repository API.
+
+Cards use independent left-aligned tables and a clear break, preserving real links
+within GitHub sanitization. Icon and text cells both use vertical middle alignment.
+Verified on the live profile at desktop width and a 390px viewport.
