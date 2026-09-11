@@ -16,18 +16,15 @@ def render(projects, now=None):
         (recent if stamp >= cutoff else older).append(p)
 
     def cards(items):
-        rows = ['<table width="100%">']
-        for i in range(0, len(items), 3):
-            rows.append('<tr>')
-            for p in items[i:i + 3]:
-                repo = html.escape(p['repo'], quote=True)
-                name = html.escape(p.get('name', p['repo'].split('/')[-1]))
-                icon = html.escape(p['icon'], quote=True)
-                evidence = html.escape(p['evidence'], quote=True)
-                history = 'https://github.com/' + repo + '/pulls?q=is%3Apr+author%3ADante-dan'
-                rows.append(f'<td width="280" valign="top"><a href="https://github.com/{repo}"><img src="{icon}" align="left" width="56" height="56" hspace="12" alt="{name} icon" /></a><a href="https://github.com/{repo}"><strong>{name}</strong></a><br /><sub><a href="{evidence}">{p["status"]} contribution</a><br /><a href="{history}">all PRs ↗</a></sub></td>')
-            rows.append('</tr>')
-        return '\n'.join(rows + ['</table>'])
+        rows = []
+        for p in items:
+            repo = html.escape(p['repo'], quote=True)
+            name = html.escape(p.get('name', p['repo'].split('/')[-1]))
+            icon = html.escape(p['icon'], quote=True)
+            evidence = html.escape(p['evidence'], quote=True)
+            history = 'https://github.com/' + repo + '/pulls?q=is%3Apr+author%3ADante-dan'
+            rows.append(f'<table align="left" width="390"><tr><td width="64" valign="middle"><a href="https://github.com/{repo}"><img src="{icon}" width="56" height="56" alt="{name} icon" /></a></td><td width="300" valign="middle"><a href="https://github.com/{repo}"><strong>{name}</strong></a><br /><sub><a href="{evidence}">{p["status"]} contribution</a><br /><a href="{history}">all PRs ↗</a></sub></td></tr></table>')
+        return '\n'.join(rows) + '\n<br clear="all" />'
 
     body = '<sub>Code accepted upstream · last 12 months</sub>\n\n'
     body += cards(recent) if recent else 'No accepted code contributions in the last 12 months.'
