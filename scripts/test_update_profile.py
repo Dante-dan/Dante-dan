@@ -10,7 +10,7 @@ spec.loader.exec_module(m)
 
 
 class ProfileTests(unittest.TestCase):
-    def test_upstream_includes_all_pages_and_uses_two_week_window(self):
+    def test_upstream_includes_all_pages_and_filters_one_week_statuses(self):
         import json
         from datetime import datetime, timezone
         from urllib.parse import unquote
@@ -25,12 +25,13 @@ class ProfileTests(unittest.TestCase):
         with patch.object(m, 'fetch', side_effect=[json.dumps(p).encode() for p in pages]) as fetch:
             result = m.upstream(datetime(2026, 9, 11, tzinfo=timezone.utc))
         self.assertEqual(fetch.call_count, 2)
-        self.assertIn('updated:>=2026-08-28T00:00:00Z', unquote(fetch.call_args_list[0].args[0]))
+        self.assertIn('updated:>=2026-09-04T00:00:00Z', unquote(fetch.call_args_list[0].args[0]))
         self.assertIn('page=2', fetch.call_args_list[1].args[0])
-        self.assertIn('103 PRs', result)
-        for state in ('open', 'draft', 'merged', 'closed'):
+        self.assertIn('101 PRs', result)
+        for state in ('open', 'merged'):
             self.assertIn(f'`{state}`', result)
-        self.assertIn('team/project#103', result)
+        self.assertNotIn('team/project#102', result)
+        self.assertNotIn('team/project#103', result)
 
     def test_upstream_does_not_publish_partial_search_results(self):
         import json

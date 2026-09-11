@@ -60,7 +60,7 @@ def contributions():
 
 
 def upstream(now=None):
-    cutoff = (now or datetime.now(timezone.utc)) - timedelta(days=14)
+    cutoff = (now or datetime.now(timezone.utc)) - timedelta(days=7)
     query = urllib.parse.quote(
         f'is:pr author:{USER} -user:{USER} is:public '
         f'updated:>={cutoff.strftime("%Y-%m-%dT%H:%M:%SZ")} sort:updated-desc'
@@ -92,12 +92,14 @@ def upstream(now=None):
                 integrated = json.loads(fetch(f"https://api.github.com/repos/{repo}/pulls/{entry['via_pr']}"))
                 if integrated.get('merged_at'):
                     status = 'integrated'
+        if status not in {'open', 'merged', 'integrated'}:
+            continue
         counts[status] = counts.get(status, 0) + 1
         rows.append(f"| `{status}` | **[{clean(repo)}#{p['number']}]({link(p['html_url'])})** — {clean(p['title'], 110)} | {p['updated_at'][:10]} |")
     if not rows:
-        return 'No public upstream PRs updated in the last 14 days.'
+        return 'No public upstream PRs updated in the last 7 days.'
     totals = ' · '.join(f'{counts[state]} {state}' for state in
-                        ('open', 'draft', 'merged', 'integrated', 'closed') if counts.get(state))
+                        ('open', 'merged', 'integrated') if counts.get(state))
     return (f'<sub>{len(rows)} PRs · {totals}</sub>\n\n'
             '| Status | Pull request | Updated (UTC) |\n'
             '| :--- | :--- | :--- |\n' + '\n'.join(rows))

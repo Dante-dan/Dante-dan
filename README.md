@@ -61,10 +61,10 @@ I write about the process on [dhpie.com](https://dhpie.com).
 
 ### `~/upstream`
 
-<sub>Public upstream PRs updated in the last 14 days · refreshed daily</sub>
+<sub>Public upstream PRs updated in the last 7 days · refreshed daily</sub>
 
 <!-- upstream:start -->
-<sub>27 PRs · 18 open · 6 merged · 1 integrated · 2 closed</sub>
+<sub>25 PRs · 18 open · 6 merged · 1 integrated</sub>
 
 | Status | Pull request | Updated (UTC) |
 | :--- | :--- | :--- |
@@ -90,11 +90,9 @@ I write about the process on [dhpie.com](https://dhpie.com).
 | `merged` | **[makecindy/cindy#4185](https://github.com/makecindy/cindy/pull/4185)** — test(pi): wait for follow-up command observation | 2026-09-10 |
 | `open` | **[CherryHQ/cherry-studio#20321](https://github.com/CherryHQ/cherry-studio/pull/20321)** — fix(chat-errors): normalize non-error throws | 2026-09-10 |
 | `open` | **[CherryHQ/cherry-studio#20320](https://github.com/CherryHQ/cherry-studio/pull/20320)** — fix(work): keep pinned tasks in agent grouping | 2026-09-10 |
-| `closed` | **[LodyAI/Lody#564](https://github.com/LodyAI/Lody/pull/564)** — feat: refresh subscription quota before sessions | 2026-09-10 |
 | `open` | **[CherryHQ/cherry-studio#20281](https://github.com/CherryHQ/cherry-studio/pull/20281)** — fix(ai-core): repair restored tool result names | 2026-09-09 |
 | `merged` | **[makecindy/cindy#4173](https://github.com/makecindy/cindy/pull/4173)** — fix(auth): wait for owner transition before login initialization | 2026-09-09 |
 | `merged` | **[CherryHQ/cherry-studio#20267](https://github.com/CherryHQ/cherry-studio/pull/20267)** — fix(pi): preserve OpenCode session headers | 2026-09-09 |
-| `closed` | **[earendil-works/pi#8908](https://github.com/earendil-works/pi/pull/8908)** — fix(coding-agent): preserve compaction queued prompts | 2026-08-31 |
 <!-- upstream:end -->
 
 <details>
