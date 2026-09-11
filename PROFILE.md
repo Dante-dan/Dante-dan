@@ -44,7 +44,7 @@ Validate: `python3 -m unittest discover -s scripts -p 'test_*.py'`.
 
 ## Accepted contribution shelf
 
-The existing daily Action now refreshes `contributions`. Two-column linked project
+The existing daily Action now refreshes `contributions`. Three-column linked project
 icons sit above the latest PR feed, following the restrained linked typography of
 [antfu](https://github.com/antfu/antfu) and generated sections of
 [simonw](https://github.com/simonw/simonw). Each project links to its repository,

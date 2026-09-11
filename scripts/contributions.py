@@ -17,15 +17,15 @@ def render(projects, now=None):
 
     def cards(items):
         rows = ['<table width="100%">']
-        for i in range(0, len(items), 2):
+        for i in range(0, len(items), 3):
             rows.append('<tr>')
-            for p in items[i:i + 2]:
+            for p in items[i:i + 3]:
                 repo = html.escape(p['repo'], quote=True)
                 name = html.escape(p.get('name', p['repo'].split('/')[-1]))
                 icon = html.escape(p['icon'], quote=True)
                 evidence = html.escape(p['evidence'], quote=True)
                 history = 'https://github.com/' + repo + '/pulls?q=is%3Apr+author%3ADante-dan'
-                rows.append(f'<td width="420" valign="top"><a href="https://github.com/{repo}"><img src="{icon}" align="left" width="56" height="56" hspace="12" alt="{name} icon" /></a><a href="https://github.com/{repo}"><strong>{name}</strong></a><br /><sub><a href="{evidence}">{p["status"]} contribution</a><br /><a href="{history}">all PRs ↗</a></sub></td>')
+                rows.append(f'<td width="280" valign="top"><a href="https://github.com/{repo}"><img src="{icon}" align="left" width="56" height="56" hspace="12" alt="{name} icon" /></a><a href="https://github.com/{repo}"><strong>{name}</strong></a><br /><sub><a href="{evidence}">{p["status"]} contribution</a><br /><a href="{history}">all PRs ↗</a></sub></td>')
             rows.append('</tr>')
         return '\n'.join(rows + ['</table>'])
 
