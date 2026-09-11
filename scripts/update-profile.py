@@ -59,23 +59,48 @@ def contributions():
     return collect(fetch, ROOT)
 
 
-def upstream():
-    query = urllib.parse.quote(f'is:pr author:{USER} -user:{USER} is:public sort:updated-desc')
-    prs = json.loads(fetch(f'https://api.github.com/search/issues?q={query}&per_page=5'))
-    if prs.get('incomplete_results'):
-        raise ValueError('Incomplete GitHub search')
-    rows = []
-    for p in prs['items']:
+def upstream(now=None):
+    cutoff = (now or datetime.now(timezone.utc)) - timedelta(days=14)
+    query = urllib.parse.quote(
+        f'is:pr author:{USER} -user:{USER} is:public '
+        f'updated:>={cutoff.strftime("%Y-%m-%dT%H:%M:%SZ")} sort:updated-desc'
+    )
+    sources = json.loads((ROOT / 'scripts/contribution-sources.json').read_text())
+    items, seen = [], set()
+    for page in range(1, 11):
+        result = json.loads(fetch(
+            f'https://api.github.com/search/issues?q={query}&per_page=100&page={page}'
+        ))
+        if result.get('incomplete_results') or result['total_count'] > 1000:
+            raise ValueError('Incomplete GitHub search')
+        for pr in result['items']:
+            if pr['html_url'] not in seen:
+                seen.add(pr['html_url'])
+                items.append(pr)
+        if page * 100 >= result['total_count']:
+            break
+        if not result['items']:
+            raise ValueError('Missing GitHub search page')
+    rows, counts = [], {}
+    for p in items:
         repo = p['repository_url'].split('/repos/')[1]
         status = 'merged' if p['pull_request'].get('merged_at') else p['state']
-        sources = json.loads((ROOT / 'scripts/contribution-sources.json').read_text())
+        if status == 'open' and p.get('draft'):
+            status = 'draft'
         for entry in sources['integrated']:
             if repo == entry['repo'] and p['number'] == entry['source_pr'] and status == 'closed':
                 integrated = json.loads(fetch(f"https://api.github.com/repos/{repo}/pulls/{entry['via_pr']}"))
                 if integrated.get('merged_at'):
                     status = 'integrated'
-        rows.append(f"- `{status}` **[{clean(repo)}#{p['number']}]({link(p['html_url'])})** — {clean(p['title'], 110)}")
-    return '\n'.join(rows)
+        counts[status] = counts.get(status, 0) + 1
+        rows.append(f"| `{status}` | **[{clean(repo)}#{p['number']}]({link(p['html_url'])})** — {clean(p['title'], 110)} | {p['updated_at'][:10]} |")
+    if not rows:
+        return 'No public upstream PRs updated in the last 14 days.'
+    totals = ' · '.join(f'{counts[state]} {state}' for state in
+                        ('open', 'draft', 'merged', 'integrated', 'closed') if counts.get(state))
+    return (f'<sub>{len(rows)} PRs · {totals}</sub>\n\n'
+            '| Status | Pull request | Updated (UTC) |\n'
+            '| :--- | :--- | :--- |\n' + '\n'.join(rows))
 
 
 def notes():

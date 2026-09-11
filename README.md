@@ -60,14 +60,40 @@ I write about the process on [dhpie.com](https://dhpie.com).
 
 ### `~/upstream`
 
-<sub>Latest pull requests to other projects</sub>
+<sub>Public upstream PRs updated in the last 14 days · refreshed daily</sub>
 
 <!-- upstream:start -->
-- `open` **[CherryHQ/cherry-studio#20378](https://github.com/CherryHQ/cherry-studio/pull/20378)** — feat(knowledge): accept all recognized text files
-- `open` **[LodyAI/Lody#563](https://github.com/LodyAI/Lody/pull/563)** — fix(cli): coalesce overlapping history refreshes
-- `open` **[LodyAI/Lody#577](https://github.com/LodyAI/Lody/pull/577)** — fix: wait for metadata before archive cascade
-- `open` **[CherryHQ/cherry-studio#20353](https://github.com/CherryHQ/cherry-studio/pull/20353)** — fix(ai-runtime): clamp agent output token limit
-- `open` **[multica-ai/multica#8297](https://github.com/multica-ai/multica/pull/8297)** — MUL-7275: fix(skills): normalize Windows archive entry paths
+<sub>27 PRs · 18 open · 6 merged · 1 integrated · 2 closed</sub>
+
+| Status | Pull request | Updated (UTC) |
+| :--- | :--- | :--- |
+| `merged` | **[apache/maka#5188](https://github.com/apache/maka/pull/5188)** — fix(runtime-host): respect transcript continuation boundaries | 2026-09-11 |
+| `merged` | **[CherryHQ/cherry-studio#20319](https://github.com/CherryHQ/cherry-studio/pull/20319)** — fix(quick-assistant): preserve dark surface on Windows | 2026-09-11 |
+| `open` | **[LodyAI/Lody#563](https://github.com/LodyAI/Lody/pull/563)** — fix(cli): coalesce overlapping history refreshes | 2026-09-11 |
+| `open` | **[LodyAI/acp-extension-dsh#15](https://github.com/LodyAI/acp-extension-dsh/pull/15)** — feat: support provider-qualified DSH routes | 2026-09-11 |
+| `open` | **[multica-ai/multica#8297](https://github.com/multica-ai/multica/pull/8297)** — MUL-7275: fix(skills): normalize Windows archive entry paths | 2026-09-11 |
+| `open` | **[CherryHQ/cherry-studio#20378](https://github.com/CherryHQ/cherry-studio/pull/20378)** — feat(knowledge): accept all recognized text files | 2026-09-11 |
+| `open` | **[LodyAI/Lody#577](https://github.com/LodyAI/Lody/pull/577)** — fix: wait for metadata before archive cascade | 2026-09-11 |
+| `open` | **[CherryHQ/cherry-studio#20353](https://github.com/CherryHQ/cherry-studio/pull/20353)** — fix(ai-runtime): clamp agent output token limit | 2026-09-11 |
+| `open` | **[makecindy/cindy#4297](https://github.com/makecindy/cindy/pull/4297)** — fix(desktop): render automation settings before status probes | 2026-09-11 |
+| `open` | **[CherryHQ/cherry-studio#20386](https://github.com/CherryHQ/cherry-studio/pull/20386)** — fix(new-api): restore Gemini web search through relays | 2026-09-11 |
+| `open` | **[CherryHQ/cherry-studio#20322](https://github.com/CherryHQ/cherry-studio/pull/20322)** — fix(agent): honor configured Pi shell path | 2026-09-11 |
+| `open` | **[LodyAI/Lody#594](https://github.com/LodyAI/Lody/pull/594)** — fix(electron): declare OSS macOS local network usage | 2026-09-11 |
+| `open` | **[affaan-m/ECC#3076](https://github.com/affaan-m/ECC/pull/3076)** — fix(hooks): support Windows linter paths and ESLint 9 | 2026-09-11 |
+| `open` | **[LodyAI/Lody#587](https://github.com/LodyAI/Lody/pull/587)** — fix(cli): list remote machine projects without daemon | 2026-09-10 |
+| `integrated` | **[affaan-m/ECC#3044](https://github.com/affaan-m/ECC/pull/3044)** — fix(install): handle missing Windows settings device IDs safely | 2026-09-10 |
+| `open` | **[browser-use/browser-use#5771](https://github.com/browser-use/browser-use/pull/5771)** — fix(browser): clean up local browser process trees | 2026-09-10 |
+| `merged` | **[makecindy/cindy#4219](https://github.com/makecindy/cindy/pull/4219)** — fix(mobile): open managed Markdown video links | 2026-09-10 |
+| `open` | **[CherryHQ/cherry-studio#20349](https://github.com/CherryHQ/cherry-studio/pull/20349)** — fix(data-api): avoid overlapping timed-out reads | 2026-09-10 |
+| `open` | **[CherryHQ/cherry-studio#20323](https://github.com/CherryHQ/cherry-studio/pull/20323)** — fix: accept sparse OpenAI response lifecycle events | 2026-09-10 |
+| `merged` | **[makecindy/cindy#4185](https://github.com/makecindy/cindy/pull/4185)** — test(pi): wait for follow-up command observation | 2026-09-10 |
+| `open` | **[CherryHQ/cherry-studio#20321](https://github.com/CherryHQ/cherry-studio/pull/20321)** — fix(chat-errors): normalize non-error throws | 2026-09-10 |
+| `open` | **[CherryHQ/cherry-studio#20320](https://github.com/CherryHQ/cherry-studio/pull/20320)** — fix(work): keep pinned tasks in agent grouping | 2026-09-10 |
+| `closed` | **[LodyAI/Lody#564](https://github.com/LodyAI/Lody/pull/564)** — feat: refresh subscription quota before sessions | 2026-09-10 |
+| `open` | **[CherryHQ/cherry-studio#20281](https://github.com/CherryHQ/cherry-studio/pull/20281)** — fix(ai-core): repair restored tool result names | 2026-09-09 |
+| `merged` | **[makecindy/cindy#4173](https://github.com/makecindy/cindy/pull/4173)** — fix(auth): wait for owner transition before login initialization | 2026-09-09 |
+| `merged` | **[CherryHQ/cherry-studio#20267](https://github.com/CherryHQ/cherry-studio/pull/20267)** — fix(pi): preserve OpenCode session headers | 2026-09-09 |
+| `closed` | **[earendil-works/pi#8908](https://github.com/earendil-works/pi/pull/8908)** — fix(coding-agent): preserve compaction queued prompts | 2026-08-31 |
 <!-- upstream:end -->
 
 <details>

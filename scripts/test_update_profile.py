@@ -10,6 +10,36 @@ spec.loader.exec_module(m)
 
 
 class ProfileTests(unittest.TestCase):
+    def test_upstream_includes_all_pages_and_uses_two_week_window(self):
+        import json
+        from datetime import datetime, timezone
+        from urllib.parse import unquote
+        def pr(number, state='open', merged=False, draft=False):
+            return dict(number=number, state=state, draft=draft,
+                        pull_request={'merged_at': '2026-09-10T00:00:00Z' if merged else None},
+                        repository_url='https://api.github.com/repos/team/project',
+                        html_url=f'https://github.com/team/project/pull/{number}',
+                        title=f'Change {number}', updated_at='2026-09-11T00:00:00Z')
+        pages = [dict(total_count=103, items=[pr(n) for n in range(1, 101)]),
+                 dict(total_count=103, items=[pr(101, 'closed', True), pr(102, 'closed'), pr(103, draft=True)])]
+        with patch.object(m, 'fetch', side_effect=[json.dumps(p).encode() for p in pages]) as fetch:
+            result = m.upstream(datetime(2026, 9, 11, tzinfo=timezone.utc))
+        self.assertEqual(fetch.call_count, 2)
+        self.assertIn('updated:>=2026-08-28T00:00:00Z', unquote(fetch.call_args_list[0].args[0]))
+        self.assertIn('page=2', fetch.call_args_list[1].args[0])
+        self.assertIn('103 PRs', result)
+        for state in ('open', 'draft', 'merged', 'closed'):
+            self.assertIn(f'`{state}`', result)
+        self.assertIn('team/project#103', result)
+
+    def test_upstream_does_not_publish_partial_search_results(self):
+        import json
+        for response in [dict(total_count=1, incomplete_results=True, items=[]),
+                         dict(total_count=1001, items=[])]:
+            with patch.object(m, 'fetch', return_value=json.dumps(response).encode()):
+                with self.assertRaises(ValueError):
+                    m.upstream()
+
     def test_one_failed_source_keeps_its_previous_content(self):
         original = '\n'.join(f'<!-- {n}:start -->\nold {n}\n<!-- {n}:end -->' for n in ('contributions', 'workbench', 'upstream', 'notes', 'activity'))
         with tempfile.TemporaryDirectory() as directory:
