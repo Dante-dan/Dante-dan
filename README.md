@@ -64,10 +64,15 @@ I write about the process on [dhpie.com](https://dhpie.com).
 <sub>Public upstream PRs updated in the last 7 days · refreshed daily</sub>
 
 <!-- upstream:start -->
-<sub>25 PRs · 18 open · 6 merged · 1 integrated</sub>
+<sub>28 PRs · 21 open · 6 merged · 1 integrated</sub>
 
 | Status | Pull request | Updated (UTC) |
 | :--- | :--- | :--- |
+| `open` | **[multica-ai/multica#8330](https://github.com/multica-ai/multica/pull/8330)** — fix(agents): version skill-only updates | 2026-09-11 |
+| `open` | **[apache/maka#5202](https://github.com/apache/maka/pull/5202)** — fix(desktop): update Windows taskbar app icon | 2026-09-11 |
+| `open` | **[LodyAI/Lody#621](https://github.com/LodyAI/Lody/pull/621)** — feat(components): show agent icons in session rows | 2026-09-11 |
+| `open` | **[LodyAI/Lody#594](https://github.com/LodyAI/Lody/pull/594)** — fix(electron): declare OSS macOS local network usage | 2026-09-11 |
+| `open` | **[makecindy/cindy#4297](https://github.com/makecindy/cindy/pull/4297)** — fix(desktop): render automation settings before status probes | 2026-09-11 |
 | `merged` | **[apache/maka#5188](https://github.com/apache/maka/pull/5188)** — fix(runtime-host): respect transcript continuation boundaries | 2026-09-11 |
 | `merged` | **[CherryHQ/cherry-studio#20319](https://github.com/CherryHQ/cherry-studio/pull/20319)** — fix(quick-assistant): preserve dark surface on Windows | 2026-09-11 |
 | `open` | **[LodyAI/Lody#563](https://github.com/LodyAI/Lody/pull/563)** — fix(cli): coalesce overlapping history refreshes | 2026-09-11 |
@@ -76,10 +81,8 @@ I write about the process on [dhpie.com](https://dhpie.com).
 | `open` | **[CherryHQ/cherry-studio#20378](https://github.com/CherryHQ/cherry-studio/pull/20378)** — feat(knowledge): accept all recognized text files | 2026-09-11 |
 | `open` | **[LodyAI/Lody#577](https://github.com/LodyAI/Lody/pull/577)** — fix: wait for metadata before archive cascade | 2026-09-11 |
 | `open` | **[CherryHQ/cherry-studio#20353](https://github.com/CherryHQ/cherry-studio/pull/20353)** — fix(ai-runtime): clamp agent output token limit | 2026-09-11 |
-| `open` | **[makecindy/cindy#4297](https://github.com/makecindy/cindy/pull/4297)** — fix(desktop): render automation settings before status probes | 2026-09-11 |
 | `open` | **[CherryHQ/cherry-studio#20386](https://github.com/CherryHQ/cherry-studio/pull/20386)** — fix(new-api): restore Gemini web search through relays | 2026-09-11 |
 | `open` | **[CherryHQ/cherry-studio#20322](https://github.com/CherryHQ/cherry-studio/pull/20322)** — fix(agent): honor configured Pi shell path | 2026-09-11 |
-| `open` | **[LodyAI/Lody#594](https://github.com/LodyAI/Lody/pull/594)** — fix(electron): declare OSS macOS local network usage | 2026-09-11 |
 | `open` | **[affaan-m/ECC#3076](https://github.com/affaan-m/ECC/pull/3076)** — fix(hooks): support Windows linter paths and ESLint 9 | 2026-09-11 |
 | `open` | **[LodyAI/Lody#587](https://github.com/LodyAI/Lody/pull/587)** — fix(cli): list remote machine projects without daemon | 2026-09-10 |
 | `integrated` | **[affaan-m/ECC#3044](https://github.com/affaan-m/ECC/pull/3044)** — fix(install): handle missing Windows settings device IDs safely | 2026-09-10 |
@@ -99,10 +102,10 @@ I write about the process on [dhpie.com](https://dhpie.com).
 <summary>Recent conversations · issues, comments &amp; reviews</summary>
 
 <!-- activity:start -->
-- `2026-09-11` Commented on **[multica-ai/multica#8297](https://github.com/multica-ai/multica/pull/8297#issuecomment-5631968747)** — MUL-7275: fix(skills): normalize Windows archive entry paths
-- `2026-09-11` Commented on **[CherryHQ/cherry-studio#20378](https://github.com/CherryHQ/cherry-studio/pull/20378#issuecomment-5631400699)** — feat(knowledge): accept all recognized text files
-- `2026-09-11` Commented on **[apache/maka#5182](https://github.com/apache/maka/issues/5182#issuecomment-5630424254)** — feat(desktop): move a Session between Maka installations from the app
-- `2026-09-11` Commented on **[LodyAI/Lody#594](https://github.com/LodyAI/Lody/pull/594#discussion_r3986483704)**
+- `2026-09-11` Commented on **[langchain-ai/langgraph#8861](https://github.com/langchain-ai/langgraph/issues/8861#issuecomment-5641778622)** — test: test\_error\_handler\_resumes\_after\_crash\_multiple\_nodes fails only in the full suite (order-dep…
+- `2026-09-11` Commented on **[earendil-works/pi#9205](https://github.com/earendil-works/pi/issues/9205#issuecomment-5640916725)** — examples/rpc-extension-ui.ts passes non-existent --no-extension flag
+- `2026-09-11` Commented on **[earendil-works/pi#7658](https://github.com/earendil-works/pi/issues/7658#issuecomment-5639932164)** — Extension API for persisting API-key credentials (auth.json)
+- `2026-09-11` Commented on **[earendil-works/pi#5323](https://github.com/earendil-works/pi/issues/5323#issuecomment-5639861847)** — Improve Vertex + GCP metadata server support
 <!-- activity:end -->
 
 </details>
@@ -114,10 +117,10 @@ I write about the process on [dhpie.com](https://dhpie.com).
 <sub>Latest writing from [dhpie.com](https://dhpie.com)</sub>
 
 <!-- notes:start -->
+- [开源贡献日报 · 2026-09-11](https://dhpie.com/posts/cn/open-source-daily-2026-09-11)
 - [开源贡献日报 · 2026-09-10](https://dhpie.com/posts/cn/open-source-daily-2026-09-10)
 - [开源贡献日报 · 2026-09-09](https://dhpie.com/posts/cn/open-source-daily-2026-09-09)
 - [买车买出来的一条投资逻辑：电车的钱不在卖车](https://dhpie.com/posts/cn/mai-che-mai-chu-lai-de-yi-tiao-tou-zi-luo-ji)
-- [整理梁文锋投资者交流会的一些内容](https://dhpie.com/notes/29)
 <!-- notes:end -->
 
 ### `~/telemetry`
