@@ -61,7 +61,7 @@ I write about the process on [dhpie.com](https://dhpie.com).
 
 ### `~/upstream`
 
-<sub>Public upstream PRs updated in the last 7 days · refreshed daily</sub>
+<sub>Public upstream PRs updated in the last 7 days · refreshed every 8 hours</sub>
 
 <!-- upstream:start -->
 <sub>28 PRs · 21 open · 6 merged · 1 integrated</sub>
@@ -149,4 +149,4 @@ I write about the process on [dhpie.com](https://dhpie.com).
 
 ---
 
-<sub>Refreshed daily with GitHub Actions · [Workflow](.github/workflows/profile.yml) · [Blog](https://dhpie.com)</sub>
+<sub>Refreshed every 8 hours with GitHub Actions · [Workflow](.github/workflows/profile.yml) · [Blog](https://dhpie.com)</sub>

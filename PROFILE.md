@@ -1,7 +1,8 @@
 # Profile automation
 
-Daily at 06:23 Asia/Singapore (`22:23 UTC`), or manually from **Actions → Refresh profile**.
-Bomberman updates at 06:43 via `bomberman.yml`. GitHub schedules may run late; inactive repositories may have
+Every 8 hours at 06:23, 14:23 and 22:23 Asia/Singapore (`06:23, 14:23 and 22:23 UTC`),
+or manually from **Actions → Refresh profile**.
+Bomberman updates every 8 hours at 06:43, 14:43 and 22:43 Asia/Singapore via `bomberman.yml`. GitHub schedules may run late; inactive repositories may have
 scheduled workflows disabled by GitHub after 60 days.
 
 - `workbench`: three most recently pushed public, owned, non-archived repositories; excludes forks and this profile. Descriptions come from repository metadata.
@@ -44,7 +45,7 @@ Validate: `python3 -m unittest discover -s scripts -p 'test_*.py'`.
 
 ## Accepted contribution shelf
 
-The existing daily Action now refreshes `contributions`. Wrapping fixed-width project cards (three, two or one per row as space allows)
+The existing 8-hour Action now refreshes `contributions`. Wrapping fixed-width project cards (three, two or one per row as space allows)
 sit above the latest PR feed, following the restrained linked typography of
 [antfu](https://github.com/antfu/antfu) and generated sections of
 [simonw](https://github.com/simonw/simonw). Each project links to its repository,

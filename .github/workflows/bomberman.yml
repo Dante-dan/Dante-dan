@@ -1,8 +1,8 @@
 name: Generate Bomberman animation
 
 on:
-  schedule: # execute daily
-    - cron: "43 22 * * *"
+  schedule: # execute every 8 hours
+    - cron: "43 6,14,22 * * *"
 
   workflow_dispatch:
 

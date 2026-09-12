@@ -1,7 +1,7 @@
 name: Refresh profile
 on:
   schedule:
-    - cron: '23 22 * * *'
+    - cron: '23 6,14,22 * * *'
   workflow_dispatch:
   push:
     branches: [main]
