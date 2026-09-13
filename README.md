@@ -41,10 +41,10 @@ I write about the process on [dhpie.com](https://dhpie.com).
 <!-- contributions:start -->
 <sub>Code accepted upstream · last 12 months</sub>
 
+<table align="left" width="270"><tr><td width="64" valign="middle"><a href="https://github.com/CherryHQ/cherry-studio"><img src="assets/projects/CherryHQ--cherry-studio.png" width="56" height="56" alt="Cherry Studio icon" /></a></td><td width="200" valign="middle"><a href="https://github.com/CherryHQ/cherry-studio"><strong>Cherry Studio</strong></a><br /><sub><a href="https://github.com/CherryHQ/cherry-studio/pull/20491">merged contribution</a><br /><a href="https://github.com/CherryHQ/cherry-studio/pulls?q=is%3Apr+author%3ADante-dan">all PRs ↗</a></sub></td></tr></table>
 <table align="left" width="270"><tr><td width="64" valign="middle"><a href="https://github.com/multica-ai/multica"><img src="assets/projects/multica-ai--multica.png" width="56" height="56" alt="multica icon" /></a></td><td width="200" valign="middle"><a href="https://github.com/multica-ai/multica"><strong>multica</strong></a><br /><sub><a href="https://github.com/multica-ai/multica/pull/8297">merged contribution</a><br /><a href="https://github.com/multica-ai/multica/pulls?q=is%3Apr+author%3ADante-dan">all PRs ↗</a></sub></td></tr></table>
 <table align="left" width="270"><tr><td width="64" valign="middle"><a href="https://github.com/apache/maka"><img src="assets/projects/apache--maka.png" width="56" height="56" alt="maka icon" /></a></td><td width="200" valign="middle"><a href="https://github.com/apache/maka"><strong>maka</strong></a><br /><sub><a href="https://github.com/apache/maka/pull/5226">merged contribution</a><br /><a href="https://github.com/apache/maka/pulls?q=is%3Apr+author%3ADante-dan">all PRs ↗</a></sub></td></tr></table>
 <table align="left" width="270"><tr><td width="64" valign="middle"><a href="https://github.com/affaan-m/ECC"><img src="assets/projects/affaan-m--ECC.svg" width="56" height="56" alt="ECC icon" /></a></td><td width="200" valign="middle"><a href="https://github.com/affaan-m/ECC"><strong>ECC</strong></a><br /><sub><a href="https://github.com/affaan-m/ECC/pull/3076">merged contribution</a><br /><a href="https://github.com/affaan-m/ECC/pulls?q=is%3Apr+author%3ADante-dan">all PRs ↗</a></sub></td></tr></table>
-<table align="left" width="270"><tr><td width="64" valign="middle"><a href="https://github.com/CherryHQ/cherry-studio"><img src="assets/projects/CherryHQ--cherry-studio.png" width="56" height="56" alt="Cherry Studio icon" /></a></td><td width="200" valign="middle"><a href="https://github.com/CherryHQ/cherry-studio"><strong>Cherry Studio</strong></a><br /><sub><a href="https://github.com/CherryHQ/cherry-studio/pull/20319">merged contribution</a><br /><a href="https://github.com/CherryHQ/cherry-studio/pulls?q=is%3Apr+author%3ADante-dan">all PRs ↗</a></sub></td></tr></table>
 <table align="left" width="270"><tr><td width="64" valign="middle"><a href="https://github.com/makecindy/cindy"><img src="assets/projects/makecindy--cindy.png" width="56" height="56" alt="Cindy icon" /></a></td><td width="200" valign="middle"><a href="https://github.com/makecindy/cindy"><strong>Cindy</strong></a><br /><sub><a href="https://github.com/makecindy/cindy/pull/4219">merged contribution</a><br /><a href="https://github.com/makecindy/cindy/pulls?q=is%3Apr+author%3ADante-dan">all PRs ↗</a></sub></td></tr></table>
 <br clear="all" />
 
@@ -65,10 +65,14 @@ I write about the process on [dhpie.com](https://dhpie.com).
 <sub>Public upstream PRs updated in the last 7 days · refreshed every 8 hours</sub>
 
 <!-- upstream:start -->
-<sub>44 PRs · 33 open · 10 merged · 1 integrated</sub>
+<sub>46 PRs · 34 open · 11 merged · 1 integrated</sub>
 
 | Status | Pull request | Updated (UTC) |
 | :--- | :--- | :--- |
+| `open` | **[apache/maka#5266](https://github.com/apache/maka/pull/5266)** — fix(runtime): allow bounded Apple Git startup | 2026-09-13 |
+| `open` | **[apache/maka#5248](https://github.com/apache/maka/pull/5248)** — feat(runtime): verify background HTTP readiness | 2026-09-13 |
+| `merged` | **[CherryHQ/cherry-studio#20491](https://github.com/CherryHQ/cherry-studio/pull/20491)** — fix(chat): restore bottom-follow after sending | 2026-09-13 |
+| `open` | **[makecindy/cindy#4384](https://github.com/makecindy/cindy/pull/4384)** — fix(auth): guard stale runtime expiry transitions | 2026-09-13 |
 | `merged` | **[multica-ai/multica#8297](https://github.com/multica-ai/multica/pull/8297)** — MUL-7275: fix(skills): normalize Windows archive entry paths | 2026-09-13 |
 | `merged` | **[multica-ai/multica#8338](https://github.com/multica-ai/multica/pull/8338)** — MUL-7308: test(daemon): isolate local skill homes on Windows | 2026-09-13 |
 | `open` | **[CherryHQ/cherry-studio#20378](https://github.com/CherryHQ/cherry-studio/pull/20378)** — feat(knowledge): accept all recognized text files | 2026-09-13 |
@@ -78,8 +82,6 @@ I write about the process on [dhpie.com](https://dhpie.com).
 | `open` | **[CherryHQ/cherry-studio#20386](https://github.com/CherryHQ/cherry-studio/pull/20386)** — fix(new-api): restore Gemini web search through relays | 2026-09-13 |
 | `open` | **[CherryHQ/cherry-studio#20281](https://github.com/CherryHQ/cherry-studio/pull/20281)** — fix(ai-core): repair restored tool result names | 2026-09-13 |
 | `open` | **[CherryHQ/cherry-studio#20320](https://github.com/CherryHQ/cherry-studio/pull/20320)** — fix(work): keep pinned tasks in agent grouping | 2026-09-13 |
-| `open` | **[apache/maka#5248](https://github.com/apache/maka/pull/5248)** — feat(runtime): verify background HTTP readiness | 2026-09-13 |
-| `open` | **[makecindy/cindy#4384](https://github.com/makecindy/cindy/pull/4384)** — fix(auth): guard stale runtime expiry transitions | 2026-09-13 |
 | `open` | **[CherryHQ/cherry-studio#20321](https://github.com/CherryHQ/cherry-studio/pull/20321)** — fix(chat-errors): normalize non-error throws | 2026-09-13 |
 | `open` | **[CherryHQ/cherry-studio#20323](https://github.com/CherryHQ/cherry-studio/pull/20323)** — fix: accept sparse OpenAI response lifecycle events | 2026-09-13 |
 | `open` | **[CherryHQ/cherry-studio#20349](https://github.com/CherryHQ/cherry-studio/pull/20349)** — fix(data-api): avoid overlapping timed-out reads | 2026-09-13 |
@@ -119,10 +121,10 @@ I write about the process on [dhpie.com](https://dhpie.com).
 <summary>Recent conversations · issues, comments &amp; reviews</summary>
 
 <!-- activity:start -->
+- `2026-09-13` Commented on **[earendil-works/pi#9255](https://github.com/earendil-works/pi/issues/9255#issuecomment-5654477539)** — TuiMainScreen: full-screen redraw storm when changed rows sit above the viewport top (long transcri…
+- `2026-09-13` Commented on **[apache/maka#5260](https://github.com/apache/maka/issues/5260#issuecomment-5654246528)** — macOS: Agent Bash git fails with &quot;unable to load libxcrun&quot; under the Seatbelt sandbox
+- `2026-09-13` Commented on **[makecindy/cindy#4384](https://github.com/makecindy/cindy/pull/4384#discussion_r3999756904)**
 - `2026-09-13` Commented on **[earendil-works/pi#9474](https://github.com/earendil-works/pi/issues/9474#issuecomment-5652326755)** — Codex transport: no non-resetting per-request total deadline; periodic events defeat idle timeout
-- `2026-09-13` Commented on **[LodyAI/Lody#666](https://github.com/LodyAI/Lody/issues/666#issuecomment-5652154172)** — \[Bug\] Timed-out steer remains pending\_apply after its target turn is stopped
-- `2026-09-13` Commented on **[CherryHQ/cherry-studio#20378](https://github.com/CherryHQ/cherry-studio/pull/20378#issuecomment-5651966801)** — feat(knowledge): accept all recognized text files
-- `2026-09-13` Commented on **[CherryHQ/cherry-studio#20486](https://github.com/CherryHQ/cherry-studio/pull/20486#issuecomment-5651937465)** — fix(knowledge): handle oversized Zhipu reranks
 <!-- activity:end -->
 
 </details>
@@ -134,10 +136,10 @@ I write about the process on [dhpie.com](https://dhpie.com).
 <sub>Latest writing from [dhpie.com](https://dhpie.com)</sub>
 
 <!-- notes:start -->
+- [开源贡献日报 · 2026-09-13](https://dhpie.com/posts/cn/open-source-daily-2026-09-13)
 - [开源贡献日报 · 2026-09-12](https://dhpie.com/posts/cn/open-source-daily-2026-09-12)
 - [开源贡献日报 · 2026-09-11](https://dhpie.com/posts/cn/open-source-daily-2026-09-11)
 - [开源贡献日报 · 2026-09-10](https://dhpie.com/posts/cn/open-source-daily-2026-09-10)
-- [开源贡献日报 · 2026-09-09](https://dhpie.com/posts/cn/open-source-daily-2026-09-09)
 <!-- notes:end -->
 
 ### `~/telemetry`
