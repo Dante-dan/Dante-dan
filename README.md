@@ -41,7 +41,7 @@ I write about the process on [dhpie.com](https://dhpie.com).
 <!-- contributions:start -->
 <sub>Code accepted upstream · last 12 months</sub>
 
-<table align="left" width="270"><tr><td width="64" valign="middle"><a href="https://github.com/CherryHQ/cherry-studio"><img src="assets/projects/CherryHQ--cherry-studio.png" width="56" height="56" alt="Cherry Studio icon" /></a></td><td width="200" valign="middle"><a href="https://github.com/CherryHQ/cherry-studio"><strong>Cherry Studio</strong></a><br /><sub><a href="https://github.com/CherryHQ/cherry-studio/pull/20502">merged contribution</a><br /><a href="https://github.com/CherryHQ/cherry-studio/pulls?q=is%3Apr+author%3ADante-dan">all PRs ↗</a></sub></td></tr></table>
+<table align="left" width="270"><tr><td width="64" valign="middle"><a href="https://github.com/CherryHQ/cherry-studio"><img src="assets/projects/CherryHQ--cherry-studio.png" width="56" height="56" alt="Cherry Studio icon" /></a></td><td width="200" valign="middle"><a href="https://github.com/CherryHQ/cherry-studio"><strong>Cherry Studio</strong></a><br /><sub><a href="https://github.com/CherryHQ/cherry-studio/pull/20469">merged contribution</a><br /><a href="https://github.com/CherryHQ/cherry-studio/pulls?q=is%3Apr+author%3ADante-dan">all PRs ↗</a></sub></td></tr></table>
 <table align="left" width="270"><tr><td width="64" valign="middle"><a href="https://github.com/multica-ai/multica"><img src="assets/projects/multica-ai--multica.png" width="56" height="56" alt="multica icon" /></a></td><td width="200" valign="middle"><a href="https://github.com/multica-ai/multica"><strong>multica</strong></a><br /><sub><a href="https://github.com/multica-ai/multica/pull/8297">merged contribution</a><br /><a href="https://github.com/multica-ai/multica/pulls?q=is%3Apr+author%3ADante-dan">all PRs ↗</a></sub></td></tr></table>
 <table align="left" width="270"><tr><td width="64" valign="middle"><a href="https://github.com/apache/maka"><img src="assets/projects/apache--maka.png" width="56" height="56" alt="maka icon" /></a></td><td width="200" valign="middle"><a href="https://github.com/apache/maka"><strong>maka</strong></a><br /><sub><a href="https://github.com/apache/maka/pull/5226">merged contribution</a><br /><a href="https://github.com/apache/maka/pulls?q=is%3Apr+author%3ADante-dan">all PRs ↗</a></sub></td></tr></table>
 <table align="left" width="270"><tr><td width="64" valign="middle"><a href="https://github.com/affaan-m/ECC"><img src="assets/projects/affaan-m--ECC.svg" width="56" height="56" alt="ECC icon" /></a></td><td width="200" valign="middle"><a href="https://github.com/affaan-m/ECC"><strong>ECC</strong></a><br /><sub><a href="https://github.com/affaan-m/ECC/pull/3076">merged contribution</a><br /><a href="https://github.com/affaan-m/ECC/pulls?q=is%3Apr+author%3ADante-dan">all PRs ↗</a></sub></td></tr></table>
@@ -65,18 +65,38 @@ I write about the process on [dhpie.com](https://dhpie.com).
 <sub>Public upstream PRs updated in the last 7 days · refreshed every 8 hours</sub>
 
 <!-- upstream:start -->
-<sub>56 PRs · 43 open · 12 merged · 1 integrated</sub>
+<sub>64 PRs · 50 open · 13 merged · 1 integrated</sub>
 
 | Status | Pull request | Updated (UTC) |
 | :--- | :--- | :--- |
-| `open` | **[CherryHQ/cherry-studio#20469](https://github.com/CherryHQ/cherry-studio/pull/20469)** — fix(markdown): bound mixed multiline math fences | 2026-09-14 |
-| `open` | **[browser-use/browser-use#5798](https://github.com/browser-use/browser-use/pull/5798)** — fix(dom): preserve password input value state | 2026-09-14 |
-| `open` | **[multica-ai/multica#8411](https://github.com/multica-ai/multica/pull/8411)** — feat(projects): bind local directories by agent | 2026-09-14 |
-| `open` | **[CherryHQ/cherry-studio#20322](https://github.com/CherryHQ/cherry-studio/pull/20322)** — fix(agent): honor configured Pi shell path | 2026-09-14 |
+| `open` | **[can1357/oh-my-pi#12082](https://github.com/can1357/oh-my-pi/pull/12082)** — feat(coding-agent): add producer-scoped artifact resolution | 2026-09-14 |
+| `open` | **[CherryHQ/cherry-studio#20487](https://github.com/CherryHQ/cherry-studio/pull/20487)** — feat(proxy): add connection test | 2026-09-14 |
+| `open` | **[CherryHQ/cherry-studio#20281](https://github.com/CherryHQ/cherry-studio/pull/20281)** — fix(ai-core): repair restored tool result names | 2026-09-14 |
+| `open` | **[can1357/oh-my-pi#12083](https://github.com/can1357/oh-my-pi/pull/12083)** — fix(coding-agent): clarify omp identity in system prompt | 2026-09-14 |
+| `open` | **[can1357/oh-my-pi#12081](https://github.com/can1357/oh-my-pi/pull/12081)** — feat(github): support operation-specific approval policies | 2026-09-14 |
+| `open` | **[can1357/oh-my-pi#12080](https://github.com/can1357/oh-my-pi/pull/12080)** — fix(coding-agent): wait for PTY replay before finalizing transcript | 2026-09-14 |
+| `open` | **[can1357/oh-my-pi#12079](https://github.com/can1357/oh-my-pi/pull/12079)** — fix(coding-agent): keep mnemopi requests alive | 2026-09-14 |
+| `open` | **[can1357/oh-my-pi#12078](https://github.com/can1357/oh-my-pi/pull/12078)** — fix(stats): expose session cwd in summaries | 2026-09-14 |
+| `open` | **[apache/maka#5266](https://github.com/apache/maka/pull/5266)** — fix(runtime): allow bounded Apple Git startup | 2026-09-14 |
 | `open` | **[CherryHQ/cherry-studio#20353](https://github.com/CherryHQ/cherry-studio/pull/20353)** — fix(ai-runtime): clamp agent output token limit | 2026-09-14 |
+| `open` | **[CherryHQ/cherry-studio#20322](https://github.com/CherryHQ/cherry-studio/pull/20322)** — fix(agent): honor configured Pi shell path | 2026-09-14 |
+| `open` | **[can1357/oh-my-pi#12065](https://github.com/can1357/oh-my-pi/pull/12065)** — fix(ttsr): reserve deferred injections until delivery | 2026-09-14 |
+| `open` | **[code-yeongyu/oh-my-openagent#8297](https://github.com/code-yeongyu/oh-my-openagent/pull/8297)** — fix(opencode): expose V2 plugin setup entry | 2026-09-14 |
+| `open` | **[CherryHQ/cherry-studio#20486](https://github.com/CherryHQ/cherry-studio/pull/20486)** — fix(knowledge): handle oversized Zhipu reranks | 2026-09-14 |
+| `open` | **[CherryHQ/cherry-studio#20434](https://github.com/CherryHQ/cherry-studio/pull/20434)** — fix(ai): stabilize OpenRouter session routing | 2026-09-14 |
+| `open` | **[CherryHQ/cherry-studio#20378](https://github.com/CherryHQ/cherry-studio/pull/20378)** — feat(knowledge): accept all recognized text files | 2026-09-14 |
+| `open` | **[CherryHQ/cherry-studio#20386](https://github.com/CherryHQ/cherry-studio/pull/20386)** — fix(new-api): restore Gemini web search through relays | 2026-09-14 |
+| `open` | **[browser-use/browser-use#5798](https://github.com/browser-use/browser-use/pull/5798)** — fix(dom): preserve password input value state | 2026-09-14 |
+| `open` | **[makecindy/cindy#4384](https://github.com/makecindy/cindy/pull/4384)** — fix(auth): guard stale runtime expiry transitions | 2026-09-14 |
+| `open` | **[CherryHQ/cherry-studio#20323](https://github.com/CherryHQ/cherry-studio/pull/20323)** — fix: accept sparse OpenAI response lifecycle events | 2026-09-14 |
+| `open` | **[CherryHQ/cherry-studio#20321](https://github.com/CherryHQ/cherry-studio/pull/20321)** — fix(chat-errors): normalize non-error throws | 2026-09-14 |
+| `open` | **[CherryHQ/cherry-studio#20320](https://github.com/CherryHQ/cherry-studio/pull/20320)** — fix(work): keep pinned tasks in agent grouping | 2026-09-14 |
+| `open` | **[CherryHQ/cherry-studio#20349](https://github.com/CherryHQ/cherry-studio/pull/20349)** — fix(data-api): avoid overlapping timed-out reads | 2026-09-14 |
+| `open` | **[affaan-m/ECC#3121](https://github.com/affaan-m/ECC/pull/3121)** — docs(i18n): add Polish localization scout | 2026-09-14 |
+| `merged` | **[CherryHQ/cherry-studio#20469](https://github.com/CherryHQ/cherry-studio/pull/20469)** — fix(markdown): bound mixed multiline math fences | 2026-09-14 |
+| `open` | **[multica-ai/multica#8411](https://github.com/multica-ai/multica/pull/8411)** — feat(projects): bind local directories by agent | 2026-09-14 |
 | `open` | **[apache/maka#5286](https://github.com/apache/maka/pull/5286)** — fix(desktop): guard broadcasts by renderer frame | 2026-09-14 |
 | `open` | **[affaan-m/ECC#3119](https://github.com/affaan-m/ECC/pull/3119)** — fix(install): keep home targets target-safe | 2026-09-14 |
-| `open` | **[affaan-m/ECC#3121](https://github.com/affaan-m/ECC/pull/3121)** — docs(i18n): add Polish localization scout | 2026-09-14 |
 | `open` | **[multica-ai/multica#8364](https://github.com/multica-ai/multica/pull/8364)** — MUL-7328 feat(desktop): add configurable window close behavior | 2026-09-14 |
 | `open` | **[apache/maka#5278](https://github.com/apache/maka/pull/5278)** — fix(runtime): bound OpenAI Chat image tool results | 2026-09-14 |
 | `merged` | **[CherryHQ/cherry-studio#20502](https://github.com/CherryHQ/cherry-studio/pull/20502)** — fix(markdown): preserve table cell word boundaries | 2026-09-14 |
@@ -84,22 +104,10 @@ I write about the process on [dhpie.com](https://dhpie.com).
 | `open` | **[LodyAI/Lody#563](https://github.com/LodyAI/Lody/pull/563)** — fix(cli): coalesce overlapping history refreshes | 2026-09-14 |
 | `open` | **[affaan-m/ECC#3113](https://github.com/affaan-m/ECC/pull/3113)** — fix(opencode): install compiled home runtime | 2026-09-13 |
 | `open` | **[anomalyco/opencode#48733](https://github.com/anomalyco/opencode/pull/48733)** — fix(tui): preserve slash skill arguments | 2026-09-13 |
-| `open` | **[apache/maka#5266](https://github.com/apache/maka/pull/5266)** — fix(runtime): allow bounded Apple Git startup | 2026-09-13 |
 | `open` | **[apache/maka#5248](https://github.com/apache/maka/pull/5248)** — feat(runtime): verify background HTTP readiness | 2026-09-13 |
 | `merged` | **[CherryHQ/cherry-studio#20491](https://github.com/CherryHQ/cherry-studio/pull/20491)** — fix(chat): restore bottom-follow after sending | 2026-09-13 |
-| `open` | **[makecindy/cindy#4384](https://github.com/makecindy/cindy/pull/4384)** — fix(auth): guard stale runtime expiry transitions | 2026-09-13 |
 | `merged` | **[multica-ai/multica#8297](https://github.com/multica-ai/multica/pull/8297)** — MUL-7275: fix(skills): normalize Windows archive entry paths | 2026-09-13 |
 | `merged` | **[multica-ai/multica#8338](https://github.com/multica-ai/multica/pull/8338)** — MUL-7308: test(daemon): isolate local skill homes on Windows | 2026-09-13 |
-| `open` | **[CherryHQ/cherry-studio#20378](https://github.com/CherryHQ/cherry-studio/pull/20378)** — feat(knowledge): accept all recognized text files | 2026-09-13 |
-| `open` | **[CherryHQ/cherry-studio#20486](https://github.com/CherryHQ/cherry-studio/pull/20486)** — fix(knowledge): handle oversized Zhipu reranks | 2026-09-13 |
-| `open` | **[CherryHQ/cherry-studio#20487](https://github.com/CherryHQ/cherry-studio/pull/20487)** — feat(proxy): add connection test | 2026-09-13 |
-| `open` | **[CherryHQ/cherry-studio#20434](https://github.com/CherryHQ/cherry-studio/pull/20434)** — fix(ai): stabilize OpenRouter session routing | 2026-09-13 |
-| `open` | **[CherryHQ/cherry-studio#20386](https://github.com/CherryHQ/cherry-studio/pull/20386)** — fix(new-api): restore Gemini web search through relays | 2026-09-13 |
-| `open` | **[CherryHQ/cherry-studio#20281](https://github.com/CherryHQ/cherry-studio/pull/20281)** — fix(ai-core): repair restored tool result names | 2026-09-13 |
-| `open` | **[CherryHQ/cherry-studio#20320](https://github.com/CherryHQ/cherry-studio/pull/20320)** — fix(work): keep pinned tasks in agent grouping | 2026-09-13 |
-| `open` | **[CherryHQ/cherry-studio#20321](https://github.com/CherryHQ/cherry-studio/pull/20321)** — fix(chat-errors): normalize non-error throws | 2026-09-13 |
-| `open` | **[CherryHQ/cherry-studio#20323](https://github.com/CherryHQ/cherry-studio/pull/20323)** — fix: accept sparse OpenAI response lifecycle events | 2026-09-13 |
-| `open` | **[CherryHQ/cherry-studio#20349](https://github.com/CherryHQ/cherry-studio/pull/20349)** — fix(data-api): avoid overlapping timed-out reads | 2026-09-13 |
 | `open` | **[makecindy/cindy#4377](https://github.com/makecindy/cindy/pull/4377)** — fix(codex): preserve compacted turn recovery after disconnect | 2026-09-13 |
 | `open` | **[anomalyco/opencode#48734](https://github.com/anomalyco/opencode/pull/48734)** — fix(server): surface session creation errors | 2026-09-12 |
 | `open` | **[anomalyco/opencode#48732](https://github.com/anomalyco/opencode/pull/48732)** — fix(tui): finalize streamed markdown responses | 2026-09-12 |
@@ -131,10 +139,10 @@ I write about the process on [dhpie.com](https://dhpie.com).
 <summary>Recent conversations · issues, comments &amp; reviews</summary>
 
 <!-- activity:start -->
-- `2026-09-14` Commented on **[browser-use/browser-use#5798](https://github.com/browser-use/browser-use/pull/5798#discussion_r4005192365)**
-- `2026-09-14` Commented on **[CherryHQ/cherry-studio#20322](https://github.com/CherryHQ/cherry-studio/pull/20322#discussion_r4004710480)**
-- `2026-09-14` Commented on **[CherryHQ/cherry-studio#20353](https://github.com/CherryHQ/cherry-studio/pull/20353#discussion_r4004184530)**
-- `2026-09-14` Commented on **[CherryHQ/cherry-studio#20283](https://github.com/CherryHQ/cherry-studio/issues/20283#issuecomment-5662230124)** — \[Bug\]: Agent MCP bindings and tool catalogs remain stale after MCP changes
+- `2026-09-14` Commented on **[earendil-works/pi#9210](https://github.com/earendil-works/pi/issues/9210#issuecomment-5667844870)** — Anthropic Messages via gateway: cacheWrite1h never set (1h count arrives in message\_delta), 1h writ…
+- `2026-09-14` Commented on **[earendil-works/pi#9457](https://github.com/earendil-works/pi/issues/9457#issuecomment-5667637019)** — bedrock-converse: 1h cache writes bill at the 5m rate
+- `2026-09-14` Commented on **[CherryHQ/cherry-studio#20353](https://github.com/CherryHQ/cherry-studio/pull/20353#discussion_r4007349472)**
+- `2026-09-14` Commented on **[apache/maka#5266](https://github.com/apache/maka/pull/5266#issuecomment-5667300671)** — fix(runtime): allow bounded Apple Git startup
 <!-- activity:end -->
 
 </details>
@@ -146,21 +154,21 @@ I write about the process on [dhpie.com](https://dhpie.com).
 <sub>Latest writing from [dhpie.com](https://dhpie.com)</sub>
 
 <!-- notes:start -->
+- [开源贡献日报 · 2026-09-14](https://dhpie.com/posts/cn/open-source-daily-2026-09-14)
 - [开源贡献日报 · 2026-09-13](https://dhpie.com/posts/cn/open-source-daily-2026-09-13)
 - [开源贡献日报 · 2026-09-12](https://dhpie.com/posts/cn/open-source-daily-2026-09-12)
 - [开源贡献日报 · 2026-09-11](https://dhpie.com/posts/cn/open-source-daily-2026-09-11)
-- [开源贡献日报 · 2026-09-10](https://dhpie.com/posts/cn/open-source-daily-2026-09-10)
 <!-- notes:end -->
 
 ### `~/telemetry`
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Dante-dan/Dante-dan/main/assets/telemetry/stats-dark-b6460d1e0cec9ce7.svg" />
-  <img src="https://raw.githubusercontent.com/Dante-dan/Dante-dan/main/assets/telemetry/stats-light-5e5120f6ad0de718.svg" alt="Public GitHub contribution totals" width="390" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Dante-dan/Dante-dan/main/assets/telemetry/stats-dark-dbc5000e92c6b534.svg" />
+  <img src="https://raw.githubusercontent.com/Dante-dan/Dante-dan/main/assets/telemetry/stats-light-e8405e69b54af4bc.svg" alt="Public GitHub contribution totals" width="390" />
 </picture>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Dante-dan/Dante-dan/main/assets/telemetry/time-dark-606841db14becab1.svg" />
-  <img src="https://raw.githubusercontent.com/Dante-dan/Dante-dan/main/assets/telemetry/time-light-9ef68cdc4fe29ec0.svg" alt="Commit distribution by time of day, UTC+8" width="390" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Dante-dan/Dante-dan/main/assets/telemetry/time-dark-0c158de5a63da081.svg" />
+  <img src="https://raw.githubusercontent.com/Dante-dan/Dante-dan/main/assets/telemetry/time-light-9ae7ce7e4250918e.svg" alt="Commit distribution by time of day, UTC+8" width="390" />
 </picture>
 
 <img src="https://raw.githubusercontent.com/Dante-dan/Dante-dan/main/assets/telemetry/reactions-5950c45326bd3471.svg" alt="Reactions received on recent public comments and issue bodies" width="650" />
@@ -168,7 +176,7 @@ I write about the process on [dhpie.com](https://dhpie.com).
 
 
 <!-- telemetry-refresh:start -->
-<sub>Fetched every 8 hours · last successful fetch<br>Totals: 2026-09-14 13:05:24 UTC · Commit hours: 2026-09-14 13:05:24 UTC · Reactions: 2026-09-14 13:05:24 UTC</sub>
+<sub>Fetched every 8 hours · last successful fetch<br>Totals: 2026-09-14 19:30:56 UTC · Commit hours: 2026-09-14 19:30:56 UTC · Reactions: 2026-09-14 19:30:56 UTC</sub>
 <!-- telemetry-refresh:end -->
 
 ### `~/arcade`
