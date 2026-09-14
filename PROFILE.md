@@ -37,9 +37,11 @@ full counts for each sampled item; this is not a lifetime total or all comments 
 All three telemetry charts run in the same 8-hour `refresh` job. The README records
 each group's last successful fetch in UTC, even when values have not changed.
 `assets/telemetry-refresh.json` preserves these timestamps on source failures, and
-content-hashed direct `raw.githubusercontent.com` image URLs change when SVG bytes
-change to avoid reusing stale image cache entries. Relative GitHub `/raw/` redirects
-drop query parameters, so those URLs cannot carry a reliable cache version.
+content-hashed SVG filenames in `assets/telemetry/` give each new card a new direct
+`raw.githubusercontent.com` image URL. Previous versions remain available to cached
+READMEs; identical data reuses the same file. Relative GitHub `/raw/` redirects drop
+query parameters, and raw/CDN caches can retain old bodies even with new parameters,
+so the version is part of the filename rather than the query string.
 A failed reactions query retains the old SVG and fails the workflow.
 
 The former pinned Metrics reactions plugin inverted the 90-day comparison

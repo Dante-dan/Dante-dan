@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="650" height="168" viewBox="0 0 650 168" role="img" aria-labelledby="title desc">
+<title id="title">Recent public reactions</title>
+<desc id="desc">4 reactions on 100 sampled public comments and issue bodies created in the last 90 days.</desc>
+<style>
+text { font-family: 'Segoe UI', Ubuntu, sans-serif; fill: #24292f; }
+.bg { fill: #ffffff; } .heading { fill: #0969da; } .muted { fill: #57606a; }
+@media (prefers-color-scheme: dark) { text { fill: #c9d1d9; } .bg { fill: #0d1117; } .heading { fill: #58a6ff; } .muted { fill: #8b949e; } }
+</style>
+<rect class="bg" width="650" height="168" rx="6"/>
+<text class="heading" x="25" y="32" font-size="18" font-weight="600">Recent public reactions · 4</text>
+<text class="muted" x="25" y="56" font-size="12">Last 90 days · 100 sampled comments / issue bodies</text>
+<text x="34" y="102" font-size="23">👍</text><text x="46" y="133" text-anchor="middle" font-size="17">2</text><text x="110" y="102" font-size="23">👎</text><text x="122" y="133" text-anchor="middle" font-size="17">0</text><text x="186" y="102" font-size="23">😄</text><text x="198" y="133" text-anchor="middle" font-size="17">0</text><text x="262" y="102" font-size="23">❤️</text><text x="274" y="133" text-anchor="middle" font-size="17">0</text><text x="338" y="102" font-size="23">😕</text><text x="350" y="133" text-anchor="middle" font-size="17">0</text><text x="414" y="102" font-size="23">👀</text><text x="426" y="133" text-anchor="middle" font-size="17">2</text><text x="490" y="102" font-size="23">🚀</text><text x="502" y="133" text-anchor="middle" font-size="17">0</text><text x="566" y="102" font-size="23">🎉</text><text x="578" y="133" text-anchor="middle" font-size="17">0</text>
+<text class="muted" x="25" y="157" font-size="10">Sample: latest 100 issue comments + 50 issues · excludes private / minimized content</text>
+</svg>

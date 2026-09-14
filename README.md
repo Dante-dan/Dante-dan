@@ -149,15 +149,15 @@ I write about the process on [dhpie.com](https://dhpie.com).
 ### `~/telemetry`
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Dante-dan/Dante-dan/main/assets/stats-dark.svg?v=8e34f0ba4d88fbfd" />
-  <img src="https://raw.githubusercontent.com/Dante-dan/Dante-dan/main/assets/stats-light.svg?v=8428c67231be871e" alt="Public GitHub contribution totals" width="390" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Dante-dan/Dante-dan/main/assets/telemetry/stats-dark-8e34f0ba4d88fbfd.svg" />
+  <img src="https://raw.githubusercontent.com/Dante-dan/Dante-dan/main/assets/telemetry/stats-light-8428c67231be871e.svg" alt="Public GitHub contribution totals" width="390" />
 </picture>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Dante-dan/Dante-dan/main/assets/time-dark.svg?v=c6a04e132bfd4a4c" />
-  <img src="https://raw.githubusercontent.com/Dante-dan/Dante-dan/main/assets/time-light.svg?v=2c7b655751abe081" alt="Commit distribution by time of day, UTC+8" width="390" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Dante-dan/Dante-dan/main/assets/telemetry/time-dark-c6a04e132bfd4a4c.svg" />
+  <img src="https://raw.githubusercontent.com/Dante-dan/Dante-dan/main/assets/telemetry/time-light-2c7b655751abe081.svg" alt="Commit distribution by time of day, UTC+8" width="390" />
 </picture>
 
-<img src="https://raw.githubusercontent.com/Dante-dan/Dante-dan/main/assets/reactions.svg?v=7290d234e6644477" alt="Reactions received on recent public comments and issue bodies" width="650" />
+<img src="https://raw.githubusercontent.com/Dante-dan/Dante-dan/main/assets/telemetry/reactions-7290d234e6644477.svg" alt="Reactions received on recent public comments and issue bodies" width="650" />
 
 
 

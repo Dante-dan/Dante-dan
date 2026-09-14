@@ -98,12 +98,21 @@ def finalize(successful, root=ROOT, now=None):
                     raise ValueError(f'Invalid SVG: {filename}')
             state[group] = {'last_success_at': now.strftime('%Y-%m-%dT%H:%M:%SZ')}
         for filename in files:
-            digest = hashlib.sha256((root / 'assets' / filename).read_bytes()).hexdigest()[:16]
+            content = (root / 'assets' / filename).read_bytes()
+            digest = hashlib.sha256(content).hexdigest()[:16]
+            immutable = f'telemetry/{Path(filename).stem}-{digest}.svg'
+            target = root / 'assets' / immutable
+            target.parent.mkdir(exist_ok=True)
+            if target.exists() and target.read_bytes() != content:
+                raise ValueError(f'Card version collision: {immutable}')
+            target.write_bytes(content)
             # A changed card gets a new image URL instead of reusing a cached URL.
-            # GitHub's /raw/main redirect drops query strings on relative URLs.
-            readme = re.sub(r'(?:' + re.escape(RAW_ASSETS) + r'|assets/)' + re.escape(filename)
+            # Version the path itself: raw/CDN caches can retain a previous body
+            # even with new query parameters. Keep old versions for cached READMEs.
+            readme = re.sub(r'(?:' + re.escape(RAW_ASSETS) + r'|assets/)(?:' + re.escape(filename)
+                            + r'|telemetry/' + re.escape(Path(filename).stem) + r'-[a-f0-9]+\.svg)'
                             + r'(?:\?v=[a-f0-9]+)?(?=")',
-                            lambda _: RAW_ASSETS + filename + '?v=' + digest, readme)
+                            lambda _: RAW_ASSETS + immutable, readme)
     labels = {'stats': 'Totals', 'time': 'Commit hours', 'reactions': 'Reactions'}
     stamps = [f'{labels[group]}: {state[group]["last_success_at"].replace("T", " ").replace("Z", " UTC")}'
               if group in state else f'{labels[group]}: refresh pending' for group in GROUPS]
