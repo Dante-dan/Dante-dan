@@ -31,9 +31,9 @@ I write about the process on [dhpie.com](https://dhpie.com).
 <sub>Recently pushed public projects · forks excluded</sub>
 
 <!-- workbench:start -->
+- **[pi-agent-book](https://github.com/Dante-dan/pi-agent-book)** — 《Pi Agent从入门到精通》：面向零基础的中文开源书，基于源码拆解上下文、记忆、工具、扩展与持续进化，附可复现实验。
 - **[pi-agent-learning-lab](https://github.com/Dante-dan/pi-agent-learning-lab)** — Interactive Chinese learning lab for Pi Agent extensions, SDK, tools, sessions, providers, and production patterns
 - **[langgraph-learning-lab](https://github.com/Dante-dan/langgraph-learning-lab)** — Interactive Chinese LangGraph learning lab with Python/TypeScript examples and a visual execution playground
-- **[dan-skills](https://github.com/Dante-dan/dan-skills)** — Public TypeScript project.
 <!-- workbench:end -->
 
 ### `~/contributions`
@@ -41,7 +41,7 @@ I write about the process on [dhpie.com](https://dhpie.com).
 <!-- contributions:start -->
 <sub>Code accepted upstream · last 12 months</sub>
 
-<table align="left" width="270"><tr><td width="64" valign="middle"><a href="https://github.com/CherryHQ/cherry-studio"><img src="assets/projects/CherryHQ--cherry-studio.png" width="56" height="56" alt="Cherry Studio icon" /></a></td><td width="200" valign="middle"><a href="https://github.com/CherryHQ/cherry-studio"><strong>Cherry Studio</strong></a><br /><sub><a href="https://github.com/CherryHQ/cherry-studio/pull/20491">merged contribution</a><br /><a href="https://github.com/CherryHQ/cherry-studio/pulls?q=is%3Apr+author%3ADante-dan">all PRs ↗</a></sub></td></tr></table>
+<table align="left" width="270"><tr><td width="64" valign="middle"><a href="https://github.com/CherryHQ/cherry-studio"><img src="assets/projects/CherryHQ--cherry-studio.png" width="56" height="56" alt="Cherry Studio icon" /></a></td><td width="200" valign="middle"><a href="https://github.com/CherryHQ/cherry-studio"><strong>Cherry Studio</strong></a><br /><sub><a href="https://github.com/CherryHQ/cherry-studio/pull/20502">merged contribution</a><br /><a href="https://github.com/CherryHQ/cherry-studio/pulls?q=is%3Apr+author%3ADante-dan">all PRs ↗</a></sub></td></tr></table>
 <table align="left" width="270"><tr><td width="64" valign="middle"><a href="https://github.com/multica-ai/multica"><img src="assets/projects/multica-ai--multica.png" width="56" height="56" alt="multica icon" /></a></td><td width="200" valign="middle"><a href="https://github.com/multica-ai/multica"><strong>multica</strong></a><br /><sub><a href="https://github.com/multica-ai/multica/pull/8297">merged contribution</a><br /><a href="https://github.com/multica-ai/multica/pulls?q=is%3Apr+author%3ADante-dan">all PRs ↗</a></sub></td></tr></table>
 <table align="left" width="270"><tr><td width="64" valign="middle"><a href="https://github.com/apache/maka"><img src="assets/projects/apache--maka.png" width="56" height="56" alt="maka icon" /></a></td><td width="200" valign="middle"><a href="https://github.com/apache/maka"><strong>maka</strong></a><br /><sub><a href="https://github.com/apache/maka/pull/5226">merged contribution</a><br /><a href="https://github.com/apache/maka/pulls?q=is%3Apr+author%3ADante-dan">all PRs ↗</a></sub></td></tr></table>
 <table align="left" width="270"><tr><td width="64" valign="middle"><a href="https://github.com/affaan-m/ECC"><img src="assets/projects/affaan-m--ECC.svg" width="56" height="56" alt="ECC icon" /></a></td><td width="200" valign="middle"><a href="https://github.com/affaan-m/ECC"><strong>ECC</strong></a><br /><sub><a href="https://github.com/affaan-m/ECC/pull/3076">merged contribution</a><br /><a href="https://github.com/affaan-m/ECC/pulls?q=is%3Apr+author%3ADante-dan">all PRs ↗</a></sub></td></tr></table>
@@ -65,16 +65,25 @@ I write about the process on [dhpie.com](https://dhpie.com).
 <sub>Public upstream PRs updated in the last 7 days · refreshed every 8 hours</sub>
 
 <!-- upstream:start -->
-<sub>50 PRs · 38 open · 11 merged · 1 integrated</sub>
+<sub>56 PRs · 43 open · 12 merged · 1 integrated</sub>
 
 | Status | Pull request | Updated (UTC) |
 | :--- | :--- | :--- |
+| `open` | **[CherryHQ/cherry-studio#20469](https://github.com/CherryHQ/cherry-studio/pull/20469)** — fix(markdown): bound mixed multiline math fences | 2026-09-14 |
+| `open` | **[browser-use/browser-use#5798](https://github.com/browser-use/browser-use/pull/5798)** — fix(dom): preserve password input value state | 2026-09-14 |
+| `open` | **[multica-ai/multica#8411](https://github.com/multica-ai/multica/pull/8411)** — feat(projects): bind local directories by agent | 2026-09-14 |
+| `open` | **[CherryHQ/cherry-studio#20322](https://github.com/CherryHQ/cherry-studio/pull/20322)** — fix(agent): honor configured Pi shell path | 2026-09-14 |
+| `open` | **[CherryHQ/cherry-studio#20353](https://github.com/CherryHQ/cherry-studio/pull/20353)** — fix(ai-runtime): clamp agent output token limit | 2026-09-14 |
+| `open` | **[apache/maka#5286](https://github.com/apache/maka/pull/5286)** — fix(desktop): guard broadcasts by renderer frame | 2026-09-14 |
+| `open` | **[affaan-m/ECC#3119](https://github.com/affaan-m/ECC/pull/3119)** — fix(install): keep home targets target-safe | 2026-09-14 |
+| `open` | **[affaan-m/ECC#3121](https://github.com/affaan-m/ECC/pull/3121)** — docs(i18n): add Polish localization scout | 2026-09-14 |
+| `open` | **[multica-ai/multica#8364](https://github.com/multica-ai/multica/pull/8364)** — MUL-7328 feat(desktop): add configurable window close behavior | 2026-09-14 |
+| `open` | **[apache/maka#5278](https://github.com/apache/maka/pull/5278)** — fix(runtime): bound OpenAI Chat image tool results | 2026-09-14 |
+| `merged` | **[CherryHQ/cherry-studio#20502](https://github.com/CherryHQ/cherry-studio/pull/20502)** — fix(markdown): preserve table cell word boundaries | 2026-09-14 |
 | `open` | **[makecindy/cindy#4424](https://github.com/makecindy/cindy/pull/4424)** — feat(mobile): render Mermaid in Markdown file reader | 2026-09-14 |
-| `open` | **[CherryHQ/cherry-studio#20502](https://github.com/CherryHQ/cherry-studio/pull/20502)** — fix(markdown): preserve table cell word boundaries | 2026-09-14 |
 | `open` | **[LodyAI/Lody#563](https://github.com/LodyAI/Lody/pull/563)** — fix(cli): coalesce overlapping history refreshes | 2026-09-14 |
 | `open` | **[affaan-m/ECC#3113](https://github.com/affaan-m/ECC/pull/3113)** — fix(opencode): install compiled home runtime | 2026-09-13 |
 | `open` | **[anomalyco/opencode#48733](https://github.com/anomalyco/opencode/pull/48733)** — fix(tui): preserve slash skill arguments | 2026-09-13 |
-| `open` | **[multica-ai/multica#8364](https://github.com/multica-ai/multica/pull/8364)** — feat(desktop): add configurable window close behavior | 2026-09-13 |
 | `open` | **[apache/maka#5266](https://github.com/apache/maka/pull/5266)** — fix(runtime): allow bounded Apple Git startup | 2026-09-13 |
 | `open` | **[apache/maka#5248](https://github.com/apache/maka/pull/5248)** — feat(runtime): verify background HTTP readiness | 2026-09-13 |
 | `merged` | **[CherryHQ/cherry-studio#20491](https://github.com/CherryHQ/cherry-studio/pull/20491)** — fix(chat): restore bottom-follow after sending | 2026-09-13 |
@@ -91,13 +100,10 @@ I write about the process on [dhpie.com](https://dhpie.com).
 | `open` | **[CherryHQ/cherry-studio#20321](https://github.com/CherryHQ/cherry-studio/pull/20321)** — fix(chat-errors): normalize non-error throws | 2026-09-13 |
 | `open` | **[CherryHQ/cherry-studio#20323](https://github.com/CherryHQ/cherry-studio/pull/20323)** — fix: accept sparse OpenAI response lifecycle events | 2026-09-13 |
 | `open` | **[CherryHQ/cherry-studio#20349](https://github.com/CherryHQ/cherry-studio/pull/20349)** — fix(data-api): avoid overlapping timed-out reads | 2026-09-13 |
-| `open` | **[CherryHQ/cherry-studio#20353](https://github.com/CherryHQ/cherry-studio/pull/20353)** — fix(ai-runtime): clamp agent output token limit | 2026-09-13 |
 | `open` | **[makecindy/cindy#4377](https://github.com/makecindy/cindy/pull/4377)** — fix(codex): preserve compacted turn recovery after disconnect | 2026-09-13 |
-| `open` | **[CherryHQ/cherry-studio#20322](https://github.com/CherryHQ/cherry-studio/pull/20322)** — fix(agent): honor configured Pi shell path | 2026-09-13 |
 | `open` | **[anomalyco/opencode#48734](https://github.com/anomalyco/opencode/pull/48734)** — fix(server): surface session creation errors | 2026-09-12 |
 | `open` | **[anomalyco/opencode#48732](https://github.com/anomalyco/opencode/pull/48732)** — fix(tui): finalize streamed markdown responses | 2026-09-12 |
 | `open` | **[multica-ai/multica#8353](https://github.com/multica-ai/multica/pull/8353)** — feat(usage): add exact workspace token export | 2026-09-12 |
-| `open` | **[CherryHQ/cherry-studio#20469](https://github.com/CherryHQ/cherry-studio/pull/20469)** — fix(markdown): bound mixed multiline math fences | 2026-09-12 |
 | `open` | **[makecindy/cindy#4366](https://github.com/makecindy/cindy/pull/4366)** — fix(mobile): avoid stale device roster snapshot | 2026-09-12 |
 | `merged` | **[apache/maka#5226](https://github.com/apache/maka/pull/5226)** — fix(scheduled-task): preserve snoozed occurrence on edits | 2026-09-12 |
 | `open` | **[apache/maka#5218](https://github.com/apache/maka/pull/5218)** — fix(desktop): add HTML artifact Finder fallback | 2026-09-12 |
@@ -125,10 +131,10 @@ I write about the process on [dhpie.com](https://dhpie.com).
 <summary>Recent conversations · issues, comments &amp; reviews</summary>
 
 <!-- activity:start -->
-- `2026-09-14` Commented on **[makecindy/cindy#4424](https://github.com/makecindy/cindy/pull/4424#discussion_r4001689925)**
-- `2026-09-13` Commented on **[affaan-m/ECC#3113](https://github.com/affaan-m/ECC/pull/3113#discussion_r4001245053)**
-- `2026-09-13` Commented on **[browser-use/browser-use#5469](https://github.com/browser-use/browser-use/issues/5469#issuecomment-5656385427)** — CLI 3.0 harness: Input.dispatchMouseEvent/key events silently dropped in a long-lived session while…
-- `2026-09-13` Commented on **[anomalyco/opencode#48733](https://github.com/anomalyco/opencode/pull/48733#issuecomment-5656372808)** — fix(tui): preserve slash skill arguments
+- `2026-09-14` Commented on **[browser-use/browser-use#5798](https://github.com/browser-use/browser-use/pull/5798#discussion_r4005192365)**
+- `2026-09-14` Commented on **[CherryHQ/cherry-studio#20322](https://github.com/CherryHQ/cherry-studio/pull/20322#discussion_r4004710480)**
+- `2026-09-14` Commented on **[CherryHQ/cherry-studio#20353](https://github.com/CherryHQ/cherry-studio/pull/20353#discussion_r4004184530)**
+- `2026-09-14` Commented on **[CherryHQ/cherry-studio#20283](https://github.com/CherryHQ/cherry-studio/issues/20283#issuecomment-5662230124)** — \[Bug\]: Agent MCP bindings and tool catalogs remain stale after MCP changes
 <!-- activity:end -->
 
 </details>
@@ -149,20 +155,20 @@ I write about the process on [dhpie.com](https://dhpie.com).
 ### `~/telemetry`
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Dante-dan/Dante-dan/main/assets/telemetry/stats-dark-6c2ceada9620f0b4.svg" />
-  <img src="https://raw.githubusercontent.com/Dante-dan/Dante-dan/main/assets/telemetry/stats-light-7646b4e3fe2004f3.svg" alt="Public GitHub contribution totals" width="390" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Dante-dan/Dante-dan/main/assets/telemetry/stats-dark-b6460d1e0cec9ce7.svg" />
+  <img src="https://raw.githubusercontent.com/Dante-dan/Dante-dan/main/assets/telemetry/stats-light-5e5120f6ad0de718.svg" alt="Public GitHub contribution totals" width="390" />
 </picture>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Dante-dan/Dante-dan/main/assets/telemetry/time-dark-4495bda2447851cf.svg" />
-  <img src="https://raw.githubusercontent.com/Dante-dan/Dante-dan/main/assets/telemetry/time-light-cf20b614149d0c17.svg" alt="Commit distribution by time of day, UTC+8" width="390" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Dante-dan/Dante-dan/main/assets/telemetry/time-dark-606841db14becab1.svg" />
+  <img src="https://raw.githubusercontent.com/Dante-dan/Dante-dan/main/assets/telemetry/time-light-9ef68cdc4fe29ec0.svg" alt="Commit distribution by time of day, UTC+8" width="390" />
 </picture>
 
-<img src="https://raw.githubusercontent.com/Dante-dan/Dante-dan/main/assets/telemetry/reactions-7290d234e6644477.svg" alt="Reactions received on recent public comments and issue bodies" width="650" />
+<img src="https://raw.githubusercontent.com/Dante-dan/Dante-dan/main/assets/telemetry/reactions-5950c45326bd3471.svg" alt="Reactions received on recent public comments and issue bodies" width="650" />
 
 
 
 <!-- telemetry-refresh:start -->
-<sub>Fetched every 8 hours · last successful fetch<br>Totals: 2026-09-14 02:11:21 UTC · Commit hours: 2026-09-14 02:11:21 UTC · Reactions: 2026-09-14 02:11:21 UTC</sub>
+<sub>Fetched every 8 hours · last successful fetch<br>Totals: 2026-09-14 13:05:24 UTC · Commit hours: 2026-09-14 13:05:24 UTC · Reactions: 2026-09-14 13:05:24 UTC</sub>
 <!-- telemetry-refresh:end -->
 
 ### `~/arcade`
