@@ -31,8 +31,8 @@ I write about the process on [dhpie.com](https://dhpie.com).
 <sub>Recently pushed public projects · forks excluded</sub>
 
 <!-- workbench:start -->
-- **[langgraph-learning-lab](https://github.com/Dante-dan/langgraph-learning-lab)** — Interactive Chinese LangGraph learning lab with Python/TypeScript examples and a visual execution playground
 - **[pi-agent-learning-lab](https://github.com/Dante-dan/pi-agent-learning-lab)** — Interactive Chinese learning lab for Pi Agent extensions, SDK, tools, sessions, providers, and production patterns
+- **[langgraph-learning-lab](https://github.com/Dante-dan/langgraph-learning-lab)** — Interactive Chinese LangGraph learning lab with Python/TypeScript examples and a visual execution playground
 - **[dan-skills](https://github.com/Dante-dan/dan-skills)** — Public TypeScript project.
 <!-- workbench:end -->
 
@@ -65,10 +65,16 @@ I write about the process on [dhpie.com](https://dhpie.com).
 <sub>Public upstream PRs updated in the last 7 days · refreshed every 8 hours</sub>
 
 <!-- upstream:start -->
-<sub>46 PRs · 34 open · 11 merged · 1 integrated</sub>
+<sub>50 PRs · 38 open · 11 merged · 1 integrated</sub>
 
 | Status | Pull request | Updated (UTC) |
 | :--- | :--- | :--- |
+| `open` | **[CherryHQ/cherry-studio#20502](https://github.com/CherryHQ/cherry-studio/pull/20502)** — fix(markdown): preserve table cell word boundaries | 2026-09-14 |
+| `open` | **[LodyAI/Lody#563](https://github.com/LodyAI/Lody/pull/563)** — fix(cli): coalesce overlapping history refreshes | 2026-09-14 |
+| `open` | **[affaan-m/ECC#3113](https://github.com/affaan-m/ECC/pull/3113)** — fix(opencode): install compiled home runtime | 2026-09-13 |
+| `open` | **[anomalyco/opencode#48733](https://github.com/anomalyco/opencode/pull/48733)** — fix(tui): preserve slash skill arguments | 2026-09-13 |
+| `open` | **[makecindy/cindy#4424](https://github.com/makecindy/cindy/pull/4424)** — feat(mobile): render Mermaid in Markdown file reader | 2026-09-13 |
+| `open` | **[multica-ai/multica#8364](https://github.com/multica-ai/multica/pull/8364)** — feat(desktop): add configurable window close behavior | 2026-09-13 |
 | `open` | **[apache/maka#5266](https://github.com/apache/maka/pull/5266)** — fix(runtime): allow bounded Apple Git startup | 2026-09-13 |
 | `open` | **[apache/maka#5248](https://github.com/apache/maka/pull/5248)** — feat(runtime): verify background HTTP readiness | 2026-09-13 |
 | `merged` | **[CherryHQ/cherry-studio#20491](https://github.com/CherryHQ/cherry-studio/pull/20491)** — fix(chat): restore bottom-follow after sending | 2026-09-13 |
@@ -89,7 +95,6 @@ I write about the process on [dhpie.com](https://dhpie.com).
 | `open` | **[makecindy/cindy#4377](https://github.com/makecindy/cindy/pull/4377)** — fix(codex): preserve compacted turn recovery after disconnect | 2026-09-13 |
 | `open` | **[CherryHQ/cherry-studio#20322](https://github.com/CherryHQ/cherry-studio/pull/20322)** — fix(agent): honor configured Pi shell path | 2026-09-13 |
 | `open` | **[anomalyco/opencode#48734](https://github.com/anomalyco/opencode/pull/48734)** — fix(server): surface session creation errors | 2026-09-12 |
-| `open` | **[anomalyco/opencode#48733](https://github.com/anomalyco/opencode/pull/48733)** — fix(tui): preserve slash skill arguments | 2026-09-12 |
 | `open` | **[anomalyco/opencode#48732](https://github.com/anomalyco/opencode/pull/48732)** — fix(tui): finalize streamed markdown responses | 2026-09-12 |
 | `open` | **[multica-ai/multica#8353](https://github.com/multica-ai/multica/pull/8353)** — feat(usage): add exact workspace token export | 2026-09-12 |
 | `open` | **[CherryHQ/cherry-studio#20469](https://github.com/CherryHQ/cherry-studio/pull/20469)** — fix(markdown): bound mixed multiline math fences | 2026-09-12 |
@@ -106,7 +111,6 @@ I write about the process on [dhpie.com](https://dhpie.com).
 | `open` | **[makecindy/cindy#4297](https://github.com/makecindy/cindy/pull/4297)** — fix(desktop): render automation settings before status probes | 2026-09-11 |
 | `merged` | **[apache/maka#5188](https://github.com/apache/maka/pull/5188)** — fix(runtime-host): respect transcript continuation boundaries | 2026-09-11 |
 | `merged` | **[CherryHQ/cherry-studio#20319](https://github.com/CherryHQ/cherry-studio/pull/20319)** — fix(quick-assistant): preserve dark surface on Windows | 2026-09-11 |
-| `open` | **[LodyAI/Lody#563](https://github.com/LodyAI/Lody/pull/563)** — fix(cli): coalesce overlapping history refreshes | 2026-09-11 |
 | `open` | **[LodyAI/Lody#577](https://github.com/LodyAI/Lody/pull/577)** — fix: wait for metadata before archive cascade | 2026-09-11 |
 | `open` | **[LodyAI/Lody#587](https://github.com/LodyAI/Lody/pull/587)** — fix(cli): list remote machine projects without daemon | 2026-09-10 |
 | `integrated` | **[affaan-m/ECC#3044](https://github.com/affaan-m/ECC/pull/3044)** — fix(install): handle missing Windows settings device IDs safely | 2026-09-10 |
@@ -121,10 +125,10 @@ I write about the process on [dhpie.com](https://dhpie.com).
 <summary>Recent conversations · issues, comments &amp; reviews</summary>
 
 <!-- activity:start -->
+- `2026-09-13` Commented on **[affaan-m/ECC#3113](https://github.com/affaan-m/ECC/pull/3113#discussion_r4001245053)**
+- `2026-09-13` Commented on **[browser-use/browser-use#5469](https://github.com/browser-use/browser-use/issues/5469#issuecomment-5656385427)** — CLI 3.0 harness: Input.dispatchMouseEvent/key events silently dropped in a long-lived session while…
+- `2026-09-13` Commented on **[anomalyco/opencode#48733](https://github.com/anomalyco/opencode/pull/48733#issuecomment-5656372808)** — fix(tui): preserve slash skill arguments
 - `2026-09-13` Commented on **[earendil-works/pi#9255](https://github.com/earendil-works/pi/issues/9255#issuecomment-5654477539)** — TuiMainScreen: full-screen redraw storm when changed rows sit above the viewport top (long transcri…
-- `2026-09-13` Commented on **[apache/maka#5260](https://github.com/apache/maka/issues/5260#issuecomment-5654246528)** — macOS: Agent Bash git fails with &quot;unable to load libxcrun&quot; under the Seatbelt sandbox
-- `2026-09-13` Commented on **[makecindy/cindy#4384](https://github.com/makecindy/cindy/pull/4384#discussion_r3999756904)**
-- `2026-09-13` Commented on **[earendil-works/pi#9474](https://github.com/earendil-works/pi/issues/9474#issuecomment-5652326755)** — Codex transport: no non-resetting per-request total deadline; periodic events defeat idle timeout
 <!-- activity:end -->
 
 </details>
