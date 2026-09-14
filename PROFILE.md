@@ -20,24 +20,36 @@ responses also preserve previous content. Only public data is requested.
 | --- | --- |
 | [GitHub Readme Stats Action](https://github.com/stats-organization/github-readme-stats-action) | Contribution totals; no rank or second language chart |
 | [GitHub Profile Summary Cards](https://github.com/vn7n24fzkq/github-profile-summary-cards) | Commit time distribution, UTC+8; other generated cards are discarded |
-| [lowlighter/metrics](https://github.com/lowlighter/metrics) | Reactions on recent comments |
+| `scripts/telemetry.py` + GitHub GraphQL | Reactions on a bounded sample of recent public comments and issue bodies |
 | [Arcade Contribution Graph](https://github.com/abozanona/pacman-contribution-graph) | Bomberman contribution animation, always visible with light/dark variants |
 
 SVGs are committed to `assets/`; Bomberman lives on `output`. Light/dark variants follow
 GitHub's color scheme. `style-cards.py` aligns Summary Cards typography/colors without
 changing its data. The repository-scoped built-in token restricts Metrics' GraphQL repository dataset
 in practice; its language card only counted this profile repository. That misleading
-card is intentionally omitted. Overall contribution totals and reactions were verified
-separately. A future language card needs independently verified public-repository data.
-Reactions cover a bounded sample of comments and issue/PR bodies from 90 days, not lifetime totals.
+card is intentionally omitted. Overall contribution totals were verified separately. A future language card needs independently verified public-repository data.
+Reactions include public, non-minimized items created within the last 90 days from
+GitHub's latest 100 issue comments (including PR conversation comments) and latest
+50 issues. Private items are excluded even when running locally with a broader token.
+PR bodies, review comments and discussions are not included. Reaction groups return
+full counts for each sampled item; this is not a lifetime total or all comments in 90 days.
+
+All three telemetry charts run in the same 8-hour `refresh` job. The README records
+each group's last successful fetch in UTC, even when values have not changed.
+`assets/telemetry-refresh.json` preserves these timestamps on source failures, and
+content-hashed image URLs change when SVG bytes change to avoid reusing stale image
+cache entries. A failed reactions query retains the old SVG and fails the workflow.
+
+The former pinned Metrics reactions plugin inverted the 90-day comparison
+(`created < cutoff`), displaying old items instead of recent ones. The native generator
+uses an inclusive `cutoff <= created <= now` and rejects GraphQL partial errors.
 
 The Metrics recent-activity plugin currently crashes on reduced GitHub event payloads
 (`pull_request.user` missing, even with PR events filtered out). The native Markdown
 activity section handles missing fields and avoids that dependency.
 
 All workflows use the repository's built-in `GITHUB_TOKEN`; no PAT or service keys are
-needed. Third-party actions are pinned to commit SHAs (Metrics additionally uses its
-upstream prebuilt image). Stats fetch errors and Metrics plugin errors fail rather than
+needed. Third-party actions are pinned to commit SHAs. Stats fetch errors and reactions query errors fail rather than
 publishing error cards. Scheduled updates do not recursively trigger themselves.
 
 Run locally: `GH_TOKEN="$(gh auth token)" python3 scripts/update-profile.py`.

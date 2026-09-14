@@ -149,17 +149,21 @@ I write about the process on [dhpie.com](https://dhpie.com).
 ### `~/telemetry`
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/stats-dark.svg" />
-  <img src="assets/stats-light.svg" alt="Public GitHub contribution totals" width="390" />
+  <source media="(prefers-color-scheme: dark)" srcset="assets/stats-dark.svg?v=8561ba66c93dffde" />
+  <img src="assets/stats-light.svg?v=6f422b3a9f118e3f" alt="Public GitHub contribution totals" width="390" />
 </picture>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/time-dark.svg" />
-  <img src="assets/time-light.svg" alt="Commit distribution by time of day, UTC+8" width="390" />
+  <source media="(prefers-color-scheme: dark)" srcset="assets/time-dark.svg?v=ae3d34f1abd26ce7" />
+  <img src="assets/time-light.svg?v=bc8cd93d7e8b376c" alt="Commit distribution by time of day, UTC+8" width="390" />
 </picture>
 
-<img src="assets/reactions.svg" alt="Reactions received on recent public comments and issue bodies" width="650" />
+<img src="assets/reactions.svg?v=7290d234e6644477" alt="Reactions received on recent public comments and issue bodies" width="650" />
 
 
+
+<!-- telemetry-refresh:start -->
+<sub>Fetched every 8 hours · last successful fetch<br>Totals: refresh pending · Commit hours: refresh pending · Reactions: 2026-09-14 02:04:37 UTC</sub>
+<!-- telemetry-refresh:end -->
 
 ### `~/arcade`
 

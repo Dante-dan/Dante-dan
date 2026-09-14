@@ -17,7 +17,7 @@ jobs:
     timeout-minutes: 20
     steps:
       - uses: actions/checkout@11d5960a326750d5838078e36cf38b85af677262
-      - name: Test feed failure handling
+      - name: Test profile generators and failure handling
         run: python3 -m unittest discover -s scripts -p 'test_*.py'
       - name: Refresh public projects, upstream PRs and blog RSS
         id: feeds
@@ -46,6 +46,7 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ github.token }}
       - name: Keep only the time card (dark)
+        id: copy_time_dark
         if: steps.time_dark.outcome == 'success'
         run: cp profile-summary-card-output/github_dark/4-productive-time.svg assets/time-dark.svg
       - name: Contribution totals (light)
@@ -69,41 +70,28 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ github.token }}
       - name: Keep only the time card (light)
+        id: copy_time_light
         if: steps.time_light.outcome == 'success'
         run: cp profile-summary-card-output/github/4-productive-time.svg assets/time-light.svg
+      - name: Refresh recent public reactions
+        id: reactions
+        continue-on-error: true
+        run: python3 scripts/telemetry.py reactions
+        env:
+          GH_TOKEN: ${{ github.token }}
       - name: Harmonize card typography and colors
         run: python3 scripts/style-cards.py
+      - name: Version card URLs and record successful fetches
+        run: python3 scripts/telemetry.py finalize
+        env:
+          STATS_OK: ${{ steps.stats_dark.outcome == 'success' && steps.stats_light.outcome == 'success' }}
+          TIME_OK: ${{ steps.copy_time_dark.outcome == 'success' && steps.copy_time_light.outcome == 'success' }}
+          REACTIONS_OK: ${{ steps.reactions.outcome == 'success' }}
       - name: Publish successful updates
         if: always()
         run: bash scripts/commit-profile.sh
       - name: Report incomplete refresh
-        if: steps.feeds.outcome == 'failure' || steps.stats_dark.outcome == 'failure' || steps.stats_light.outcome == 'failure' || steps.time_dark.outcome == 'failure' || steps.time_light.outcome == 'failure'
+        if: steps.reactions.outcome == 'failure' || steps.feeds.outcome == 'failure' || steps.stats_dark.outcome == 'failure' || steps.stats_light.outcome == 'failure' || steps.time_dark.outcome == 'failure' || steps.time_light.outcome == 'failure'
         run: |
           echo 'Some sources failed. Their previous content was retained.'
           exit 1
-  metrics:
-    runs-on: ubuntu-latest
-    timeout-minutes: 20
-    steps:
-      - name: Comment reactions
-        uses: lowlighter/metrics@65836723097537a54cd8eb90f61839426b4266b6
-        with:
-          token: ${{ github.token }}
-          user: Dante-dan
-          filename: assets/reactions.svg
-          committer_branch: main
-          base: ''
-          template: classic
-          config_timezone: Asia/Singapore
-          config_animations: no
-          config_display: regular
-          plugin_reactions: yes
-          plugin_reactions_details: count
-          plugin_reactions_days: 90
-          plugin_reactions_limit: 100
-          plugin_reactions_limit_issues: 50
-          plugin_reactions_limit_discussions: 0
-          plugin_reactions_limit_discussions_comments: 0
-          config_order: reactions
-          plugins_errors_fatal: yes
-          output_condition: data-changed
