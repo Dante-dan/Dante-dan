@@ -11,6 +11,7 @@ import urllib.request
 import xml.etree.ElementTree as ET
 
 ROOT = Path(__file__).resolve().parents[1]
+RAW_ASSETS = 'https://raw.githubusercontent.com/Dante-dan/Dante-dan/main/assets/'
 GROUPS = {'stats': ['stats-dark.svg', 'stats-light.svg'],
           'time': ['time-dark.svg', 'time-light.svg'], 'reactions': ['reactions.svg']}
 REACTIONS = [('THUMBS_UP', '👍'), ('THUMBS_DOWN', '👎'), ('LAUGH', '😄'),
@@ -99,8 +100,10 @@ def finalize(successful, root=ROOT, now=None):
         for filename in files:
             digest = hashlib.sha256((root / 'assets' / filename).read_bytes()).hexdigest()[:16]
             # A changed card gets a new image URL instead of reusing a cached URL.
-            readme = re.sub(r'(assets/' + re.escape(filename) + r')(?:\?v=[a-f0-9]+)?(?=")',
-                            lambda match: match[1] + '?v=' + digest, readme)
+            # GitHub's /raw/main redirect drops query strings on relative URLs.
+            readme = re.sub(r'(?:' + re.escape(RAW_ASSETS) + r'|assets/)' + re.escape(filename)
+                            + r'(?:\?v=[a-f0-9]+)?(?=")',
+                            lambda _: RAW_ASSETS + filename + '?v=' + digest, readme)
     labels = {'stats': 'Totals', 'time': 'Commit hours', 'reactions': 'Reactions'}
     stamps = [f'{labels[group]}: {state[group]["last_success_at"].replace("T", " ").replace("Z", " UTC")}'
               if group in state else f'{labels[group]}: refresh pending' for group in GROUPS]

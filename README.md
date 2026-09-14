@@ -149,15 +149,15 @@ I write about the process on [dhpie.com](https://dhpie.com).
 ### `~/telemetry`
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/stats-dark.svg?v=b20b6bce378a3654" />
-  <img src="assets/stats-light.svg?v=5edac63463f78d60" alt="Public GitHub contribution totals" width="390" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Dante-dan/Dante-dan/main/assets/stats-dark.svg?v=b20b6bce378a3654" />
+  <img src="https://raw.githubusercontent.com/Dante-dan/Dante-dan/main/assets/stats-light.svg?v=5edac63463f78d60" alt="Public GitHub contribution totals" width="390" />
 </picture>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/time-dark.svg?v=2221f1fc101ad75d" />
-  <img src="assets/time-light.svg?v=4b82d9b361109bb0" alt="Commit distribution by time of day, UTC+8" width="390" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Dante-dan/Dante-dan/main/assets/time-dark.svg?v=2221f1fc101ad75d" />
+  <img src="https://raw.githubusercontent.com/Dante-dan/Dante-dan/main/assets/time-light.svg?v=4b82d9b361109bb0" alt="Commit distribution by time of day, UTC+8" width="390" />
 </picture>
 
-<img src="assets/reactions.svg?v=7290d234e6644477" alt="Reactions received on recent public comments and issue bodies" width="650" />
+<img src="https://raw.githubusercontent.com/Dante-dan/Dante-dan/main/assets/reactions.svg?v=7290d234e6644477" alt="Reactions received on recent public comments and issue bodies" width="650" />
 
 
 

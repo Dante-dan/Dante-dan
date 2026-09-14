@@ -62,6 +62,7 @@ class TelemetryTests(unittest.TestCase):
             (root / 'README.md').write_text('\n'.join(images) + '\n### `~/arcade`')
             t.finalize(['stats', 'reactions'], root, NOW)
             first = (root / 'README.md').read_text()
+            self.assertIn(f'src="{t.RAW_ASSETS}stats-dark.svg?v=', first)
             self.assertIn('Commit hours: refresh pending', first)
             t.finalize(['stats'], root, NOW + timedelta(hours=8))
             second = (root / 'README.md').read_text()
@@ -74,6 +75,7 @@ class TelemetryTests(unittest.TestCase):
             third = (root / 'README.md').read_text()
             self.assertNotEqual(second.splitlines()[0], third.splitlines()[0])
             self.assertEqual(third.count('<!-- telemetry-refresh:start -->'), 1)
+            self.assertEqual(third.count(t.RAW_ASSETS), 5)
 
 
 if __name__ == '__main__':
