@@ -112,7 +112,7 @@ I write about the process on [dhpie.com](https://dhpie.com).
 | `merged` | **[apache/maka#5188](https://github.com/apache/maka/pull/5188)** — fix(runtime-host): respect transcript continuation boundaries | 2026-09-11 |
 | `merged` | **[CherryHQ/cherry-studio#20319](https://github.com/CherryHQ/cherry-studio/pull/20319)** — fix(quick-assistant): preserve dark surface on Windows | 2026-09-11 |
 | `open` | **[LodyAI/Lody#577](https://github.com/LodyAI/Lody/pull/577)** — fix: wait for metadata before archive cascade | 2026-09-11 |
-| `open` | **[LodyAI/Lody#587](https://github.com/LodyAI/Lody/pull/587)** — fix(cli): list remote machine projects without daemon | 2026-09-10 |
+| `open` | **[LodyAI/Lody#587](https://github.com/LodyAI/Lody/pull/587)** — fix(cli): list remote machine projects without daemon | 2026-09-14 |
 | `integrated` | **[affaan-m/ECC#3044](https://github.com/affaan-m/ECC/pull/3044)** — fix(install): handle missing Windows settings device IDs safely | 2026-09-10 |
 | `open` | **[browser-use/browser-use#5771](https://github.com/browser-use/browser-use/pull/5771)** — fix(browser): clean up local browser process trees | 2026-09-10 |
 | `merged` | **[makecindy/cindy#4219](https://github.com/makecindy/cindy/pull/4219)** — fix(mobile): open managed Markdown video links | 2026-09-10 |
@@ -149,12 +149,12 @@ I write about the process on [dhpie.com](https://dhpie.com).
 ### `~/telemetry`
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Dante-dan/Dante-dan/main/assets/stats-dark.svg?v=b20b6bce378a3654" />
-  <img src="https://raw.githubusercontent.com/Dante-dan/Dante-dan/main/assets/stats-light.svg?v=5edac63463f78d60" alt="Public GitHub contribution totals" width="390" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Dante-dan/Dante-dan/main/assets/stats-dark.svg?v=8e34f0ba4d88fbfd" />
+  <img src="https://raw.githubusercontent.com/Dante-dan/Dante-dan/main/assets/stats-light.svg?v=8428c67231be871e" alt="Public GitHub contribution totals" width="390" />
 </picture>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Dante-dan/Dante-dan/main/assets/time-dark.svg?v=2221f1fc101ad75d" />
-  <img src="https://raw.githubusercontent.com/Dante-dan/Dante-dan/main/assets/time-light.svg?v=4b82d9b361109bb0" alt="Commit distribution by time of day, UTC+8" width="390" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Dante-dan/Dante-dan/main/assets/time-dark.svg?v=c6a04e132bfd4a4c" />
+  <img src="https://raw.githubusercontent.com/Dante-dan/Dante-dan/main/assets/time-light.svg?v=2c7b655751abe081" alt="Commit distribution by time of day, UTC+8" width="390" />
 </picture>
 
 <img src="https://raw.githubusercontent.com/Dante-dan/Dante-dan/main/assets/reactions.svg?v=7290d234e6644477" alt="Reactions received on recent public comments and issue bodies" width="650" />
@@ -162,7 +162,7 @@ I write about the process on [dhpie.com](https://dhpie.com).
 
 
 <!-- telemetry-refresh:start -->
-<sub>Fetched every 8 hours · last successful fetch<br>Totals: 2026-09-14 02:06:47 UTC · Commit hours: 2026-09-14 02:06:47 UTC · Reactions: 2026-09-14 02:06:47 UTC</sub>
+<sub>Fetched every 8 hours · last successful fetch<br>Totals: 2026-09-14 02:09:36 UTC · Commit hours: 2026-09-14 02:09:36 UTC · Reactions: 2026-09-14 02:09:36 UTC</sub>
 <!-- telemetry-refresh:end -->
 
 ### `~/arcade`
