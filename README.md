@@ -69,11 +69,11 @@ I write about the process on [dhpie.com](https://dhpie.com).
 
 | Status | Pull request | Updated (UTC) |
 | :--- | :--- | :--- |
+| `open` | **[makecindy/cindy#4424](https://github.com/makecindy/cindy/pull/4424)** — feat(mobile): render Mermaid in Markdown file reader | 2026-09-14 |
 | `open` | **[CherryHQ/cherry-studio#20502](https://github.com/CherryHQ/cherry-studio/pull/20502)** — fix(markdown): preserve table cell word boundaries | 2026-09-14 |
 | `open` | **[LodyAI/Lody#563](https://github.com/LodyAI/Lody/pull/563)** — fix(cli): coalesce overlapping history refreshes | 2026-09-14 |
 | `open` | **[affaan-m/ECC#3113](https://github.com/affaan-m/ECC/pull/3113)** — fix(opencode): install compiled home runtime | 2026-09-13 |
 | `open` | **[anomalyco/opencode#48733](https://github.com/anomalyco/opencode/pull/48733)** — fix(tui): preserve slash skill arguments | 2026-09-13 |
-| `open` | **[makecindy/cindy#4424](https://github.com/makecindy/cindy/pull/4424)** — feat(mobile): render Mermaid in Markdown file reader | 2026-09-13 |
 | `open` | **[multica-ai/multica#8364](https://github.com/multica-ai/multica/pull/8364)** — feat(desktop): add configurable window close behavior | 2026-09-13 |
 | `open` | **[apache/maka#5266](https://github.com/apache/maka/pull/5266)** — fix(runtime): allow bounded Apple Git startup | 2026-09-13 |
 | `open` | **[apache/maka#5248](https://github.com/apache/maka/pull/5248)** — feat(runtime): verify background HTTP readiness | 2026-09-13 |
@@ -125,10 +125,10 @@ I write about the process on [dhpie.com](https://dhpie.com).
 <summary>Recent conversations · issues, comments &amp; reviews</summary>
 
 <!-- activity:start -->
+- `2026-09-14` Commented on **[makecindy/cindy#4424](https://github.com/makecindy/cindy/pull/4424#discussion_r4001689925)**
 - `2026-09-13` Commented on **[affaan-m/ECC#3113](https://github.com/affaan-m/ECC/pull/3113#discussion_r4001245053)**
 - `2026-09-13` Commented on **[browser-use/browser-use#5469](https://github.com/browser-use/browser-use/issues/5469#issuecomment-5656385427)** — CLI 3.0 harness: Input.dispatchMouseEvent/key events silently dropped in a long-lived session while…
 - `2026-09-13` Commented on **[anomalyco/opencode#48733](https://github.com/anomalyco/opencode/pull/48733#issuecomment-5656372808)** — fix(tui): preserve slash skill arguments
-- `2026-09-13` Commented on **[earendil-works/pi#9255](https://github.com/earendil-works/pi/issues/9255#issuecomment-5654477539)** — TuiMainScreen: full-screen redraw storm when changed rows sit above the viewport top (long transcri…
 <!-- activity:end -->
 
 </details>
@@ -149,12 +149,12 @@ I write about the process on [dhpie.com](https://dhpie.com).
 ### `~/telemetry`
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/stats-dark.svg?v=8561ba66c93dffde" />
-  <img src="assets/stats-light.svg?v=6f422b3a9f118e3f" alt="Public GitHub contribution totals" width="390" />
+  <source media="(prefers-color-scheme: dark)" srcset="assets/stats-dark.svg?v=b20b6bce378a3654" />
+  <img src="assets/stats-light.svg?v=5edac63463f78d60" alt="Public GitHub contribution totals" width="390" />
 </picture>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/time-dark.svg?v=ae3d34f1abd26ce7" />
-  <img src="assets/time-light.svg?v=bc8cd93d7e8b376c" alt="Commit distribution by time of day, UTC+8" width="390" />
+  <source media="(prefers-color-scheme: dark)" srcset="assets/time-dark.svg?v=2221f1fc101ad75d" />
+  <img src="assets/time-light.svg?v=4b82d9b361109bb0" alt="Commit distribution by time of day, UTC+8" width="390" />
 </picture>
 
 <img src="assets/reactions.svg?v=7290d234e6644477" alt="Reactions received on recent public comments and issue bodies" width="650" />
@@ -162,7 +162,7 @@ I write about the process on [dhpie.com](https://dhpie.com).
 
 
 <!-- telemetry-refresh:start -->
-<sub>Fetched every 8 hours · last successful fetch<br>Totals: refresh pending · Commit hours: refresh pending · Reactions: 2026-09-14 02:04:37 UTC</sub>
+<sub>Fetched every 8 hours · last successful fetch<br>Totals: 2026-09-14 02:06:47 UTC · Commit hours: 2026-09-14 02:06:47 UTC · Reactions: 2026-09-14 02:06:47 UTC</sub>
 <!-- telemetry-refresh:end -->
 
 ### `~/arcade`
