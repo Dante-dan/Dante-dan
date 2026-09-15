@@ -41,6 +41,7 @@ I write about the process on [dhpie.com](https://dhpie.com).
 <!-- contributions:start -->
 <sub>Code accepted upstream · last 12 months</sub>
 
+<table align="left" width="270"><tr><td width="64" valign="middle"><a href="https://github.com/can1357/oh-my-pi"><img src="assets/projects/can1357--oh-my-pi.png" width="56" height="56" alt="oh-my-pi icon" /></a></td><td width="200" valign="middle"><a href="https://github.com/can1357/oh-my-pi"><strong>oh-my-pi</strong></a><br /><sub><a href="https://github.com/can1357/oh-my-pi/pull/12080">merged contribution</a><br /><a href="https://github.com/can1357/oh-my-pi/pulls?q=is%3Apr+author%3ADante-dan">all PRs ↗</a></sub></td></tr></table>
 <table align="left" width="270"><tr><td width="64" valign="middle"><a href="https://github.com/CherryHQ/cherry-studio"><img src="assets/projects/CherryHQ--cherry-studio.png" width="56" height="56" alt="Cherry Studio icon" /></a></td><td width="200" valign="middle"><a href="https://github.com/CherryHQ/cherry-studio"><strong>Cherry Studio</strong></a><br /><sub><a href="https://github.com/CherryHQ/cherry-studio/pull/20469">merged contribution</a><br /><a href="https://github.com/CherryHQ/cherry-studio/pulls?q=is%3Apr+author%3ADante-dan">all PRs ↗</a></sub></td></tr></table>
 <table align="left" width="270"><tr><td width="64" valign="middle"><a href="https://github.com/multica-ai/multica"><img src="assets/projects/multica-ai--multica.png" width="56" height="56" alt="multica icon" /></a></td><td width="200" valign="middle"><a href="https://github.com/multica-ai/multica"><strong>multica</strong></a><br /><sub><a href="https://github.com/multica-ai/multica/pull/8297">merged contribution</a><br /><a href="https://github.com/multica-ai/multica/pulls?q=is%3Apr+author%3ADante-dan">all PRs ↗</a></sub></td></tr></table>
 <table align="left" width="270"><tr><td width="64" valign="middle"><a href="https://github.com/apache/maka"><img src="assets/projects/apache--maka.png" width="56" height="56" alt="maka icon" /></a></td><td width="200" valign="middle"><a href="https://github.com/apache/maka"><strong>maka</strong></a><br /><sub><a href="https://github.com/apache/maka/pull/5226">merged contribution</a><br /><a href="https://github.com/apache/maka/pulls?q=is%3Apr+author%3ADante-dan">all PRs ↗</a></sub></td></tr></table>
@@ -65,25 +66,25 @@ I write about the process on [dhpie.com](https://dhpie.com).
 <sub>Public upstream PRs updated in the last 7 days · refreshed every 8 hours</sub>
 
 <!-- upstream:start -->
-<sub>64 PRs · 50 open · 13 merged · 1 integrated</sub>
+<sub>64 PRs · 46 open · 17 merged · 1 integrated</sub>
 
 | Status | Pull request | Updated (UTC) |
 | :--- | :--- | :--- |
+| `merged` | **[can1357/oh-my-pi#12065](https://github.com/can1357/oh-my-pi/pull/12065)** — fix(ttsr): reserve deferred injections until delivery | 2026-09-15 |
+| `merged` | **[can1357/oh-my-pi#12078](https://github.com/can1357/oh-my-pi/pull/12078)** — fix(stats): expose session cwd in summaries | 2026-09-15 |
+| `merged` | **[can1357/oh-my-pi#12079](https://github.com/can1357/oh-my-pi/pull/12079)** — fix(coding-agent): keep mnemopi requests alive | 2026-09-15 |
+| `merged` | **[can1357/oh-my-pi#12080](https://github.com/can1357/oh-my-pi/pull/12080)** — fix(coding-agent): wait for PTY replay before finalizing transcript | 2026-09-15 |
+| `open` | **[can1357/oh-my-pi#12083](https://github.com/can1357/oh-my-pi/pull/12083)** — fix(coding-agent): clarify omp identity in system prompt | 2026-09-15 |
+| `open` | **[can1357/oh-my-pi#12082](https://github.com/can1357/oh-my-pi/pull/12082)** — feat(coding-agent): add producer-scoped artifact resolution | 2026-09-15 |
+| `open` | **[can1357/oh-my-pi#12081](https://github.com/can1357/oh-my-pi/pull/12081)** — feat(github): support operation-specific approval policies | 2026-09-15 |
+| `open` | **[CherryHQ/cherry-studio#20353](https://github.com/CherryHQ/cherry-studio/pull/20353)** — fix(ai-runtime): clamp agent output token limit | 2026-09-15 |
+| `open` | **[CherryHQ/cherry-studio#20322](https://github.com/CherryHQ/cherry-studio/pull/20322)** — fix(agent): honor configured Pi shell path | 2026-09-15 |
 | `open` | **[CherryHQ/cherry-studio#20486](https://github.com/CherryHQ/cherry-studio/pull/20486)** — fix(knowledge): handle oversized Zhipu reranks | 2026-09-14 |
 | `open` | **[CherryHQ/cherry-studio#20434](https://github.com/CherryHQ/cherry-studio/pull/20434)** — fix(ai): stabilize OpenRouter session routing | 2026-09-14 |
 | `open` | **[code-yeongyu/oh-my-openagent#8297](https://github.com/code-yeongyu/oh-my-openagent/pull/8297)** — fix(opencode): expose V2 plugin setup entry | 2026-09-14 |
-| `open` | **[can1357/oh-my-pi#12083](https://github.com/can1357/oh-my-pi/pull/12083)** — fix(coding-agent): clarify omp identity in system prompt | 2026-09-14 |
-| `open` | **[can1357/oh-my-pi#12082](https://github.com/can1357/oh-my-pi/pull/12082)** — feat(coding-agent): add producer-scoped artifact resolution | 2026-09-14 |
 | `open` | **[CherryHQ/cherry-studio#20487](https://github.com/CherryHQ/cherry-studio/pull/20487)** — feat(proxy): add connection test | 2026-09-14 |
 | `open` | **[CherryHQ/cherry-studio#20281](https://github.com/CherryHQ/cherry-studio/pull/20281)** — fix(ai-core): repair restored tool result names | 2026-09-14 |
-| `open` | **[can1357/oh-my-pi#12081](https://github.com/can1357/oh-my-pi/pull/12081)** — feat(github): support operation-specific approval policies | 2026-09-14 |
-| `open` | **[can1357/oh-my-pi#12080](https://github.com/can1357/oh-my-pi/pull/12080)** — fix(coding-agent): wait for PTY replay before finalizing transcript | 2026-09-14 |
-| `open` | **[can1357/oh-my-pi#12079](https://github.com/can1357/oh-my-pi/pull/12079)** — fix(coding-agent): keep mnemopi requests alive | 2026-09-14 |
-| `open` | **[can1357/oh-my-pi#12078](https://github.com/can1357/oh-my-pi/pull/12078)** — fix(stats): expose session cwd in summaries | 2026-09-14 |
 | `open` | **[apache/maka#5266](https://github.com/apache/maka/pull/5266)** — fix(runtime): allow bounded Apple Git startup | 2026-09-14 |
-| `open` | **[CherryHQ/cherry-studio#20353](https://github.com/CherryHQ/cherry-studio/pull/20353)** — fix(ai-runtime): clamp agent output token limit | 2026-09-14 |
-| `open` | **[CherryHQ/cherry-studio#20322](https://github.com/CherryHQ/cherry-studio/pull/20322)** — fix(agent): honor configured Pi shell path | 2026-09-14 |
-| `open` | **[can1357/oh-my-pi#12065](https://github.com/can1357/oh-my-pi/pull/12065)** — fix(ttsr): reserve deferred injections until delivery | 2026-09-14 |
 | `open` | **[CherryHQ/cherry-studio#20378](https://github.com/CherryHQ/cherry-studio/pull/20378)** — feat(knowledge): accept all recognized text files | 2026-09-14 |
 | `open` | **[CherryHQ/cherry-studio#20386](https://github.com/CherryHQ/cherry-studio/pull/20386)** — fix(new-api): restore Gemini web search through relays | 2026-09-14 |
 | `open` | **[browser-use/browser-use#5798](https://github.com/browser-use/browser-use/pull/5798)** — fix(dom): preserve password input value state | 2026-09-14 |
@@ -139,10 +140,10 @@ I write about the process on [dhpie.com](https://dhpie.com).
 <summary>Recent conversations · issues, comments &amp; reviews</summary>
 
 <!-- activity:start -->
-- `2026-09-14` Commented on **[code-yeongyu/oh-my-openagent#8297](https://github.com/code-yeongyu/oh-my-openagent/pull/8297#issuecomment-5671069445)** — fix(opencode): expose V2 plugin setup entry
-- `2026-09-14` Commented on **[earendil-works/pi#9210](https://github.com/earendil-works/pi/issues/9210#issuecomment-5667844870)** — Anthropic Messages via gateway: cacheWrite1h never set (1h count arrives in message\_delta), 1h writ…
-- `2026-09-14` Commented on **[earendil-works/pi#9457](https://github.com/earendil-works/pi/issues/9457#issuecomment-5667637019)** — bedrock-converse: 1h cache writes bill at the 5m rate
-- `2026-09-14` Commented on **[CherryHQ/cherry-studio#20353](https://github.com/CherryHQ/cherry-studio/pull/20353#discussion_r4007349472)**
+- `2026-09-15` Commented on **[can1357/oh-my-pi#12083](https://github.com/can1357/oh-my-pi/pull/12083#issuecomment-5674639400)** — fix(coding-agent): clarify omp identity in system prompt
+- `2026-09-15` Commented on **[can1357/oh-my-pi#12081](https://github.com/can1357/oh-my-pi/pull/12081#discussion_r4011861498)**
+- `2026-09-15` Commented on **[can1357/oh-my-pi#12082](https://github.com/can1357/oh-my-pi/pull/12082#discussion_r4011855796)**
+- `2026-09-15` Commented on **[can1357/oh-my-pi#12080](https://github.com/can1357/oh-my-pi/pull/12080#discussion_r4011851046)**
 <!-- activity:end -->
 
 </details>
@@ -163,12 +164,12 @@ I write about the process on [dhpie.com](https://dhpie.com).
 ### `~/telemetry`
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Dante-dan/Dante-dan/main/assets/telemetry/stats-dark-dbc5000e92c6b534.svg" />
-  <img src="https://raw.githubusercontent.com/Dante-dan/Dante-dan/main/assets/telemetry/stats-light-e8405e69b54af4bc.svg" alt="Public GitHub contribution totals" width="390" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Dante-dan/Dante-dan/main/assets/telemetry/stats-dark-71d04141a2fa66c7.svg" />
+  <img src="https://raw.githubusercontent.com/Dante-dan/Dante-dan/main/assets/telemetry/stats-light-f7c8ebdca78f8692.svg" alt="Public GitHub contribution totals" width="390" />
 </picture>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Dante-dan/Dante-dan/main/assets/telemetry/time-dark-0c158de5a63da081.svg" />
-  <img src="https://raw.githubusercontent.com/Dante-dan/Dante-dan/main/assets/telemetry/time-light-9ae7ce7e4250918e.svg" alt="Commit distribution by time of day, UTC+8" width="390" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Dante-dan/Dante-dan/main/assets/telemetry/time-dark-9d53bfd00dee8878.svg" />
+  <img src="https://raw.githubusercontent.com/Dante-dan/Dante-dan/main/assets/telemetry/time-light-e8b6df5de79154c9.svg" alt="Commit distribution by time of day, UTC+8" width="390" />
 </picture>
 
 <img src="https://raw.githubusercontent.com/Dante-dan/Dante-dan/main/assets/telemetry/reactions-5950c45326bd3471.svg" alt="Reactions received on recent public comments and issue bodies" width="650" />
@@ -176,7 +177,7 @@ I write about the process on [dhpie.com](https://dhpie.com).
 
 
 <!-- telemetry-refresh:start -->
-<sub>Fetched every 8 hours · last successful fetch<br>Totals: 2026-09-15 00:43:23 UTC · Commit hours: 2026-09-15 00:43:23 UTC · Reactions: 2026-09-15 00:43:23 UTC</sub>
+<sub>Fetched every 8 hours · last successful fetch<br>Totals: 2026-09-15 11:55:48 UTC · Commit hours: 2026-09-15 11:55:48 UTC · Reactions: 2026-09-15 11:55:48 UTC</sub>
 <!-- telemetry-refresh:end -->
 
 ### `~/arcade`
