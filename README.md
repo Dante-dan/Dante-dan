@@ -70,6 +70,7 @@ I write about the process on [dhpie.com](https://dhpie.com).
 
 | Status | Pull request | Updated (UTC) |
 | :--- | :--- | :--- |
+| `open` | **[CherryHQ/cherry-studio#20322](https://github.com/CherryHQ/cherry-studio/pull/20322)** — fix(agent): honor configured Pi shell path | 2026-09-15 |
 | `merged` | **[can1357/oh-my-pi#12065](https://github.com/can1357/oh-my-pi/pull/12065)** — fix(ttsr): reserve deferred injections until delivery | 2026-09-15 |
 | `merged` | **[can1357/oh-my-pi#12078](https://github.com/can1357/oh-my-pi/pull/12078)** — fix(stats): expose session cwd in summaries | 2026-09-15 |
 | `merged` | **[can1357/oh-my-pi#12079](https://github.com/can1357/oh-my-pi/pull/12079)** — fix(coding-agent): keep mnemopi requests alive | 2026-09-15 |
@@ -78,7 +79,6 @@ I write about the process on [dhpie.com](https://dhpie.com).
 | `open` | **[can1357/oh-my-pi#12082](https://github.com/can1357/oh-my-pi/pull/12082)** — feat(coding-agent): add producer-scoped artifact resolution | 2026-09-15 |
 | `open` | **[can1357/oh-my-pi#12081](https://github.com/can1357/oh-my-pi/pull/12081)** — feat(github): support operation-specific approval policies | 2026-09-15 |
 | `open` | **[CherryHQ/cherry-studio#20353](https://github.com/CherryHQ/cherry-studio/pull/20353)** — fix(ai-runtime): clamp agent output token limit | 2026-09-15 |
-| `open` | **[CherryHQ/cherry-studio#20322](https://github.com/CherryHQ/cherry-studio/pull/20322)** — fix(agent): honor configured Pi shell path | 2026-09-15 |
 | `open` | **[CherryHQ/cherry-studio#20486](https://github.com/CherryHQ/cherry-studio/pull/20486)** — fix(knowledge): handle oversized Zhipu reranks | 2026-09-14 |
 | `open` | **[CherryHQ/cherry-studio#20434](https://github.com/CherryHQ/cherry-studio/pull/20434)** — fix(ai): stabilize OpenRouter session routing | 2026-09-14 |
 | `open` | **[code-yeongyu/oh-my-openagent#8297](https://github.com/code-yeongyu/oh-my-openagent/pull/8297)** — fix(opencode): expose V2 plugin setup entry | 2026-09-14 |
@@ -177,7 +177,7 @@ I write about the process on [dhpie.com](https://dhpie.com).
 
 
 <!-- telemetry-refresh:start -->
-<sub>Fetched every 8 hours · last successful fetch<br>Totals: 2026-09-15 11:55:48 UTC · Commit hours: 2026-09-15 11:55:48 UTC · Reactions: 2026-09-15 11:55:48 UTC</sub>
+<sub>Fetched every 8 hours · last successful fetch<br>Totals: 2026-09-15 18:19:02 UTC · Commit hours: 2026-09-15 18:19:02 UTC · Reactions: 2026-09-15 18:19:02 UTC</sub>
 <!-- telemetry-refresh:end -->
 
 ### `~/arcade`
