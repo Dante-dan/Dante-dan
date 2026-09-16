@@ -66,29 +66,33 @@ I write about the process on [dhpie.com](https://dhpie.com).
 <sub>Public upstream PRs updated in the last 7 days · refreshed every 8 hours</sub>
 
 <!-- upstream:start -->
-<sub>64 PRs · 46 open · 17 merged · 1 integrated</sub>
+<sub>63 PRs · 47 open · 15 merged · 1 integrated</sub>
 
 | Status | Pull request | Updated (UTC) |
 | :--- | :--- | :--- |
-| `open` | **[CherryHQ/cherry-studio#20322](https://github.com/CherryHQ/cherry-studio/pull/20322)** — fix(agent): honor configured Pi shell path | 2026-09-15 |
+| `open` | **[CherryHQ/cherry-studio#20322](https://github.com/CherryHQ/cherry-studio/pull/20322)** — fix(agent): honor configured Pi shell path | 2026-09-16 |
+| `open` | **[CherryHQ/cherry-studio#20487](https://github.com/CherryHQ/cherry-studio/pull/20487)** — feat(proxy): add connection test | 2026-09-16 |
+| `open` | **[CherryHQ/cherry-studio#20353](https://github.com/CherryHQ/cherry-studio/pull/20353)** — fix(ai-runtime): clamp agent output token limit | 2026-09-16 |
+| `open` | **[CherryHQ/cherry-studio#20378](https://github.com/CherryHQ/cherry-studio/pull/20378)** — feat(knowledge): accept all recognized text files | 2026-09-16 |
+| `open` | **[makecindy/cindy#4384](https://github.com/makecindy/cindy/pull/4384)** — fix(auth): guard stale runtime expiry transitions | 2026-09-16 |
+| `open` | **[apache/maka#5286](https://github.com/apache/maka/pull/5286)** — fix(desktop): guard broadcasts by renderer frame | 2026-09-16 |
+| `open` | **[browser-use/browser-use#5798](https://github.com/browser-use/browser-use/pull/5798)** — fix(dom): preserve password input value state | 2026-09-16 |
+| `open` | **[multica-ai/multica#8364](https://github.com/multica-ai/multica/pull/8364)** — MUL-7328 feat(desktop): add configurable window close behavior | 2026-09-16 |
+| `open` | **[can1357/oh-my-pi#12223](https://github.com/can1357/oh-my-pi/pull/12223)** — fix(coding-agent): track catalog descriptor discovery state | 2026-09-16 |
+| `open` | **[CherryHQ/cherry-studio#20386](https://github.com/CherryHQ/cherry-studio/pull/20386)** — fix(new-api): restore Gemini web search through relays | 2026-09-16 |
+| `open` | **[makecindy/cindy#4366](https://github.com/makecindy/cindy/pull/4366)** — fix(mobile): avoid stale device roster snapshot | 2026-09-16 |
+| `open` | **[can1357/oh-my-pi#12081](https://github.com/can1357/oh-my-pi/pull/12081)** — feat(github): support operation-specific approval policies | 2026-09-16 |
+| `open` | **[can1357/oh-my-pi#12082](https://github.com/can1357/oh-my-pi/pull/12082)** — feat(coding-agent): add producer-scoped artifact resolution | 2026-09-16 |
+| `open` | **[can1357/oh-my-pi#12083](https://github.com/can1357/oh-my-pi/pull/12083)** — fix(coding-agent): clarify omp identity in system prompt | 2026-09-16 |
 | `merged` | **[can1357/oh-my-pi#12065](https://github.com/can1357/oh-my-pi/pull/12065)** — fix(ttsr): reserve deferred injections until delivery | 2026-09-15 |
 | `merged` | **[can1357/oh-my-pi#12078](https://github.com/can1357/oh-my-pi/pull/12078)** — fix(stats): expose session cwd in summaries | 2026-09-15 |
 | `merged` | **[can1357/oh-my-pi#12079](https://github.com/can1357/oh-my-pi/pull/12079)** — fix(coding-agent): keep mnemopi requests alive | 2026-09-15 |
 | `merged` | **[can1357/oh-my-pi#12080](https://github.com/can1357/oh-my-pi/pull/12080)** — fix(coding-agent): wait for PTY replay before finalizing transcript | 2026-09-15 |
-| `open` | **[can1357/oh-my-pi#12083](https://github.com/can1357/oh-my-pi/pull/12083)** — fix(coding-agent): clarify omp identity in system prompt | 2026-09-15 |
-| `open` | **[can1357/oh-my-pi#12082](https://github.com/can1357/oh-my-pi/pull/12082)** — feat(coding-agent): add producer-scoped artifact resolution | 2026-09-15 |
-| `open` | **[can1357/oh-my-pi#12081](https://github.com/can1357/oh-my-pi/pull/12081)** — feat(github): support operation-specific approval policies | 2026-09-15 |
-| `open` | **[CherryHQ/cherry-studio#20353](https://github.com/CherryHQ/cherry-studio/pull/20353)** — fix(ai-runtime): clamp agent output token limit | 2026-09-15 |
 | `open` | **[CherryHQ/cherry-studio#20486](https://github.com/CherryHQ/cherry-studio/pull/20486)** — fix(knowledge): handle oversized Zhipu reranks | 2026-09-14 |
 | `open` | **[CherryHQ/cherry-studio#20434](https://github.com/CherryHQ/cherry-studio/pull/20434)** — fix(ai): stabilize OpenRouter session routing | 2026-09-14 |
 | `open` | **[code-yeongyu/oh-my-openagent#8297](https://github.com/code-yeongyu/oh-my-openagent/pull/8297)** — fix(opencode): expose V2 plugin setup entry | 2026-09-14 |
-| `open` | **[CherryHQ/cherry-studio#20487](https://github.com/CherryHQ/cherry-studio/pull/20487)** — feat(proxy): add connection test | 2026-09-14 |
 | `open` | **[CherryHQ/cherry-studio#20281](https://github.com/CherryHQ/cherry-studio/pull/20281)** — fix(ai-core): repair restored tool result names | 2026-09-14 |
 | `open` | **[apache/maka#5266](https://github.com/apache/maka/pull/5266)** — fix(runtime): allow bounded Apple Git startup | 2026-09-14 |
-| `open` | **[CherryHQ/cherry-studio#20378](https://github.com/CherryHQ/cherry-studio/pull/20378)** — feat(knowledge): accept all recognized text files | 2026-09-14 |
-| `open` | **[CherryHQ/cherry-studio#20386](https://github.com/CherryHQ/cherry-studio/pull/20386)** — fix(new-api): restore Gemini web search through relays | 2026-09-14 |
-| `open` | **[browser-use/browser-use#5798](https://github.com/browser-use/browser-use/pull/5798)** — fix(dom): preserve password input value state | 2026-09-14 |
-| `open` | **[makecindy/cindy#4384](https://github.com/makecindy/cindy/pull/4384)** — fix(auth): guard stale runtime expiry transitions | 2026-09-14 |
 | `open` | **[CherryHQ/cherry-studio#20323](https://github.com/CherryHQ/cherry-studio/pull/20323)** — fix: accept sparse OpenAI response lifecycle events | 2026-09-14 |
 | `open` | **[CherryHQ/cherry-studio#20321](https://github.com/CherryHQ/cherry-studio/pull/20321)** — fix(chat-errors): normalize non-error throws | 2026-09-14 |
 | `open` | **[CherryHQ/cherry-studio#20320](https://github.com/CherryHQ/cherry-studio/pull/20320)** — fix(work): keep pinned tasks in agent grouping | 2026-09-14 |
@@ -96,9 +100,7 @@ I write about the process on [dhpie.com](https://dhpie.com).
 | `open` | **[affaan-m/ECC#3121](https://github.com/affaan-m/ECC/pull/3121)** — docs(i18n): add Polish localization scout | 2026-09-14 |
 | `merged` | **[CherryHQ/cherry-studio#20469](https://github.com/CherryHQ/cherry-studio/pull/20469)** — fix(markdown): bound mixed multiline math fences | 2026-09-14 |
 | `open` | **[multica-ai/multica#8411](https://github.com/multica-ai/multica/pull/8411)** — feat(projects): bind local directories by agent | 2026-09-14 |
-| `open` | **[apache/maka#5286](https://github.com/apache/maka/pull/5286)** — fix(desktop): guard broadcasts by renderer frame | 2026-09-14 |
 | `open` | **[affaan-m/ECC#3119](https://github.com/affaan-m/ECC/pull/3119)** — fix(install): keep home targets target-safe | 2026-09-14 |
-| `open` | **[multica-ai/multica#8364](https://github.com/multica-ai/multica/pull/8364)** — MUL-7328 feat(desktop): add configurable window close behavior | 2026-09-14 |
 | `open` | **[apache/maka#5278](https://github.com/apache/maka/pull/5278)** — fix(runtime): bound OpenAI Chat image tool results | 2026-09-14 |
 | `merged` | **[CherryHQ/cherry-studio#20502](https://github.com/CherryHQ/cherry-studio/pull/20502)** — fix(markdown): preserve table cell word boundaries | 2026-09-14 |
 | `open` | **[makecindy/cindy#4424](https://github.com/makecindy/cindy/pull/4424)** — feat(mobile): render Mermaid in Markdown file reader | 2026-09-14 |
@@ -113,7 +115,6 @@ I write about the process on [dhpie.com](https://dhpie.com).
 | `open` | **[anomalyco/opencode#48734](https://github.com/anomalyco/opencode/pull/48734)** — fix(server): surface session creation errors | 2026-09-12 |
 | `open` | **[anomalyco/opencode#48732](https://github.com/anomalyco/opencode/pull/48732)** — fix(tui): finalize streamed markdown responses | 2026-09-12 |
 | `open` | **[multica-ai/multica#8353](https://github.com/multica-ai/multica/pull/8353)** — feat(usage): add exact workspace token export | 2026-09-12 |
-| `open` | **[makecindy/cindy#4366](https://github.com/makecindy/cindy/pull/4366)** — fix(mobile): avoid stale device roster snapshot | 2026-09-12 |
 | `merged` | **[apache/maka#5226](https://github.com/apache/maka/pull/5226)** — fix(scheduled-task): preserve snoozed occurrence on edits | 2026-09-12 |
 | `open` | **[apache/maka#5218](https://github.com/apache/maka/pull/5218)** — fix(desktop): add HTML artifact Finder fallback | 2026-09-12 |
 | `open` | **[LodyAI/acp-extension-dsh#15](https://github.com/LodyAI/acp-extension-dsh/pull/15)** — feat: support provider-qualified DSH routes | 2026-09-12 |
@@ -132,18 +133,16 @@ I write about the process on [dhpie.com](https://dhpie.com).
 | `open` | **[browser-use/browser-use#5771](https://github.com/browser-use/browser-use/pull/5771)** — fix(browser): clean up local browser process trees | 2026-09-10 |
 | `merged` | **[makecindy/cindy#4219](https://github.com/makecindy/cindy/pull/4219)** — fix(mobile): open managed Markdown video links | 2026-09-10 |
 | `merged` | **[makecindy/cindy#4185](https://github.com/makecindy/cindy/pull/4185)** — test(pi): wait for follow-up command observation | 2026-09-10 |
-| `merged` | **[makecindy/cindy#4173](https://github.com/makecindy/cindy/pull/4173)** — fix(auth): wait for owner transition before login initialization | 2026-09-09 |
-| `merged` | **[CherryHQ/cherry-studio#20267](https://github.com/CherryHQ/cherry-studio/pull/20267)** — fix(pi): preserve OpenCode session headers | 2026-09-09 |
 <!-- upstream:end -->
 
 <details>
 <summary>Recent conversations · issues, comments &amp; reviews</summary>
 
 <!-- activity:start -->
-- `2026-09-15` Commented on **[can1357/oh-my-pi#12083](https://github.com/can1357/oh-my-pi/pull/12083#issuecomment-5674639400)** — fix(coding-agent): clarify omp identity in system prompt
-- `2026-09-15` Commented on **[can1357/oh-my-pi#12081](https://github.com/can1357/oh-my-pi/pull/12081#discussion_r4011861498)**
-- `2026-09-15` Commented on **[can1357/oh-my-pi#12082](https://github.com/can1357/oh-my-pi/pull/12082#discussion_r4011855796)**
-- `2026-09-15` Commented on **[can1357/oh-my-pi#12080](https://github.com/can1357/oh-my-pi/pull/12080#discussion_r4011851046)**
+- `2026-09-16` Commented on **[makecindy/cindy#4384](https://github.com/makecindy/cindy/pull/4384#discussion_r4024354754)**
+- `2026-09-16` Reviewed on **[CherryHQ/cherry-studio#20322](https://github.com/CherryHQ/cherry-studio/pull/20322#pullrequestreview-5220504691)**
+- `2026-09-16` Commented on **[earendil-works/pi#9616](https://github.com/earendil-works/pi/issues/9616#issuecomment-5694606455)** — zai-coding-cn: GLM Coding Plan now only serves GLM-5.3 / GLM-5.3-Flash — catalog still lists 8 lega…
+- `2026-09-16` Commented on **[earendil-works/pi#9485](https://github.com/earendil-works/pi/issues/9485#issuecomment-5693424314)** — OpenRouter DeepSeek V4.1 exposes xhigh and hides max (stale pin in generate-models.ts)
 <!-- activity:end -->
 
 </details>
@@ -164,8 +163,8 @@ I write about the process on [dhpie.com](https://dhpie.com).
 ### `~/telemetry`
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Dante-dan/Dante-dan/main/assets/telemetry/stats-dark-71d04141a2fa66c7.svg" />
-  <img src="https://raw.githubusercontent.com/Dante-dan/Dante-dan/main/assets/telemetry/stats-light-f7c8ebdca78f8692.svg" alt="Public GitHub contribution totals" width="390" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Dante-dan/Dante-dan/main/assets/telemetry/stats-dark-a9d133ea421a6ecd.svg" />
+  <img src="https://raw.githubusercontent.com/Dante-dan/Dante-dan/main/assets/telemetry/stats-light-f58aae6f71705605.svg" alt="Public GitHub contribution totals" width="390" />
 </picture>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Dante-dan/Dante-dan/main/assets/telemetry/time-dark-9d53bfd00dee8878.svg" />
@@ -177,7 +176,7 @@ I write about the process on [dhpie.com](https://dhpie.com).
 
 
 <!-- telemetry-refresh:start -->
-<sub>Fetched every 8 hours · last successful fetch<br>Totals: 2026-09-16 00:33:21 UTC · Commit hours: 2026-09-16 00:33:21 UTC · Reactions: 2026-09-16 00:33:21 UTC</sub>
+<sub>Fetched every 8 hours · last successful fetch<br>Totals: 2026-09-16 11:51:37 UTC · Commit hours: 2026-09-16 11:51:37 UTC · Reactions: 2026-09-16 11:51:37 UTC</sub>
 <!-- telemetry-refresh:end -->
 
 ### `~/arcade`
