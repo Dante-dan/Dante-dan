@@ -66,13 +66,16 @@ I write about the process on [dhpie.com](https://dhpie.com).
 <sub>Public upstream PRs updated in the last 7 days · refreshed every 8 hours</sub>
 
 <!-- upstream:start -->
-<sub>69 PRs · 52 open · 16 merged · 1 integrated</sub>
+<sub>72 PRs · 55 open · 16 merged · 1 integrated</sub>
 
 | Status | Pull request | Updated (UTC) |
 | :--- | :--- | :--- |
-| `open` | **[can1357/oh-my-pi#12253](https://github.com/can1357/oh-my-pi/pull/12253)** — fix(session): anchor exit marker to persisted tail | 2026-09-16 |
-| `open` | **[makecindy/cindy#4551](https://github.com/makecindy/cindy/pull/4551)** — fix(desktop): acknowledge opened background tasks | 2026-09-16 |
+| `open` | **[can1357/oh-my-pi#12253](https://github.com/can1357/oh-my-pi/pull/12253)** — fix(session): anchor exit marker to persisted tail | 2026-09-17 |
 | `open` | **[makecindy/cindy#4550](https://github.com/makecindy/cindy/pull/4550)** — fix(providers): restore Pi model image input control | 2026-09-16 |
+| `open` | **[heygen-com/hyperframes#4013](https://github.com/heygen-com/hyperframes/pull/4013)** — feat(engine): add opt-in SDR temporal motion blur | 2026-09-16 |
+| `open` | **[code-yeongyu/oh-my-openagent#8405](https://github.com/code-yeongyu/oh-my-openagent/pull/8405)** — test(codex): bound the installer manifest fixture | 2026-09-16 |
+| `open` | **[code-yeongyu/oh-my-openagent#8404](https://github.com/code-yeongyu/oh-my-openagent/pull/8404)** — fix(team-core): publish complete lock owners atomically | 2026-09-16 |
+| `open` | **[makecindy/cindy#4551](https://github.com/makecindy/cindy/pull/4551)** — fix(desktop): acknowledge opened background tasks | 2026-09-16 |
 | `open` | **[makecindy/cindy#4553](https://github.com/makecindy/cindy/pull/4553)** — fix(desktop): clear event-backed attention after task deletion | 2026-09-16 |
 | `open` | **[CherryHQ/cherry-studio#20322](https://github.com/CherryHQ/cherry-studio/pull/20322)** — fix(agent): honor configured Pi shell path | 2026-09-16 |
 | `open` | **[CherryHQ/cherry-studio#20353](https://github.com/CherryHQ/cherry-studio/pull/20353)** — fix(ai-runtime): clamp agent output token limit | 2026-09-16 |
@@ -145,10 +148,10 @@ I write about the process on [dhpie.com](https://dhpie.com).
 <summary>Recent conversations · issues, comments &amp; reviews</summary>
 
 <!-- activity:start -->
+- `2026-09-16` Commented on **[langchain-ai/langgraph#8672](https://github.com/langchain-ai/langgraph/issues/8672#issuecomment-5705700676)** — stream\_mode=&quot;values&quot; skips a step when a node returns None or {}, while &quot;updates&quot; emits it
+- `2026-09-16` Commented on **[makecindy/cindy#4550](https://github.com/makecindy/cindy/pull/4550#discussion_r4031451070)**
+- `2026-09-16` Commented on **[langchain-ai/langgraph#8696](https://github.com/langchain-ai/langgraph/issues/8696#issuecomment-5705565345)** — Store pagination: negative limit/offset silently drops results in InMemoryStore and diverges across…
 - `2026-09-16` Commented on **[makecindy/cindy#4551](https://github.com/makecindy/cindy/pull/4551#issuecomment-5701607668)** — fix(desktop): acknowledge opened background tasks
-- `2026-09-16` Commented on **[makecindy/cindy#4550](https://github.com/makecindy/cindy/pull/4550#issuecomment-5700481142)** — fix(providers): restore Pi model image input control
-- `2026-09-16` Commented on **[makecindy/cindy#4553](https://github.com/makecindy/cindy/pull/4553#discussion_r4027969229)**
-- `2026-09-16` Commented on **[CherryHQ/cherry-studio#20322](https://github.com/CherryHQ/cherry-studio/pull/20322#discussion_r4027858257)**
 <!-- activity:end -->
 
 </details>
@@ -169,8 +172,8 @@ I write about the process on [dhpie.com](https://dhpie.com).
 ### `~/telemetry`
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Dante-dan/Dante-dan/main/assets/telemetry/stats-dark-1f090a7db3816d4c.svg" />
-  <img src="https://raw.githubusercontent.com/Dante-dan/Dante-dan/main/assets/telemetry/stats-light-c1ee1af93f62cc6a.svg" alt="Public GitHub contribution totals" width="390" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Dante-dan/Dante-dan/main/assets/telemetry/stats-dark-95463a7882a17d1c.svg" />
+  <img src="https://raw.githubusercontent.com/Dante-dan/Dante-dan/main/assets/telemetry/stats-light-c291b021d9dc8888.svg" alt="Public GitHub contribution totals" width="390" />
 </picture>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Dante-dan/Dante-dan/main/assets/telemetry/time-dark-89538990b09dad87.svg" />
@@ -182,7 +185,7 @@ I write about the process on [dhpie.com](https://dhpie.com).
 
 
 <!-- telemetry-refresh:start -->
-<sub>Fetched every 8 hours · last successful fetch<br>Totals: 2026-09-16 18:16:12 UTC · Commit hours: 2026-09-16 18:16:12 UTC · Reactions: 2026-09-16 18:16:12 UTC</sub>
+<sub>Fetched every 8 hours · last successful fetch<br>Totals: 2026-09-17 00:41:27 UTC · Commit hours: 2026-09-17 00:41:27 UTC · Reactions: 2026-09-17 00:41:27 UTC</sub>
 <!-- telemetry-refresh:end -->
 
 ### `~/arcade`
