@@ -71,16 +71,17 @@ I write about the process on [dhpie.com](https://dhpie.com).
 
 | Status | Pull request | Updated (UTC) |
 | :--- | :--- | :--- |
+| `open` | **[makecindy/cindy#4553](https://github.com/makecindy/cindy/pull/4553)** — fix(desktop): clear event-backed attention after task deletion | 2026-09-17 |
 | `open` | **[CherryHQ/cherry-studio#20353](https://github.com/CherryHQ/cherry-studio/pull/20353)** — fix(ai-runtime): clamp agent output token limit | 2026-09-17 |
+| `open` | **[CherryHQ/cherry-studio#20322](https://github.com/CherryHQ/cherry-studio/pull/20322)** — fix(agent): honor configured Pi shell path | 2026-09-17 |
+| `open` | **[apache/maka#5266](https://github.com/apache/maka/pull/5266)** — fix(runtime): allow bounded Apple Git startup | 2026-09-17 |
 | `merged` | **[code-yeongyu/oh-my-openagent#8392](https://github.com/code-yeongyu/oh-my-openagent/pull/8392)** — fix(senpi): create task state lazily | 2026-09-17 |
 | `open` | **[apache/maka#5286](https://github.com/apache/maka/pull/5286)** — fix(desktop): guard broadcasts by renderer frame | 2026-09-17 |
 | `open` | **[makecindy/cindy#4550](https://github.com/makecindy/cindy/pull/4550)** — fix(providers): restore Pi model image input control | 2026-09-17 |
-| `open` | **[CherryHQ/cherry-studio#20322](https://github.com/CherryHQ/cherry-studio/pull/20322)** — fix(agent): honor configured Pi shell path | 2026-09-17 |
 | `open` | **[can1357/oh-my-pi#12253](https://github.com/can1357/oh-my-pi/pull/12253)** — fix(session): anchor exit marker to persisted tail | 2026-09-17 |
 | `open` | **[code-yeongyu/oh-my-openagent#8405](https://github.com/code-yeongyu/oh-my-openagent/pull/8405)** — test(codex): bound the installer manifest fixture | 2026-09-16 |
 | `open` | **[code-yeongyu/oh-my-openagent#8404](https://github.com/code-yeongyu/oh-my-openagent/pull/8404)** — fix(team-core): publish complete lock owners atomically | 2026-09-16 |
 | `open` | **[makecindy/cindy#4551](https://github.com/makecindy/cindy/pull/4551)** — fix(desktop): acknowledge opened background tasks | 2026-09-16 |
-| `open` | **[makecindy/cindy#4553](https://github.com/makecindy/cindy/pull/4553)** — fix(desktop): clear event-backed attention after task deletion | 2026-09-16 |
 | `open` | **[CherryHQ/cherry-studio#20378](https://github.com/CherryHQ/cherry-studio/pull/20378)** — feat(knowledge): accept all recognized text files | 2026-09-16 |
 | `merged` | **[can1357/oh-my-pi#12223](https://github.com/can1357/oh-my-pi/pull/12223)** — fix(coding-agent): track catalog descriptor discovery state | 2026-09-16 |
 | `open` | **[CherryHQ/cherry-studio#20487](https://github.com/CherryHQ/cherry-studio/pull/20487)** — feat(proxy): add connection test | 2026-09-16 |
@@ -101,7 +102,6 @@ I write about the process on [dhpie.com](https://dhpie.com).
 | `open` | **[CherryHQ/cherry-studio#20434](https://github.com/CherryHQ/cherry-studio/pull/20434)** — fix(ai): stabilize OpenRouter session routing | 2026-09-14 |
 | `open` | **[code-yeongyu/oh-my-openagent#8297](https://github.com/code-yeongyu/oh-my-openagent/pull/8297)** — fix(opencode): expose V2 plugin setup entry | 2026-09-14 |
 | `open` | **[CherryHQ/cherry-studio#20281](https://github.com/CherryHQ/cherry-studio/pull/20281)** — fix(ai-core): repair restored tool result names | 2026-09-14 |
-| `open` | **[apache/maka#5266](https://github.com/apache/maka/pull/5266)** — fix(runtime): allow bounded Apple Git startup | 2026-09-14 |
 | `open` | **[CherryHQ/cherry-studio#20323](https://github.com/CherryHQ/cherry-studio/pull/20323)** — fix: accept sparse OpenAI response lifecycle events | 2026-09-14 |
 | `open` | **[CherryHQ/cherry-studio#20321](https://github.com/CherryHQ/cherry-studio/pull/20321)** — fix(chat-errors): normalize non-error throws | 2026-09-14 |
 | `open` | **[CherryHQ/cherry-studio#20320](https://github.com/CherryHQ/cherry-studio/pull/20320)** — fix(work): keep pinned tasks in agent grouping | 2026-09-14 |
@@ -146,10 +146,10 @@ I write about the process on [dhpie.com](https://dhpie.com).
 <summary>Recent conversations · issues, comments &amp; reviews</summary>
 
 <!-- activity:start -->
+- `2026-09-17` Commented on **[earendil-works/pi#9579](https://github.com/earendil-works/pi/issues/9579#issuecomment-5712973010)** — Overflow image recovery uses a fixed 16 MiB budget that exceeds smaller provider request limits
 - `2026-09-17` Commented on **[CherryHQ/cherry-studio#20353](https://github.com/CherryHQ/cherry-studio/pull/20353#issuecomment-5712558287)** — fix(ai-runtime): clamp agent output token limit
 - `2026-09-17` Commented on **[code-yeongyu/oh-my-openagent#8392](https://github.com/code-yeongyu/oh-my-openagent/pull/8392#issuecomment-5711664343)** — fix(senpi): create task state lazily
 - `2026-09-17` Reviewed on **[makecindy/cindy#4550](https://github.com/makecindy/cindy/pull/4550#pullrequestreview-5230212763)**
-- `2026-09-16` Commented on **[langchain-ai/langgraph#8672](https://github.com/langchain-ai/langgraph/issues/8672#issuecomment-5705700676)** — stream\_mode=&quot;values&quot; skips a step when a node returns None or {}, while &quot;updates&quot; emits it
 <!-- activity:end -->
 
 </details>
@@ -170,8 +170,8 @@ I write about the process on [dhpie.com](https://dhpie.com).
 ### `~/telemetry`
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Dante-dan/Dante-dan/main/assets/telemetry/stats-dark-3dbde329839b837b.svg" />
-  <img src="https://raw.githubusercontent.com/Dante-dan/Dante-dan/main/assets/telemetry/stats-light-457d0bb9a29ba019.svg" alt="Public GitHub contribution totals" width="390" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Dante-dan/Dante-dan/main/assets/telemetry/stats-dark-5af7fc54132aee05.svg" />
+  <img src="https://raw.githubusercontent.com/Dante-dan/Dante-dan/main/assets/telemetry/stats-light-91fd57b03931b961.svg" alt="Public GitHub contribution totals" width="390" />
 </picture>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Dante-dan/Dante-dan/main/assets/telemetry/time-dark-7120966e0b3cbc9a.svg" />
@@ -183,7 +183,7 @@ I write about the process on [dhpie.com](https://dhpie.com).
 
 
 <!-- telemetry-refresh:start -->
-<sub>Fetched every 8 hours · last successful fetch<br>Totals: 2026-09-17 10:13:48 UTC · Commit hours: 2026-09-17 10:13:48 UTC · Reactions: 2026-09-17 10:13:48 UTC</sub>
+<sub>Fetched every 8 hours · last successful fetch<br>Totals: 2026-09-17 11:55:17 UTC · Commit hours: 2026-09-17 11:55:17 UTC · Reactions: 2026-09-17 11:55:17 UTC</sub>
 <!-- telemetry-refresh:end -->
 
 ### `~/arcade`
