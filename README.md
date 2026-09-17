@@ -67,14 +67,14 @@ I write about the process on [dhpie.com](https://dhpie.com).
 <sub>Public upstream PRs updated in the last 7 days · refreshed every 8 hours</sub>
 
 <!-- upstream:start -->
-<sub>69 PRs · 52 open · 16 merged · 1 integrated</sub>
+<sub>67 PRs · 51 open · 15 merged · 1 integrated</sub>
 
 | Status | Pull request | Updated (UTC) |
 | :--- | :--- | :--- |
-| `open` | **[makecindy/cindy#4553](https://github.com/makecindy/cindy/pull/4553)** — fix(desktop): clear event-backed attention after task deletion | 2026-09-17 |
 | `open` | **[CherryHQ/cherry-studio#20353](https://github.com/CherryHQ/cherry-studio/pull/20353)** — fix(ai-runtime): clamp agent output token limit | 2026-09-17 |
-| `open` | **[CherryHQ/cherry-studio#20322](https://github.com/CherryHQ/cherry-studio/pull/20322)** — fix(agent): honor configured Pi shell path | 2026-09-17 |
 | `open` | **[apache/maka#5266](https://github.com/apache/maka/pull/5266)** — fix(runtime): allow bounded Apple Git startup | 2026-09-17 |
+| `open` | **[makecindy/cindy#4553](https://github.com/makecindy/cindy/pull/4553)** — fix(desktop): clear event-backed attention after task deletion | 2026-09-17 |
+| `open` | **[CherryHQ/cherry-studio#20322](https://github.com/CherryHQ/cherry-studio/pull/20322)** — fix(agent): honor configured Pi shell path | 2026-09-17 |
 | `merged` | **[code-yeongyu/oh-my-openagent#8392](https://github.com/code-yeongyu/oh-my-openagent/pull/8392)** — fix(senpi): create task state lazily | 2026-09-17 |
 | `open` | **[apache/maka#5286](https://github.com/apache/maka/pull/5286)** — fix(desktop): guard broadcasts by renderer frame | 2026-09-17 |
 | `open` | **[makecindy/cindy#4550](https://github.com/makecindy/cindy/pull/4550)** — fix(providers): restore Pi model image input control | 2026-09-17 |
@@ -138,18 +138,16 @@ I write about the process on [dhpie.com](https://dhpie.com).
 | `open` | **[LodyAI/Lody#577](https://github.com/LodyAI/Lody/pull/577)** — fix: wait for metadata before archive cascade | 2026-09-11 |
 | `open` | **[LodyAI/Lody#587](https://github.com/LodyAI/Lody/pull/587)** — fix(cli): list remote machine projects without daemon | 2026-09-14 |
 | `integrated` | **[affaan-m/ECC#3044](https://github.com/affaan-m/ECC/pull/3044)** — fix(install): handle missing Windows settings device IDs safely | 2026-09-10 |
-| `open` | **[browser-use/browser-use#5771](https://github.com/browser-use/browser-use/pull/5771)** — fix(browser): clean up local browser process trees | 2026-09-10 |
-| `merged` | **[makecindy/cindy#4219](https://github.com/makecindy/cindy/pull/4219)** — fix(mobile): open managed Markdown video links | 2026-09-10 |
 <!-- upstream:end -->
 
 <details>
 <summary>Recent conversations · issues, comments &amp; reviews</summary>
 
 <!-- activity:start -->
+- `2026-09-17` Commented on **[CherryHQ/cherry-studio#20353](https://github.com/CherryHQ/cherry-studio/pull/20353#discussion_r4037476659)**
+- `2026-09-17` Commented on **[apache/maka#5266](https://github.com/apache/maka/pull/5266#issuecomment-5715171137)** — fix(runtime): allow bounded Apple Git startup
 - `2026-09-17` Commented on **[earendil-works/pi#9579](https://github.com/earendil-works/pi/issues/9579#issuecomment-5712973010)** — Overflow image recovery uses a fixed 16 MiB budget that exceeds smaller provider request limits
-- `2026-09-17` Commented on **[CherryHQ/cherry-studio#20353](https://github.com/CherryHQ/cherry-studio/pull/20353#issuecomment-5712558287)** — fix(ai-runtime): clamp agent output token limit
 - `2026-09-17` Commented on **[code-yeongyu/oh-my-openagent#8392](https://github.com/code-yeongyu/oh-my-openagent/pull/8392#issuecomment-5711664343)** — fix(senpi): create task state lazily
-- `2026-09-17` Reviewed on **[makecindy/cindy#4550](https://github.com/makecindy/cindy/pull/4550#pullrequestreview-5230212763)**
 <!-- activity:end -->
 
 </details>
@@ -161,10 +159,10 @@ I write about the process on [dhpie.com](https://dhpie.com).
 <sub>Latest writing from [dhpie.com](https://dhpie.com)</sub>
 
 <!-- notes:start -->
+- [开源贡献日报 · 2026-09-17](https://dhpie.com/posts/cn/open-source-daily-2026-09-17)
 - [开源贡献日报 · 2026-09-16](https://dhpie.com/posts/cn/open-source-daily-2026-09-16)
 - [开源贡献日报 · 2026-09-14](https://dhpie.com/posts/cn/open-source-daily-2026-09-14)
 - [开源贡献日报 · 2026-09-13](https://dhpie.com/posts/cn/open-source-daily-2026-09-13)
-- [开源贡献日报 · 2026-09-12](https://dhpie.com/posts/cn/open-source-daily-2026-09-12)
 <!-- notes:end -->
 
 ### `~/telemetry`
@@ -183,7 +181,7 @@ I write about the process on [dhpie.com](https://dhpie.com).
 
 
 <!-- telemetry-refresh:start -->
-<sub>Fetched every 8 hours · last successful fetch<br>Totals: 2026-09-17 12:17:54 UTC · Commit hours: 2026-09-17 12:17:54 UTC · Reactions: 2026-09-17 12:17:54 UTC</sub>
+<sub>Fetched every 8 hours · last successful fetch<br>Totals: 2026-09-17 18:22:45 UTC · Commit hours: 2026-09-17 18:22:45 UTC · Reactions: 2026-09-17 18:22:45 UTC</sub>
 <!-- telemetry-refresh:end -->
 
 ### `~/arcade`
