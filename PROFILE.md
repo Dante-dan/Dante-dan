@@ -56,6 +56,11 @@ All workflows use the repository's built-in `GITHUB_TOKEN`; no PAT or service ke
 needed. Third-party actions are pinned to commit SHAs. Stats fetch errors and reactions query errors fail rather than
 publishing error cards. Scheduled updates do not recursively trigger themselves.
 
+Refresh jobs check out the latest `main`, including manual reruns and queued jobs,
+rather than the original event SHA. This prevents a rerun from regenerating on top
+of a snapshot that predates its own successful publication. Full Git history is
+available for the publish script's rebase if `main` advances during generation.
+
 Run locally: `GH_TOKEN="$(gh auth token)" python3 scripts/update-profile.py`.
 Validate: `python3 -m unittest discover -s scripts -p 'test_*.py'`.
 

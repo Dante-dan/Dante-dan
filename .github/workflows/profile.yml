@@ -17,6 +17,11 @@ jobs:
     timeout-minutes: 20
     steps:
       - uses: actions/checkout@11d5960a326750d5838078e36cf38b85af677262
+        with:
+          # Reruns retain the original event SHA, which may predate our last publish.
+          # Generate from the current publication branch, including on queued runs.
+          ref: main
+          fetch-depth: 0
       - name: Test profile generators and failure handling
         run: python3 -m unittest discover -s scripts -p 'test_*.py'
       - name: Refresh public projects, upstream PRs and blog RSS
