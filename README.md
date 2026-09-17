@@ -41,6 +41,7 @@ I write about the process on [dhpie.com](https://dhpie.com).
 <!-- contributions:start -->
 <sub>Code accepted upstream · last 12 months</sub>
 
+<table align="left" width="270"><tr><td width="64" valign="middle"><a href="https://github.com/code-yeongyu/oh-my-openagent"><img src="assets/projects/code-yeongyu--oh-my-openagent.png" width="56" height="56" alt="oh-my-openagent icon" /></a></td><td width="200" valign="middle"><a href="https://github.com/code-yeongyu/oh-my-openagent"><strong>oh-my-openagent</strong></a><br /><sub><a href="https://github.com/code-yeongyu/oh-my-openagent/pull/8392">merged contribution</a><br /><a href="https://github.com/code-yeongyu/oh-my-openagent/pulls?q=is%3Apr+author%3ADante-dan">all PRs ↗</a></sub></td></tr></table>
 <table align="left" width="270"><tr><td width="64" valign="middle"><a href="https://github.com/can1357/oh-my-pi"><img src="assets/projects/can1357--oh-my-pi.png" width="56" height="56" alt="oh-my-pi icon" /></a></td><td width="200" valign="middle"><a href="https://github.com/can1357/oh-my-pi"><strong>oh-my-pi</strong></a><br /><sub><a href="https://github.com/can1357/oh-my-pi/pull/12223">merged contribution</a><br /><a href="https://github.com/can1357/oh-my-pi/pulls?q=is%3Apr+author%3ADante-dan">all PRs ↗</a></sub></td></tr></table>
 <table align="left" width="270"><tr><td width="64" valign="middle"><a href="https://github.com/CherryHQ/cherry-studio"><img src="assets/projects/CherryHQ--cherry-studio.png" width="56" height="56" alt="Cherry Studio icon" /></a></td><td width="200" valign="middle"><a href="https://github.com/CherryHQ/cherry-studio"><strong>Cherry Studio</strong></a><br /><sub><a href="https://github.com/CherryHQ/cherry-studio/pull/20469">merged contribution</a><br /><a href="https://github.com/CherryHQ/cherry-studio/pulls?q=is%3Apr+author%3ADante-dan">all PRs ↗</a></sub></td></tr></table>
 <table align="left" width="270"><tr><td width="64" valign="middle"><a href="https://github.com/multica-ai/multica"><img src="assets/projects/multica-ai--multica.png" width="56" height="56" alt="multica icon" /></a></td><td width="200" valign="middle"><a href="https://github.com/multica-ai/multica"><strong>multica</strong></a><br /><sub><a href="https://github.com/multica-ai/multica/pull/8297">merged contribution</a><br /><a href="https://github.com/multica-ai/multica/pulls?q=is%3Apr+author%3ADante-dan">all PRs ↗</a></sub></td></tr></table>
@@ -66,25 +67,24 @@ I write about the process on [dhpie.com](https://dhpie.com).
 <sub>Public upstream PRs updated in the last 7 days · refreshed every 8 hours</sub>
 
 <!-- upstream:start -->
-<sub>72 PRs · 55 open · 16 merged · 1 integrated</sub>
+<sub>69 PRs · 52 open · 16 merged · 1 integrated</sub>
 
 | Status | Pull request | Updated (UTC) |
 | :--- | :--- | :--- |
+| `open` | **[CherryHQ/cherry-studio#20353](https://github.com/CherryHQ/cherry-studio/pull/20353)** — fix(ai-runtime): clamp agent output token limit | 2026-09-17 |
+| `merged` | **[code-yeongyu/oh-my-openagent#8392](https://github.com/code-yeongyu/oh-my-openagent/pull/8392)** — fix(senpi): create task state lazily | 2026-09-17 |
+| `open` | **[apache/maka#5286](https://github.com/apache/maka/pull/5286)** — fix(desktop): guard broadcasts by renderer frame | 2026-09-17 |
+| `open` | **[makecindy/cindy#4550](https://github.com/makecindy/cindy/pull/4550)** — fix(providers): restore Pi model image input control | 2026-09-17 |
+| `open` | **[CherryHQ/cherry-studio#20322](https://github.com/CherryHQ/cherry-studio/pull/20322)** — fix(agent): honor configured Pi shell path | 2026-09-17 |
 | `open` | **[can1357/oh-my-pi#12253](https://github.com/can1357/oh-my-pi/pull/12253)** — fix(session): anchor exit marker to persisted tail | 2026-09-17 |
-| `open` | **[makecindy/cindy#4550](https://github.com/makecindy/cindy/pull/4550)** — fix(providers): restore Pi model image input control | 2026-09-16 |
-| `open` | **[heygen-com/hyperframes#4013](https://github.com/heygen-com/hyperframes/pull/4013)** — feat(engine): add opt-in SDR temporal motion blur | 2026-09-16 |
 | `open` | **[code-yeongyu/oh-my-openagent#8405](https://github.com/code-yeongyu/oh-my-openagent/pull/8405)** — test(codex): bound the installer manifest fixture | 2026-09-16 |
 | `open` | **[code-yeongyu/oh-my-openagent#8404](https://github.com/code-yeongyu/oh-my-openagent/pull/8404)** — fix(team-core): publish complete lock owners atomically | 2026-09-16 |
 | `open` | **[makecindy/cindy#4551](https://github.com/makecindy/cindy/pull/4551)** — fix(desktop): acknowledge opened background tasks | 2026-09-16 |
 | `open` | **[makecindy/cindy#4553](https://github.com/makecindy/cindy/pull/4553)** — fix(desktop): clear event-backed attention after task deletion | 2026-09-16 |
-| `open` | **[CherryHQ/cherry-studio#20322](https://github.com/CherryHQ/cherry-studio/pull/20322)** — fix(agent): honor configured Pi shell path | 2026-09-16 |
-| `open` | **[CherryHQ/cherry-studio#20353](https://github.com/CherryHQ/cherry-studio/pull/20353)** — fix(ai-runtime): clamp agent output token limit | 2026-09-16 |
 | `open` | **[CherryHQ/cherry-studio#20378](https://github.com/CherryHQ/cherry-studio/pull/20378)** — feat(knowledge): accept all recognized text files | 2026-09-16 |
 | `merged` | **[can1357/oh-my-pi#12223](https://github.com/can1357/oh-my-pi/pull/12223)** — fix(coding-agent): track catalog descriptor discovery state | 2026-09-16 |
-| `open` | **[code-yeongyu/oh-my-openagent#8392](https://github.com/code-yeongyu/oh-my-openagent/pull/8392)** — fix(senpi): create task state lazily | 2026-09-16 |
 | `open` | **[CherryHQ/cherry-studio#20487](https://github.com/CherryHQ/cherry-studio/pull/20487)** — feat(proxy): add connection test | 2026-09-16 |
 | `open` | **[code-yeongyu/oh-my-openagent#8387](https://github.com/code-yeongyu/oh-my-openagent/pull/8387)** — fix(omo-native): keep Ghostty inline images in transcript flow | 2026-09-16 |
-| `open` | **[apache/maka#5286](https://github.com/apache/maka/pull/5286)** — fix(desktop): guard broadcasts by renderer frame | 2026-09-16 |
 | `open` | **[makecindy/cindy#4384](https://github.com/makecindy/cindy/pull/4384)** — fix(auth): guard stale runtime expiry transitions | 2026-09-16 |
 | `open` | **[browser-use/browser-use#5798](https://github.com/browser-use/browser-use/pull/5798)** — fix(dom): preserve password input value state | 2026-09-16 |
 | `open` | **[multica-ai/multica#8364](https://github.com/multica-ai/multica/pull/8364)** — MUL-7328 feat(desktop): add configurable window close behavior | 2026-09-16 |
@@ -131,7 +131,6 @@ I write about the process on [dhpie.com](https://dhpie.com).
 | `open` | **[cline/cline#14082](https://github.com/cline/cline/pull/14082)** — fix(desktop): use baseline Bun target for Windows x64 sidecar | 2026-09-12 |
 | `merged` | **[affaan-m/ECC#3076](https://github.com/affaan-m/ECC/pull/3076)** — fix(hooks): support Windows linter paths and ESLint 9 | 2026-09-12 |
 | `open` | **[multica-ai/multica#8330](https://github.com/multica-ai/multica/pull/8330)** — fix(agents): version skill-only updates | 2026-09-11 |
-| `open` | **[LodyAI/Lody#621](https://github.com/LodyAI/Lody/pull/621)** — feat(components): show agent icons in session rows | 2026-09-11 |
 | `open` | **[LodyAI/Lody#594](https://github.com/LodyAI/Lody/pull/594)** — fix(electron): declare OSS macOS local network usage | 2026-09-11 |
 | `open` | **[makecindy/cindy#4297](https://github.com/makecindy/cindy/pull/4297)** — fix(desktop): render automation settings before status probes | 2026-09-11 |
 | `merged` | **[apache/maka#5188](https://github.com/apache/maka/pull/5188)** — fix(runtime-host): respect transcript continuation boundaries | 2026-09-11 |
@@ -141,17 +140,16 @@ I write about the process on [dhpie.com](https://dhpie.com).
 | `integrated` | **[affaan-m/ECC#3044](https://github.com/affaan-m/ECC/pull/3044)** — fix(install): handle missing Windows settings device IDs safely | 2026-09-10 |
 | `open` | **[browser-use/browser-use#5771](https://github.com/browser-use/browser-use/pull/5771)** — fix(browser): clean up local browser process trees | 2026-09-10 |
 | `merged` | **[makecindy/cindy#4219](https://github.com/makecindy/cindy/pull/4219)** — fix(mobile): open managed Markdown video links | 2026-09-10 |
-| `merged` | **[makecindy/cindy#4185](https://github.com/makecindy/cindy/pull/4185)** — test(pi): wait for follow-up command observation | 2026-09-10 |
 <!-- upstream:end -->
 
 <details>
 <summary>Recent conversations · issues, comments &amp; reviews</summary>
 
 <!-- activity:start -->
+- `2026-09-17` Commented on **[CherryHQ/cherry-studio#20353](https://github.com/CherryHQ/cherry-studio/pull/20353#issuecomment-5712558287)** — fix(ai-runtime): clamp agent output token limit
+- `2026-09-17` Commented on **[code-yeongyu/oh-my-openagent#8392](https://github.com/code-yeongyu/oh-my-openagent/pull/8392#issuecomment-5711664343)** — fix(senpi): create task state lazily
+- `2026-09-17` Reviewed on **[makecindy/cindy#4550](https://github.com/makecindy/cindy/pull/4550#pullrequestreview-5230212763)**
 - `2026-09-16` Commented on **[langchain-ai/langgraph#8672](https://github.com/langchain-ai/langgraph/issues/8672#issuecomment-5705700676)** — stream\_mode=&quot;values&quot; skips a step when a node returns None or {}, while &quot;updates&quot; emits it
-- `2026-09-16` Commented on **[makecindy/cindy#4550](https://github.com/makecindy/cindy/pull/4550#discussion_r4031451070)**
-- `2026-09-16` Commented on **[langchain-ai/langgraph#8696](https://github.com/langchain-ai/langgraph/issues/8696#issuecomment-5705565345)** — Store pagination: negative limit/offset silently drops results in InMemoryStore and diverges across…
-- `2026-09-16` Commented on **[makecindy/cindy#4551](https://github.com/makecindy/cindy/pull/4551#issuecomment-5701607668)** — fix(desktop): acknowledge opened background tasks
 <!-- activity:end -->
 
 </details>
@@ -172,12 +170,12 @@ I write about the process on [dhpie.com](https://dhpie.com).
 ### `~/telemetry`
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Dante-dan/Dante-dan/main/assets/telemetry/stats-dark-95463a7882a17d1c.svg" />
-  <img src="https://raw.githubusercontent.com/Dante-dan/Dante-dan/main/assets/telemetry/stats-light-c291b021d9dc8888.svg" alt="Public GitHub contribution totals" width="390" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Dante-dan/Dante-dan/main/assets/telemetry/stats-dark-3dbde329839b837b.svg" />
+  <img src="https://raw.githubusercontent.com/Dante-dan/Dante-dan/main/assets/telemetry/stats-light-457d0bb9a29ba019.svg" alt="Public GitHub contribution totals" width="390" />
 </picture>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Dante-dan/Dante-dan/main/assets/telemetry/time-dark-89538990b09dad87.svg" />
-  <img src="https://raw.githubusercontent.com/Dante-dan/Dante-dan/main/assets/telemetry/time-light-49ed4082d9182da5.svg" alt="Commit distribution by time of day, UTC+8" width="390" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Dante-dan/Dante-dan/main/assets/telemetry/time-dark-7120966e0b3cbc9a.svg" />
+  <img src="https://raw.githubusercontent.com/Dante-dan/Dante-dan/main/assets/telemetry/time-light-5f0368a9028adb1a.svg" alt="Commit distribution by time of day, UTC+8" width="390" />
 </picture>
 
 <img src="https://raw.githubusercontent.com/Dante-dan/Dante-dan/main/assets/telemetry/reactions-bda3c9af4419cd66.svg" alt="Reactions received on recent public comments and issue bodies" width="650" />
@@ -185,7 +183,7 @@ I write about the process on [dhpie.com](https://dhpie.com).
 
 
 <!-- telemetry-refresh:start -->
-<sub>Fetched every 8 hours · last successful fetch<br>Totals: 2026-09-17 00:41:27 UTC · Commit hours: 2026-09-17 00:41:27 UTC · Reactions: 2026-09-17 00:41:27 UTC</sub>
+<sub>Fetched every 8 hours · last successful fetch<br>Totals: 2026-09-17 10:09:09 UTC · Commit hours: 2026-09-17 10:09:09 UTC · Reactions: 2026-09-17 10:09:09 UTC</sub>
 <!-- telemetry-refresh:end -->
 
 ### `~/arcade`
