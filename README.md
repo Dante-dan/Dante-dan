@@ -67,18 +67,27 @@ I write about the process on [dhpie.com](https://dhpie.com).
 <sub>Public upstream PRs updated in the last 7 days · refreshed every 8 hours</sub>
 
 <!-- upstream:start -->
-<sub>69 PRs · 54 open · 15 merged</sub>
+<sub>72 PRs · 57 open · 15 merged</sub>
 
 | Status | Pull request | Updated (UTC) |
 | :--- | :--- | :--- |
+| `open` | **[makecindy/cindy#4366](https://github.com/makecindy/cindy/pull/4366)** — fix(mobile): avoid stale device roster snapshot | 2026-09-18 |
+| `open` | **[can1357/oh-my-pi#12082](https://github.com/can1357/oh-my-pi/pull/12082)** — feat(coding-agent): add producer-scoped artifact resolution | 2026-09-18 |
+| `open` | **[can1357/oh-my-pi#12081](https://github.com/can1357/oh-my-pi/pull/12081)** — feat(github): support operation-specific approval policies | 2026-09-18 |
+| `open` | **[CherryHQ/cherry-studio#20378](https://github.com/CherryHQ/cherry-studio/pull/20378)** — feat(knowledge): accept all recognized text files | 2026-09-18 |
+| `open` | **[multica-ai/multica#8330](https://github.com/multica-ai/multica/pull/8330)** — MUL-7303 fix(agents): touch last-modified time on skill changes | 2026-09-18 |
+| `open` | **[multica-ai/multica#8549](https://github.com/multica-ai/multica/pull/8549)** — fix(execenv): exclude clean local HEAD advances from resume replay | 2026-09-18 |
+| `open` | **[anomalyco/opencode#49733](https://github.com/anomalyco/opencode/pull/49733)** — fix(core): register compatible Responses provider | 2026-09-18 |
+| `open` | **[makecindy/cindy#4553](https://github.com/makecindy/cindy/pull/4553)** — fix(desktop): clear event-backed attention after task deletion | 2026-09-18 |
+| `open` | **[can1357/oh-my-pi#12395](https://github.com/can1357/oh-my-pi/pull/12395)** — fix(ai): avoid pinning Beijing quota to one workspace | 2026-09-18 |
+| `open` | **[can1357/oh-my-pi#12394](https://github.com/can1357/oh-my-pi/pull/12394)** — fix(coding-agent): save manual handoff artifacts when enabled | 2026-09-18 |
+| `open` | **[apache/maka#5266](https://github.com/apache/maka/pull/5266)** — fix(runtime): allow bounded Apple Git startup | 2026-09-18 |
 | `open` | **[can1357/oh-my-pi#12378](https://github.com/can1357/oh-my-pi/pull/12378)** — fix(session): relocate custom sessions across filesystems | 2026-09-17 |
 | `open` | **[can1357/oh-my-pi#12380](https://github.com/can1357/oh-my-pi/pull/12380)** — fix(catalog): route Union Alpha through OpenCode Messages API | 2026-09-17 |
 | `open` | **[can1357/oh-my-pi#12381](https://github.com/can1357/oh-my-pi/pull/12381)** — test(browser): require a live CDP endpoint for Linux Chromium | 2026-09-17 |
 | `open` | **[can1357/oh-my-pi#12377](https://github.com/can1357/oh-my-pi/pull/12377)** — fix(task): preserve subagent retry fallback role on startup | 2026-09-17 |
 | `open` | **[apache/maka#5286](https://github.com/apache/maka/pull/5286)** — fix(desktop): guard broadcasts by renderer frame | 2026-09-17 |
 | `open` | **[CherryHQ/cherry-studio#20353](https://github.com/CherryHQ/cherry-studio/pull/20353)** — fix(ai-runtime): clamp agent output token limit | 2026-09-17 |
-| `open` | **[apache/maka#5266](https://github.com/apache/maka/pull/5266)** — fix(runtime): allow bounded Apple Git startup | 2026-09-17 |
-| `open` | **[makecindy/cindy#4553](https://github.com/makecindy/cindy/pull/4553)** — fix(desktop): clear event-backed attention after task deletion | 2026-09-17 |
 | `open` | **[CherryHQ/cherry-studio#20322](https://github.com/CherryHQ/cherry-studio/pull/20322)** — fix(agent): honor configured Pi shell path | 2026-09-17 |
 | `merged` | **[code-yeongyu/oh-my-openagent#8392](https://github.com/code-yeongyu/oh-my-openagent/pull/8392)** — fix(senpi): create task state lazily | 2026-09-17 |
 | `open` | **[makecindy/cindy#4550](https://github.com/makecindy/cindy/pull/4550)** — fix(providers): restore Pi model image input control | 2026-09-17 |
@@ -86,7 +95,6 @@ I write about the process on [dhpie.com](https://dhpie.com).
 | `open` | **[code-yeongyu/oh-my-openagent#8405](https://github.com/code-yeongyu/oh-my-openagent/pull/8405)** — test(codex): bound the installer manifest fixture | 2026-09-16 |
 | `open` | **[code-yeongyu/oh-my-openagent#8404](https://github.com/code-yeongyu/oh-my-openagent/pull/8404)** — fix(team-core): publish complete lock owners atomically | 2026-09-16 |
 | `open` | **[makecindy/cindy#4551](https://github.com/makecindy/cindy/pull/4551)** — fix(desktop): acknowledge opened background tasks | 2026-09-16 |
-| `open` | **[CherryHQ/cherry-studio#20378](https://github.com/CherryHQ/cherry-studio/pull/20378)** — feat(knowledge): accept all recognized text files | 2026-09-16 |
 | `merged` | **[can1357/oh-my-pi#12223](https://github.com/can1357/oh-my-pi/pull/12223)** — fix(coding-agent): track catalog descriptor discovery state | 2026-09-16 |
 | `open` | **[CherryHQ/cherry-studio#20487](https://github.com/CherryHQ/cherry-studio/pull/20487)** — feat(proxy): add connection test | 2026-09-16 |
 | `open` | **[code-yeongyu/oh-my-openagent#8387](https://github.com/code-yeongyu/oh-my-openagent/pull/8387)** — fix(omo-native): keep Ghostty inline images in transcript flow | 2026-09-16 |
@@ -94,9 +102,6 @@ I write about the process on [dhpie.com](https://dhpie.com).
 | `open` | **[browser-use/browser-use#5798](https://github.com/browser-use/browser-use/pull/5798)** — fix(dom): preserve password input value state | 2026-09-16 |
 | `open` | **[multica-ai/multica#8364](https://github.com/multica-ai/multica/pull/8364)** — MUL-7328 feat(desktop): add configurable window close behavior | 2026-09-16 |
 | `open` | **[CherryHQ/cherry-studio#20386](https://github.com/CherryHQ/cherry-studio/pull/20386)** — fix(new-api): restore Gemini web search through relays | 2026-09-16 |
-| `open` | **[makecindy/cindy#4366](https://github.com/makecindy/cindy/pull/4366)** — fix(mobile): avoid stale device roster snapshot | 2026-09-16 |
-| `open` | **[can1357/oh-my-pi#12081](https://github.com/can1357/oh-my-pi/pull/12081)** — feat(github): support operation-specific approval policies | 2026-09-16 |
-| `open` | **[can1357/oh-my-pi#12082](https://github.com/can1357/oh-my-pi/pull/12082)** — feat(coding-agent): add producer-scoped artifact resolution | 2026-09-16 |
 | `open` | **[can1357/oh-my-pi#12083](https://github.com/can1357/oh-my-pi/pull/12083)** — fix(coding-agent): clarify omp identity in system prompt | 2026-09-16 |
 | `merged` | **[can1357/oh-my-pi#12065](https://github.com/can1357/oh-my-pi/pull/12065)** — fix(ttsr): reserve deferred injections until delivery | 2026-09-15 |
 | `merged` | **[can1357/oh-my-pi#12078](https://github.com/can1357/oh-my-pi/pull/12078)** — fix(stats): expose session cwd in summaries | 2026-09-15 |
@@ -134,22 +139,20 @@ I write about the process on [dhpie.com](https://dhpie.com).
 | `open` | **[apache/maka#5202](https://github.com/apache/maka/pull/5202)** — fix(desktop): update Windows taskbar app icon | 2026-09-12 |
 | `open` | **[cline/cline#14082](https://github.com/cline/cline/pull/14082)** — fix(desktop): use baseline Bun target for Windows x64 sidecar | 2026-09-12 |
 | `merged` | **[affaan-m/ECC#3076](https://github.com/affaan-m/ECC/pull/3076)** — fix(hooks): support Windows linter paths and ESLint 9 | 2026-09-12 |
-| `open` | **[multica-ai/multica#8330](https://github.com/multica-ai/multica/pull/8330)** — fix(agents): version skill-only updates | 2026-09-11 |
 | `open` | **[LodyAI/Lody#594](https://github.com/LodyAI/Lody/pull/594)** — fix(electron): declare OSS macOS local network usage | 2026-09-11 |
 | `open` | **[makecindy/cindy#4297](https://github.com/makecindy/cindy/pull/4297)** — fix(desktop): render automation settings before status probes | 2026-09-11 |
 | `merged` | **[apache/maka#5188](https://github.com/apache/maka/pull/5188)** — fix(runtime-host): respect transcript continuation boundaries | 2026-09-11 |
 | `merged` | **[CherryHQ/cherry-studio#20319](https://github.com/CherryHQ/cherry-studio/pull/20319)** — fix(quick-assistant): preserve dark surface on Windows | 2026-09-11 |
-| `open` | **[LodyAI/Lody#577](https://github.com/LodyAI/Lody/pull/577)** — fix: wait for metadata before archive cascade | 2026-09-11 |
 <!-- upstream:end -->
 
 <details>
 <summary>Recent conversations · issues, comments &amp; reviews</summary>
 
 <!-- activity:start -->
-- `2026-09-17` Commented on **[can1357/oh-my-pi#12378](https://github.com/can1357/oh-my-pi/pull/12378#issuecomment-5722018821)** — fix(session): relocate custom sessions across filesystems
-- `2026-09-17` Commented on **[apache/maka#5286](https://github.com/apache/maka/pull/5286#issuecomment-5720005252)** — fix(desktop): guard broadcasts by renderer frame
-- `2026-09-17` Commented on **[CherryHQ/cherry-studio#20353](https://github.com/CherryHQ/cherry-studio/pull/20353#discussion_r4037476659)**
-- `2026-09-17` Commented on **[apache/maka#5266](https://github.com/apache/maka/pull/5266#issuecomment-5715171137)** — fix(runtime): allow bounded Apple Git startup
+- `2026-09-18` Commented on **[anomalyco/opencode#49673](https://github.com/anomalyco/opencode/issues/49673#issuecomment-5729287671)** — DeepSeek V4.1 Flash: answer emitted only in reasoning (output=0, finish=stop) and reasoning leaks i…
+- `2026-09-18` Commented on **[can1357/oh-my-pi#12082](https://github.com/can1357/oh-my-pi/pull/12082#discussion_r4046171065)**
+- `2026-09-18` Commented on **[CherryHQ/cherry-studio#20378](https://github.com/CherryHQ/cherry-studio/pull/20378#discussion_r4046082750)**
+- `2026-09-18` Commented on **[multica-ai/multica#8330](https://github.com/multica-ai/multica/pull/8330#issuecomment-5728934365)** — MUL-7303 fix(agents): touch last-modified time on skill changes
 <!-- activity:end -->
 
 </details>
@@ -170,8 +173,8 @@ I write about the process on [dhpie.com](https://dhpie.com).
 ### `~/telemetry`
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Dante-dan/Dante-dan/main/assets/telemetry/stats-dark-e20892d93da3dfe1.svg" />
-  <img src="https://raw.githubusercontent.com/Dante-dan/Dante-dan/main/assets/telemetry/stats-light-53dad84283c1de3b.svg" alt="Public GitHub contribution totals" width="390" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Dante-dan/Dante-dan/main/assets/telemetry/stats-dark-97a97edaf535d3e2.svg" />
+  <img src="https://raw.githubusercontent.com/Dante-dan/Dante-dan/main/assets/telemetry/stats-light-6e171e2fd48c1cf3.svg" alt="Public GitHub contribution totals" width="390" />
 </picture>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Dante-dan/Dante-dan/main/assets/telemetry/time-dark-45842ff0869ddb84.svg" />
@@ -183,7 +186,7 @@ I write about the process on [dhpie.com](https://dhpie.com).
 
 
 <!-- telemetry-refresh:start -->
-<sub>Fetched every 8 hours · last successful fetch<br>Totals: 2026-09-18 00:30:37 UTC · Commit hours: 2026-09-18 00:30:37 UTC · Reactions: 2026-09-18 00:30:37 UTC</sub>
+<sub>Fetched every 8 hours · last successful fetch<br>Totals: 2026-09-18 11:30:51 UTC · Commit hours: 2026-09-18 11:30:51 UTC · Reactions: 2026-09-18 11:30:51 UTC</sub>
 <!-- telemetry-refresh:end -->
 
 ### `~/arcade`
