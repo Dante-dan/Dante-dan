@@ -67,16 +67,20 @@ I write about the process on [dhpie.com](https://dhpie.com).
 <sub>Public upstream PRs updated in the last 7 days · refreshed every 8 hours</sub>
 
 <!-- upstream:start -->
-<sub>67 PRs · 51 open · 15 merged · 1 integrated</sub>
+<sub>69 PRs · 54 open · 15 merged</sub>
 
 | Status | Pull request | Updated (UTC) |
 | :--- | :--- | :--- |
+| `open` | **[can1357/oh-my-pi#12378](https://github.com/can1357/oh-my-pi/pull/12378)** — fix(session): relocate custom sessions across filesystems | 2026-09-17 |
+| `open` | **[can1357/oh-my-pi#12380](https://github.com/can1357/oh-my-pi/pull/12380)** — fix(catalog): route Union Alpha through OpenCode Messages API | 2026-09-17 |
+| `open` | **[can1357/oh-my-pi#12381](https://github.com/can1357/oh-my-pi/pull/12381)** — test(browser): require a live CDP endpoint for Linux Chromium | 2026-09-17 |
+| `open` | **[can1357/oh-my-pi#12377](https://github.com/can1357/oh-my-pi/pull/12377)** — fix(task): preserve subagent retry fallback role on startup | 2026-09-17 |
+| `open` | **[apache/maka#5286](https://github.com/apache/maka/pull/5286)** — fix(desktop): guard broadcasts by renderer frame | 2026-09-17 |
 | `open` | **[CherryHQ/cherry-studio#20353](https://github.com/CherryHQ/cherry-studio/pull/20353)** — fix(ai-runtime): clamp agent output token limit | 2026-09-17 |
 | `open` | **[apache/maka#5266](https://github.com/apache/maka/pull/5266)** — fix(runtime): allow bounded Apple Git startup | 2026-09-17 |
 | `open` | **[makecindy/cindy#4553](https://github.com/makecindy/cindy/pull/4553)** — fix(desktop): clear event-backed attention after task deletion | 2026-09-17 |
 | `open` | **[CherryHQ/cherry-studio#20322](https://github.com/CherryHQ/cherry-studio/pull/20322)** — fix(agent): honor configured Pi shell path | 2026-09-17 |
 | `merged` | **[code-yeongyu/oh-my-openagent#8392](https://github.com/code-yeongyu/oh-my-openagent/pull/8392)** — fix(senpi): create task state lazily | 2026-09-17 |
-| `open` | **[apache/maka#5286](https://github.com/apache/maka/pull/5286)** — fix(desktop): guard broadcasts by renderer frame | 2026-09-17 |
 | `open` | **[makecindy/cindy#4550](https://github.com/makecindy/cindy/pull/4550)** — fix(providers): restore Pi model image input control | 2026-09-17 |
 | `open` | **[can1357/oh-my-pi#12253](https://github.com/can1357/oh-my-pi/pull/12253)** — fix(session): anchor exit marker to persisted tail | 2026-09-17 |
 | `open` | **[code-yeongyu/oh-my-openagent#8405](https://github.com/code-yeongyu/oh-my-openagent/pull/8405)** — test(codex): bound the installer manifest fixture | 2026-09-16 |
@@ -136,18 +140,16 @@ I write about the process on [dhpie.com](https://dhpie.com).
 | `merged` | **[apache/maka#5188](https://github.com/apache/maka/pull/5188)** — fix(runtime-host): respect transcript continuation boundaries | 2026-09-11 |
 | `merged` | **[CherryHQ/cherry-studio#20319](https://github.com/CherryHQ/cherry-studio/pull/20319)** — fix(quick-assistant): preserve dark surface on Windows | 2026-09-11 |
 | `open` | **[LodyAI/Lody#577](https://github.com/LodyAI/Lody/pull/577)** — fix: wait for metadata before archive cascade | 2026-09-11 |
-| `open` | **[LodyAI/Lody#587](https://github.com/LodyAI/Lody/pull/587)** — fix(cli): list remote machine projects without daemon | 2026-09-14 |
-| `integrated` | **[affaan-m/ECC#3044](https://github.com/affaan-m/ECC/pull/3044)** — fix(install): handle missing Windows settings device IDs safely | 2026-09-10 |
 <!-- upstream:end -->
 
 <details>
 <summary>Recent conversations · issues, comments &amp; reviews</summary>
 
 <!-- activity:start -->
+- `2026-09-17` Commented on **[can1357/oh-my-pi#12378](https://github.com/can1357/oh-my-pi/pull/12378#issuecomment-5722018821)** — fix(session): relocate custom sessions across filesystems
+- `2026-09-17` Commented on **[apache/maka#5286](https://github.com/apache/maka/pull/5286#issuecomment-5720005252)** — fix(desktop): guard broadcasts by renderer frame
 - `2026-09-17` Commented on **[CherryHQ/cherry-studio#20353](https://github.com/CherryHQ/cherry-studio/pull/20353#discussion_r4037476659)**
 - `2026-09-17` Commented on **[apache/maka#5266](https://github.com/apache/maka/pull/5266#issuecomment-5715171137)** — fix(runtime): allow bounded Apple Git startup
-- `2026-09-17` Commented on **[earendil-works/pi#9579](https://github.com/earendil-works/pi/issues/9579#issuecomment-5712973010)** — Overflow image recovery uses a fixed 16 MiB budget that exceeds smaller provider request limits
-- `2026-09-17` Commented on **[code-yeongyu/oh-my-openagent#8392](https://github.com/code-yeongyu/oh-my-openagent/pull/8392#issuecomment-5711664343)** — fix(senpi): create task state lazily
 <!-- activity:end -->
 
 </details>
@@ -168,8 +170,8 @@ I write about the process on [dhpie.com](https://dhpie.com).
 ### `~/telemetry`
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Dante-dan/Dante-dan/main/assets/telemetry/stats-dark-0dc41943920ab43f.svg" />
-  <img src="https://raw.githubusercontent.com/Dante-dan/Dante-dan/main/assets/telemetry/stats-light-1725ffa32b292d54.svg" alt="Public GitHub contribution totals" width="390" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Dante-dan/Dante-dan/main/assets/telemetry/stats-dark-e20892d93da3dfe1.svg" />
+  <img src="https://raw.githubusercontent.com/Dante-dan/Dante-dan/main/assets/telemetry/stats-light-53dad84283c1de3b.svg" alt="Public GitHub contribution totals" width="390" />
 </picture>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Dante-dan/Dante-dan/main/assets/telemetry/time-dark-45842ff0869ddb84.svg" />
@@ -181,7 +183,7 @@ I write about the process on [dhpie.com](https://dhpie.com).
 
 
 <!-- telemetry-refresh:start -->
-<sub>Fetched every 8 hours · last successful fetch<br>Totals: 2026-09-17 18:22:45 UTC · Commit hours: 2026-09-17 18:22:45 UTC · Reactions: 2026-09-17 18:22:45 UTC</sub>
+<sub>Fetched every 8 hours · last successful fetch<br>Totals: 2026-09-18 00:30:37 UTC · Commit hours: 2026-09-18 00:30:37 UTC · Reactions: 2026-09-18 00:30:37 UTC</sub>
 <!-- telemetry-refresh:end -->
 
 ### `~/arcade`
