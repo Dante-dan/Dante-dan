@@ -67,10 +67,12 @@ I write about the process on [dhpie.com](https://dhpie.com).
 <sub>Public upstream PRs updated in the last 7 days · refreshed every 8 hours</sub>
 
 <!-- upstream:start -->
-<sub>69 PRs · 56 open · 13 merged</sub>
+<sub>70 PRs · 57 open · 13 merged</sub>
 
 | Status | Pull request | Updated (UTC) |
 | :--- | :--- | :--- |
+| `open` | **[affaan-m/ECC#3121](https://github.com/affaan-m/ECC/pull/3121)** — docs(i18n): add Polish localization scout | 2026-09-18 |
+| `open` | **[anomalyco/opencode#49863](https://github.com/anomalyco/opencode/pull/49863)** — fix(plugin): support package subpath exports | 2026-09-18 |
 | `open` | **[anomalyco/opencode#49808](https://github.com/anomalyco/opencode/pull/49808)** — fix(core): register compatible Responses provider | 2026-09-18 |
 | `open` | **[anomalyco/opencode#49775](https://github.com/anomalyco/opencode/pull/49775)** — fix(opencode): guard large snapshot restores | 2026-09-18 |
 | `open` | **[CherryHQ/cherry-studio#20378](https://github.com/CherryHQ/cherry-studio/pull/20378)** — feat(knowledge): accept all recognized text files | 2026-09-18 |
@@ -116,7 +118,6 @@ I write about the process on [dhpie.com](https://dhpie.com).
 | `open` | **[CherryHQ/cherry-studio#20321](https://github.com/CherryHQ/cherry-studio/pull/20321)** — fix(chat-errors): normalize non-error throws | 2026-09-14 |
 | `open` | **[CherryHQ/cherry-studio#20320](https://github.com/CherryHQ/cherry-studio/pull/20320)** — fix(work): keep pinned tasks in agent grouping | 2026-09-14 |
 | `open` | **[CherryHQ/cherry-studio#20349](https://github.com/CherryHQ/cherry-studio/pull/20349)** — fix(data-api): avoid overlapping timed-out reads | 2026-09-14 |
-| `open` | **[affaan-m/ECC#3121](https://github.com/affaan-m/ECC/pull/3121)** — docs(i18n): add Polish localization scout | 2026-09-14 |
 | `merged` | **[CherryHQ/cherry-studio#20469](https://github.com/CherryHQ/cherry-studio/pull/20469)** — fix(markdown): bound mixed multiline math fences | 2026-09-14 |
 | `open` | **[multica-ai/multica#8411](https://github.com/multica-ai/multica/pull/8411)** — feat(projects): bind local directories by agent | 2026-09-14 |
 | `open` | **[affaan-m/ECC#3119](https://github.com/affaan-m/ECC/pull/3119)** — fix(install): keep home targets target-safe | 2026-09-14 |
@@ -170,8 +171,8 @@ I write about the process on [dhpie.com](https://dhpie.com).
 ### `~/telemetry`
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Dante-dan/Dante-dan/main/assets/telemetry/stats-dark-bd6c14beeee26599.svg" />
-  <img src="https://raw.githubusercontent.com/Dante-dan/Dante-dan/main/assets/telemetry/stats-light-43f54288092334ac.svg" alt="Public GitHub contribution totals" width="390" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Dante-dan/Dante-dan/main/assets/telemetry/stats-dark-733668e113d1644d.svg" />
+  <img src="https://raw.githubusercontent.com/Dante-dan/Dante-dan/main/assets/telemetry/stats-light-d2bd949a931ee61f.svg" alt="Public GitHub contribution totals" width="390" />
 </picture>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Dante-dan/Dante-dan/main/assets/telemetry/time-dark-45842ff0869ddb84.svg" />
@@ -183,7 +184,7 @@ I write about the process on [dhpie.com](https://dhpie.com).
 
 
 <!-- telemetry-refresh:start -->
-<sub>Fetched every 8 hours · last successful fetch<br>Totals: 2026-09-18 17:45:25 UTC · Commit hours: 2026-09-18 17:45:25 UTC · Reactions: 2026-09-18 17:45:25 UTC</sub>
+<sub>Fetched every 8 hours · last successful fetch<br>Totals: 2026-09-19 00:26:54 UTC · Commit hours: 2026-09-19 00:26:54 UTC · Reactions: 2026-09-19 00:26:54 UTC</sub>
 <!-- telemetry-refresh:end -->
 
 ### `~/arcade`
