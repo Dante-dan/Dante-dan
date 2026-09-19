@@ -67,13 +67,21 @@ I write about the process on [dhpie.com](https://dhpie.com).
 <sub>Public upstream PRs updated in the last 7 days · refreshed every 8 hours</sub>
 
 <!-- upstream:start -->
-<sub>70 PRs · 57 open · 13 merged</sub>
+<sub>69 PRs · 58 open · 11 merged</sub>
 
 | Status | Pull request | Updated (UTC) |
 | :--- | :--- | :--- |
+| `open` | **[CherryHQ/cherry-studio#20748](https://github.com/CherryHQ/cherry-studio/pull/20748)** — fix(model-controls): honor disabled reasoning capability | 2026-09-19 |
+| `open` | **[apache/maka#5266](https://github.com/apache/maka/pull/5266)** — fix(runtime): allow bounded Apple Git startup | 2026-09-19 |
+| `open` | **[anomalyco/opencode#49943](https://github.com/anomalyco/opencode/pull/49943)** — fix(tui): widen tab close target | 2026-09-19 |
+| `open` | **[CherryHQ/cherry-studio#20747](https://github.com/CherryHQ/cherry-studio/pull/20747)** — feat(api-gateway): add knowledge base write routes | 2026-09-19 |
+| `open` | **[anomalyco/opencode#49863](https://github.com/anomalyco/opencode/pull/49863)** — fix(plugin): support package subpath exports | 2026-09-19 |
+| `open` | **[anomalyco/opencode#49808](https://github.com/anomalyco/opencode/pull/49808)** — fix(core): register compatible Responses provider | 2026-09-19 |
+| `open` | **[anomalyco/opencode#49921](https://github.com/anomalyco/opencode/pull/49921)** — fix(app): guard built-in agent color lookup | 2026-09-19 |
+| `open` | **[can1357/oh-my-pi#12499](https://github.com/can1357/oh-my-pi/pull/12499)** — fix(coding-agent): keep generated-file errors tool-scoped | 2026-09-19 |
+| `open` | **[can1357/oh-my-pi#12395](https://github.com/can1357/oh-my-pi/pull/12395)** — fix(ai): avoid pinning Beijing quota to one workspace | 2026-09-19 |
+| `open` | **[can1357/oh-my-pi#12394](https://github.com/can1357/oh-my-pi/pull/12394)** — fix(coding-agent): save manual handoff artifacts when enabled | 2026-09-19 |
 | `open` | **[affaan-m/ECC#3121](https://github.com/affaan-m/ECC/pull/3121)** — docs(i18n): add Polish localization scout | 2026-09-18 |
-| `open` | **[anomalyco/opencode#49863](https://github.com/anomalyco/opencode/pull/49863)** — fix(plugin): support package subpath exports | 2026-09-18 |
-| `open` | **[anomalyco/opencode#49808](https://github.com/anomalyco/opencode/pull/49808)** — fix(core): register compatible Responses provider | 2026-09-18 |
 | `open` | **[anomalyco/opencode#49775](https://github.com/anomalyco/opencode/pull/49775)** — fix(opencode): guard large snapshot restores | 2026-09-18 |
 | `open` | **[CherryHQ/cherry-studio#20378](https://github.com/CherryHQ/cherry-studio/pull/20378)** — feat(knowledge): accept all recognized text files | 2026-09-18 |
 | `open` | **[makecindy/cindy#4366](https://github.com/makecindy/cindy/pull/4366)** — fix(mobile): avoid stale device roster snapshot | 2026-09-18 |
@@ -82,9 +90,6 @@ I write about the process on [dhpie.com](https://dhpie.com).
 | `open` | **[multica-ai/multica#8330](https://github.com/multica-ai/multica/pull/8330)** — MUL-7303 fix(agents): touch last-modified time on skill changes | 2026-09-18 |
 | `open` | **[multica-ai/multica#8549](https://github.com/multica-ai/multica/pull/8549)** — fix(execenv): exclude clean local HEAD advances from resume replay | 2026-09-18 |
 | `open` | **[makecindy/cindy#4553](https://github.com/makecindy/cindy/pull/4553)** — fix(desktop): clear event-backed attention after task deletion | 2026-09-18 |
-| `open` | **[can1357/oh-my-pi#12395](https://github.com/can1357/oh-my-pi/pull/12395)** — fix(ai): avoid pinning Beijing quota to one workspace | 2026-09-18 |
-| `open` | **[can1357/oh-my-pi#12394](https://github.com/can1357/oh-my-pi/pull/12394)** — fix(coding-agent): save manual handoff artifacts when enabled | 2026-09-18 |
-| `open` | **[apache/maka#5266](https://github.com/apache/maka/pull/5266)** — fix(runtime): allow bounded Apple Git startup | 2026-09-18 |
 | `open` | **[can1357/oh-my-pi#12378](https://github.com/can1357/oh-my-pi/pull/12378)** — fix(session): relocate custom sessions across filesystems | 2026-09-17 |
 | `open` | **[can1357/oh-my-pi#12380](https://github.com/can1357/oh-my-pi/pull/12380)** — fix(catalog): route Union Alpha through OpenCode Messages API | 2026-09-17 |
 | `open` | **[can1357/oh-my-pi#12381](https://github.com/can1357/oh-my-pi/pull/12381)** — test(browser): require a live CDP endpoint for Linux Chromium | 2026-09-17 |
@@ -135,22 +140,16 @@ I write about the process on [dhpie.com](https://dhpie.com).
 | `open` | **[anomalyco/opencode#48734](https://github.com/anomalyco/opencode/pull/48734)** — fix(server): surface session creation errors | 2026-09-12 |
 | `open` | **[anomalyco/opencode#48732](https://github.com/anomalyco/opencode/pull/48732)** — fix(tui): finalize streamed markdown responses | 2026-09-12 |
 | `open` | **[multica-ai/multica#8353](https://github.com/multica-ai/multica/pull/8353)** — feat(usage): add exact workspace token export | 2026-09-12 |
-| `merged` | **[apache/maka#5226](https://github.com/apache/maka/pull/5226)** — fix(scheduled-task): preserve snoozed occurrence on edits | 2026-09-12 |
-| `open` | **[apache/maka#5218](https://github.com/apache/maka/pull/5218)** — fix(desktop): add HTML artifact Finder fallback | 2026-09-12 |
-| `open` | **[LodyAI/acp-extension-dsh#15](https://github.com/LodyAI/acp-extension-dsh/pull/15)** — feat: support provider-qualified DSH routes | 2026-09-12 |
-| `open` | **[apache/maka#5202](https://github.com/apache/maka/pull/5202)** — fix(desktop): update Windows taskbar app icon | 2026-09-12 |
-| `open` | **[cline/cline#14082](https://github.com/cline/cline/pull/14082)** — fix(desktop): use baseline Bun target for Windows x64 sidecar | 2026-09-12 |
-| `merged` | **[affaan-m/ECC#3076](https://github.com/affaan-m/ECC/pull/3076)** — fix(hooks): support Windows linter paths and ESLint 9 | 2026-09-12 |
 <!-- upstream:end -->
 
 <details>
 <summary>Recent conversations · issues, comments &amp; reviews</summary>
 
 <!-- activity:start -->
-- `2026-09-18` Commented on **[anomalyco/opencode#49723](https://github.com/anomalyco/opencode/issues/49723#issuecomment-5730786349)** — subagents: explore agent denied free tier can only be used from within OpenCode while running insid…
-- `2026-09-18` Commented on **[anomalyco/opencode#49732](https://github.com/anomalyco/opencode/issues/49732#issuecomment-5730591433)** — Session snapshot &quot;restore/revert&quot; bulk-overwrites the whole worktree with a stale baseline tree tha…
-- `2026-09-18` Commented on **[CherryHQ/cherry-studio#20378](https://github.com/CherryHQ/cherry-studio/pull/20378#discussion_r4047045984)**
-- `2026-09-18` Commented on **[anomalyco/opencode#49673](https://github.com/anomalyco/opencode/issues/49673#issuecomment-5729287671)** — DeepSeek V4.1 Flash: answer emitted only in reasoning (output=0, finish=stop) and reasoning leaks i…
+- `2026-09-19` Commented on **[anomalyco/opencode#49879](https://github.com/anomalyco/opencode/issues/49879#issuecomment-5741115360)** — \[FEATURE\]: V2 Plan mode: restore V1 experimental plan mode&#x27;s persistent session plan file workflow
+- `2026-09-19` Commented on **[anomalyco/opencode#49943](https://github.com/anomalyco/opencode/pull/49943#issuecomment-5741086645)** — fix(tui): widen tab close target
+- `2026-09-19` Reviewed on **[CherryHQ/cherry-studio#20748](https://github.com/CherryHQ/cherry-studio/pull/20748#pullrequestreview-5255372882)**
+- `2026-09-19` Commented on **[CherryHQ/cherry-studio#20747](https://github.com/CherryHQ/cherry-studio/pull/20747#discussion_r4052902561)**
 <!-- activity:end -->
 
 </details>
@@ -171,8 +170,8 @@ I write about the process on [dhpie.com](https://dhpie.com).
 ### `~/telemetry`
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Dante-dan/Dante-dan/main/assets/telemetry/stats-dark-733668e113d1644d.svg" />
-  <img src="https://raw.githubusercontent.com/Dante-dan/Dante-dan/main/assets/telemetry/stats-light-d2bd949a931ee61f.svg" alt="Public GitHub contribution totals" width="390" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Dante-dan/Dante-dan/main/assets/telemetry/stats-dark-17c0fdfa9df93012.svg" />
+  <img src="https://raw.githubusercontent.com/Dante-dan/Dante-dan/main/assets/telemetry/stats-light-5f15f51f7699dd41.svg" alt="Public GitHub contribution totals" width="390" />
 </picture>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Dante-dan/Dante-dan/main/assets/telemetry/time-dark-45842ff0869ddb84.svg" />
@@ -184,7 +183,7 @@ I write about the process on [dhpie.com](https://dhpie.com).
 
 
 <!-- telemetry-refresh:start -->
-<sub>Fetched every 8 hours · last successful fetch<br>Totals: 2026-09-19 00:26:54 UTC · Commit hours: 2026-09-19 00:26:54 UTC · Reactions: 2026-09-19 00:26:54 UTC</sub>
+<sub>Fetched every 8 hours · last successful fetch<br>Totals: 2026-09-19 11:15:25 UTC · Commit hours: 2026-09-19 11:15:25 UTC · Reactions: 2026-09-19 11:15:25 UTC</sub>
 <!-- telemetry-refresh:end -->
 
 ### `~/arcade`
