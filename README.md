@@ -67,7 +67,7 @@ I write about the process on [dhpie.com](https://dhpie.com).
 <sub>Public upstream PRs updated in the last 7 days · refreshed every 8 hours</sub>
 
 <!-- upstream:start -->
-<sub>69 PRs · 58 open · 11 merged</sub>
+<sub>66 PRs · 55 open · 11 merged</sub>
 
 | Status | Pull request | Updated (UTC) |
 | :--- | :--- | :--- |
@@ -137,9 +137,6 @@ I write about the process on [dhpie.com](https://dhpie.com).
 | `merged` | **[multica-ai/multica#8297](https://github.com/multica-ai/multica/pull/8297)** — MUL-7275: fix(skills): normalize Windows archive entry paths | 2026-09-13 |
 | `merged` | **[multica-ai/multica#8338](https://github.com/multica-ai/multica/pull/8338)** — MUL-7308: test(daemon): isolate local skill homes on Windows | 2026-09-13 |
 | `open` | **[makecindy/cindy#4377](https://github.com/makecindy/cindy/pull/4377)** — fix(codex): preserve compacted turn recovery after disconnect | 2026-09-13 |
-| `open` | **[anomalyco/opencode#48734](https://github.com/anomalyco/opencode/pull/48734)** — fix(server): surface session creation errors | 2026-09-12 |
-| `open` | **[anomalyco/opencode#48732](https://github.com/anomalyco/opencode/pull/48732)** — fix(tui): finalize streamed markdown responses | 2026-09-12 |
-| `open` | **[multica-ai/multica#8353](https://github.com/multica-ai/multica/pull/8353)** — feat(usage): add exact workspace token export | 2026-09-12 |
 <!-- upstream:end -->
 
 <details>
@@ -183,7 +180,7 @@ I write about the process on [dhpie.com](https://dhpie.com).
 
 
 <!-- telemetry-refresh:start -->
-<sub>Fetched every 8 hours · last successful fetch<br>Totals: 2026-09-19 17:21:03 UTC · Commit hours: 2026-09-19 17:21:03 UTC · Reactions: 2026-09-19 17:21:03 UTC</sub>
+<sub>Fetched every 8 hours · last successful fetch<br>Totals: 2026-09-20 00:12:17 UTC · Commit hours: 2026-09-20 00:12:17 UTC · Reactions: 2026-09-20 00:12:17 UTC</sub>
 <!-- telemetry-refresh:end -->
 
 ### `~/arcade`
