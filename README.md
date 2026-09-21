@@ -67,7 +67,7 @@ I write about the process on [dhpie.com](https://dhpie.com).
 <sub>Public upstream PRs updated in the last 7 days · refreshed every 8 hours</sub>
 
 <!-- upstream:start -->
-<sub>61 PRs · 53 open · 8 merged</sub>
+<sub>58 PRs · 50 open · 8 merged</sub>
 
 | Status | Pull request | Updated (UTC) |
 | :--- | :--- | :--- |
@@ -129,9 +129,6 @@ I write about the process on [dhpie.com](https://dhpie.com).
 | `open` | **[apache/maka#5278](https://github.com/apache/maka/pull/5278)** — fix(runtime): bound OpenAI Chat image tool results | 2026-09-14 |
 | `merged` | **[CherryHQ/cherry-studio#20502](https://github.com/CherryHQ/cherry-studio/pull/20502)** — fix(markdown): preserve table cell word boundaries | 2026-09-14 |
 | `open` | **[makecindy/cindy#4424](https://github.com/makecindy/cindy/pull/4424)** — feat(mobile): render Mermaid in Markdown file reader | 2026-09-14 |
-| `open` | **[LodyAI/Lody#563](https://github.com/LodyAI/Lody/pull/563)** — fix(cli): coalesce overlapping history refreshes | 2026-09-14 |
-| `open` | **[affaan-m/ECC#3113](https://github.com/affaan-m/ECC/pull/3113)** — fix(opencode): install compiled home runtime | 2026-09-13 |
-| `open` | **[anomalyco/opencode#48733](https://github.com/anomalyco/opencode/pull/48733)** — fix(tui): preserve slash skill arguments | 2026-09-13 |
 <!-- upstream:end -->
 
 <details>
@@ -140,7 +137,7 @@ I write about the process on [dhpie.com](https://dhpie.com).
 <!-- activity:start -->
 - `2026-09-19` Commented on **[anomalyco/opencode#49879](https://github.com/anomalyco/opencode/issues/49879#issuecomment-5741115360)** — \[FEATURE\]: V2 Plan mode: restore V1 experimental plan mode&#x27;s persistent session plan file workflow
 - `2026-09-19` Commented on **[anomalyco/opencode#49943](https://github.com/anomalyco/opencode/pull/49943#issuecomment-5741086645)** — fix(tui): widen tab close target
-- `2026-09-19` Reviewed on **[CherryHQ/cherry-studio#20748](https://github.com/CherryHQ/cherry-studio/pull/20748#pullrequestreview-5255372882)**
+- `2026-09-19` Commented on **[CherryHQ/cherry-studio#20748](https://github.com/CherryHQ/cherry-studio/pull/20748#discussion_r4052903520)**
 - `2026-09-19` Commented on **[CherryHQ/cherry-studio#20747](https://github.com/CherryHQ/cherry-studio/pull/20747#discussion_r4052902561)**
 <!-- activity:end -->
 
@@ -175,7 +172,7 @@ I write about the process on [dhpie.com](https://dhpie.com).
 
 
 <!-- telemetry-refresh:start -->
-<sub>Fetched every 8 hours · last successful fetch<br>Totals: 2026-09-20 17:33:05 UTC · Commit hours: 2026-09-20 17:33:05 UTC · Reactions: 2026-09-20 17:33:05 UTC</sub>
+<sub>Fetched every 8 hours · last successful fetch<br>Totals: 2026-09-21 00:20:21 UTC · Commit hours: 2026-09-21 00:20:21 UTC · Reactions: 2026-09-21 00:20:21 UTC</sub>
 <!-- telemetry-refresh:end -->
 
 ### `~/arcade`
