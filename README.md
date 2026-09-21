@@ -67,10 +67,13 @@ I write about the process on [dhpie.com](https://dhpie.com).
 <sub>Public upstream PRs updated in the last 7 days · refreshed every 8 hours</sub>
 
 <!-- upstream:start -->
-<sub>58 PRs · 50 open · 8 merged</sub>
+<sub>56 PRs · 49 open · 7 merged</sub>
 
 | Status | Pull request | Updated (UTC) |
 | :--- | :--- | :--- |
+| `open` | **[LodyAI/Lody#563](https://github.com/LodyAI/Lody/pull/563)** — fix(cli): coalesce overlapping history refreshes | 2026-09-21 |
+| `open` | **[LodyAI/Lody#587](https://github.com/LodyAI/Lody/pull/587)** — fix(cli): list remote machine projects without daemon | 2026-09-21 |
+| `open` | **[LodyAI/Lody#594](https://github.com/LodyAI/Lody/pull/594)** — fix(electron): declare OSS macOS local network usage | 2026-09-21 |
 | `open` | **[CherryHQ/cherry-studio#20434](https://github.com/CherryHQ/cherry-studio/pull/20434)** — fix(ai): stabilize OpenRouter session routing | 2026-09-20 |
 | `open` | **[CherryHQ/cherry-studio#20353](https://github.com/CherryHQ/cherry-studio/pull/20353)** — fix(ai-runtime): clamp agent output token limit | 2026-09-20 |
 | `open` | **[anomalyco/opencode#49863](https://github.com/anomalyco/opencode/pull/49863)** — fix(plugin): support package subpath exports | 2026-09-20 |
@@ -124,11 +127,6 @@ I write about the process on [dhpie.com](https://dhpie.com).
 | `open` | **[CherryHQ/cherry-studio#20320](https://github.com/CherryHQ/cherry-studio/pull/20320)** — fix(work): keep pinned tasks in agent grouping | 2026-09-14 |
 | `open` | **[CherryHQ/cherry-studio#20349](https://github.com/CherryHQ/cherry-studio/pull/20349)** — fix(data-api): avoid overlapping timed-out reads | 2026-09-14 |
 | `merged` | **[CherryHQ/cherry-studio#20469](https://github.com/CherryHQ/cherry-studio/pull/20469)** — fix(markdown): bound mixed multiline math fences | 2026-09-14 |
-| `open` | **[multica-ai/multica#8411](https://github.com/multica-ai/multica/pull/8411)** — feat(projects): bind local directories by agent | 2026-09-14 |
-| `open` | **[affaan-m/ECC#3119](https://github.com/affaan-m/ECC/pull/3119)** — fix(install): keep home targets target-safe | 2026-09-14 |
-| `open` | **[apache/maka#5278](https://github.com/apache/maka/pull/5278)** — fix(runtime): bound OpenAI Chat image tool results | 2026-09-14 |
-| `merged` | **[CherryHQ/cherry-studio#20502](https://github.com/CherryHQ/cherry-studio/pull/20502)** — fix(markdown): preserve table cell word boundaries | 2026-09-14 |
-| `open` | **[makecindy/cindy#4424](https://github.com/makecindy/cindy/pull/4424)** — feat(mobile): render Mermaid in Markdown file reader | 2026-09-14 |
 <!-- upstream:end -->
 
 <details>
@@ -137,7 +135,7 @@ I write about the process on [dhpie.com](https://dhpie.com).
 <!-- activity:start -->
 - `2026-09-19` Commented on **[anomalyco/opencode#49879](https://github.com/anomalyco/opencode/issues/49879#issuecomment-5741115360)** — \[FEATURE\]: V2 Plan mode: restore V1 experimental plan mode&#x27;s persistent session plan file workflow
 - `2026-09-19` Commented on **[anomalyco/opencode#49943](https://github.com/anomalyco/opencode/pull/49943#issuecomment-5741086645)** — fix(tui): widen tab close target
-- `2026-09-19` Commented on **[CherryHQ/cherry-studio#20748](https://github.com/CherryHQ/cherry-studio/pull/20748#discussion_r4052903520)**
+- `2026-09-19` Reviewed on **[CherryHQ/cherry-studio#20748](https://github.com/CherryHQ/cherry-studio/pull/20748#pullrequestreview-5255372882)**
 - `2026-09-19` Commented on **[CherryHQ/cherry-studio#20747](https://github.com/CherryHQ/cherry-studio/pull/20747#discussion_r4052902561)**
 <!-- activity:end -->
 
@@ -159,8 +157,8 @@ I write about the process on [dhpie.com](https://dhpie.com).
 ### `~/telemetry`
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Dante-dan/Dante-dan/main/assets/telemetry/stats-dark-17c0fdfa9df93012.svg" />
-  <img src="https://raw.githubusercontent.com/Dante-dan/Dante-dan/main/assets/telemetry/stats-light-5f15f51f7699dd41.svg" alt="Public GitHub contribution totals" width="390" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Dante-dan/Dante-dan/main/assets/telemetry/stats-dark-2bbb67b427d81c74.svg" />
+  <img src="https://raw.githubusercontent.com/Dante-dan/Dante-dan/main/assets/telemetry/stats-light-97529e6883730d66.svg" alt="Public GitHub contribution totals" width="390" />
 </picture>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Dante-dan/Dante-dan/main/assets/telemetry/time-dark-45842ff0869ddb84.svg" />
@@ -172,7 +170,7 @@ I write about the process on [dhpie.com](https://dhpie.com).
 
 
 <!-- telemetry-refresh:start -->
-<sub>Fetched every 8 hours · last successful fetch<br>Totals: 2026-09-21 00:20:21 UTC · Commit hours: 2026-09-21 00:20:21 UTC · Reactions: 2026-09-21 00:20:21 UTC</sub>
+<sub>Fetched every 8 hours · last successful fetch<br>Totals: 2026-09-21 13:03:54 UTC · Commit hours: 2026-09-21 13:03:54 UTC · Reactions: 2026-09-21 13:03:54 UTC</sub>
 <!-- telemetry-refresh:end -->
 
 ### `~/arcade`
