@@ -67,24 +67,24 @@ I write about the process on [dhpie.com](https://dhpie.com).
 <sub>Public upstream PRs updated in the last 7 days · refreshed every 8 hours</sub>
 
 <!-- upstream:start -->
-<sub>50 PRs · 44 open · 6 merged</sub>
+<sub>48 PRs · 42 open · 6 merged</sub>
 
 | Status | Pull request | Updated (UTC) |
 | :--- | :--- | :--- |
+| `open` | **[CherryHQ/cherry-studio#20747](https://github.com/CherryHQ/cherry-studio/pull/20747)** — feat(api-gateway): add knowledge base write routes | 2026-09-22 |
+| `open` | **[apache/maka#5266](https://github.com/apache/maka/pull/5266)** — fix(runtime): allow bounded Apple Git startup | 2026-09-22 |
+| `open` | **[can1357/oh-my-pi#12395](https://github.com/can1357/oh-my-pi/pull/12395)** — fix(ai): avoid pinning Beijing quota to one workspace | 2026-09-22 |
+| `open` | **[can1357/oh-my-pi#12499](https://github.com/can1357/oh-my-pi/pull/12499)** — fix(coding-agent): keep generated-file errors tool-scoped | 2026-09-22 |
+| `open` | **[CherryHQ/cherry-studio#20748](https://github.com/CherryHQ/cherry-studio/pull/20748)** — fix(model-controls): honor disabled reasoning capability | 2026-09-22 |
+| `open` | **[CherryHQ/cherry-studio#20353](https://github.com/CherryHQ/cherry-studio/pull/20353)** — fix(ai-runtime): clamp agent output token limit | 2026-09-22 |
 | `open` | **[LodyAI/Lody#563](https://github.com/LodyAI/Lody/pull/563)** — fix(cli): coalesce overlapping history refreshes | 2026-09-21 |
 | `open` | **[LodyAI/Lody#587](https://github.com/LodyAI/Lody/pull/587)** — fix(cli): list remote machine projects without daemon | 2026-09-21 |
 | `open` | **[LodyAI/Lody#594](https://github.com/LodyAI/Lody/pull/594)** — fix(electron): declare OSS macOS local network usage | 2026-09-21 |
 | `open` | **[CherryHQ/cherry-studio#20434](https://github.com/CherryHQ/cherry-studio/pull/20434)** — fix(ai): stabilize OpenRouter session routing | 2026-09-20 |
-| `open` | **[CherryHQ/cherry-studio#20353](https://github.com/CherryHQ/cherry-studio/pull/20353)** — fix(ai-runtime): clamp agent output token limit | 2026-09-20 |
 | `open` | **[anomalyco/opencode#49863](https://github.com/anomalyco/opencode/pull/49863)** — fix(plugin): support package subpath exports | 2026-09-20 |
-| `open` | **[CherryHQ/cherry-studio#20747](https://github.com/CherryHQ/cherry-studio/pull/20747)** — feat(api-gateway): add knowledge base write routes | 2026-09-19 |
-| `open` | **[CherryHQ/cherry-studio#20748](https://github.com/CherryHQ/cherry-studio/pull/20748)** — fix(model-controls): honor disabled reasoning capability | 2026-09-19 |
-| `open` | **[apache/maka#5266](https://github.com/apache/maka/pull/5266)** — fix(runtime): allow bounded Apple Git startup | 2026-09-19 |
 | `open` | **[anomalyco/opencode#49943](https://github.com/anomalyco/opencode/pull/49943)** — fix(tui): widen tab close target | 2026-09-19 |
 | `open` | **[anomalyco/opencode#49808](https://github.com/anomalyco/opencode/pull/49808)** — fix(core): register compatible Responses provider | 2026-09-19 |
 | `open` | **[anomalyco/opencode#49921](https://github.com/anomalyco/opencode/pull/49921)** — fix(app): guard built-in agent color lookup | 2026-09-19 |
-| `open` | **[can1357/oh-my-pi#12499](https://github.com/can1357/oh-my-pi/pull/12499)** — fix(coding-agent): keep generated-file errors tool-scoped | 2026-09-19 |
-| `open` | **[can1357/oh-my-pi#12395](https://github.com/can1357/oh-my-pi/pull/12395)** — fix(ai): avoid pinning Beijing quota to one workspace | 2026-09-19 |
 | `open` | **[can1357/oh-my-pi#12394](https://github.com/can1357/oh-my-pi/pull/12394)** — fix(coding-agent): save manual handoff artifacts when enabled | 2026-09-19 |
 | `open` | **[affaan-m/ECC#3121](https://github.com/affaan-m/ECC/pull/3121)** — docs(i18n): add Polish localization scout | 2026-09-18 |
 | `open` | **[anomalyco/opencode#49775](https://github.com/anomalyco/opencode/pull/49775)** — fix(opencode): guard large snapshot restores | 2026-09-18 |
@@ -119,18 +119,16 @@ I write about the process on [dhpie.com](https://dhpie.com).
 | `merged` | **[can1357/oh-my-pi#12078](https://github.com/can1357/oh-my-pi/pull/12078)** — fix(stats): expose session cwd in summaries | 2026-09-15 |
 | `merged` | **[can1357/oh-my-pi#12079](https://github.com/can1357/oh-my-pi/pull/12079)** — fix(coding-agent): keep mnemopi requests alive | 2026-09-15 |
 | `merged` | **[can1357/oh-my-pi#12080](https://github.com/can1357/oh-my-pi/pull/12080)** — fix(coding-agent): wait for PTY replay before finalizing transcript | 2026-09-15 |
-| `open` | **[CherryHQ/cherry-studio#20486](https://github.com/CherryHQ/cherry-studio/pull/20486)** — fix(knowledge): handle oversized Zhipu reranks | 2026-09-14 |
-| `open` | **[code-yeongyu/oh-my-openagent#8297](https://github.com/code-yeongyu/oh-my-openagent/pull/8297)** — fix(opencode): expose V2 plugin setup entry | 2026-09-14 |
 <!-- upstream:end -->
 
 <details>
 <summary>Recent conversations · issues, comments &amp; reviews</summary>
 
 <!-- activity:start -->
+- `2026-09-22` Commented on **[CherryHQ/cherry-studio#20747](https://github.com/CherryHQ/cherry-studio/pull/20747#issuecomment-5769708108)** — feat(api-gateway): add knowledge base write routes
+- `2026-09-22` Commented on **[CherryHQ/cherry-studio#20353](https://github.com/CherryHQ/cherry-studio/pull/20353#discussion_r4067566226)**
 - `2026-09-19` Commented on **[anomalyco/opencode#49879](https://github.com/anomalyco/opencode/issues/49879#issuecomment-5741115360)** — \[FEATURE\]: V2 Plan mode: restore V1 experimental plan mode&#x27;s persistent session plan file workflow
 - `2026-09-19` Commented on **[anomalyco/opencode#49943](https://github.com/anomalyco/opencode/pull/49943#issuecomment-5741086645)** — fix(tui): widen tab close target
-- `2026-09-19` Reviewed on **[CherryHQ/cherry-studio#20748](https://github.com/CherryHQ/cherry-studio/pull/20748#pullrequestreview-5255372882)**
-- `2026-09-19` Commented on **[CherryHQ/cherry-studio#20747](https://github.com/CherryHQ/cherry-studio/pull/20747#discussion_r4052902561)**
 <!-- activity:end -->
 
 </details>
@@ -164,7 +162,7 @@ I write about the process on [dhpie.com](https://dhpie.com).
 
 
 <!-- telemetry-refresh:start -->
-<sub>Fetched every 8 hours · last successful fetch<br>Totals: 2026-09-21 19:37:11 UTC · Commit hours: 2026-09-21 19:37:11 UTC · Reactions: 2026-09-21 19:37:11 UTC</sub>
+<sub>Fetched every 8 hours · last successful fetch<br>Totals: 2026-09-22 00:56:56 UTC · Commit hours: 2026-09-22 00:56:56 UTC · Reactions: 2026-09-22 00:56:56 UTC</sub>
 <!-- telemetry-refresh:end -->
 
 ### `~/arcade`
