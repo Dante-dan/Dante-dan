@@ -41,9 +41,9 @@ I write about the process on [dhpie.com](https://dhpie.com).
 <!-- contributions:start -->
 <sub>Code accepted upstream · last 12 months</sub>
 
+<table align="left" width="270"><tr><td width="64" valign="middle"><a href="https://github.com/can1357/oh-my-pi"><img src="assets/projects/can1357--oh-my-pi.png" width="56" height="56" alt="oh-my-pi icon" /></a></td><td width="200" valign="middle"><a href="https://github.com/can1357/oh-my-pi"><strong>oh-my-pi</strong></a><br /><sub><a href="https://github.com/can1357/oh-my-pi/pull/12380">merged contribution</a><br /><a href="https://github.com/can1357/oh-my-pi/pulls?q=is%3Apr+author%3ADante-dan">all PRs ↗</a></sub></td></tr></table>
 <table align="left" width="270"><tr><td width="64" valign="middle"><a href="https://github.com/CherryHQ/cherry-studio"><img src="assets/projects/CherryHQ--cherry-studio.png" width="56" height="56" alt="Cherry Studio icon" /></a></td><td width="200" valign="middle"><a href="https://github.com/CherryHQ/cherry-studio"><strong>Cherry Studio</strong></a><br /><sub><a href="https://github.com/CherryHQ/cherry-studio/pull/20322">merged contribution</a><br /><a href="https://github.com/CherryHQ/cherry-studio/pulls?q=is%3Apr+author%3ADante-dan">all PRs ↗</a></sub></td></tr></table>
 <table align="left" width="270"><tr><td width="64" valign="middle"><a href="https://github.com/code-yeongyu/oh-my-openagent"><img src="assets/projects/code-yeongyu--oh-my-openagent.png" width="56" height="56" alt="oh-my-openagent icon" /></a></td><td width="200" valign="middle"><a href="https://github.com/code-yeongyu/oh-my-openagent"><strong>oh-my-openagent</strong></a><br /><sub><a href="https://github.com/code-yeongyu/oh-my-openagent/pull/8392">merged contribution</a><br /><a href="https://github.com/code-yeongyu/oh-my-openagent/pulls?q=is%3Apr+author%3ADante-dan">all PRs ↗</a></sub></td></tr></table>
-<table align="left" width="270"><tr><td width="64" valign="middle"><a href="https://github.com/can1357/oh-my-pi"><img src="assets/projects/can1357--oh-my-pi.png" width="56" height="56" alt="oh-my-pi icon" /></a></td><td width="200" valign="middle"><a href="https://github.com/can1357/oh-my-pi"><strong>oh-my-pi</strong></a><br /><sub><a href="https://github.com/can1357/oh-my-pi/pull/12223">merged contribution</a><br /><a href="https://github.com/can1357/oh-my-pi/pulls?q=is%3Apr+author%3ADante-dan">all PRs ↗</a></sub></td></tr></table>
 <table align="left" width="270"><tr><td width="64" valign="middle"><a href="https://github.com/multica-ai/multica"><img src="assets/projects/multica-ai--multica.png" width="56" height="56" alt="multica icon" /></a></td><td width="200" valign="middle"><a href="https://github.com/multica-ai/multica"><strong>multica</strong></a><br /><sub><a href="https://github.com/multica-ai/multica/pull/8297">merged contribution</a><br /><a href="https://github.com/multica-ai/multica/pulls?q=is%3Apr+author%3ADante-dan">all PRs ↗</a></sub></td></tr></table>
 <table align="left" width="270"><tr><td width="64" valign="middle"><a href="https://github.com/apache/maka"><img src="assets/projects/apache--maka.png" width="56" height="56" alt="maka icon" /></a></td><td width="200" valign="middle"><a href="https://github.com/apache/maka"><strong>maka</strong></a><br /><sub><a href="https://github.com/apache/maka/pull/5226">merged contribution</a><br /><a href="https://github.com/apache/maka/pulls?q=is%3Apr+author%3ADante-dan">all PRs ↗</a></sub></td></tr></table>
 <table align="left" width="270"><tr><td width="64" valign="middle"><a href="https://github.com/affaan-m/ECC"><img src="assets/projects/affaan-m--ECC.svg" width="56" height="56" alt="ECC icon" /></a></td><td width="200" valign="middle"><a href="https://github.com/affaan-m/ECC"><strong>ECC</strong></a><br /><sub><a href="https://github.com/affaan-m/ECC/pull/3076">merged contribution</a><br /><a href="https://github.com/affaan-m/ECC/pulls?q=is%3Apr+author%3ADante-dan">all PRs ↗</a></sub></td></tr></table>
@@ -67,37 +67,43 @@ I write about the process on [dhpie.com](https://dhpie.com).
 <sub>Public upstream PRs updated in the last 7 days · refreshed every 8 hours</sub>
 
 <!-- upstream:start -->
-<sub>51 PRs · 48 open · 3 merged</sub>
+<sub>57 PRs · 50 open · 7 merged</sub>
 
 | Status | Pull request | Updated (UTC) |
 | :--- | :--- | :--- |
-| `open` | **[CherryHQ/cherry-studio#20434](https://github.com/CherryHQ/cherry-studio/pull/20434)** — fix(ai): stabilize OpenRouter session routing | 2026-09-22 |
+| `open` | **[affaan-m/ECC#3213](https://github.com/affaan-m/ECC/pull/3213)** — fix: distinguish PowerShell foreach statements | 2026-09-22 |
+| `open` | **[cline/cline#14400](https://github.com/cline/cline/pull/14400)** — fix(sdk): require string old\_text in editor schema | 2026-09-22 |
+| `open` | **[can1357/oh-my-pi#12818](https://github.com/can1357/oh-my-pi/pull/12818)** — fix(natives): keep macOS TUI sessions out of the Dock | 2026-09-22 |
+| `open` | **[LodyAI/Lody#895](https://github.com/LodyAI/Lody/pull/895)** — fix(e2e): select role by visible title | 2026-09-22 |
+| `open` | **[makecindy/cindy#4297](https://github.com/makecindy/cindy/pull/4297)** — fix(desktop): render automation settings before status probes | 2026-09-22 |
+| `open` | **[LodyAI/Lody#819](https://github.com/LodyAI/Lody/pull/819)** — feat: sort local project directory listings | 2026-09-22 |
+| `open` | **[anomalyco/opencode#50639](https://github.com/anomalyco/opencode/pull/50639)** — fix(opencode): defer reasoning stream joins | 2026-09-22 |
+| `merged` | **[can1357/oh-my-pi#12380](https://github.com/can1357/oh-my-pi/pull/12380)** — fix(catalog): route Union Alpha through OpenCode Messages API | 2026-09-22 |
+| `merged` | **[can1357/oh-my-pi#12395](https://github.com/can1357/oh-my-pi/pull/12395)** — fix(ai): avoid pinning Beijing quota to one workspace | 2026-09-22 |
+| `merged` | **[can1357/oh-my-pi#12377](https://github.com/can1357/oh-my-pi/pull/12377)** — fix(task): preserve subagent retry fallback role on startup | 2026-09-22 |
+| `merged` | **[can1357/oh-my-pi#12499](https://github.com/can1357/oh-my-pi/pull/12499)** — fix(coding-agent): keep generated-file errors tool-scoped | 2026-09-22 |
+| `open` | **[makecindy/cindy#4551](https://github.com/makecindy/cindy/pull/4551)** — fix(desktop): acknowledge opened background tasks | 2026-09-22 |
 | `open` | **[CherryHQ/cherry-studio#20747](https://github.com/CherryHQ/cherry-studio/pull/20747)** — feat(api-gateway): add knowledge base write routes | 2026-09-22 |
+| `open` | **[CherryHQ/cherry-studio#20434](https://github.com/CherryHQ/cherry-studio/pull/20434)** — fix(ai): stabilize OpenRouter session routing | 2026-09-22 |
+| `open` | **[makecindy/cindy#4424](https://github.com/makecindy/cindy/pull/4424)** — feat(mobile): render Mermaid in Markdown file reader | 2026-09-22 |
 | `open` | **[CherryHQ/cherry-studio#20386](https://github.com/CherryHQ/cherry-studio/pull/20386)** — fix(new-api): restore Gemini web search through relays | 2026-09-22 |
-| `open` | **[CherryHQ/cherry-studio#20320](https://github.com/CherryHQ/cherry-studio/pull/20320)** — fix(work): keep pinned tasks in agent grouping | 2026-09-22 |
 | `open` | **[makecindy/cindy#4366](https://github.com/makecindy/cindy/pull/4366)** — fix(mobile): avoid stale device roster snapshot | 2026-09-22 |
+| `open` | **[CherryHQ/cherry-studio#20320](https://github.com/CherryHQ/cherry-studio/pull/20320)** — fix(work): keep pinned tasks in agent grouping | 2026-09-22 |
 | `merged` | **[CherryHQ/cherry-studio#20322](https://github.com/CherryHQ/cherry-studio/pull/20322)** — fix(agent): honor configured Pi shell path | 2026-09-22 |
 | `open` | **[makecindy/cindy#4550](https://github.com/makecindy/cindy/pull/4550)** — fix(providers): restore Pi model image input control | 2026-09-22 |
-| `open` | **[makecindy/cindy#4424](https://github.com/makecindy/cindy/pull/4424)** — feat(mobile): render Mermaid in Markdown file reader | 2026-09-22 |
 | `open` | **[makecindy/cindy#4384](https://github.com/makecindy/cindy/pull/4384)** — fix(auth): guard stale runtime expiry transitions | 2026-09-22 |
 | `open` | **[CherryHQ/cherry-studio#20323](https://github.com/CherryHQ/cherry-studio/pull/20323)** — fix: accept sparse OpenAI response lifecycle events | 2026-09-22 |
-| `open` | **[makecindy/cindy#4297](https://github.com/makecindy/cindy/pull/4297)** — fix(desktop): render automation settings before status probes | 2026-09-22 |
 | `open` | **[CherryHQ/cherry-studio#20321](https://github.com/CherryHQ/cherry-studio/pull/20321)** — fix(chat-errors): normalize non-error throws | 2026-09-22 |
 | `open` | **[affaan-m/ECC#3121](https://github.com/affaan-m/ECC/pull/3121)** — docs(i18n): add Polish localization scout | 2026-09-22 |
 | `open` | **[multica-ai/multica#8411](https://github.com/multica-ai/multica/pull/8411)** — feat(projects): bind local directories by agent | 2026-09-22 |
-| `open` | **[makecindy/cindy#4551](https://github.com/makecindy/cindy/pull/4551)** — fix(desktop): acknowledge opened background tasks | 2026-09-22 |
 | `open` | **[multica-ai/multica#8353](https://github.com/multica-ai/multica/pull/8353)** — feat(usage): add exact workspace token export | 2026-09-22 |
 | `open` | **[can1357/oh-my-pi#12381](https://github.com/can1357/oh-my-pi/pull/12381)** — test(browser): require a live CDP endpoint for Linux Chromium | 2026-09-22 |
 | `open` | **[can1357/oh-my-pi#12083](https://github.com/can1357/oh-my-pi/pull/12083)** — fix(coding-agent): clarify omp identity in system prompt | 2026-09-22 |
 | `open` | **[can1357/oh-my-pi#12378](https://github.com/can1357/oh-my-pi/pull/12378)** — fix(session): relocate custom sessions across filesystems | 2026-09-22 |
 | `open` | **[LodyAI/Lody#594](https://github.com/LodyAI/Lody/pull/594)** — fix(electron): declare OSS macOS local network usage | 2026-09-22 |
-| `open` | **[can1357/oh-my-pi#12377](https://github.com/can1357/oh-my-pi/pull/12377)** — fix(task): preserve subagent retry fallback role on startup | 2026-09-22 |
-| `open` | **[can1357/oh-my-pi#12380](https://github.com/can1357/oh-my-pi/pull/12380)** — fix(catalog): route Union Alpha through OpenCode Messages API | 2026-09-22 |
 | `open` | **[CherryHQ/cherry-studio#20353](https://github.com/CherryHQ/cherry-studio/pull/20353)** — fix(ai-runtime): clamp agent output token limit | 2026-09-22 |
 | `open` | **[CherryHQ/cherry-studio#20748](https://github.com/CherryHQ/cherry-studio/pull/20748)** — fix(model-controls): honor disabled reasoning capability | 2026-09-22 |
 | `open` | **[apache/maka#5266](https://github.com/apache/maka/pull/5266)** — fix(runtime): allow bounded Apple Git startup | 2026-09-22 |
-| `open` | **[can1357/oh-my-pi#12395](https://github.com/can1357/oh-my-pi/pull/12395)** — fix(ai): avoid pinning Beijing quota to one workspace | 2026-09-22 |
-| `open` | **[can1357/oh-my-pi#12499](https://github.com/can1357/oh-my-pi/pull/12499)** — fix(coding-agent): keep generated-file errors tool-scoped | 2026-09-22 |
 | `open` | **[LodyAI/Lody#563](https://github.com/LodyAI/Lody/pull/563)** — fix(cli): coalesce overlapping history refreshes | 2026-09-21 |
 | `open` | **[LodyAI/Lody#587](https://github.com/LodyAI/Lody/pull/587)** — fix(cli): list remote machine projects without daemon | 2026-09-21 |
 | `open` | **[anomalyco/opencode#49863](https://github.com/anomalyco/opencode/pull/49863)** — fix(plugin): support package subpath exports | 2026-09-20 |
@@ -128,10 +134,10 @@ I write about the process on [dhpie.com](https://dhpie.com).
 <summary>Recent conversations · issues, comments &amp; reviews</summary>
 
 <!-- activity:start -->
-- `2026-09-22` Commented on **[CherryHQ/cherry-studio#20434](https://github.com/CherryHQ/cherry-studio/pull/20434#issuecomment-5775951134)** — fix(ai): stabilize OpenRouter session routing
-- `2026-09-22` Commented on **[CherryHQ/cherry-studio#20747](https://github.com/CherryHQ/cherry-studio/pull/20747#discussion_r4071133253)**
-- `2026-09-22` Commented on **[CherryHQ/cherry-studio#20386](https://github.com/CherryHQ/cherry-studio/pull/20386#discussion_r4070874568)**
-- `2026-09-22` Commented on **[CherryHQ/cherry-studio#20320](https://github.com/CherryHQ/cherry-studio/pull/20320#discussion_r4070804616)**
+- `2026-09-22` Commented on **[affaan-m/ECC#3213](https://github.com/affaan-m/ECC/pull/3213#issuecomment-5781351108)** — fix: distinguish PowerShell foreach statements
+- `2026-09-22` Commented on **[makecindy/cindy#4833](https://github.com/makecindy/cindy/issues/4833#issuecomment-5780544035)** — \[Bug\] Windows 更新到 0.1.90 反复失败并回滚：文件已替换但启动被拒（日志报 no linked medium token）
+- `2026-09-22` Commented on **[cline/cline#13729](https://github.com/cline/cline/issues/13729#issuecomment-5780534046)** — Deepseek Pro circumvented plan mode and wrote changes without my approval
+- `2026-09-22` Commented on **[cline/cline#14394](https://github.com/cline/cline/issues/14394#issuecomment-5778834970)** — opencode-sidecar-deaf-on-4096-with-config-on-Windows
 <!-- activity:end -->
 
 </details>
@@ -143,21 +149,21 @@ I write about the process on [dhpie.com](https://dhpie.com).
 <sub>Latest writing from [dhpie.com](https://dhpie.com)</sub>
 
 <!-- notes:start -->
+- [开源贡献日报 · 2026-09-22](https://dhpie.com/posts/cn/open-source-daily-2026-09-22)
 - [开源贡献日报 · 2026-09-19](https://dhpie.com/posts/cn/open-source-daily-2026-09-19)
 - [开源贡献日报 · 2026-09-18](https://dhpie.com/posts/cn/open-source-daily-2026-09-18)
 - [开源贡献日报 · 2026-09-17](https://dhpie.com/posts/cn/open-source-daily-2026-09-17)
-- [开源贡献日报 · 2026-09-16](https://dhpie.com/posts/cn/open-source-daily-2026-09-16)
 <!-- notes:end -->
 
 ### `~/telemetry`
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Dante-dan/Dante-dan/main/assets/telemetry/stats-dark-0e5e0a28d84d01f0.svg" />
-  <img src="https://raw.githubusercontent.com/Dante-dan/Dante-dan/main/assets/telemetry/stats-light-fa586049d471d90e.svg" alt="Public GitHub contribution totals" width="390" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Dante-dan/Dante-dan/main/assets/telemetry/stats-dark-bd61fa74dc3093cd.svg" />
+  <img src="https://raw.githubusercontent.com/Dante-dan/Dante-dan/main/assets/telemetry/stats-light-89fb3560516700cc.svg" alt="Public GitHub contribution totals" width="390" />
 </picture>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Dante-dan/Dante-dan/main/assets/telemetry/time-dark-0ff754aa887b8fbc.svg" />
-  <img src="https://raw.githubusercontent.com/Dante-dan/Dante-dan/main/assets/telemetry/time-light-5b282234de58cd4d.svg" alt="Commit distribution by time of day, UTC+8" width="390" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Dante-dan/Dante-dan/main/assets/telemetry/time-dark-7945b3323165c9a3.svg" />
+  <img src="https://raw.githubusercontent.com/Dante-dan/Dante-dan/main/assets/telemetry/time-light-c84500755654b5b2.svg" alt="Commit distribution by time of day, UTC+8" width="390" />
 </picture>
 
 <img src="https://raw.githubusercontent.com/Dante-dan/Dante-dan/main/assets/telemetry/reactions-58066a1dbf1d91c3.svg" alt="Reactions received on recent public comments and issue bodies" width="650" />
@@ -165,7 +171,7 @@ I write about the process on [dhpie.com](https://dhpie.com).
 
 
 <!-- telemetry-refresh:start -->
-<sub>Fetched every 8 hours · last successful fetch<br>Totals: 2026-09-22 11:53:40 UTC · Commit hours: 2026-09-22 11:53:40 UTC · Reactions: 2026-09-22 11:53:40 UTC</sub>
+<sub>Fetched every 8 hours · last successful fetch<br>Totals: 2026-09-22 18:11:08 UTC · Commit hours: 2026-09-22 18:11:08 UTC · Reactions: 2026-09-22 18:11:08 UTC</sub>
 <!-- telemetry-refresh:end -->
 
 ### `~/arcade`
