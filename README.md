@@ -67,10 +67,23 @@ I write about the process on [dhpie.com](https://dhpie.com).
 <sub>Public upstream PRs updated in the last 7 days · refreshed every 8 hours</sub>
 
 <!-- upstream:start -->
-<sub>57 PRs · 50 open · 7 merged</sub>
+<sub>67 PRs · 60 open · 7 merged</sub>
 
 | Status | Pull request | Updated (UTC) |
 | :--- | :--- | :--- |
+| `open` | **[can1357/oh-my-pi#12902](https://github.com/can1357/oh-my-pi/pull/12902)** — fix(browser): tolerate missing Puppeteer callsites | 2026-09-22 |
+| `open` | **[can1357/oh-my-pi#12887](https://github.com/can1357/oh-my-pi/pull/12887)** — perf(coding-agent): avoid repeated whole-buffer TTSR scans | 2026-09-22 |
+| `open` | **[makecindy/cindy#4551](https://github.com/makecindy/cindy/pull/4551)** — fix(desktop): acknowledge opened background tasks | 2026-09-22 |
+| `open` | **[code-yeongyu/oh-my-openagent#8697](https://github.com/code-yeongyu/oh-my-openagent/pull/8697)** — fix(release): mark semver prereleases correctly | 2026-09-22 |
+| `open` | **[CherryHQ/cherry-studio#20386](https://github.com/CherryHQ/cherry-studio/pull/20386)** — fix(new-api): restore Gemini web search through relays | 2026-09-22 |
+| `open` | **[CherryHQ/cherry-studio#20953](https://github.com/CherryHQ/cherry-studio/pull/20953)** — fix(doctor): avoid unactionable dependency links | 2026-09-22 |
+| `open` | **[CherryHQ/cherry-studio#20949](https://github.com/CherryHQ/cherry-studio/pull/20949)** — fix(agent-session): classify empty completions | 2026-09-22 |
+| `open` | **[code-yeongyu/oh-my-openagent#8695](https://github.com/code-yeongyu/oh-my-openagent/pull/8695)** — fix(release): extend npm propagation budget | 2026-09-22 |
+| `open` | **[CherryHQ/cherry-studio#20950](https://github.com/CherryHQ/cherry-studio/pull/20950)** — fix(file): recover directory trees after watcher errors | 2026-09-22 |
+| `open` | **[makecindy/cindy#4424](https://github.com/makecindy/cindy/pull/4424)** — feat(mobile): render Mermaid in Markdown file reader | 2026-09-22 |
+| `open` | **[affaan-m/ECC#3215](https://github.com/affaan-m/ECC/pull/3215)** — fix: align scope migration install arguments | 2026-09-22 |
+| `open` | **[multica-ai/multica#8715](https://github.com/multica-ai/multica/pull/8715)** — fix(core): support legacy issue status servers | 2026-09-22 |
+| `open` | **[code-yeongyu/oh-my-openagent#8690](https://github.com/code-yeongyu/oh-my-openagent/pull/8690)** — fix(publish): wait for tarball readiness | 2026-09-22 |
 | `open` | **[affaan-m/ECC#3213](https://github.com/affaan-m/ECC/pull/3213)** — fix: distinguish PowerShell foreach statements | 2026-09-22 |
 | `open` | **[cline/cline#14400](https://github.com/cline/cline/pull/14400)** — fix(sdk): require string old\_text in editor schema | 2026-09-22 |
 | `open` | **[can1357/oh-my-pi#12818](https://github.com/can1357/oh-my-pi/pull/12818)** — fix(natives): keep macOS TUI sessions out of the Dock | 2026-09-22 |
@@ -82,11 +95,8 @@ I write about the process on [dhpie.com](https://dhpie.com).
 | `merged` | **[can1357/oh-my-pi#12395](https://github.com/can1357/oh-my-pi/pull/12395)** — fix(ai): avoid pinning Beijing quota to one workspace | 2026-09-22 |
 | `merged` | **[can1357/oh-my-pi#12377](https://github.com/can1357/oh-my-pi/pull/12377)** — fix(task): preserve subagent retry fallback role on startup | 2026-09-22 |
 | `merged` | **[can1357/oh-my-pi#12499](https://github.com/can1357/oh-my-pi/pull/12499)** — fix(coding-agent): keep generated-file errors tool-scoped | 2026-09-22 |
-| `open` | **[makecindy/cindy#4551](https://github.com/makecindy/cindy/pull/4551)** — fix(desktop): acknowledge opened background tasks | 2026-09-22 |
 | `open` | **[CherryHQ/cherry-studio#20747](https://github.com/CherryHQ/cherry-studio/pull/20747)** — feat(api-gateway): add knowledge base write routes | 2026-09-22 |
 | `open` | **[CherryHQ/cherry-studio#20434](https://github.com/CherryHQ/cherry-studio/pull/20434)** — fix(ai): stabilize OpenRouter session routing | 2026-09-22 |
-| `open` | **[makecindy/cindy#4424](https://github.com/makecindy/cindy/pull/4424)** — feat(mobile): render Mermaid in Markdown file reader | 2026-09-22 |
-| `open` | **[CherryHQ/cherry-studio#20386](https://github.com/CherryHQ/cherry-studio/pull/20386)** — fix(new-api): restore Gemini web search through relays | 2026-09-22 |
 | `open` | **[makecindy/cindy#4366](https://github.com/makecindy/cindy/pull/4366)** — fix(mobile): avoid stale device roster snapshot | 2026-09-22 |
 | `open` | **[CherryHQ/cherry-studio#20320](https://github.com/CherryHQ/cherry-studio/pull/20320)** — fix(work): keep pinned tasks in agent grouping | 2026-09-22 |
 | `merged` | **[CherryHQ/cherry-studio#20322](https://github.com/CherryHQ/cherry-studio/pull/20322)** — fix(agent): honor configured Pi shell path | 2026-09-22 |
@@ -134,10 +144,10 @@ I write about the process on [dhpie.com](https://dhpie.com).
 <summary>Recent conversations · issues, comments &amp; reviews</summary>
 
 <!-- activity:start -->
-- `2026-09-22` Commented on **[affaan-m/ECC#3213](https://github.com/affaan-m/ECC/pull/3213#issuecomment-5781351108)** — fix: distinguish PowerShell foreach statements
-- `2026-09-22` Commented on **[makecindy/cindy#4833](https://github.com/makecindy/cindy/issues/4833#issuecomment-5780544035)** — \[Bug\] Windows 更新到 0.1.90 反复失败并回滚：文件已替换但启动被拒（日志报 no linked medium token）
-- `2026-09-22` Commented on **[cline/cline#13729](https://github.com/cline/cline/issues/13729#issuecomment-5780534046)** — Deepseek Pro circumvented plan mode and wrote changes without my approval
-- `2026-09-22` Commented on **[cline/cline#14394](https://github.com/cline/cline/issues/14394#issuecomment-5778834970)** — opencode-sidecar-deaf-on-4096-with-config-on-Windows
+- `2026-09-22` Commented on **[can1357/oh-my-pi#12902](https://github.com/can1357/oh-my-pi/pull/12902#issuecomment-5785510760)** — fix(browser): tolerate missing Puppeteer callsites
+- `2026-09-22` Commented on **[langchain-ai/langgraph#8320](https://github.com/langchain-ai/langgraph/issues/8320#issuecomment-5785440563)** — StateGraph silently drops node output keys not declared in TypedDict
+- `2026-09-22` Commented on **[can1357/oh-my-pi#12887](https://github.com/can1357/oh-my-pi/pull/12887#issuecomment-5785287140)** — perf(coding-agent): avoid repeated whole-buffer TTSR scans
+- `2026-09-22` Commented on **[makecindy/cindy#4551](https://github.com/makecindy/cindy/pull/4551#issuecomment-5785284044)** — fix(desktop): acknowledge opened background tasks
 <!-- activity:end -->
 
 </details>
@@ -158,8 +168,8 @@ I write about the process on [dhpie.com](https://dhpie.com).
 ### `~/telemetry`
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Dante-dan/Dante-dan/main/assets/telemetry/stats-dark-bd61fa74dc3093cd.svg" />
-  <img src="https://raw.githubusercontent.com/Dante-dan/Dante-dan/main/assets/telemetry/stats-light-89fb3560516700cc.svg" alt="Public GitHub contribution totals" width="390" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Dante-dan/Dante-dan/main/assets/telemetry/stats-dark-cef77db425d5b914.svg" />
+  <img src="https://raw.githubusercontent.com/Dante-dan/Dante-dan/main/assets/telemetry/stats-light-1519c4ed9a785ffa.svg" alt="Public GitHub contribution totals" width="390" />
 </picture>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Dante-dan/Dante-dan/main/assets/telemetry/time-dark-7945b3323165c9a3.svg" />
@@ -171,7 +181,7 @@ I write about the process on [dhpie.com](https://dhpie.com).
 
 
 <!-- telemetry-refresh:start -->
-<sub>Fetched every 8 hours · last successful fetch<br>Totals: 2026-09-22 18:11:08 UTC · Commit hours: 2026-09-22 18:11:08 UTC · Reactions: 2026-09-22 18:11:08 UTC</sub>
+<sub>Fetched every 8 hours · last successful fetch<br>Totals: 2026-09-23 00:45:40 UTC · Commit hours: 2026-09-23 00:45:40 UTC · Reactions: 2026-09-23 00:45:40 UTC</sub>
 <!-- telemetry-refresh:end -->
 
 ### `~/arcade`
