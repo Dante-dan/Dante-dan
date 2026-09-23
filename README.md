@@ -26,6 +26,8 @@ I build with TypeScript and AI agents. I investigate issues, work on fixes,
 and contribute to the design discussions behind the tools I use.
 I write about the process on [dhpie.com](https://dhpie.com).
 
+[![GitHub Roast score card](https://ghfind.com/api/card/mini/dante-dan?theme=light)](https://ghfind.com/u/dante-dan?ref=badge)
+
 ### `~/workbench`
 
 <sub>Recently pushed public projects · forks excluded</sub>
