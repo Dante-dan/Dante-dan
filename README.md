@@ -70,7 +70,7 @@ I write about the process on [dhpie.com](https://dhpie.com).
 <sub>Public upstream PRs updated in the last 7 days · refreshed every 8 hours</sub>
 
 <!-- upstream:start -->
-<sub>65 PRs · 54 open · 11 merged</sub>
+<sub>62 PRs · 52 open · 10 merged</sub>
 
 | Status | Pull request | Updated (UTC) |
 | :--- | :--- | :--- |
@@ -136,9 +136,6 @@ I write about the process on [dhpie.com](https://dhpie.com).
 | `open` | **[can1357/oh-my-pi#12253](https://github.com/can1357/oh-my-pi/pull/12253)** — fix(session): anchor exit marker to persisted tail | 2026-09-17 |
 | `open` | **[code-yeongyu/oh-my-openagent#8405](https://github.com/code-yeongyu/oh-my-openagent/pull/8405)** — test(codex): bound the installer manifest fixture | 2026-09-16 |
 | `open` | **[code-yeongyu/oh-my-openagent#8404](https://github.com/code-yeongyu/oh-my-openagent/pull/8404)** — fix(team-core): publish complete lock owners atomically | 2026-09-16 |
-| `merged` | **[can1357/oh-my-pi#12223](https://github.com/can1357/oh-my-pi/pull/12223)** — fix(coding-agent): track catalog descriptor discovery state | 2026-09-16 |
-| `open` | **[CherryHQ/cherry-studio#20487](https://github.com/CherryHQ/cherry-studio/pull/20487)** — feat(proxy): add connection test | 2026-09-16 |
-| `open` | **[code-yeongyu/oh-my-openagent#8387](https://github.com/code-yeongyu/oh-my-openagent/pull/8387)** — fix(omo-native): keep Ghostty inline images in transcript flow | 2026-09-16 |
 <!-- upstream:end -->
 
 <details>
@@ -182,7 +179,7 @@ I write about the process on [dhpie.com](https://dhpie.com).
 
 
 <!-- telemetry-refresh:start -->
-<sub>Fetched every 8 hours · last successful fetch<br>Totals: 2026-09-23 11:53:50 UTC · Commit hours: 2026-09-23 11:53:50 UTC · Reactions: 2026-09-23 11:53:50 UTC</sub>
+<sub>Fetched every 8 hours · last successful fetch<br>Totals: 2026-09-23 18:28:30 UTC · Commit hours: 2026-09-23 18:28:30 UTC · Reactions: 2026-09-23 18:28:30 UTC</sub>
 <!-- telemetry-refresh:end -->
 
 ### `~/arcade`
