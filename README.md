@@ -74,6 +74,10 @@ I write about the process on [dhpie.com](https://dhpie.com).
 
 | Status | Pull request | Updated (UTC) |
 | :--- | :--- | :--- |
+| `open` | **[cline/cline#14400](https://github.com/cline/cline/pull/14400)** — fix(sdk): require string old\_text in editor schema | 2026-09-24 |
+| `open` | **[affaan-m/ECC#3119](https://github.com/affaan-m/ECC/pull/3119)** — fix(install): keep home targets target-safe | 2026-09-24 |
+| `open` | **[affaan-m/ECC#3121](https://github.com/affaan-m/ECC/pull/3121)** — docs(i18n): add Polish localization scout | 2026-09-24 |
+| `open` | **[affaan-m/ECC#3213](https://github.com/affaan-m/ECC/pull/3213)** — fix: distinguish PowerShell foreach statements | 2026-09-24 |
 | `open` | **[LodyAI/Lody#687](https://github.com/LodyAI/Lody/pull/687)** — fix(cli): keep operation delivery paused after stop | 2026-09-24 |
 | `open` | **[LodyAI/Lody#683](https://github.com/LodyAI/Lody/pull/683)** — fix: avoid provider config probe races | 2026-09-24 |
 | `merged` | **[LodyAI/Lody#587](https://github.com/LodyAI/Lody/pull/587)** — fix(cli): list remote machine projects without daemon | 2026-09-24 |
@@ -91,11 +95,9 @@ I write about the process on [dhpie.com](https://dhpie.com).
 | `open` | **[CherryHQ/cherry-studio#20953](https://github.com/CherryHQ/cherry-studio/pull/20953)** — fix(doctor): avoid unactionable dependency links | 2026-09-22 |
 | `open` | **[code-yeongyu/oh-my-openagent#8695](https://github.com/code-yeongyu/oh-my-openagent/pull/8695)** — fix(release): extend npm propagation budget | 2026-09-22 |
 | `open` | **[makecindy/cindy#4424](https://github.com/makecindy/cindy/pull/4424)** — feat(mobile): render Mermaid in Markdown file reader | 2026-09-22 |
-| `open` | **[affaan-m/ECC#3215](https://github.com/affaan-m/ECC/pull/3215)** — fix: align scope migration install arguments | 2026-09-22 |
+| `open` | **[affaan-m/ECC#3215](https://github.com/affaan-m/ECC/pull/3215)** — fix: align scope migration install arguments | 2026-09-24 |
 | `open` | **[multica-ai/multica#8715](https://github.com/multica-ai/multica/pull/8715)** — fix(core): support legacy issue status servers | 2026-09-22 |
 | `open` | **[code-yeongyu/oh-my-openagent#8690](https://github.com/code-yeongyu/oh-my-openagent/pull/8690)** — fix(publish): wait for tarball readiness | 2026-09-22 |
-| `open` | **[affaan-m/ECC#3213](https://github.com/affaan-m/ECC/pull/3213)** — fix: distinguish PowerShell foreach statements | 2026-09-22 |
-| `open` | **[cline/cline#14400](https://github.com/cline/cline/pull/14400)** — fix(sdk): require string old\_text in editor schema | 2026-09-22 |
 | `open` | **[makecindy/cindy#4297](https://github.com/makecindy/cindy/pull/4297)** — fix(desktop): render automation settings before status probes | 2026-09-22 |
 | `open` | **[LodyAI/Lody#819](https://github.com/LodyAI/Lody/pull/819)** — feat: sort local project directory listings | 2026-09-22 |
 | `open` | **[anomalyco/opencode#50639](https://github.com/anomalyco/opencode/pull/50639)** — fix(opencode): defer reasoning stream joins | 2026-09-22 |
@@ -110,7 +112,6 @@ I write about the process on [dhpie.com](https://dhpie.com).
 | `merged` | **[CherryHQ/cherry-studio#20322](https://github.com/CherryHQ/cherry-studio/pull/20322)** — fix(agent): honor configured Pi shell path | 2026-09-22 |
 | `open` | **[makecindy/cindy#4550](https://github.com/makecindy/cindy/pull/4550)** — fix(providers): restore Pi model image input control | 2026-09-22 |
 | `open` | **[makecindy/cindy#4384](https://github.com/makecindy/cindy/pull/4384)** — fix(auth): guard stale runtime expiry transitions | 2026-09-22 |
-| `open` | **[affaan-m/ECC#3121](https://github.com/affaan-m/ECC/pull/3121)** — docs(i18n): add Polish localization scout | 2026-09-22 |
 | `open` | **[multica-ai/multica#8411](https://github.com/multica-ai/multica/pull/8411)** — feat(projects): bind local directories by agent | 2026-09-22 |
 | `open` | **[multica-ai/multica#8353](https://github.com/multica-ai/multica/pull/8353)** — feat(usage): add exact workspace token export | 2026-09-22 |
 | `open` | **[can1357/oh-my-pi#12381](https://github.com/can1357/oh-my-pi/pull/12381)** — test(browser): require a live CDP endpoint for Linux Chromium | 2026-09-22 |
@@ -133,7 +134,6 @@ I write about the process on [dhpie.com](https://dhpie.com).
 | `open` | **[multica-ai/multica#8330](https://github.com/multica-ai/multica/pull/8330)** — MUL-7303 fix(agents): touch last-modified time on skill changes | 2026-09-18 |
 | `open` | **[multica-ai/multica#8549](https://github.com/multica-ai/multica/pull/8549)** — fix(execenv): exclude clean local HEAD advances from resume replay | 2026-09-18 |
 | `open` | **[makecindy/cindy#4553](https://github.com/makecindy/cindy/pull/4553)** — fix(desktop): clear event-backed attention after task deletion | 2026-09-18 |
-| `open` | **[apache/maka#5286](https://github.com/apache/maka/pull/5286)** — fix(desktop): guard broadcasts by renderer frame | 2026-09-17 |
 <!-- upstream:end -->
 
 <details>
@@ -177,7 +177,7 @@ I write about the process on [dhpie.com](https://dhpie.com).
 
 
 <!-- telemetry-refresh:start -->
-<sub>Fetched every 8 hours · last successful fetch<br>Totals: 2026-09-24 18:29:46 UTC · Commit hours: 2026-09-24 18:29:46 UTC · Reactions: 2026-09-24 18:29:46 UTC</sub>
+<sub>Fetched every 8 hours · last successful fetch<br>Totals: 2026-09-25 00:38:16 UTC · Commit hours: 2026-09-25 00:38:16 UTC · Reactions: 2026-09-25 00:38:16 UTC</sub>
 <!-- telemetry-refresh:end -->
 
 ### `~/arcade`
