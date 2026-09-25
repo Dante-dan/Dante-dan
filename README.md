@@ -70,7 +70,7 @@ I write about the process on [dhpie.com](https://dhpie.com).
 <sub>Public upstream PRs updated in the last 7 days · refreshed every 8 hours</sub>
 
 <!-- upstream:start -->
-<sub>60 PRs · 50 open · 10 merged</sub>
+<sub>55 PRs · 45 open · 10 merged</sub>
 
 | Status | Pull request | Updated (UTC) |
 | :--- | :--- | :--- |
@@ -129,11 +129,6 @@ I write about the process on [dhpie.com](https://dhpie.com).
 | `open` | **[can1357/oh-my-pi#12394](https://github.com/can1357/oh-my-pi/pull/12394)** — fix(coding-agent): save manual handoff artifacts when enabled | 2026-09-19 |
 | `open` | **[anomalyco/opencode#49775](https://github.com/anomalyco/opencode/pull/49775)** — fix(opencode): guard large snapshot restores | 2026-09-18 |
 | `open` | **[CherryHQ/cherry-studio#20378](https://github.com/CherryHQ/cherry-studio/pull/20378)** — feat(knowledge): accept all recognized text files | 2026-09-18 |
-| `open` | **[can1357/oh-my-pi#12082](https://github.com/can1357/oh-my-pi/pull/12082)** — feat(coding-agent): add producer-scoped artifact resolution | 2026-09-18 |
-| `open` | **[can1357/oh-my-pi#12081](https://github.com/can1357/oh-my-pi/pull/12081)** — feat(github): support operation-specific approval policies | 2026-09-18 |
-| `open` | **[multica-ai/multica#8330](https://github.com/multica-ai/multica/pull/8330)** — MUL-7303 fix(agents): touch last-modified time on skill changes | 2026-09-18 |
-| `open` | **[multica-ai/multica#8549](https://github.com/multica-ai/multica/pull/8549)** — fix(execenv): exclude clean local HEAD advances from resume replay | 2026-09-18 |
-| `open` | **[makecindy/cindy#4553](https://github.com/makecindy/cindy/pull/4553)** — fix(desktop): clear event-backed attention after task deletion | 2026-09-18 |
 <!-- upstream:end -->
 
 <details>
@@ -177,7 +172,7 @@ I write about the process on [dhpie.com](https://dhpie.com).
 
 
 <!-- telemetry-refresh:start -->
-<sub>Fetched every 8 hours · last successful fetch<br>Totals: 2026-09-25 00:38:16 UTC · Commit hours: 2026-09-25 00:38:16 UTC · Reactions: 2026-09-25 00:38:16 UTC</sub>
+<sub>Fetched every 8 hours · last successful fetch<br>Totals: 2026-09-25 12:01:46 UTC · Commit hours: 2026-09-25 12:01:46 UTC · Reactions: 2026-09-25 12:01:46 UTC</sub>
 <!-- telemetry-refresh:end -->
 
 ### `~/arcade`
