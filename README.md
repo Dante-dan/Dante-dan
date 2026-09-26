@@ -70,13 +70,19 @@ I write about the process on [dhpie.com](https://dhpie.com).
 <sub>Public upstream PRs updated in the last 7 days · refreshed every 8 hours</sub>
 
 <!-- upstream:start -->
-<sub>49 PRs · 39 open · 10 merged</sub>
+<sub>51 PRs · 41 open · 10 merged</sub>
 
 | Status | Pull request | Updated (UTC) |
 | :--- | :--- | :--- |
+| `open` | **[cline/cline#14400](https://github.com/cline/cline/pull/14400)** — fix(sdk): require string old\_text in editor schema | 2026-09-26 |
+| `open` | **[CherryHQ/cherry-studio#20949](https://github.com/CherryHQ/cherry-studio/pull/20949)** — fix(agent-session): classify empty completions | 2026-09-26 |
+| `open` | **[CherryHQ/cherry-studio#20953](https://github.com/CherryHQ/cherry-studio/pull/20953)** — fix(doctor): avoid unactionable dependency links | 2026-09-26 |
+| `open` | **[can1357/oh-my-pi#13424](https://github.com/can1357/oh-my-pi/pull/13424)** — fix(grep): accept numeric string skip values | 2026-09-26 |
+| `open` | **[can1357/oh-my-pi#12818](https://github.com/can1357/oh-my-pi/pull/12818)** — fix(natives): keep macOS TUI sessions out of the Dock | 2026-09-26 |
+| `open` | **[multica-ai/multica#8865](https://github.com/multica-ai/multica/pull/8865)** — fix(agent): run matching PowerShell script for Pi-family launchers on Windows | 2026-09-26 |
+| `open` | **[apache/maka#5266](https://github.com/apache/maka/pull/5266)** — fix(runtime): allow bounded Apple Git startup | 2026-09-26 |
+| `open` | **[CherryHQ/cherry-studio#20321](https://github.com/CherryHQ/cherry-studio/pull/20321)** — fix(chat-errors): normalize non-error throws | 2026-09-26 |
 | `open` | **[CherryHQ/cherry-studio#20434](https://github.com/CherryHQ/cherry-studio/pull/20434)** — fix(ai): stabilize OpenRouter session routing | 2026-09-26 |
-| `open` | **[apache/maka#5266](https://github.com/apache/maka/pull/5266)** — fix(runtime): allow bounded Apple Git startup | 2026-09-25 |
-| `open` | **[cline/cline#14400](https://github.com/cline/cline/pull/14400)** — fix(sdk): require string old\_text in editor schema | 2026-09-24 |
 | `open` | **[affaan-m/ECC#3119](https://github.com/affaan-m/ECC/pull/3119)** — fix(install): keep home targets target-safe | 2026-09-24 |
 | `open` | **[affaan-m/ECC#3121](https://github.com/affaan-m/ECC/pull/3121)** — docs(i18n): add Polish localization scout | 2026-09-24 |
 | `open` | **[affaan-m/ECC#3213](https://github.com/affaan-m/ECC/pull/3213)** — fix: distinguish PowerShell foreach statements | 2026-09-24 |
@@ -84,17 +90,13 @@ I write about the process on [dhpie.com](https://dhpie.com).
 | `open` | **[LodyAI/Lody#683](https://github.com/LodyAI/Lody/pull/683)** — fix: avoid provider config probe races | 2026-09-24 |
 | `merged` | **[LodyAI/Lody#587](https://github.com/LodyAI/Lody/pull/587)** — fix(cli): list remote machine projects without daemon | 2026-09-24 |
 | `open` | **[CherryHQ/cherry-studio#20386](https://github.com/CherryHQ/cherry-studio/pull/20386)** — fix(new-api): restore Gemini web search through relays | 2026-09-23 |
-| `open` | **[can1357/oh-my-pi#12818](https://github.com/can1357/oh-my-pi/pull/12818)** — fix(natives): keep macOS TUI sessions out of the Dock | 2026-09-23 |
 | `open` | **[CherryHQ/cherry-studio#20323](https://github.com/CherryHQ/cherry-studio/pull/20323)** — fix: accept sparse OpenAI response lifecycle events | 2026-09-23 |
-| `open` | **[CherryHQ/cherry-studio#20949](https://github.com/CherryHQ/cherry-studio/pull/20949)** — fix(agent-session): classify empty completions | 2026-09-23 |
-| `open` | **[CherryHQ/cherry-studio#20321](https://github.com/CherryHQ/cherry-studio/pull/20321)** — fix(chat-errors): normalize non-error throws | 2026-09-23 |
 | `merged` | **[can1357/oh-my-pi#12902](https://github.com/can1357/oh-my-pi/pull/12902)** — fix(browser): tolerate missing Puppeteer callsites | 2026-09-23 |
 | `merged` | **[can1357/oh-my-pi#12887](https://github.com/can1357/oh-my-pi/pull/12887)** — perf(coding-agent): avoid repeated whole-buffer TTSR scans | 2026-09-23 |
 | `merged` | **[CherryHQ/cherry-studio#20950](https://github.com/CherryHQ/cherry-studio/pull/20950)** — fix(file): recover directory trees after watcher errors | 2026-09-23 |
 | `merged` | **[LodyAI/Lody#895](https://github.com/LodyAI/Lody/pull/895)** — fix(e2e): select role by visible title | 2026-09-23 |
 | `open` | **[makecindy/cindy#4551](https://github.com/makecindy/cindy/pull/4551)** — fix(desktop): acknowledge opened background tasks | 2026-09-22 |
 | `open` | **[code-yeongyu/oh-my-openagent#8697](https://github.com/code-yeongyu/oh-my-openagent/pull/8697)** — fix(release): mark semver prereleases correctly | 2026-09-22 |
-| `open` | **[CherryHQ/cherry-studio#20953](https://github.com/CherryHQ/cherry-studio/pull/20953)** — fix(doctor): avoid unactionable dependency links | 2026-09-22 |
 | `open` | **[code-yeongyu/oh-my-openagent#8695](https://github.com/code-yeongyu/oh-my-openagent/pull/8695)** — fix(release): extend npm propagation budget | 2026-09-22 |
 | `open` | **[makecindy/cindy#4424](https://github.com/makecindy/cindy/pull/4424)** — feat(mobile): render Mermaid in Markdown file reader | 2026-09-22 |
 | `open` | **[affaan-m/ECC#3215](https://github.com/affaan-m/ECC/pull/3215)** — fix: align scope migration install arguments | 2026-09-24 |
@@ -129,10 +131,10 @@ I write about the process on [dhpie.com](https://dhpie.com).
 <summary>Recent conversations · issues, comments &amp; reviews</summary>
 
 <!-- activity:start -->
-- `2026-09-22` Commented on **[can1357/oh-my-pi#12902](https://github.com/can1357/oh-my-pi/pull/12902#issuecomment-5785510760)** — fix(browser): tolerate missing Puppeteer callsites
-- `2026-09-22` Commented on **[langchain-ai/langgraph#8320](https://github.com/langchain-ai/langgraph/issues/8320#issuecomment-5785440563)** — StateGraph silently drops node output keys not declared in TypedDict
-- `2026-09-22` Commented on **[can1357/oh-my-pi#12887](https://github.com/can1357/oh-my-pi/pull/12887#issuecomment-5785287140)** — perf(coding-agent): avoid repeated whole-buffer TTSR scans
-- `2026-09-22` Commented on **[makecindy/cindy#4551](https://github.com/makecindy/cindy/pull/4551#issuecomment-5785284044)** — fix(desktop): acknowledge opened background tasks
+- `2026-09-26` Reviewed on **[CherryHQ/cherry-studio#20953](https://github.com/CherryHQ/cherry-studio/pull/20953#pullrequestreview-5326789472)**
+- `2026-09-26` Commented on **[can1357/oh-my-pi#13332](https://github.com/can1357/oh-my-pi/issues/13332#issuecomment-5848456432)** — glob/grep tools hang to the tool timeout on large trees instead of returning partial results; glob …
+- `2026-09-26` Commented on **[langchain-ai/langgraph#9085](https://github.com/langchain-ai/langgraph/issues/9085#issuecomment-5848316602)** — Error handler and get\_state() get a str instead of the exception after resume
+- `2026-09-26` Commented on **[apache/maka#5266](https://github.com/apache/maka/pull/5266#issuecomment-5848220729)** — fix(runtime): allow bounded Apple Git startup
 <!-- activity:end -->
 
 </details>
@@ -144,17 +146,17 @@ I write about the process on [dhpie.com](https://dhpie.com).
 <sub>Latest writing from [dhpie.com](https://dhpie.com)</sub>
 
 <!-- notes:start -->
+- [开源贡献日报 · 2026-09-23](https://dhpie.com/posts/cn/open-source-daily-2026-09-23)
 - [开源贡献日报 · 2026-09-22](https://dhpie.com/posts/cn/open-source-daily-2026-09-22)
 - [开源贡献日报 · 2026-09-19](https://dhpie.com/posts/cn/open-source-daily-2026-09-19)
 - [开源贡献日报 · 2026-09-18](https://dhpie.com/posts/cn/open-source-daily-2026-09-18)
-- [开源贡献日报 · 2026-09-17](https://dhpie.com/posts/cn/open-source-daily-2026-09-17)
 <!-- notes:end -->
 
 ### `~/telemetry`
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Dante-dan/Dante-dan/main/assets/telemetry/stats-dark-36213344e0beb50b.svg" />
-  <img src="https://raw.githubusercontent.com/Dante-dan/Dante-dan/main/assets/telemetry/stats-light-1ca4bf7ce3d0188a.svg" alt="Public GitHub contribution totals" width="390" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Dante-dan/Dante-dan/main/assets/telemetry/stats-dark-86b7546a81dbc584.svg" />
+  <img src="https://raw.githubusercontent.com/Dante-dan/Dante-dan/main/assets/telemetry/stats-light-a6ff86a45da2dfb7.svg" alt="Public GitHub contribution totals" width="390" />
 </picture>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Dante-dan/Dante-dan/main/assets/telemetry/time-dark-a49676801e802046.svg" />
@@ -166,7 +168,7 @@ I write about the process on [dhpie.com](https://dhpie.com).
 
 
 <!-- telemetry-refresh:start -->
-<sub>Fetched every 8 hours · last successful fetch<br>Totals: 2026-09-26 11:36:23 UTC · Commit hours: 2026-09-26 11:36:23 UTC · Reactions: 2026-09-26 11:36:23 UTC</sub>
+<sub>Fetched every 8 hours · last successful fetch<br>Totals: 2026-09-26 17:50:08 UTC · Commit hours: 2026-09-26 17:50:08 UTC · Reactions: 2026-09-26 17:50:08 UTC</sub>
 <!-- telemetry-refresh:end -->
 
 ### `~/arcade`
