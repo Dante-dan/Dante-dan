@@ -74,9 +74,9 @@ I write about the process on [dhpie.com](https://dhpie.com).
 
 | Status | Pull request | Updated (UTC) |
 | :--- | :--- | :--- |
+| `open` | **[CherryHQ/cherry-studio#20321](https://github.com/CherryHQ/cherry-studio/pull/20321)** — fix(chat-errors): normalize non-error throws | 2026-09-27 |
 | `open` | **[apache/maka#5753](https://github.com/apache/maka/pull/5753)** — fix(transcript): recover from oversized invocations | 2026-09-27 |
 | `open` | **[apache/maka#5266](https://github.com/apache/maka/pull/5266)** — fix(runtime): allow bounded Apple Git startup | 2026-09-27 |
-| `open` | **[CherryHQ/cherry-studio#20321](https://github.com/CherryHQ/cherry-studio/pull/20321)** — fix(chat-errors): normalize non-error throws | 2026-09-27 |
 | `open` | **[can1357/oh-my-pi#13471](https://github.com/can1357/oh-my-pi/pull/13471)** — fix(coding-agent): avoid redundant daemon metadata writes | 2026-09-27 |
 | `open` | **[can1357/oh-my-pi#13440](https://github.com/can1357/oh-my-pi/pull/13440)** — fix(tui): recover bracketed paste and preserve post-submit text | 2026-09-27 |
 | `open` | **[can1357/oh-my-pi#13436](https://github.com/can1357/oh-my-pi/pull/13436)** — feat(tui): copy or rewind from either transcript selector | 2026-09-27 |
@@ -175,7 +175,7 @@ I write about the process on [dhpie.com](https://dhpie.com).
 
 
 <!-- telemetry-refresh:start -->
-<sub>Fetched every 8 hours · last successful fetch<br>Totals: 2026-09-27 12:15:39 UTC · Commit hours: 2026-09-27 12:15:39 UTC · Reactions: 2026-09-27 12:15:39 UTC</sub>
+<sub>Fetched every 8 hours · last successful fetch<br>Totals: 2026-09-27 18:32:36 UTC · Commit hours: 2026-09-27 18:32:36 UTC · Reactions: 2026-09-27 18:32:36 UTC</sub>
 <!-- telemetry-refresh:end -->
 
 ### `~/arcade`
