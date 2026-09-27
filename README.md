@@ -70,18 +70,21 @@ I write about the process on [dhpie.com](https://dhpie.com).
 <sub>Public upstream PRs updated in the last 7 days · refreshed every 8 hours</sub>
 
 <!-- upstream:start -->
-<sub>56 PRs · 46 open · 10 merged</sub>
+<sub>58 PRs · 48 open · 10 merged</sub>
 
 | Status | Pull request | Updated (UTC) |
 | :--- | :--- | :--- |
+| `open` | **[apache/maka#5753](https://github.com/apache/maka/pull/5753)** — fix(transcript): recover from oversized invocations | 2026-09-27 |
+| `open` | **[apache/maka#5266](https://github.com/apache/maka/pull/5266)** — fix(runtime): allow bounded Apple Git startup | 2026-09-27 |
+| `open` | **[CherryHQ/cherry-studio#20321](https://github.com/CherryHQ/cherry-studio/pull/20321)** — fix(chat-errors): normalize non-error throws | 2026-09-27 |
+| `open` | **[can1357/oh-my-pi#13471](https://github.com/can1357/oh-my-pi/pull/13471)** — fix(coding-agent): avoid redundant daemon metadata writes | 2026-09-27 |
+| `open` | **[can1357/oh-my-pi#13440](https://github.com/can1357/oh-my-pi/pull/13440)** — fix(tui): recover bracketed paste and preserve post-submit text | 2026-09-27 |
 | `open` | **[can1357/oh-my-pi#13436](https://github.com/can1357/oh-my-pi/pull/13436)** — feat(tui): copy or rewind from either transcript selector | 2026-09-27 |
-| `open` | **[CherryHQ/cherry-studio#20949](https://github.com/CherryHQ/cherry-studio/pull/20949)** — fix(agent-session): classify empty completions | 2026-09-26 |
+| `open` | **[can1357/oh-my-pi#13437](https://github.com/can1357/oh-my-pi/pull/13437)** — feat(coding-agent): honor skill model for invoked task turns | 2026-09-27 |
+| `open` | **[CherryHQ/cherry-studio#20949](https://github.com/CherryHQ/cherry-studio/pull/20949)** — fix(agent-session): classify empty completions | 2026-09-27 |
+| `open` | **[cline/cline#14082](https://github.com/cline/cline/pull/14082)** — fix(desktop): use baseline Bun target for Windows x64 sidecar | 2026-09-27 |
 | `open` | **[CherryHQ/cherry-studio#20953](https://github.com/CherryHQ/cherry-studio/pull/20953)** — fix(doctor): avoid unactionable dependency links | 2026-09-26 |
-| `open` | **[CherryHQ/cherry-studio#20321](https://github.com/CherryHQ/cherry-studio/pull/20321)** — fix(chat-errors): normalize non-error throws | 2026-09-26 |
-| `open` | **[can1357/oh-my-pi#13440](https://github.com/can1357/oh-my-pi/pull/13440)** — fix(tui): recover bracketed paste and preserve post-submit text | 2026-09-26 |
-| `open` | **[can1357/oh-my-pi#13437](https://github.com/can1357/oh-my-pi/pull/13437)** — feat(coding-agent): honor skill model for invoked task turns | 2026-09-26 |
 | `open` | **[can1357/oh-my-pi#13435](https://github.com/can1357/oh-my-pi/pull/13435)** — fix(tui): explain loop prompt capture in waiting status | 2026-09-26 |
-| `open` | **[apache/maka#5266](https://github.com/apache/maka/pull/5266)** — fix(runtime): allow bounded Apple Git startup | 2026-09-26 |
 | `open` | **[can1357/oh-my-pi#13424](https://github.com/can1357/oh-my-pi/pull/13424)** — fix(grep): accept numeric string skip values | 2026-09-26 |
 | `open` | **[anomalyco/opencode#51528](https://github.com/anomalyco/opencode/pull/51528)** — fix(app): keep workspace message text readable on accent themes | 2026-09-26 |
 | `open` | **[cline/cline#14400](https://github.com/cline/cline/pull/14400)** — fix(sdk): require string old\_text in editor schema | 2026-09-26 |
@@ -129,17 +132,16 @@ I write about the process on [dhpie.com](https://dhpie.com).
 | `open` | **[CherryHQ/cherry-studio#20353](https://github.com/CherryHQ/cherry-studio/pull/20353)** — fix(ai-runtime): clamp agent output token limit | 2026-09-22 |
 | `open` | **[CherryHQ/cherry-studio#20748](https://github.com/CherryHQ/cherry-studio/pull/20748)** — fix(model-controls): honor disabled reasoning capability | 2026-09-22 |
 | `open` | **[LodyAI/Lody#563](https://github.com/LodyAI/Lody/pull/563)** — fix(cli): coalesce overlapping history refreshes | 2026-09-21 |
-| `open` | **[anomalyco/opencode#49863](https://github.com/anomalyco/opencode/pull/49863)** — fix(plugin): support package subpath exports | 2026-09-20 |
 <!-- upstream:end -->
 
 <details>
 <summary>Recent conversations · issues, comments &amp; reviews</summary>
 
 <!-- activity:start -->
-- `2026-09-26` Commented on **[langchain-ai/langgraph#5810](https://github.com/langchain-ai/langgraph/issues/5810#issuecomment-5849354104)** — Add import test suite
-- `2026-09-26` Commented on **[LodyAI/Lody#282](https://github.com/LodyAI/Lody/issues/282#issuecomment-5849275288)** — \[Bug\] Grok ACP hangs on session/new
-- `2026-09-26` Commented on **[langchain-ai/langgraph#9085](https://github.com/langchain-ai/langgraph/issues/9085#issuecomment-5849227255)** — Error handler and get\_state() get a str instead of the exception after resume
-- `2026-09-26` Commented on **[LodyAI/Lody#441](https://github.com/LodyAI/Lody/issues/441#issuecomment-5848922319)** — \[Scout\] Candidate desktop resource trend
+- `2026-09-27` Commented on **[can1357/oh-my-pi#13437](https://github.com/can1357/oh-my-pi/pull/13437#issuecomment-5853827840)** — feat(coding-agent): honor skill model for invoked task turns
+- `2026-09-27` Commented on **[langchain-ai/langgraph#8320](https://github.com/langchain-ai/langgraph/issues/8320#issuecomment-5853521577)** — StateGraph silently drops node output keys not declared in TypedDict
+- `2026-09-27` Commented on **[LodyAI/Lody#1028](https://github.com/LodyAI/Lody/issues/1028#issuecomment-5853186336)** — \[Bug\] Machine access registration fails with a Server Error on every daemon start, leaving the live…
+- `2026-09-27` Commented on **[LodyAI/Lody#289](https://github.com/LodyAI/Lody/issues/289#issuecomment-5853171940)** — \[Feature Request\] Readable branch names for worktree sessions
 <!-- activity:end -->
 
 </details>
@@ -160,8 +162,8 @@ I write about the process on [dhpie.com](https://dhpie.com).
 ### `~/telemetry`
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Dante-dan/Dante-dan/main/assets/telemetry/stats-dark-7b5cd1dbf57863b2.svg" />
-  <img src="https://raw.githubusercontent.com/Dante-dan/Dante-dan/main/assets/telemetry/stats-light-88475bde51045342.svg" alt="Public GitHub contribution totals" width="390" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Dante-dan/Dante-dan/main/assets/telemetry/stats-dark-02c249c7bc429ac1.svg" />
+  <img src="https://raw.githubusercontent.com/Dante-dan/Dante-dan/main/assets/telemetry/stats-light-1081f56d5be00180.svg" alt="Public GitHub contribution totals" width="390" />
 </picture>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Dante-dan/Dante-dan/main/assets/telemetry/time-dark-a49676801e802046.svg" />
@@ -173,7 +175,7 @@ I write about the process on [dhpie.com](https://dhpie.com).
 
 
 <!-- telemetry-refresh:start -->
-<sub>Fetched every 8 hours · last successful fetch<br>Totals: 2026-09-27 00:43:50 UTC · Commit hours: 2026-09-27 00:43:50 UTC · Reactions: 2026-09-27 00:43:50 UTC</sub>
+<sub>Fetched every 8 hours · last successful fetch<br>Totals: 2026-09-27 12:15:39 UTC · Commit hours: 2026-09-27 12:15:39 UTC · Reactions: 2026-09-27 12:15:39 UTC</sub>
 <!-- telemetry-refresh:end -->
 
 ### `~/arcade`
