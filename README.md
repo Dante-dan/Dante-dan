@@ -70,18 +70,23 @@ I write about the process on [dhpie.com](https://dhpie.com).
 <sub>Public upstream PRs updated in the last 7 days · refreshed every 8 hours</sub>
 
 <!-- upstream:start -->
-<sub>51 PRs · 41 open · 10 merged</sub>
+<sub>56 PRs · 46 open · 10 merged</sub>
 
 | Status | Pull request | Updated (UTC) |
 | :--- | :--- | :--- |
-| `open` | **[cline/cline#14400](https://github.com/cline/cline/pull/14400)** — fix(sdk): require string old\_text in editor schema | 2026-09-26 |
+| `open` | **[can1357/oh-my-pi#13436](https://github.com/can1357/oh-my-pi/pull/13436)** — feat(tui): copy or rewind from either transcript selector | 2026-09-27 |
 | `open` | **[CherryHQ/cherry-studio#20949](https://github.com/CherryHQ/cherry-studio/pull/20949)** — fix(agent-session): classify empty completions | 2026-09-26 |
 | `open` | **[CherryHQ/cherry-studio#20953](https://github.com/CherryHQ/cherry-studio/pull/20953)** — fix(doctor): avoid unactionable dependency links | 2026-09-26 |
+| `open` | **[CherryHQ/cherry-studio#20321](https://github.com/CherryHQ/cherry-studio/pull/20321)** — fix(chat-errors): normalize non-error throws | 2026-09-26 |
+| `open` | **[can1357/oh-my-pi#13440](https://github.com/can1357/oh-my-pi/pull/13440)** — fix(tui): recover bracketed paste and preserve post-submit text | 2026-09-26 |
+| `open` | **[can1357/oh-my-pi#13437](https://github.com/can1357/oh-my-pi/pull/13437)** — feat(coding-agent): honor skill model for invoked task turns | 2026-09-26 |
+| `open` | **[can1357/oh-my-pi#13435](https://github.com/can1357/oh-my-pi/pull/13435)** — fix(tui): explain loop prompt capture in waiting status | 2026-09-26 |
+| `open` | **[apache/maka#5266](https://github.com/apache/maka/pull/5266)** — fix(runtime): allow bounded Apple Git startup | 2026-09-26 |
 | `open` | **[can1357/oh-my-pi#13424](https://github.com/can1357/oh-my-pi/pull/13424)** — fix(grep): accept numeric string skip values | 2026-09-26 |
+| `open` | **[anomalyco/opencode#51528](https://github.com/anomalyco/opencode/pull/51528)** — fix(app): keep workspace message text readable on accent themes | 2026-09-26 |
+| `open` | **[cline/cline#14400](https://github.com/cline/cline/pull/14400)** — fix(sdk): require string old\_text in editor schema | 2026-09-26 |
 | `open` | **[can1357/oh-my-pi#12818](https://github.com/can1357/oh-my-pi/pull/12818)** — fix(natives): keep macOS TUI sessions out of the Dock | 2026-09-26 |
 | `open` | **[multica-ai/multica#8865](https://github.com/multica-ai/multica/pull/8865)** — fix(agent): run matching PowerShell script for Pi-family launchers on Windows | 2026-09-26 |
-| `open` | **[apache/maka#5266](https://github.com/apache/maka/pull/5266)** — fix(runtime): allow bounded Apple Git startup | 2026-09-26 |
-| `open` | **[CherryHQ/cherry-studio#20321](https://github.com/CherryHQ/cherry-studio/pull/20321)** — fix(chat-errors): normalize non-error throws | 2026-09-26 |
 | `open` | **[CherryHQ/cherry-studio#20434](https://github.com/CherryHQ/cherry-studio/pull/20434)** — fix(ai): stabilize OpenRouter session routing | 2026-09-26 |
 | `open` | **[affaan-m/ECC#3119](https://github.com/affaan-m/ECC/pull/3119)** — fix(install): keep home targets target-safe | 2026-09-24 |
 | `open` | **[affaan-m/ECC#3121](https://github.com/affaan-m/ECC/pull/3121)** — docs(i18n): add Polish localization scout | 2026-09-24 |
@@ -131,10 +136,10 @@ I write about the process on [dhpie.com](https://dhpie.com).
 <summary>Recent conversations · issues, comments &amp; reviews</summary>
 
 <!-- activity:start -->
-- `2026-09-26` Reviewed on **[CherryHQ/cherry-studio#20953](https://github.com/CherryHQ/cherry-studio/pull/20953#pullrequestreview-5326789472)**
-- `2026-09-26` Commented on **[can1357/oh-my-pi#13332](https://github.com/can1357/oh-my-pi/issues/13332#issuecomment-5848456432)** — glob/grep tools hang to the tool timeout on large trees instead of returning partial results; glob …
-- `2026-09-26` Commented on **[langchain-ai/langgraph#9085](https://github.com/langchain-ai/langgraph/issues/9085#issuecomment-5848316602)** — Error handler and get\_state() get a str instead of the exception after resume
-- `2026-09-26` Commented on **[apache/maka#5266](https://github.com/apache/maka/pull/5266#issuecomment-5848220729)** — fix(runtime): allow bounded Apple Git startup
+- `2026-09-26` Commented on **[langchain-ai/langgraph#5810](https://github.com/langchain-ai/langgraph/issues/5810#issuecomment-5849354104)** — Add import test suite
+- `2026-09-26` Commented on **[LodyAI/Lody#282](https://github.com/LodyAI/Lody/issues/282#issuecomment-5849275288)** — \[Bug\] Grok ACP hangs on session/new
+- `2026-09-26` Commented on **[langchain-ai/langgraph#9085](https://github.com/langchain-ai/langgraph/issues/9085#issuecomment-5849227255)** — Error handler and get\_state() get a str instead of the exception after resume
+- `2026-09-26` Commented on **[LodyAI/Lody#441](https://github.com/LodyAI/Lody/issues/441#issuecomment-5848922319)** — \[Scout\] Candidate desktop resource trend
 <!-- activity:end -->
 
 </details>
@@ -155,20 +160,20 @@ I write about the process on [dhpie.com](https://dhpie.com).
 ### `~/telemetry`
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Dante-dan/Dante-dan/main/assets/telemetry/stats-dark-86b7546a81dbc584.svg" />
-  <img src="https://raw.githubusercontent.com/Dante-dan/Dante-dan/main/assets/telemetry/stats-light-a6ff86a45da2dfb7.svg" alt="Public GitHub contribution totals" width="390" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Dante-dan/Dante-dan/main/assets/telemetry/stats-dark-7b5cd1dbf57863b2.svg" />
+  <img src="https://raw.githubusercontent.com/Dante-dan/Dante-dan/main/assets/telemetry/stats-light-88475bde51045342.svg" alt="Public GitHub contribution totals" width="390" />
 </picture>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Dante-dan/Dante-dan/main/assets/telemetry/time-dark-a49676801e802046.svg" />
   <img src="https://raw.githubusercontent.com/Dante-dan/Dante-dan/main/assets/telemetry/time-light-3aa9fd37618ee9be.svg" alt="Commit distribution by time of day, UTC+8" width="390" />
 </picture>
 
-<img src="https://raw.githubusercontent.com/Dante-dan/Dante-dan/main/assets/telemetry/reactions-58066a1dbf1d91c3.svg" alt="Reactions received on recent public comments and issue bodies" width="650" />
+<img src="https://raw.githubusercontent.com/Dante-dan/Dante-dan/main/assets/telemetry/reactions-fd0ef6741be1c98c.svg" alt="Reactions received on recent public comments and issue bodies" width="650" />
 
 
 
 <!-- telemetry-refresh:start -->
-<sub>Fetched every 8 hours · last successful fetch<br>Totals: 2026-09-26 17:50:08 UTC · Commit hours: 2026-09-26 17:50:08 UTC · Reactions: 2026-09-26 17:50:08 UTC</sub>
+<sub>Fetched every 8 hours · last successful fetch<br>Totals: 2026-09-27 00:43:50 UTC · Commit hours: 2026-09-27 00:43:50 UTC · Reactions: 2026-09-27 00:43:50 UTC</sub>
 <!-- telemetry-refresh:end -->
 
 ### `~/arcade`
