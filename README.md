@@ -75,8 +75,8 @@ I write about the process on [dhpie.com](https://dhpie.com).
 | Status | Pull request | Updated (UTC) |
 | :--- | :--- | :--- |
 | `open` | **[apache/maka#5753](https://github.com/apache/maka/pull/5753)** — fix(transcript): recover from oversized invocations | 2026-09-28 |
-| `open` | **[makecindy/cindy#4297](https://github.com/makecindy/cindy/pull/4297)** — fix(desktop): render automation settings before status probes | 2026-09-28 |
 | `open` | **[makecindy/cindy#5180](https://github.com/makecindy/cindy/pull/5180)** — feat(desktop): request consent for non-Git project recovery | 2026-09-28 |
+| `open` | **[makecindy/cindy#4297](https://github.com/makecindy/cindy/pull/4297)** — fix(desktop): render automation settings before status probes | 2026-09-28 |
 | `open` | **[apache/maka#5248](https://github.com/apache/maka/pull/5248)** — feat(runtime): verify background HTTP readiness | 2026-09-28 |
 | `open` | **[code-yeongyu/oh-my-openagent#8695](https://github.com/code-yeongyu/oh-my-openagent/pull/8695)** — fix(release): extend npm propagation budget | 2026-09-28 |
 | `open` | **[apache/maka#5218](https://github.com/apache/maka/pull/5218)** — fix(desktop): add HTML artifact Finder fallback | 2026-09-28 |
@@ -145,10 +145,10 @@ I write about the process on [dhpie.com](https://dhpie.com).
 <summary>Recent conversations · issues, comments &amp; reviews</summary>
 
 <!-- activity:start -->
-- `2026-09-28` Commented on **[makecindy/cindy#5180](https://github.com/makecindy/cindy/pull/5180#discussion_r4120085009)**
-- `2026-09-28` Commented on **[CherryHQ/cherry-studio#20949](https://github.com/CherryHQ/cherry-studio/pull/20949#discussion_r4120033347)**
-- `2026-09-28` Commented on **[apache/maka#5753](https://github.com/apache/maka/pull/5753#issuecomment-5864937375)** — fix(transcript): recover from oversized invocations
-- `2026-09-28` Commented on **[apache/maka#5266](https://github.com/apache/maka/pull/5266#discussion_r4119316628)**
+- `2026-09-28` Commented on **[earendil-works/pi#10074](https://github.com/earendil-works/pi/issues/10074#issuecomment-5874517386)** — Anthropic tool calls: corrupted non-ASCII edit arguments are silently accepted (dropped \`u\` in \`\\uX…
+- `2026-09-28` Commented on **[earendil-works/pi#10077](https://github.com/earendil-works/pi/issues/10077#issuecomment-5874515962)** — llama.cpp model: contextWindow getting reset (to 128000) in models-store.json
+- `2026-09-28` Commented on **[langchain-ai/langgraph#8464](https://github.com/langchain-ai/langgraph/issues/8464#issuecomment-5874481060)** — \[Feature Proposal\] Durable tool execution idempotency &amp; retry middleware
+- `2026-09-28` Commented on **[anomalyco/opencode#35638](https://github.com/anomalyco/opencode/issues/35638#issuecomment-5874425609)** — v2: make durable terminal tool-input events self-contained
 <!-- activity:end -->
 
 </details>
@@ -182,7 +182,7 @@ I write about the process on [dhpie.com](https://dhpie.com).
 
 
 <!-- telemetry-refresh:start -->
-<sub>Fetched every 8 hours · last successful fetch<br>Totals: 2026-09-28 14:14:53 UTC · Commit hours: 2026-09-28 14:14:53 UTC · Reactions: 2026-09-28 14:14:53 UTC</sub>
+<sub>Fetched every 8 hours · last successful fetch<br>Totals: 2026-09-28 20:38:40 UTC · Commit hours: 2026-09-28 20:38:40 UTC · Reactions: 2026-09-28 20:38:40 UTC</sub>
 <!-- telemetry-refresh:end -->
 
 ### `~/arcade`
