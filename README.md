@@ -33,8 +33,8 @@ I write about the process on [dhpie.com](https://dhpie.com).
 <sub>Recently pushed public projects · forks excluded</sub>
 
 <!-- workbench:start -->
-- **[dan-skills](https://github.com/Dante-dan/dan-skills)** — Public TypeScript project.
 - **[pi-agent-book](https://github.com/Dante-dan/pi-agent-book)** — 《Pi Agent从入门到精通》：面向零基础的中文开源书，基于源码拆解上下文、记忆、工具、扩展与持续进化，附可复现实验。
+- **[dan-skills](https://github.com/Dante-dan/dan-skills)** — Public TypeScript project.
 - **[pi-agent-learning-lab](https://github.com/Dante-dan/pi-agent-learning-lab)** — Interactive Chinese learning lab for Pi Agent extensions, SDK, tools, sessions, providers, and production patterns
 <!-- workbench:end -->
 
@@ -70,25 +70,26 @@ I write about the process on [dhpie.com](https://dhpie.com).
 <sub>Public upstream PRs updated in the last 7 days · refreshed every 8 hours</sub>
 
 <!-- upstream:start -->
-<sub>63 PRs · 50 open · 13 merged</sub>
+<sub>54 PRs · 41 open · 13 merged</sub>
 
 | Status | Pull request | Updated (UTC) |
 | :--- | :--- | :--- |
-| `open` | **[apache/maka#5753](https://github.com/apache/maka/pull/5753)** — fix(transcript): recover from oversized invocations | 2026-09-28 |
+| `open` | **[can1357/oh-my-pi#13436](https://github.com/can1357/oh-my-pi/pull/13436)** — feat(tui): copy or rewind from either transcript selector | 2026-09-29 |
+| `open` | **[makecindy/cindy#4424](https://github.com/makecindy/cindy/pull/4424)** — feat(mobile): render Mermaid in Markdown file reader | 2026-09-29 |
+| `open` | **[CherryHQ/cherry-studio#21133](https://github.com/CherryHQ/cherry-studio/pull/21133)** — feat(agent-knowledge): add per-binding read/write permissions | 2026-09-29 |
+| `open` | **[CherryHQ/cherry-studio#20949](https://github.com/CherryHQ/cherry-studio/pull/20949)** — fix(agent-session): classify empty completions | 2026-09-29 |
+| `merged` | **[code-yeongyu/oh-my-openagent#8695](https://github.com/code-yeongyu/oh-my-openagent/pull/8695)** — fix(release): extend npm propagation budget | 2026-09-29 |
+| `open` | **[apache/maka#5753](https://github.com/apache/maka/pull/5753)** — fix(transcript): recover from oversized invocations | 2026-09-29 |
 | `open` | **[makecindy/cindy#5180](https://github.com/makecindy/cindy/pull/5180)** — feat(desktop): request consent for non-Git project recovery | 2026-09-28 |
 | `open` | **[makecindy/cindy#4297](https://github.com/makecindy/cindy/pull/4297)** — fix(desktop): render automation settings before status probes | 2026-09-28 |
 | `open` | **[apache/maka#5248](https://github.com/apache/maka/pull/5248)** — feat(runtime): verify background HTTP readiness | 2026-09-28 |
-| `open` | **[code-yeongyu/oh-my-openagent#8695](https://github.com/code-yeongyu/oh-my-openagent/pull/8695)** — fix(release): extend npm propagation budget | 2026-09-28 |
 | `open` | **[apache/maka#5218](https://github.com/apache/maka/pull/5218)** — fix(desktop): add HTML artifact Finder fallback | 2026-09-28 |
 | `open` | **[apache/maka#5202](https://github.com/apache/maka/pull/5202)** — fix(desktop): update Windows taskbar app icon | 2026-09-28 |
 | `open` | **[apache/maka#5286](https://github.com/apache/maka/pull/5286)** — fix(desktop): guard broadcasts by renderer frame | 2026-09-28 |
 | `open` | **[apache/maka#5278](https://github.com/apache/maka/pull/5278)** — fix(runtime): bound OpenAI Chat image tool results | 2026-09-28 |
 | `open` | **[anomalyco/opencode#51805](https://github.com/anomalyco/opencode/pull/51805)** — fix(app): keep nested directory for local sessions | 2026-09-28 |
-| `open` | **[CherryHQ/cherry-studio#20949](https://github.com/CherryHQ/cherry-studio/pull/20949)** — fix(agent-session): classify empty completions | 2026-09-28 |
-| `open` | **[CherryHQ/cherry-studio#21133](https://github.com/CherryHQ/cherry-studio/pull/21133)** — feat(agent-knowledge): add per-binding read/write permissions | 2026-09-28 |
 | `open` | **[apache/maka#5266](https://github.com/apache/maka/pull/5266)** — fix(runtime): allow bounded Apple Git startup | 2026-09-28 |
 | `open` | **[affaan-m/ECC#3213](https://github.com/affaan-m/ECC/pull/3213)** — fix: distinguish PowerShell foreach statements | 2026-09-28 |
-| `open` | **[can1357/oh-my-pi#13436](https://github.com/can1357/oh-my-pi/pull/13436)** — feat(tui): copy or rewind from either transcript selector | 2026-09-28 |
 | `merged` | **[can1357/oh-my-pi#13471](https://github.com/can1357/oh-my-pi/pull/13471)** — fix(coding-agent): avoid redundant daemon metadata writes | 2026-09-28 |
 | `merged` | **[can1357/oh-my-pi#13435](https://github.com/can1357/oh-my-pi/pull/13435)** — fix(tui): explain loop prompt capture in waiting status | 2026-09-28 |
 | `merged` | **[can1357/oh-my-pi#13440](https://github.com/can1357/oh-my-pi/pull/13440)** — fix(tui): recover bracketed paste and preserve post-submit text | 2026-09-28 |
@@ -119,7 +120,6 @@ I write about the process on [dhpie.com](https://dhpie.com).
 | `merged` | **[CherryHQ/cherry-studio#20950](https://github.com/CherryHQ/cherry-studio/pull/20950)** — fix(file): recover directory trees after watcher errors | 2026-09-23 |
 | `merged` | **[LodyAI/Lody#895](https://github.com/LodyAI/Lody/pull/895)** — fix(e2e): select role by visible title | 2026-09-23 |
 | `open` | **[makecindy/cindy#4551](https://github.com/makecindy/cindy/pull/4551)** — fix(desktop): acknowledge opened background tasks | 2026-09-22 |
-| `open` | **[makecindy/cindy#4424](https://github.com/makecindy/cindy/pull/4424)** — feat(mobile): render Mermaid in Markdown file reader | 2026-09-22 |
 | `open` | **[multica-ai/multica#8715](https://github.com/multica-ai/multica/pull/8715)** — fix(core): support legacy issue status servers | 2026-09-22 |
 | `open` | **[code-yeongyu/oh-my-openagent#8690](https://github.com/code-yeongyu/oh-my-openagent/pull/8690)** — fix(publish): wait for tarball readiness | 2026-09-22 |
 | `open` | **[LodyAI/Lody#819](https://github.com/LodyAI/Lody/pull/819)** — feat: sort local project directory listings | 2026-09-22 |
@@ -128,25 +128,16 @@ I write about the process on [dhpie.com](https://dhpie.com).
 | `merged` | **[can1357/oh-my-pi#12395](https://github.com/can1357/oh-my-pi/pull/12395)** — fix(ai): avoid pinning Beijing quota to one workspace | 2026-09-22 |
 | `merged` | **[can1357/oh-my-pi#12377](https://github.com/can1357/oh-my-pi/pull/12377)** — fix(task): preserve subagent retry fallback role on startup | 2026-09-22 |
 | `merged` | **[can1357/oh-my-pi#12499](https://github.com/can1357/oh-my-pi/pull/12499)** — fix(coding-agent): keep generated-file errors tool-scoped | 2026-09-22 |
-| `open` | **[CherryHQ/cherry-studio#20747](https://github.com/CherryHQ/cherry-studio/pull/20747)** — feat(api-gateway): add knowledge base write routes | 2026-09-22 |
-| `open` | **[makecindy/cindy#4366](https://github.com/makecindy/cindy/pull/4366)** — fix(mobile): avoid stale device roster snapshot | 2026-09-22 |
-| `open` | **[CherryHQ/cherry-studio#20320](https://github.com/CherryHQ/cherry-studio/pull/20320)** — fix(work): keep pinned tasks in agent grouping | 2026-09-22 |
-| `merged` | **[CherryHQ/cherry-studio#20322](https://github.com/CherryHQ/cherry-studio/pull/20322)** — fix(agent): honor configured Pi shell path | 2026-09-22 |
-| `open` | **[makecindy/cindy#4550](https://github.com/makecindy/cindy/pull/4550)** — fix(providers): restore Pi model image input control | 2026-09-22 |
-| `open` | **[makecindy/cindy#4384](https://github.com/makecindy/cindy/pull/4384)** — fix(auth): guard stale runtime expiry transitions | 2026-09-22 |
-| `open` | **[multica-ai/multica#8411](https://github.com/multica-ai/multica/pull/8411)** — feat(projects): bind local directories by agent | 2026-09-22 |
-| `open` | **[multica-ai/multica#8353](https://github.com/multica-ai/multica/pull/8353)** — feat(usage): add exact workspace token export | 2026-09-22 |
-| `open` | **[LodyAI/Lody#594](https://github.com/LodyAI/Lody/pull/594)** — fix(electron): declare OSS macOS local network usage | 2026-09-22 |
 <!-- upstream:end -->
 
 <details>
 <summary>Recent conversations · issues, comments &amp; reviews</summary>
 
 <!-- activity:start -->
+- `2026-09-29` Commented on **[earendil-works/pi#10144](https://github.com/earendil-works/pi/issues/10144#issuecomment-5890069959)** — Queued promps are sent one by one instead of batching
 - `2026-09-28` Commented on **[earendil-works/pi#10074](https://github.com/earendil-works/pi/issues/10074#issuecomment-5874517386)** — Anthropic tool calls: corrupted non-ASCII edit arguments are silently accepted (dropped \`u\` in \`\\uX…
 - `2026-09-28` Commented on **[earendil-works/pi#10077](https://github.com/earendil-works/pi/issues/10077#issuecomment-5874515962)** — llama.cpp model: contextWindow getting reset (to 128000) in models-store.json
 - `2026-09-28` Commented on **[langchain-ai/langgraph#8464](https://github.com/langchain-ai/langgraph/issues/8464#issuecomment-5874481060)** — \[Feature Proposal\] Durable tool execution idempotency &amp; retry middleware
-- `2026-09-28` Commented on **[anomalyco/opencode#35638](https://github.com/anomalyco/opencode/issues/35638#issuecomment-5874425609)** — v2: make durable terminal tool-input events self-contained
 <!-- activity:end -->
 
 </details>
@@ -167,20 +158,20 @@ I write about the process on [dhpie.com](https://dhpie.com).
 ### `~/telemetry`
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Dante-dan/Dante-dan/main/assets/telemetry/stats-dark-5463ce41333adbbc.svg" />
-  <img src="https://raw.githubusercontent.com/Dante-dan/Dante-dan/main/assets/telemetry/stats-light-75b6a06428651fb9.svg" alt="Public GitHub contribution totals" width="390" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Dante-dan/Dante-dan/main/assets/telemetry/stats-dark-c5486b8c453c6b74.svg" />
+  <img src="https://raw.githubusercontent.com/Dante-dan/Dante-dan/main/assets/telemetry/stats-light-ad906d8e13a29324.svg" alt="Public GitHub contribution totals" width="390" />
 </picture>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Dante-dan/Dante-dan/main/assets/telemetry/time-dark-7125e5edab173a32.svg" />
-  <img src="https://raw.githubusercontent.com/Dante-dan/Dante-dan/main/assets/telemetry/time-light-af06f94fc241e878.svg" alt="Commit distribution by time of day, UTC+8" width="390" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Dante-dan/Dante-dan/main/assets/telemetry/time-dark-a1dcdd128c10b197.svg" />
+  <img src="https://raw.githubusercontent.com/Dante-dan/Dante-dan/main/assets/telemetry/time-light-802e536af3b267ce.svg" alt="Commit distribution by time of day, UTC+8" width="390" />
 </picture>
 
-<img src="https://raw.githubusercontent.com/Dante-dan/Dante-dan/main/assets/telemetry/reactions-7f6e0df68eb0b6ec.svg" alt="Reactions received on recent public comments and issue bodies" width="650" />
+<img src="https://raw.githubusercontent.com/Dante-dan/Dante-dan/main/assets/telemetry/reactions-fd0ef6741be1c98c.svg" alt="Reactions received on recent public comments and issue bodies" width="650" />
 
 
 
 <!-- telemetry-refresh:start -->
-<sub>Fetched every 8 hours · last successful fetch<br>Totals: 2026-09-29 02:06:48 UTC · Commit hours: 2026-09-29 02:06:48 UTC · Reactions: 2026-09-29 02:06:48 UTC</sub>
+<sub>Fetched every 8 hours · last successful fetch<br>Totals: 2026-09-29 13:09:58 UTC · Commit hours: 2026-09-29 13:09:58 UTC · Reactions: 2026-09-29 13:09:58 UTC</sub>
 <!-- telemetry-refresh:end -->
 
 ### `~/arcade`
