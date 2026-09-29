@@ -70,16 +70,17 @@ I write about the process on [dhpie.com](https://dhpie.com).
 <sub>Public upstream PRs updated in the last 7 days · refreshed every 8 hours</sub>
 
 <!-- upstream:start -->
-<sub>54 PRs · 45 open · 9 merged</sub>
+<sub>55 PRs · 46 open · 9 merged</sub>
 
 | Status | Pull request | Updated (UTC) |
 | :--- | :--- | :--- |
+| `open` | **[can1357/oh-my-pi#13808](https://github.com/can1357/oh-my-pi/pull/13808)** — fix(ai): stop retrying OpenRouter HTTP 422 errors | 2026-09-29 |
+| `open` | **[anomalyco/opencode#52145](https://github.com/anomalyco/opencode/pull/52145)** — fix(core): show structured provider error details | 2026-09-29 |
 | `open` | **[cline/cline#14670](https://github.com/cline/cline/pull/14670)** — fix(desktop): explain missing Git during skill install | 2026-09-29 |
 | `open` | **[can1357/oh-my-pi#13437](https://github.com/can1357/oh-my-pi/pull/13437)** — feat(coding-agent): honor skill model for invoked task turns | 2026-09-29 |
 | `open` | **[can1357/oh-my-pi#13801](https://github.com/can1357/oh-my-pi/pull/13801)** — feat(coding-agent): continue focused subagents with dot and c | 2026-09-29 |
 | `open` | **[can1357/oh-my-pi#13771](https://github.com/can1357/oh-my-pi/pull/13771)** — fix(glob): return empty result for a missing single path | 2026-09-29 |
 | `open` | **[LodyAI/acp-extension-codex#59](https://github.com/LodyAI/acp-extension-codex/pull/59)** — fix: normalize restored Codex subagent events for Lody | 2026-09-29 |
-| `open` | **[anomalyco/opencode#52145](https://github.com/anomalyco/opencode/pull/52145)** — fix(core): show structured provider error details | 2026-09-29 |
 | `open` | **[anomalyco/opencode#52148](https://github.com/anomalyco/opencode/pull/52148)** — docs: list Context7 OpenCode plugin | 2026-09-29 |
 | `open` | **[makecindy/cindy#5180](https://github.com/makecindy/cindy/pull/5180)** — feat(desktop): request consent for non-Git project recovery | 2026-09-29 |
 | `open` | **[can1357/oh-my-pi#13436](https://github.com/can1357/oh-my-pi/pull/13436)** — feat(tui): copy or rewind from either transcript selector | 2026-09-29 |
@@ -134,10 +135,10 @@ I write about the process on [dhpie.com](https://dhpie.com).
 <summary>Recent conversations · issues, comments &amp; reviews</summary>
 
 <!-- activity:start -->
+- `2026-09-29` Commented on **[cline/cline#14660](https://github.com/cline/cline/issues/14660#issuecomment-5900561844)** — Cline Desktop: \[Linux\]: Close button becomed unresponsive sometimes while in maximized.
 - `2026-09-29` Commented on **[earendil-works/pi#10045](https://github.com/earendil-works/pi/issues/10045#issuecomment-5900340607)** — Auto compaction of opus 5.5 on bedrock blocked by anthro policy
 - `2026-09-29` Commented on **[anomalyco/opencode#39777](https://github.com/anomalyco/opencode/issues/39777#issuecomment-5899670829)** — feat(tui): diff plugin generations on reconcile instead of full teardown
 - `2026-09-29` Commented on **[anomalyco/opencode#39380](https://github.com/anomalyco/opencode/issues/39380#issuecomment-5899636081)** — perf(tui): make session switching independent of transcript length
-- `2026-09-29` Commented on **[langchain-ai/langgraph#9099](https://github.com/langchain-ai/langgraph/issues/9099#issuecomment-5899511177)** — EncryptedSerializer: deleting a thread&#x27;s newest checkpoint row silently rolls the thread back to an…
 <!-- activity:end -->
 
 </details>
@@ -158,12 +159,12 @@ I write about the process on [dhpie.com](https://dhpie.com).
 ### `~/telemetry`
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Dante-dan/Dante-dan/main/assets/telemetry/stats-dark-2ba58ab9eb4cbae1.svg" />
-  <img src="https://raw.githubusercontent.com/Dante-dan/Dante-dan/main/assets/telemetry/stats-light-0781ec732cd95b55.svg" alt="Public GitHub contribution totals" width="390" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Dante-dan/Dante-dan/main/assets/telemetry/stats-dark-a33a07b1f92f538d.svg" />
+  <img src="https://raw.githubusercontent.com/Dante-dan/Dante-dan/main/assets/telemetry/stats-light-5bb19197f76a8689.svg" alt="Public GitHub contribution totals" width="390" />
 </picture>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Dante-dan/Dante-dan/main/assets/telemetry/time-dark-a1dcdd128c10b197.svg" />
-  <img src="https://raw.githubusercontent.com/Dante-dan/Dante-dan/main/assets/telemetry/time-light-802e536af3b267ce.svg" alt="Commit distribution by time of day, UTC+8" width="390" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Dante-dan/Dante-dan/main/assets/telemetry/time-dark-c40e2fefdfbf0d9a.svg" />
+  <img src="https://raw.githubusercontent.com/Dante-dan/Dante-dan/main/assets/telemetry/time-light-de266842aaaef30c.svg" alt="Commit distribution by time of day, UTC+8" width="390" />
 </picture>
 
 <img src="https://raw.githubusercontent.com/Dante-dan/Dante-dan/main/assets/telemetry/reactions-fd0ef6741be1c98c.svg" alt="Reactions received on recent public comments and issue bodies" width="650" />
@@ -171,7 +172,7 @@ I write about the process on [dhpie.com](https://dhpie.com).
 
 
 <!-- telemetry-refresh:start -->
-<sub>Fetched every 8 hours · last successful fetch<br>Totals: 2026-09-29 22:32:42 UTC · Commit hours: 2026-09-29 22:32:42 UTC · Reactions: 2026-09-29 22:32:42 UTC</sub>
+<sub>Fetched every 8 hours · last successful fetch<br>Totals: 2026-09-29 23:05:04 UTC · Commit hours: 2026-09-29 23:05:04 UTC · Reactions: 2026-09-29 23:05:04 UTC</sub>
 <!-- telemetry-refresh:end -->
 
 ### `~/arcade`
