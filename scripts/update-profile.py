@@ -171,12 +171,18 @@ def main():
     text = path.read_text()
     failed = False
     for name, loader in [('contributions', contributions), ('workbench', workbench), ('upstream', upstream), ('notes', notes), ('activity', activity)]:
-        try:
-            text = replace_block(text, name, loader())
-            print(f'Updated {name}')
-        except Exception as error:
-            failed = True
-            print(f'::warning::{name}: keeping previous content ({type(error).__name__})')
+        for attempt in range(2):
+            try:
+                text = replace_block(text, name, loader())
+                print(f'Updated {name}')
+                break
+            except Exception as error:
+                if attempt == 0:
+                    print(f'::warning::{name}: {type(error).__name__}; retrying once in 60 seconds')
+                    time.sleep(60)
+                else:
+                    failed = True
+                    print(f'::warning::{name}: keeping previous content ({type(error).__name__})')
     path.write_text(text)
     return int(failed)
 

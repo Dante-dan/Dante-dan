@@ -46,13 +46,26 @@ class ProfileTests(unittest.TestCase):
         with tempfile.TemporaryDirectory() as directory:
             path = Path(directory) / 'README.md'
             path.write_text(original)
-            with patch.object(m, 'ROOT', Path(directory)), patch.object(m, 'contributions', side_effect=TimeoutError), patch.object(m, 'workbench', return_value='new projects'), patch.object(m, 'upstream', side_effect=TimeoutError), patch.object(m, 'notes', return_value='new posts'), patch.object(m, 'activity', return_value='new conversations'):
+            with patch.object(m, 'ROOT', Path(directory)), patch.object(m.time, 'sleep') as sleep, patch.object(m, 'contributions', side_effect=TimeoutError) as contributions, patch.object(m, 'workbench', return_value='new projects'), patch.object(m, 'upstream', side_effect=TimeoutError) as upstream, patch.object(m, 'notes', return_value='new posts'), patch.object(m, 'activity', return_value='new conversations'):
                 self.assertEqual(m.main(), 1)
+                self.assertEqual(contributions.call_count, 2)
+                self.assertEqual(upstream.call_count, 2)
+                self.assertEqual(sleep.call_count, 2)
             result = path.read_text()
             self.assertIn('old upstream', result)
             self.assertIn('old contributions', result)
             self.assertIn('new projects', result)
             self.assertIn('new posts', result)
+
+    def test_failed_source_recovers_on_single_retry(self):
+        original = '\n'.join(f'<!-- {n}:start -->\nold {n}\n<!-- {n}:end -->' for n in ('contributions', 'workbench', 'upstream', 'notes', 'activity'))
+        with tempfile.TemporaryDirectory() as directory:
+            path = Path(directory) / 'README.md'
+            path.write_text(original)
+            with patch.object(m, 'ROOT', Path(directory)), patch.object(m.time, 'sleep') as sleep, patch.object(m, 'contributions', side_effect=[TimeoutError(), 'new contributions']), patch.object(m, 'workbench', return_value='new projects'), patch.object(m, 'upstream', return_value='new upstream'), patch.object(m, 'notes', return_value='new posts'), patch.object(m, 'activity', return_value='new conversations'):
+                self.assertEqual(m.main(), 0)
+                sleep.assert_called_once_with(60)
+            self.assertIn('new contributions', path.read_text())
 
     def test_untrusted_feed_title_cannot_inject_markup(self):
         title = '<img src=x> [bad](javascript:x)\n<!-- notes:end -->'
