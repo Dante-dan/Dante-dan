@@ -74,6 +74,11 @@ I write about the process on [dhpie.com](https://dhpie.com).
 
 | Status | Pull request | Updated (UTC) |
 | :--- | :--- | :--- |
+| `open` | **[cline/cline#14670](https://github.com/cline/cline/pull/14670)** — fix(desktop): explain missing Git during skill install | 2026-09-29 |
+| `open` | **[can1357/oh-my-pi#13437](https://github.com/can1357/oh-my-pi/pull/13437)** — feat(coding-agent): honor skill model for invoked task turns | 2026-09-29 |
+| `open` | **[can1357/oh-my-pi#13801](https://github.com/can1357/oh-my-pi/pull/13801)** — feat(coding-agent): continue focused subagents with dot and c | 2026-09-29 |
+| `open` | **[can1357/oh-my-pi#13771](https://github.com/can1357/oh-my-pi/pull/13771)** — fix(glob): return empty result for a missing single path | 2026-09-29 |
+| `open` | **[LodyAI/acp-extension-codex#59](https://github.com/LodyAI/acp-extension-codex/pull/59)** — fix: normalize restored Codex subagent events for Lody | 2026-09-29 |
 | `open` | **[anomalyco/opencode#52145](https://github.com/anomalyco/opencode/pull/52145)** — fix(core): show structured provider error details | 2026-09-29 |
 | `open` | **[anomalyco/opencode#52148](https://github.com/anomalyco/opencode/pull/52148)** — docs: list Context7 OpenCode plugin | 2026-09-29 |
 | `open` | **[makecindy/cindy#5180](https://github.com/makecindy/cindy/pull/5180)** — feat(desktop): request consent for non-Git project recovery | 2026-09-29 |
@@ -81,7 +86,6 @@ I write about the process on [dhpie.com](https://dhpie.com).
 | `open` | **[CherryHQ/cherry-studio#21187](https://github.com/CherryHQ/cherry-studio/pull/21187)** — fix(kb-citations): improve synthesis attribution and citation previews | 2026-09-29 |
 | `open` | **[alibaba/open-code-review#1610](https://github.com/alibaba/open-code-review/pull/1610)** — fix(llm): allow unlisted OpenRouter model overrides | 2026-09-29 |
 | `open` | **[LodyAI/Lody#687](https://github.com/LodyAI/Lody/pull/687)** — fix(cli): keep operation delivery paused after stop | 2026-09-29 |
-| `open` | **[can1357/oh-my-pi#13771](https://github.com/can1357/oh-my-pi/pull/13771)** — fix(glob): return empty result for a missing single path | 2026-09-29 |
 | `open` | **[anomalyco/opencode#52094](https://github.com/anomalyco/opencode/pull/52094)** — fix(app): keep new sessions in their selected worktree | 2026-09-29 |
 | `open` | **[makecindy/cindy#4424](https://github.com/makecindy/cindy/pull/4424)** — feat(mobile): render Mermaid in Markdown file reader | 2026-09-29 |
 | `open` | **[CherryHQ/cherry-studio#21133](https://github.com/CherryHQ/cherry-studio/pull/21133)** — feat(agent-knowledge): add per-binding read/write permissions | 2026-09-29 |
@@ -108,7 +112,6 @@ I write about the process on [dhpie.com](https://dhpie.com).
 | `open` | **[can1357/oh-my-pi#12381](https://github.com/can1357/oh-my-pi/pull/12381)** — test(browser): require a live CDP endpoint for Linux Chromium | 2026-09-28 |
 | `open` | **[can1357/oh-my-pi#12394](https://github.com/can1357/oh-my-pi/pull/12394)** — fix(coding-agent): save manual handoff artifacts when enabled | 2026-09-28 |
 | `open` | **[can1357/oh-my-pi#12818](https://github.com/can1357/oh-my-pi/pull/12818)** — fix(natives): keep macOS TUI sessions out of the Dock | 2026-09-28 |
-| `open` | **[can1357/oh-my-pi#13437](https://github.com/can1357/oh-my-pi/pull/13437)** — feat(coding-agent): honor skill model for invoked task turns | 2026-09-28 |
 | `open` | **[affaan-m/ECC#3121](https://github.com/affaan-m/ECC/pull/3121)** — docs(i18n): add Polish localization scout | 2026-09-28 |
 | `open` | **[CherryHQ/cherry-studio#20321](https://github.com/CherryHQ/cherry-studio/pull/20321)** — fix(chat-errors): normalize non-error throws | 2026-09-27 |
 | `open` | **[cline/cline#14082](https://github.com/cline/cline/pull/14082)** — fix(desktop): use baseline Bun target for Windows x64 sidecar | 2026-09-27 |
@@ -125,19 +128,16 @@ I write about the process on [dhpie.com](https://dhpie.com).
 | `merged` | **[can1357/oh-my-pi#12887](https://github.com/can1357/oh-my-pi/pull/12887)** — perf(coding-agent): avoid repeated whole-buffer TTSR scans | 2026-09-23 |
 | `merged` | **[CherryHQ/cherry-studio#20950](https://github.com/CherryHQ/cherry-studio/pull/20950)** — fix(file): recover directory trees after watcher errors | 2026-09-23 |
 | `merged` | **[LodyAI/Lody#895](https://github.com/LodyAI/Lody/pull/895)** — fix(e2e): select role by visible title | 2026-09-23 |
-| `open` | **[makecindy/cindy#4551](https://github.com/makecindy/cindy/pull/4551)** — fix(desktop): acknowledge opened background tasks | 2026-09-22 |
-| `open` | **[multica-ai/multica#8715](https://github.com/multica-ai/multica/pull/8715)** — fix(core): support legacy issue status servers | 2026-09-22 |
-| `open` | **[code-yeongyu/oh-my-openagent#8690](https://github.com/code-yeongyu/oh-my-openagent/pull/8690)** — fix(publish): wait for tarball readiness | 2026-09-22 |
 <!-- upstream:end -->
 
 <details>
 <summary>Recent conversations · issues, comments &amp; reviews</summary>
 
 <!-- activity:start -->
-- `2026-09-29` Commented on **[LodyAI/Lody#1141](https://github.com/LodyAI/Lody/issues/1141#issuecomment-5897172195)** — \[Bug\] Opening a PDF in the file preview crashes with &quot;The container must be absolutely positioned&quot;
-- `2026-09-29` Commented on **[anomalyco/opencode#52145](https://github.com/anomalyco/opencode/pull/52145#issuecomment-5897163701)** — fix(core): show structured provider error details
-- `2026-09-29` Commented on **[anomalyco/opencode#49707](https://github.com/anomalyco/opencode/issues/49707#issuecomment-5896366371)** — \[FEATURE\]: List Context7 OpenCode plugin in ecosystem docs
-- `2026-09-29` Commented on **[LodyAI/Lody#104](https://github.com/LodyAI/Lody/issues/104#issuecomment-5896264738)** — \[Feature Request\] Add global and provider-level controls to disable MCP
+- `2026-09-29` Commented on **[earendil-works/pi#10045](https://github.com/earendil-works/pi/issues/10045#issuecomment-5900340607)** — Auto compaction of opus 5.5 on bedrock blocked by anthro policy
+- `2026-09-29` Commented on **[anomalyco/opencode#39777](https://github.com/anomalyco/opencode/issues/39777#issuecomment-5899670829)** — feat(tui): diff plugin generations on reconcile instead of full teardown
+- `2026-09-29` Commented on **[anomalyco/opencode#39380](https://github.com/anomalyco/opencode/issues/39380#issuecomment-5899636081)** — perf(tui): make session switching independent of transcript length
+- `2026-09-29` Commented on **[langchain-ai/langgraph#9099](https://github.com/langchain-ai/langgraph/issues/9099#issuecomment-5899511177)** — EncryptedSerializer: deleting a thread&#x27;s newest checkpoint row silently rolls the thread back to an…
 <!-- activity:end -->
 
 </details>
@@ -158,8 +158,8 @@ I write about the process on [dhpie.com](https://dhpie.com).
 ### `~/telemetry`
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Dante-dan/Dante-dan/main/assets/telemetry/stats-dark-f21d117a38d2895b.svg" />
-  <img src="https://raw.githubusercontent.com/Dante-dan/Dante-dan/main/assets/telemetry/stats-light-84ff7e60a4ad8b3e.svg" alt="Public GitHub contribution totals" width="390" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Dante-dan/Dante-dan/main/assets/telemetry/stats-dark-2ba58ab9eb4cbae1.svg" />
+  <img src="https://raw.githubusercontent.com/Dante-dan/Dante-dan/main/assets/telemetry/stats-light-0781ec732cd95b55.svg" alt="Public GitHub contribution totals" width="390" />
 </picture>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Dante-dan/Dante-dan/main/assets/telemetry/time-dark-a1dcdd128c10b197.svg" />
@@ -171,7 +171,7 @@ I write about the process on [dhpie.com](https://dhpie.com).
 
 
 <!-- telemetry-refresh:start -->
-<sub>Fetched every 8 hours · last successful fetch<br>Totals: 2026-09-29 19:31:38 UTC · Commit hours: 2026-09-29 19:31:38 UTC · Reactions: 2026-09-29 19:31:38 UTC</sub>
+<sub>Fetched every 8 hours · last successful fetch<br>Totals: 2026-09-29 22:32:42 UTC · Commit hours: 2026-09-29 22:32:42 UTC · Reactions: 2026-09-29 22:32:42 UTC</sub>
 <!-- telemetry-refresh:end -->
 
 ### `~/arcade`
