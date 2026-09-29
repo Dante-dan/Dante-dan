@@ -70,7 +70,7 @@ I write about the process on [dhpie.com](https://dhpie.com).
 <sub>Public upstream PRs updated in the last 7 days · refreshed every 8 hours</sub>
 
 <!-- upstream:start -->
-<sub>65 PRs · 52 open · 13 merged</sub>
+<sub>63 PRs · 50 open · 13 merged</sub>
 
 | Status | Pull request | Updated (UTC) |
 | :--- | :--- | :--- |
@@ -137,8 +137,6 @@ I write about the process on [dhpie.com](https://dhpie.com).
 | `open` | **[multica-ai/multica#8411](https://github.com/multica-ai/multica/pull/8411)** — feat(projects): bind local directories by agent | 2026-09-22 |
 | `open` | **[multica-ai/multica#8353](https://github.com/multica-ai/multica/pull/8353)** — feat(usage): add exact workspace token export | 2026-09-22 |
 | `open` | **[LodyAI/Lody#594](https://github.com/LodyAI/Lody/pull/594)** — fix(electron): declare OSS macOS local network usage | 2026-09-22 |
-| `open` | **[CherryHQ/cherry-studio#20353](https://github.com/CherryHQ/cherry-studio/pull/20353)** — fix(ai-runtime): clamp agent output token limit | 2026-09-22 |
-| `open` | **[CherryHQ/cherry-studio#20748](https://github.com/CherryHQ/cherry-studio/pull/20748)** — fix(model-controls): honor disabled reasoning capability | 2026-09-22 |
 <!-- upstream:end -->
 
 <details>
@@ -182,7 +180,7 @@ I write about the process on [dhpie.com](https://dhpie.com).
 
 
 <!-- telemetry-refresh:start -->
-<sub>Fetched every 8 hours · last successful fetch<br>Totals: 2026-09-28 20:38:40 UTC · Commit hours: 2026-09-28 20:38:40 UTC · Reactions: 2026-09-28 20:38:40 UTC</sub>
+<sub>Fetched every 8 hours · last successful fetch<br>Totals: 2026-09-29 02:06:48 UTC · Commit hours: 2026-09-29 02:06:48 UTC · Reactions: 2026-09-29 02:06:48 UTC</sub>
 <!-- telemetry-refresh:end -->
 
 ### `~/arcade`
