@@ -71,15 +71,20 @@ I write about the process on [dhpie.com](https://dhpie.com).
 <sub>Public upstream PRs updated in the last 7 days · refreshed every 8 hours</sub>
 
 <!-- upstream:start -->
-<sub>71 PRs · 63 open · 8 merged</sub>
+<sub>73 PRs · 65 open · 8 merged</sub>
 
 | Status | Pull request | Updated (UTC) |
 | :--- | :--- | :--- |
-| `open` | **[can1357/oh-my-pi#13993](https://github.com/can1357/oh-my-pi/pull/13993)** — fix(tui): preserve response scrollback while ask panels are open | 2026-10-01 |
 | `open` | **[CherryHQ/cherry-studio#20386](https://github.com/CherryHQ/cherry-studio/pull/20386)** — fix(new-api): restore Gemini web search through relays | 2026-10-01 |
-| `open` | **[apache/maka#5900](https://github.com/apache/maka/pull/5900)** — fix(runtime): bound proxied fetch transport teardown | 2026-10-01 |
+| `open` | **[cloudflare/security-audit-skill#65](https://github.com/cloudflare/security-audit-skill/pull/65)** — docs: explain ZIP packaging for Claude app Skills upload | 2026-10-01 |
+| `open` | **[anomalyco/opencode#52094](https://github.com/anomalyco/opencode/pull/52094)** — fix(app): keep new sessions in their selected worktree | 2026-10-01 |
+| `open` | **[can1357/oh-my-pi#13808](https://github.com/can1357/oh-my-pi/pull/13808)** — fix(ai): stop retrying OpenRouter HTTP 422 errors | 2026-10-01 |
+| `open` | **[makecindy/cindy#4553](https://github.com/makecindy/cindy/pull/4553)** — fix(desktop): clear event-backed attention after task deletion | 2026-10-01 |
 | `open` | **[can1357/oh-my-pi#13978](https://github.com/can1357/oh-my-pi/pull/13978)** — fix(tui): retain wait snapshots beside turn usage | 2026-10-01 |
+| `open` | **[can1357/oh-my-pi#13993](https://github.com/can1357/oh-my-pi/pull/13993)** — fix(tui): preserve response scrollback while ask panels are open | 2026-10-01 |
 | `open` | **[can1357/oh-my-pi#13976](https://github.com/can1357/oh-my-pi/pull/13976)** — feat(tui): support multi-row top chrome for extension composers | 2026-10-01 |
+| `open` | **[alibaba/open-code-review#1629](https://github.com/alibaba/open-code-review/pull/1629)** — feat(scan): support bounded scan prompt template overrides | 2026-10-01 |
+| `open` | **[apache/maka#5900](https://github.com/apache/maka/pull/5900)** — fix(runtime): bound proxied fetch transport teardown | 2026-10-01 |
 | `open` | **[makecindy/cindy#4424](https://github.com/makecindy/cindy/pull/4424)** — feat(mobile): render Mermaid in Markdown file reader | 2026-10-01 |
 | `open` | **[apache/maka#5753](https://github.com/apache/maka/pull/5753)** — fix(transcript): recover from oversized invocations | 2026-10-01 |
 | `open` | **[CherryHQ/cherry-studio#20748](https://github.com/CherryHQ/cherry-studio/pull/20748)** — fix(model-controls): honor disabled reasoning capability | 2026-10-01 |
@@ -105,7 +110,6 @@ I write about the process on [dhpie.com](https://dhpie.com).
 | `open` | **[can1357/oh-my-pi#13436](https://github.com/can1357/oh-my-pi/pull/13436)** — feat(tui): copy or rewind from either transcript selector | 2026-09-30 |
 | `open` | **[can1357/oh-my-pi#13437](https://github.com/can1357/oh-my-pi/pull/13437)** — feat(coding-agent): honor skill model for invoked task turns | 2026-09-30 |
 | `merged` | **[LodyAI/acp-extension-dsh#15](https://github.com/LodyAI/acp-extension-dsh/pull/15)** — feat: support provider-qualified DSH routes | 2026-09-30 |
-| `open` | **[can1357/oh-my-pi#13808](https://github.com/can1357/oh-my-pi/pull/13808)** — fix(ai): stop retrying OpenRouter HTTP 422 errors | 2026-09-30 |
 | `open` | **[anomalyco/opencode#52193](https://github.com/anomalyco/opencode/pull/52193)** — fix(opencode): identify agent creation requests | 2026-09-30 |
 | `merged` | **[affaan-m/ECC#3213](https://github.com/affaan-m/ECC/pull/3213)** — fix: distinguish PowerShell foreach statements | 2026-09-29 |
 | `merged` | **[affaan-m/ECC#3121](https://github.com/affaan-m/ECC/pull/3121)** — docs(i18n): add Polish localization scout | 2026-09-29 |
@@ -116,7 +120,6 @@ I write about the process on [dhpie.com](https://dhpie.com).
 | `open` | **[LodyAI/acp-extension-codex#59](https://github.com/LodyAI/acp-extension-codex/pull/59)** — fix: normalize restored Codex subagent events for Lody | 2026-09-29 |
 | `open` | **[anomalyco/opencode#52148](https://github.com/anomalyco/opencode/pull/52148)** — docs: list Context7 OpenCode plugin | 2026-09-29 |
 | `open` | **[LodyAI/Lody#687](https://github.com/LodyAI/Lody/pull/687)** — fix(cli): keep operation delivery paused after stop | 2026-09-29 |
-| `open` | **[anomalyco/opencode#52094](https://github.com/anomalyco/opencode/pull/52094)** — fix(app): keep new sessions in their selected worktree | 2026-09-29 |
 | `open` | **[CherryHQ/cherry-studio#21133](https://github.com/CherryHQ/cherry-studio/pull/21133)** — feat(agent-knowledge): add per-binding read/write permissions | 2026-09-29 |
 | `open` | **[CherryHQ/cherry-studio#20949](https://github.com/CherryHQ/cherry-studio/pull/20949)** — fix(agent-session): classify empty completions | 2026-09-29 |
 | `merged` | **[code-yeongyu/oh-my-openagent#8695](https://github.com/code-yeongyu/oh-my-openagent/pull/8695)** — fix(release): extend npm propagation budget | 2026-09-29 |
@@ -145,17 +148,16 @@ I write about the process on [dhpie.com](https://dhpie.com).
 | `open` | **[cline/cline#14400](https://github.com/cline/cline/pull/14400)** — fix(sdk): require string old\_text in editor schema | 2026-09-26 |
 | `open` | **[multica-ai/multica#8865](https://github.com/multica-ai/multica/pull/8865)** — fix(agent): run matching PowerShell script for Pi-family launchers on Windows | 2026-09-26 |
 | `open` | **[CherryHQ/cherry-studio#20434](https://github.com/CherryHQ/cherry-studio/pull/20434)** — fix(ai): stabilize OpenRouter session routing | 2026-09-26 |
-| `open` | **[affaan-m/ECC#3119](https://github.com/affaan-m/ECC/pull/3119)** — fix(install): keep home targets target-safe | 2026-09-24 |
 <!-- upstream:end -->
 
 <details>
 <summary>Recent conversations · issues, comments &amp; reviews</summary>
 
 <!-- activity:start -->
-- `2026-10-01` Commented on **[MoonshotAI/kimi-code#3665](https://github.com/MoonshotAI/kimi-code/issues/3665#issuecomment-5930417544)** — Bug: MCP tools with top-level oneOf inputSchema receive empty args ({}), rejected by local validati…
-- `2026-10-01` Commented on **[can1357/oh-my-pi#12398](https://github.com/can1357/oh-my-pi/issues/12398#issuecomment-5929619801)** — \[BUG\] Terminal output cut‑off when ask tool occupies bottom of screen
-- `2026-10-01` Commented on **[earendil-works/pi#10250](https://github.com/earendil-works/pi/issues/10250#issuecomment-5928855656)** — Since 0.99.0 (system theme default) pi startup inside tmux 3.6/3.6a fills the input box with hex co…
-- `2026-10-01` Commented on **[code-yeongyu/oh-my-openagent#9365](https://github.com/code-yeongyu/oh-my-openagent/issues/9365#issuecomment-5928909251)** — computer tool is dead after any extension hot-reload: every call fails &quot;stale extension generation …
+- `2026-10-01` Commented on **[cline/cline#13140](https://github.com/cline/cline/issues/13140#issuecomment-5939114522)** — Plan mode not respecting edit permissions + degraded task quality after v4.x SDK migration
+- `2026-10-01` Commented on **[CherryHQ/cherry-studio#21264](https://github.com/CherryHQ/cherry-studio/issues/21264#issuecomment-5938496696)** — \[Bug\]: Agent heartbeat permanently paused by circuit breaker after its first (successful) run — mid…
+- `2026-10-01` Commented on **[CherryHQ/cherry-studio#20386](https://github.com/CherryHQ/cherry-studio/pull/20386#discussion_r4159135659)**
+- `2026-10-01` Commented on **[cloudflare/security-audit-skill#65](https://github.com/cloudflare/security-audit-skill/pull/65#issuecomment-5938287170)** — docs: explain ZIP packaging for Claude app Skills upload
 <!-- activity:end -->
 
 </details>
@@ -167,17 +169,17 @@ I write about the process on [dhpie.com](https://dhpie.com).
 <sub>Latest writing from [dhpie.com](https://dhpie.com)</sub>
 
 <!-- notes:start -->
+- [开源贡献日报 · 2026-10-01](https://dhpie.com/posts/cn/open-source-daily-2026-10-01)
 - [开源贡献日报 · 2026-09-30](https://dhpie.com/posts/cn/open-source-daily-2026-09-30)
 - [开源贡献日报 · 2026-09-28](https://dhpie.com/posts/cn/open-source-daily-2026-09-28)
 - [开源贡献日报 · 2026-09-29](https://dhpie.com/posts/cn/open-source-daily-2026-09-29)
-- [开源贡献日报 · 2026-09-23](https://dhpie.com/posts/cn/open-source-daily-2026-09-23)
 <!-- notes:end -->
 
 ### `~/telemetry`
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Dante-dan/Dante-dan/main/assets/telemetry/stats-dark-2494defa09843b17.svg" />
-  <img src="https://raw.githubusercontent.com/Dante-dan/Dante-dan/main/assets/telemetry/stats-light-8aaf494dde7a908d.svg" alt="Public GitHub contribution totals" width="390" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Dante-dan/Dante-dan/main/assets/telemetry/stats-dark-eb2e0ccd60f8487c.svg" />
+  <img src="https://raw.githubusercontent.com/Dante-dan/Dante-dan/main/assets/telemetry/stats-light-8ce11809f4eddb1c.svg" alt="Public GitHub contribution totals" width="390" />
 </picture>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Dante-dan/Dante-dan/main/assets/telemetry/time-dark-ef4b9ff885f8c31c.svg" />
@@ -189,7 +191,7 @@ I write about the process on [dhpie.com](https://dhpie.com).
 
 
 <!-- telemetry-refresh:start -->
-<sub>Fetched every 8 hours · last successful fetch<br>Totals: 2026-10-01 13:35:47 UTC · Commit hours: 2026-10-01 13:35:47 UTC · Reactions: 2026-10-01 13:35:47 UTC</sub>
+<sub>Fetched every 8 hours · last successful fetch<br>Totals: 2026-10-01 19:39:50 UTC · Commit hours: 2026-10-01 19:39:50 UTC · Reactions: 2026-10-01 19:39:50 UTC</sub>
 <!-- telemetry-refresh:end -->
 
 ### `~/arcade`
