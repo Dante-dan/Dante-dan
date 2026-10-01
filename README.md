@@ -71,19 +71,23 @@ I write about the process on [dhpie.com](https://dhpie.com).
 <sub>Public upstream PRs updated in the last 7 days · refreshed every 8 hours</sub>
 
 <!-- upstream:start -->
-<sub>60 PRs · 51 open · 9 merged</sub>
+<sub>63 PRs · 54 open · 9 merged</sub>
 
 | Status | Pull request | Updated (UTC) |
 | :--- | :--- | :--- |
-| `open` | **[makecindy/cindy#5180](https://github.com/makecindy/cindy/pull/5180)** — feat(desktop): request consent for non-Git project recovery | 2026-09-30 |
-| `open` | **[apache/maka#5266](https://github.com/apache/maka/pull/5266)** — fix(runtime): allow bounded Apple Git startup | 2026-09-30 |
-| `open` | **[apache/maka#5753](https://github.com/apache/maka/pull/5753)** — fix(transcript): recover from oversized invocations | 2026-09-30 |
+| `open` | **[heygen-com/hyperframes#4767](https://github.com/heygen-com/hyperframes/pull/4767)** — fix(cli): recapture snapshot composites after video injection | 2026-10-01 |
+| `open` | **[can1357/oh-my-pi#13801](https://github.com/can1357/oh-my-pi/pull/13801)** — feat(coding-agent): continue focused subagents with dot and c | 2026-10-01 |
 | `open` | **[CherryHQ/cherry-studio#21223](https://github.com/CherryHQ/cherry-studio/pull/21223)** — feat(xai-tools): add opt-in native Grok images in chat | 2026-09-30 |
+| `open` | **[heygen-com/hyperframes#4809](https://github.com/heygen-com/hyperframes/pull/4809)** — fix(cli): select containing source frames in snapshots | 2026-09-30 |
+| `open` | **[apache/maka#5753](https://github.com/apache/maka/pull/5753)** — fix(transcript): recover from oversized invocations | 2026-09-30 |
+| `open` | **[can1357/oh-my-pi#13934](https://github.com/can1357/oh-my-pi/pull/13934)** — feat(coding-agent): warn once per prompt history write outage | 2026-09-30 |
+| `open` | **[can1357/oh-my-pi#13933](https://github.com/can1357/oh-my-pi/pull/13933)** — fix(coding-agent): refuse collab guest queue shorthand | 2026-09-30 |
+| `open` | **[apache/maka#5266](https://github.com/apache/maka/pull/5266)** — fix(runtime): allow bounded Apple Git startup | 2026-09-30 |
+| `open` | **[makecindy/cindy#5180](https://github.com/makecindy/cindy/pull/5180)** — feat(desktop): request consent for non-Git project recovery | 2026-09-30 |
 | `open` | **[CherryHQ/cherry-studio#21212](https://github.com/CherryHQ/cherry-studio/pull/21212)** — feat(xai-tools): add native code execution opt-in | 2026-09-30 |
 | `open` | **[makecindy/cindy#5296](https://github.com/makecindy/cindy/pull/5296)** — fix(runtime): preserve Codex transport in automatic fallback | 2026-09-30 |
 | `open` | **[makecindy/cindy#5295](https://github.com/makecindy/cindy/pull/5295)** — fix(mobile): constrain iOS sheet scrolling to native viewport | 2026-09-30 |
 | `merged` | **[code-yeongyu/oh-my-openagent#9233](https://github.com/code-yeongyu/oh-my-openagent/pull/9233)** — test(senpi): fail closed on Windows RPC driver results | 2026-09-30 |
-| `open` | **[heygen-com/hyperframes#4767](https://github.com/heygen-com/hyperframes/pull/4767)** — fix(cli): recapture snapshot composites after video injection | 2026-09-30 |
 | `open` | **[makecindy/cindy#4424](https://github.com/makecindy/cindy/pull/4424)** — feat(mobile): render Mermaid in Markdown file reader | 2026-09-30 |
 | `open` | **[makecindy/cindy#4366](https://github.com/makecindy/cindy/pull/4366)** — fix(mobile): avoid stale device roster snapshot | 2026-09-30 |
 | `open` | **[alibaba/open-code-review#1610](https://github.com/alibaba/open-code-review/pull/1610)** — fix(llm): allow unlisted OpenRouter model overrides | 2026-09-30 |
@@ -92,7 +96,6 @@ I write about the process on [dhpie.com](https://dhpie.com).
 | `open` | **[can1357/oh-my-pi#13436](https://github.com/can1357/oh-my-pi/pull/13436)** — feat(tui): copy or rewind from either transcript selector | 2026-09-30 |
 | `open` | **[can1357/oh-my-pi#13437](https://github.com/can1357/oh-my-pi/pull/13437)** — feat(coding-agent): honor skill model for invoked task turns | 2026-09-30 |
 | `merged` | **[LodyAI/acp-extension-dsh#15](https://github.com/LodyAI/acp-extension-dsh/pull/15)** — feat: support provider-qualified DSH routes | 2026-09-30 |
-| `open` | **[can1357/oh-my-pi#13801](https://github.com/can1357/oh-my-pi/pull/13801)** — feat(coding-agent): continue focused subagents with dot and c | 2026-09-30 |
 | `open` | **[can1357/oh-my-pi#13808](https://github.com/can1357/oh-my-pi/pull/13808)** — fix(ai): stop retrying OpenRouter HTTP 422 errors | 2026-09-30 |
 | `open` | **[anomalyco/opencode#52193](https://github.com/anomalyco/opencode/pull/52193)** — fix(opencode): identify agent creation requests | 2026-09-30 |
 | `merged` | **[affaan-m/ECC#3213](https://github.com/affaan-m/ECC/pull/3213)** — fix: distinguish PowerShell foreach statements | 2026-09-29 |
@@ -141,10 +144,10 @@ I write about the process on [dhpie.com](https://dhpie.com).
 <summary>Recent conversations · issues, comments &amp; reviews</summary>
 
 <!-- activity:start -->
-- `2026-09-30` Commented on **[anomalyco/opencode#41391](https://github.com/anomalyco/opencode/issues/41391#issuecomment-5917695520)** — Go quota accounting does not match Usage History or documented limits
-- `2026-09-30` Commented on **[CherryHQ/cherry-studio#21223](https://github.com/CherryHQ/cherry-studio/pull/21223#discussion_r4147712772)**
-- `2026-09-30` Commented on **[CherryHQ/cherry-studio#21212](https://github.com/CherryHQ/cherry-studio/pull/21212#discussion_r4147668789)**
-- `2026-09-30` Commented on **[anomalyco/opencode#35638](https://github.com/anomalyco/opencode/issues/35638#issuecomment-5916425788)** — v2: make durable terminal tool-input events self-contained
+- `2026-10-01` Commented on **[anomalyco/opencode#52031](https://github.com/anomalyco/opencode/issues/52031#issuecomment-5922341068)** — OpenCode Go subscription no longer recognized + unable to access Console
+- `2026-10-01` Commented on **[anomalyco/opencode#51878](https://github.com/anomalyco/opencode/issues/51878#issuecomment-5922336177)** — No Acess to API key yet I have a paid account
+- `2026-10-01` Commented on **[anomalyco/opencode#52267](https://github.com/anomalyco/opencode/issues/52267#issuecomment-5922304659)** — Go plan: 403 &quot;An active OpenCode Go subscription is required&quot; on every Go model — reproduced via AP…
+- `2026-10-01` Commented on **[anomalyco/opencode#52215](https://github.com/anomalyco/opencode/issues/52215#issuecomment-5922302093)** — Severe latency + aborted streams on opencode-go (Console Go) — streams hang for minutes and fail wi…
 <!-- activity:end -->
 
 </details>
@@ -165,8 +168,8 @@ I write about the process on [dhpie.com](https://dhpie.com).
 ### `~/telemetry`
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Dante-dan/Dante-dan/main/assets/telemetry/stats-dark-c0c4a93f6b01b4bf.svg" />
-  <img src="https://raw.githubusercontent.com/Dante-dan/Dante-dan/main/assets/telemetry/stats-light-83e906f97f6f2fa7.svg" alt="Public GitHub contribution totals" width="390" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Dante-dan/Dante-dan/main/assets/telemetry/stats-dark-afdc7e9135b0c5de.svg" />
+  <img src="https://raw.githubusercontent.com/Dante-dan/Dante-dan/main/assets/telemetry/stats-light-d28dd978e7c9b729.svg" alt="Public GitHub contribution totals" width="390" />
 </picture>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Dante-dan/Dante-dan/main/assets/telemetry/time-dark-ef4b9ff885f8c31c.svg" />
@@ -178,7 +181,7 @@ I write about the process on [dhpie.com](https://dhpie.com).
 
 
 <!-- telemetry-refresh:start -->
-<sub>Fetched every 8 hours · last successful fetch<br>Totals: 2026-09-30 19:32:00 UTC · Commit hours: 2026-09-30 19:32:00 UTC · Reactions: 2026-09-30 19:32:00 UTC</sub>
+<sub>Fetched every 8 hours · last successful fetch<br>Totals: 2026-10-01 01:22:10 UTC · Commit hours: 2026-10-01 01:22:10 UTC · Reactions: 2026-10-01 01:22:10 UTC</sub>
 <!-- telemetry-refresh:end -->
 
 ### `~/arcade`
