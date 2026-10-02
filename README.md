@@ -43,6 +43,7 @@ I write about the process on [dhpie.com](https://dhpie.com).
 <!-- contributions:start -->
 <sub>Code accepted upstream · last 12 months</sub>
 
+<table align="left" width="270"><tr><td width="64" valign="middle"><a href="https://github.com/heygen-com/hyperframes"><img src="assets/projects/heygen-com--hyperframes.png" width="56" height="56" alt="hyperframes icon" /></a></td><td width="200" valign="middle"><a href="https://github.com/heygen-com/hyperframes"><strong>hyperframes</strong></a><br /><sub><a href="https://github.com/heygen-com/hyperframes/pull/4767">merged contribution</a><br /><a href="https://github.com/heygen-com/hyperframes/pulls?q=is%3Apr+author%3ADante-dan">all PRs ↗</a></sub></td></tr></table>
 <table align="left" width="270"><tr><td width="64" valign="middle"><a href="https://github.com/CherryHQ/cherry-studio"><img src="assets/projects/CherryHQ--cherry-studio.png" width="56" height="56" alt="Cherry Studio icon" /></a></td><td width="200" valign="middle"><a href="https://github.com/CherryHQ/cherry-studio"><strong>Cherry Studio</strong></a><br /><sub><a href="https://github.com/CherryHQ/cherry-studio/pull/21270">merged contribution</a><br /><a href="https://github.com/CherryHQ/cherry-studio/pulls?q=is%3Apr+author%3ADante-dan">all PRs ↗</a></sub></td></tr></table>
 <table align="left" width="270"><tr><td width="64" valign="middle"><a href="https://github.com/code-yeongyu/oh-my-openagent"><img src="assets/projects/code-yeongyu--oh-my-openagent.png" width="56" height="56" alt="oh-my-openagent icon" /></a></td><td width="200" valign="middle"><a href="https://github.com/code-yeongyu/oh-my-openagent"><strong>oh-my-openagent</strong></a><br /><sub><a href="https://github.com/code-yeongyu/oh-my-openagent/pull/9406">merged contribution</a><br /><a href="https://github.com/code-yeongyu/oh-my-openagent/pulls?q=is%3Apr+author%3ADante-dan">all PRs ↗</a></sub></td></tr></table>
 <table align="left" width="270"><tr><td width="64" valign="middle"><a href="https://github.com/can1357/oh-my-pi"><img src="assets/projects/can1357--oh-my-pi.png" width="56" height="56" alt="oh-my-pi icon" /></a></td><td width="200" valign="middle"><a href="https://github.com/can1357/oh-my-pi"><strong>oh-my-pi</strong></a><br /><sub><a href="https://github.com/can1357/oh-my-pi/pull/13993">merged contribution</a><br /><a href="https://github.com/can1357/oh-my-pi/pulls?q=is%3Apr+author%3ADante-dan">all PRs ↗</a></sub></td></tr></table>
@@ -71,16 +72,19 @@ I write about the process on [dhpie.com](https://dhpie.com).
 <sub>Public upstream PRs updated in the last 7 days · refreshed every 8 hours</sub>
 
 <!-- upstream:start -->
-<sub>78 PRs · 67 open · 11 merged</sub>
+<sub>81 PRs · 69 open · 12 merged</sub>
 
 | Status | Pull request | Updated (UTC) |
 | :--- | :--- | :--- |
+| `open` | **[heygen-com/hyperframes#4809](https://github.com/heygen-com/hyperframes/pull/4809)** — fix(cli): select containing source frames in snapshots | 2026-10-02 |
+| `open` | **[alibaba/open-code-review#1637](https://github.com/alibaba/open-code-review/pull/1637)** — feat(action): split review and publication for fresh App tokens | 2026-10-02 |
+| `open` | **[can1357/oh-my-pi#14133](https://github.com/can1357/oh-my-pi/pull/14133)** — fix(coding-agent): reject unknown slash commands locally | 2026-10-02 |
+| `open` | **[can1357/oh-my-pi#13801](https://github.com/can1357/oh-my-pi/pull/13801)** — feat(coding-agent): continue focused subagents with dot and c | 2026-10-02 |
+| `open` | **[code-yeongyu/oh-my-openagent#9437](https://github.com/code-yeongyu/oh-my-openagent/pull/9437)** — test(team-mode): make fallback cancellation gate deterministic | 2026-10-02 |
+| `merged` | **[heygen-com/hyperframes#4767](https://github.com/heygen-com/hyperframes/pull/4767)** — fix(cli): recapture snapshot composites after video injection | 2026-10-02 |
 | `open` | **[code-yeongyu/oh-my-openagent#8690](https://github.com/code-yeongyu/oh-my-openagent/pull/8690)** — fix(publish): wait for tarball readiness | 2026-10-02 |
 | `open` | **[anomalyco/opencode#52635](https://github.com/anomalyco/opencode/pull/52635)** — fix(core): release detached location graphs after reload | 2026-10-02 |
-| `open` | **[heygen-com/hyperframes#4809](https://github.com/heygen-com/hyperframes/pull/4809)** — fix(cli): select containing source frames in snapshots | 2026-10-02 |
 | `merged` | **[CherryHQ/cherry-studio#21270](https://github.com/CherryHQ/cherry-studio/pull/21270)** — fix(agent-session): persist background terminal receipts | 2026-10-02 |
-| `open` | **[heygen-com/hyperframes#4767](https://github.com/heygen-com/hyperframes/pull/4767)** — fix(cli): recapture snapshot composites after video injection | 2026-10-02 |
-| `open` | **[can1357/oh-my-pi#13801](https://github.com/can1357/oh-my-pi/pull/13801)** — feat(coding-agent): continue focused subagents with dot and c | 2026-10-02 |
 | `open` | **[affaan-m/ECC#3119](https://github.com/affaan-m/ECC/pull/3119)** — fix(install): keep target-compatible modules with cross-harness dependencies | 2026-10-02 |
 | `merged` | **[code-yeongyu/oh-my-openagent#9406](https://github.com/code-yeongyu/oh-my-openagent/pull/9406)** — fix(senpi-task): report recovery after continuation acknowledgement | 2026-10-02 |
 | `open` | **[anomalyco/opencode#51528](https://github.com/anomalyco/opencode/pull/51528)** — fix(app): keep workspace message text readable on accent themes | 2026-10-02 |
@@ -159,10 +163,10 @@ I write about the process on [dhpie.com](https://dhpie.com).
 <summary>Recent conversations · issues, comments &amp; reviews</summary>
 
 <!-- activity:start -->
-- `2026-10-02` Commented on **[cline/cline#14775](https://github.com/cline/cline/issues/14775#issuecomment-5952770401)** — Cannot open the desktop application after updating to 0.0.42 because &quot;Tauri invoke failed for get d…
-- `2026-10-02` Commented on **[LodyAI/Lody#261](https://github.com/LodyAI/Lody/issues/261#issuecomment-5952534319)** — \[Feature Request\]\[Draft\] Support Gitlab Support
-- `2026-10-02` Commented on **[earendil-works/pi#10330](https://github.com/earendil-works/pi/issues/10330#issuecomment-5952455927)** — Auto-compaction does not start in CLI mode
-- `2026-10-02` Commented on **[MoonshotAI/kimi-code#3665](https://github.com/MoonshotAI/kimi-code/issues/3665#issuecomment-5951861667)** — Bug: MCP tools with top-level oneOf inputSchema receive empty args ({}), rejected by local validati…
+- `2026-10-02` Commented on **[anomalyco/opencode#51098](https://github.com/anomalyco/opencode/issues/51098#issuecomment-5958132938)** — \[FEATURE\]: Modernize and simplify the default system prompt
+- `2026-10-02` Commented on **[lobehub/lobehub#20292](https://github.com/lobehub/lobehub/issues/20292#issuecomment-5957017552)** — \[Bug\] Agent 工具输出含空字节时 tool\_result 持久化失败并无限重试，本轮后续回复丢失
+- `2026-10-02` Commented on **[langchain-ai/langgraph#9173](https://github.com/langchain-ai/langgraph/issues/9173#issuecomment-5956892155)** — Traced conditional edges that return \`Send\` log \`repr()\` of the full payload (N × state size), with…
+- `2026-10-02` Commented on **[LodyAI/Lody#1178](https://github.com/LodyAI/Lody/issues/1178#issuecomment-5956869522)** — \[Bug\] Remote CLI upgrade reprocesses the same request, causing restart loops even after reaching th…
 <!-- activity:end -->
 
 </details>
@@ -174,21 +178,21 @@ I write about the process on [dhpie.com](https://dhpie.com).
 <sub>Latest writing from [dhpie.com](https://dhpie.com)</sub>
 
 <!-- notes:start -->
+- [开源贡献日报 · 2026-10-02](https://dhpie.com/posts/cn/open-source-daily-2026-10-02)
 - [开源贡献日报 · 2026-10-01](https://dhpie.com/posts/cn/open-source-daily-2026-10-01)
 - [开源贡献日报 · 2026-09-30](https://dhpie.com/posts/cn/open-source-daily-2026-09-30)
 - [开源贡献日报 · 2026-09-28](https://dhpie.com/posts/cn/open-source-daily-2026-09-28)
-- [开源贡献日报 · 2026-09-29](https://dhpie.com/posts/cn/open-source-daily-2026-09-29)
 <!-- notes:end -->
 
 ### `~/telemetry`
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Dante-dan/Dante-dan/main/assets/telemetry/stats-dark-2addd27d8e2bdc98.svg" />
-  <img src="https://raw.githubusercontent.com/Dante-dan/Dante-dan/main/assets/telemetry/stats-light-9687c0b0fd099620.svg" alt="Public GitHub contribution totals" width="390" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Dante-dan/Dante-dan/main/assets/telemetry/stats-dark-e9223fdda4ea4870.svg" />
+  <img src="https://raw.githubusercontent.com/Dante-dan/Dante-dan/main/assets/telemetry/stats-light-de7d8543714636cc.svg" alt="Public GitHub contribution totals" width="390" />
 </picture>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Dante-dan/Dante-dan/main/assets/telemetry/time-dark-5cea0275087a7ff9.svg" />
-  <img src="https://raw.githubusercontent.com/Dante-dan/Dante-dan/main/assets/telemetry/time-light-9727d0d64ce6c2a0.svg" alt="Commit distribution by time of day, UTC+8" width="390" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Dante-dan/Dante-dan/main/assets/telemetry/time-dark-000ff7b341f5d7a1.svg" />
+  <img src="https://raw.githubusercontent.com/Dante-dan/Dante-dan/main/assets/telemetry/time-light-f4d0334f29e8c9f5.svg" alt="Commit distribution by time of day, UTC+8" width="390" />
 </picture>
 
 <img src="https://raw.githubusercontent.com/Dante-dan/Dante-dan/main/assets/telemetry/reactions-bf88980781a423a8.svg" alt="Reactions received on recent public comments and issue bodies" width="650" />
@@ -196,7 +200,7 @@ I write about the process on [dhpie.com](https://dhpie.com).
 
 
 <!-- telemetry-refresh:start -->
-<sub>Fetched every 8 hours · last successful fetch<br>Totals: 2026-10-02 12:55:08 UTC · Commit hours: 2026-10-02 12:55:08 UTC · Reactions: 2026-10-02 12:55:08 UTC</sub>
+<sub>Fetched every 8 hours · last successful fetch<br>Totals: 2026-10-02 19:25:53 UTC · Commit hours: 2026-10-02 19:25:53 UTC · Reactions: 2026-10-02 19:25:53 UTC</sub>
 <!-- telemetry-refresh:end -->
 
 ### `~/arcade`
