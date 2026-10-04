@@ -43,7 +43,7 @@ I write about the process on [dhpie.com](https://dhpie.com).
 <!-- contributions:start -->
 <sub>Code accepted upstream · last 12 months</sub>
 
-<table align="left" width="270"><tr><td width="64" valign="middle"><a href="https://github.com/code-yeongyu/oh-my-openagent"><img src="assets/projects/code-yeongyu--oh-my-openagent.png" width="56" height="56" alt="oh-my-openagent icon" /></a></td><td width="200" valign="middle"><a href="https://github.com/code-yeongyu/oh-my-openagent"><strong>oh-my-openagent</strong></a><br /><sub><a href="https://github.com/code-yeongyu/oh-my-openagent/pull/9524">merged contribution</a><br /><a href="https://github.com/code-yeongyu/oh-my-openagent/pulls?q=is%3Apr+author%3ADante-dan">all PRs ↗</a></sub></td></tr></table>
+<table align="left" width="270"><tr><td width="64" valign="middle"><a href="https://github.com/code-yeongyu/oh-my-openagent"><img src="assets/projects/code-yeongyu--oh-my-openagent.png" width="56" height="56" alt="oh-my-openagent icon" /></a></td><td width="200" valign="middle"><a href="https://github.com/code-yeongyu/oh-my-openagent"><strong>oh-my-openagent</strong></a><br /><sub><a href="https://github.com/code-yeongyu/oh-my-openagent/pull/9526">merged contribution</a><br /><a href="https://github.com/code-yeongyu/oh-my-openagent/pulls?q=is%3Apr+author%3ADante-dan">all PRs ↗</a></sub></td></tr></table>
 <table align="left" width="270"><tr><td width="64" valign="middle"><a href="https://github.com/can1357/oh-my-pi"><img src="assets/projects/can1357--oh-my-pi.png" width="56" height="56" alt="oh-my-pi icon" /></a></td><td width="200" valign="middle"><a href="https://github.com/can1357/oh-my-pi"><strong>oh-my-pi</strong></a><br /><sub><a href="https://github.com/can1357/oh-my-pi/pull/13934">merged contribution</a><br /><a href="https://github.com/can1357/oh-my-pi/pulls?q=is%3Apr+author%3ADante-dan">all PRs ↗</a></sub></td></tr></table>
 <table align="left" width="270"><tr><td width="64" valign="middle"><a href="https://github.com/heygen-com/hyperframes"><img src="assets/projects/heygen-com--hyperframes.png" width="56" height="56" alt="hyperframes icon" /></a></td><td width="200" valign="middle"><a href="https://github.com/heygen-com/hyperframes"><strong>hyperframes</strong></a><br /><sub><a href="https://github.com/heygen-com/hyperframes/pull/4809">merged contribution</a><br /><a href="https://github.com/heygen-com/hyperframes/pulls?q=is%3Apr+author%3ADante-dan">all PRs ↗</a></sub></td></tr></table>
 <table align="left" width="270"><tr><td width="64" valign="middle"><a href="https://github.com/CherryHQ/cherry-studio"><img src="assets/projects/CherryHQ--cherry-studio.png" width="56" height="56" alt="Cherry Studio icon" /></a></td><td width="200" valign="middle"><a href="https://github.com/CherryHQ/cherry-studio"><strong>Cherry Studio</strong></a><br /><sub><a href="https://github.com/CherryHQ/cherry-studio/pull/21270">merged contribution</a><br /><a href="https://github.com/CherryHQ/cherry-studio/pulls?q=is%3Apr+author%3ADante-dan">all PRs ↗</a></sub></td></tr></table>
@@ -72,13 +72,15 @@ I write about the process on [dhpie.com](https://dhpie.com).
 <sub>Public upstream PRs updated in the last 7 days · refreshed every 8 hours</sub>
 
 <!-- upstream:start -->
-<sub>91 PRs · 71 open · 20 merged</sub>
+<sub>92 PRs · 69 open · 23 merged</sub>
 
 | Status | Pull request | Updated (UTC) |
 | :--- | :--- | :--- |
-| `open` | **[code-yeongyu/oh-my-openagent#9526](https://github.com/code-yeongyu/oh-my-openagent/pull/9526)** — refactor(senpi): lazy-load memfs maintenance commands | 2026-10-04 |
-| `open` | **[anomalyco/opencode#53122](https://github.com/anomalyco/opencode/pull/53122)** — refactor(core): extract transcript projection | 2026-10-04 |
+| `merged` | **[code-yeongyu/oh-my-openagent#9579](https://github.com/code-yeongyu/oh-my-openagent/pull/9579)** — fix(senpi): count only selected shard QA scenarios | 2026-10-04 |
+| `merged` | **[code-yeongyu/oh-my-openagent#9526](https://github.com/code-yeongyu/oh-my-openagent/pull/9526)** — refactor(senpi): lazy-load memfs maintenance commands | 2026-10-04 |
 | `open` | **[alibaba/open-code-review#1610](https://github.com/alibaba/open-code-review/pull/1610)** — fix(llm): allow unlisted OpenRouter model overrides | 2026-10-04 |
+| `merged` | **[code-yeongyu/oh-my-openagent#9575](https://github.com/code-yeongyu/oh-my-openagent/pull/9575)** — test(web): assert rendered manifesto brightness without JavaScript | 2026-10-04 |
+| `open` | **[anomalyco/opencode#53122](https://github.com/anomalyco/opencode/pull/53122)** — refactor(core): extract transcript projection | 2026-10-04 |
 | `open` | **[CherryHQ/cherry-studio#21318](https://github.com/CherryHQ/cherry-studio/pull/21318)** — fix(sensenova-images): send image edits as JSON | 2026-10-04 |
 | `open` | **[CherryHQ/cherry-studio#21317](https://github.com/CherryHQ/cherry-studio/pull/21317)** — fix(agent-stream): reject billed empty assistant completions | 2026-10-04 |
 | `open` | **[multica-ai/multica#9049](https://github.com/multica-ai/multica/pull/9049)** — fix(wakeup): keep /note comments quiet for subscriptions | 2026-10-04 |
@@ -166,17 +168,16 @@ I write about the process on [dhpie.com](https://dhpie.com).
 | `open` | **[can1357/oh-my-pi#12381](https://github.com/can1357/oh-my-pi/pull/12381)** — test(browser): require a live CDP endpoint for Linux Chromium | 2026-09-28 |
 | `open` | **[can1357/oh-my-pi#12394](https://github.com/can1357/oh-my-pi/pull/12394)** — fix(coding-agent): save manual handoff artifacts when enabled | 2026-09-28 |
 | `open` | **[can1357/oh-my-pi#12818](https://github.com/can1357/oh-my-pi/pull/12818)** — fix(natives): keep macOS TUI sessions out of the Dock | 2026-09-28 |
-| `open` | **[CherryHQ/cherry-studio#20321](https://github.com/CherryHQ/cherry-studio/pull/20321)** — fix(chat-errors): normalize non-error throws | 2026-09-27 |
 <!-- upstream:end -->
 
 <details>
 <summary>Recent conversations · issues, comments &amp; reviews</summary>
 
 <!-- activity:start -->
-- `2026-10-04` Commented on **[LodyAI/Lody#1249](https://github.com/LodyAI/Lody/issues/1249#issuecomment-5978756928)** — \[Feature Request\] 支持自定义 Lody 中的 Pi 运行时路径
-- `2026-10-04` Commented on **[anomalyco/opencode#36473](https://github.com/anomalyco/opencode/issues/36473#issuecomment-5978694560)** — refactor(core): decompose the V2 session projector
-- `2026-10-04` Commented on **[LodyAI/Lody#592](https://github.com/LodyAI/Lody/issues/592#issuecomment-5978651784)** — \[Bug\] macOS: Codex retries indefinitely with a LAN HTTPS gateway, while the same binary works from …
-- `2026-10-04` Commented on **[earendil-works/pi#10330](https://github.com/earendil-works/pi/issues/10330#issuecomment-5978555728)** — Auto-compaction does not start in CLI mode
+- `2026-10-04` Commented on **[anomalyco/opencode#49889](https://github.com/anomalyco/opencode/issues/49889#issuecomment-5982670557)** — \[FEATURE\]: Language preference for model reasoning &amp; output — English-only built-in prompts degrade…
+- `2026-10-04` Commented on **[loopx-project/loopx#5208](https://github.com/loopx-project/loopx/issues/5208#issuecomment-5982274180)** — \[Task\]\[RFC\]: Qualify DSH/Pi observation and managed-runtime selection
+- `2026-10-04` Commented on **[cline/cline#14824](https://github.com/cline/cline/issues/14824#issuecomment-5982224883)** — Cline Desktop (SSM remote) spawns 2 new SSH sessions every 5s; run fails with &quot;Capability owner cli…
+- `2026-10-04` Commented on **[cline/cline#14739](https://github.com/cline/cline/issues/14739#issuecomment-5982219073)** — Desktop: Pinned group only shows pins within the newest 100 sessions; older pinned sessions vanish …
 <!-- activity:end -->
 
 </details>
@@ -188,29 +189,29 @@ I write about the process on [dhpie.com](https://dhpie.com).
 <sub>Latest writing from [dhpie.com](https://dhpie.com)</sub>
 
 <!-- notes:start -->
+- [开源贡献日报 · 2026-10-04](https://dhpie.com/posts/cn/open-source-daily-2026-10-04)
 - [开源贡献日报 · 2026-10-03](https://dhpie.com/posts/cn/open-source-daily-2026-10-03)
 - [开源贡献日报 · 2026-09-27](https://dhpie.com/posts/cn/open-source-daily-2026-09-27)
 - [开源贡献日报 · 2026-10-02](https://dhpie.com/posts/cn/open-source-daily-2026-10-02)
-- [开源贡献日报 · 2026-10-01](https://dhpie.com/posts/cn/open-source-daily-2026-10-01)
 <!-- notes:end -->
 
 ### `~/telemetry`
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Dante-dan/Dante-dan/main/assets/telemetry/stats-dark-d603e642d8710915.svg" />
-  <img src="https://raw.githubusercontent.com/Dante-dan/Dante-dan/main/assets/telemetry/stats-light-507557bcac6c23dd.svg" alt="Public GitHub contribution totals" width="390" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Dante-dan/Dante-dan/main/assets/telemetry/stats-dark-70cb3778aae0287a.svg" />
+  <img src="https://raw.githubusercontent.com/Dante-dan/Dante-dan/main/assets/telemetry/stats-light-4d0aee903f082351.svg" alt="Public GitHub contribution totals" width="390" />
 </picture>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Dante-dan/Dante-dan/main/assets/telemetry/time-dark-feab9322dcf7bbdd.svg" />
-  <img src="https://raw.githubusercontent.com/Dante-dan/Dante-dan/main/assets/telemetry/time-light-3412bde2f72a1c9f.svg" alt="Commit distribution by time of day, UTC+8" width="390" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Dante-dan/Dante-dan/main/assets/telemetry/time-dark-187f4966fbd25849.svg" />
+  <img src="https://raw.githubusercontent.com/Dante-dan/Dante-dan/main/assets/telemetry/time-light-5994af881bfa0376.svg" alt="Commit distribution by time of day, UTC+8" width="390" />
 </picture>
 
-<img src="https://raw.githubusercontent.com/Dante-dan/Dante-dan/main/assets/telemetry/reactions-c2c8f9eb85636431.svg" alt="Reactions received on recent public comments and issue bodies" width="650" />
+<img src="https://raw.githubusercontent.com/Dante-dan/Dante-dan/main/assets/telemetry/reactions-431293cb01bf4990.svg" alt="Reactions received on recent public comments and issue bodies" width="650" />
 
 
 
 <!-- telemetry-refresh:start -->
-<sub>Fetched every 8 hours · last successful fetch<br>Totals: 2026-10-04 12:35:57 UTC · Commit hours: 2026-10-04 12:35:57 UTC · Reactions: 2026-10-04 12:35:57 UTC</sub>
+<sub>Fetched every 8 hours · last successful fetch<br>Totals: 2026-10-04 18:14:44 UTC · Commit hours: 2026-10-04 18:14:44 UTC · Reactions: 2026-10-04 18:14:44 UTC</sub>
 <!-- telemetry-refresh:end -->
 
 ### `~/arcade`
