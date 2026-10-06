@@ -73,26 +73,31 @@ I write about the process on [dhpie.com](https://dhpie.com).
 <sub>Public upstream PRs updated in the last 7 days · refreshed every 8 hours</sub>
 
 <!-- upstream:start -->
-<sub>94 PRs · 71 open · 23 merged</sub>
+<sub>95 PRs · 73 open · 22 merged</sub>
 
 | Status | Pull request | Updated (UTC) |
 | :--- | :--- | :--- |
+| `open` | **[can1357/oh-my-pi#14558](https://github.com/can1357/oh-my-pi/pull/14558)** — fix(coding-agent): show resolved diagnostic and SSH config paths | 2026-10-06 |
+| `open` | **[can1357/oh-my-pi#14580](https://github.com/can1357/oh-my-pi/pull/14580)** — feat(extensions): expose configured thinking selector | 2026-10-06 |
+| `open` | **[CherryHQ/cherry-studio#21355](https://github.com/CherryHQ/cherry-studio/pull/21355)** — feat(web-search): choose search and fetch providers per assistant | 2026-10-06 |
+| `open` | **[code-yeongyu/oh-my-openagent#8297](https://github.com/code-yeongyu/oh-my-openagent/pull/8297)** — fix(opencode): expose V2 plugin setup entry | 2026-10-06 |
+| `open` | **[makecindy/cindy#5180](https://github.com/makecindy/cindy/pull/5180)** — feat(desktop): request consent for non-Git project recovery | 2026-10-06 |
 | `open` | **[can1357/oh-my-pi#14542](https://github.com/can1357/oh-my-pi/pull/14542)** — feat(coding-agent): log skipped extension directory errors | 2026-10-06 |
-| `open` | **[multica-ai/multica#9073](https://github.com/multica-ai/multica/pull/9073)** — fix(desktop): add spelling corrections to context menu | 2026-10-06 |
+| `open` | **[can1357/oh-my-pi#14440](https://github.com/can1357/oh-my-pi/pull/14440)** — fix(ai): preserve GLM-5.2 thinking on Ollama Cloud | 2026-10-06 |
+| `open` | **[code-yeongyu/oh-my-openagent#9635](https://github.com/code-yeongyu/oh-my-openagent/pull/9635)** — refactor(senpi): load Kibitzer child factory on first wake | 2026-10-06 |
+| `open` | **[code-yeongyu/oh-my-openagent#9625](https://github.com/code-yeongyu/oh-my-openagent/pull/9625)** — refactor(senpi): load memory prompt compiler on demand | 2026-10-06 |
+| `open` | **[code-yeongyu/oh-my-openagent#9624](https://github.com/code-yeongyu/oh-my-openagent/pull/9624)** — refactor(senpi): defer the live thread RPC client | 2026-10-06 |
+| `open` | **[code-yeongyu/oh-my-openagent#9602](https://github.com/code-yeongyu/oh-my-openagent/pull/9602)** — fix(senpi): keep task executors out of ultrawork orchestration | 2026-10-06 |
+| `open` | **[code-yeongyu/oh-my-openagent#9469](https://github.com/code-yeongyu/oh-my-openagent/pull/9469)** — test: detect environment leaks at test-file teardown | 2026-10-06 |
 | `open` | **[code-yeongyu/oh-my-openagent#9621](https://github.com/code-yeongyu/oh-my-openagent/pull/9621)** — fix(task): settle idle host child admission errors | 2026-10-06 |
+| `open` | **[code-yeongyu/oh-my-openagent#9619](https://github.com/code-yeongyu/oh-my-openagent/pull/9619)** — fix(senpi): enable reviewer artifact lookup through eval | 2026-10-06 |
+| `open` | **[multica-ai/multica#9073](https://github.com/multica-ai/multica/pull/9073)** — fix(desktop): add spelling corrections to context menu | 2026-10-06 |
 | `open` | **[makecindy/cindy#4297](https://github.com/makecindy/cindy/pull/4297)** — fix(desktop): render automation settings before status probes | 2026-10-05 |
-| `open` | **[code-yeongyu/oh-my-openagent#9469](https://github.com/code-yeongyu/oh-my-openagent/pull/9469)** — test: detect environment leaks at test-file teardown | 2026-10-05 |
-| `open` | **[code-yeongyu/oh-my-openagent#9635](https://github.com/code-yeongyu/oh-my-openagent/pull/9635)** — refactor(senpi): load Kibitzer child factory on first wake | 2026-10-05 |
-| `open` | **[can1357/oh-my-pi#14440](https://github.com/can1357/oh-my-pi/pull/14440)** — fix(ai): preserve GLM-5.2 thinking on Ollama Cloud | 2026-10-05 |
 | `open` | **[can1357/oh-my-pi#14439](https://github.com/can1357/oh-my-pi/pull/14439)** — Coalesce identical advisor notes within a review batch | 2026-10-05 |
 | `open` | **[CherryHQ/cherry-studio#21334](https://github.com/CherryHQ/cherry-studio/pull/21334)** — feat(web-search): add self-hosted Crawl4AI URL fetching | 2026-10-05 |
 | `open` | **[multica-ai/multica#9061](https://github.com/multica-ai/multica/pull/9061)** — fix(comments): retain delivered supplement root owners | 2026-10-05 |
 | `merged` | **[alibaba/open-code-review#1610](https://github.com/alibaba/open-code-review/pull/1610)** — fix(llm): allow unlisted OpenRouter model overrides | 2026-10-05 |
-| `open` | **[code-yeongyu/oh-my-openagent#9625](https://github.com/code-yeongyu/oh-my-openagent/pull/9625)** — refactor(senpi): load memory prompt compiler on demand | 2026-10-05 |
-| `open` | **[code-yeongyu/oh-my-openagent#9624](https://github.com/code-yeongyu/oh-my-openagent/pull/9624)** — refactor(senpi): defer the live thread RPC client | 2026-10-05 |
-| `open` | **[code-yeongyu/oh-my-openagent#9619](https://github.com/code-yeongyu/oh-my-openagent/pull/9619)** — fix(senpi): enable reviewer artifact lookup through eval | 2026-10-05 |
 | `open` | **[code-yeongyu/oh-my-openagent#9603](https://github.com/code-yeongyu/oh-my-openagent/pull/9603)** — perf(senpi): lazy-load mutation formatting outside startup | 2026-10-05 |
-| `open` | **[code-yeongyu/oh-my-openagent#9602](https://github.com/code-yeongyu/oh-my-openagent/pull/9602)** — fix(senpi): keep task executors out of ultrawork orchestration | 2026-10-05 |
 | `open` | **[anomalyco/opencode#53266](https://github.com/anomalyco/opencode/pull/53266)** — fix(core): disable tool selection in compaction summaries | 2026-10-05 |
 | `open` | **[code-yeongyu/oh-my-openagent#9613](https://github.com/code-yeongyu/oh-my-openagent/pull/9613)** — test(senpi-task): make acknowledged fallback close deterministic | 2026-10-05 |
 | `open` | **[code-yeongyu/oh-my-openagent#9604](https://github.com/code-yeongyu/oh-my-openagent/pull/9604)** — fix(lsp): retain writer error handling through teardown | 2026-10-05 |
@@ -140,7 +145,6 @@ I write about the process on [dhpie.com](https://dhpie.com).
 | `merged` | **[code-yeongyu/oh-my-openagent#9406](https://github.com/code-yeongyu/oh-my-openagent/pull/9406)** — fix(senpi-task): report recovery after continuation acknowledgement | 2026-10-02 |
 | `open` | **[anomalyco/opencode#51528](https://github.com/anomalyco/opencode/pull/51528)** — fix(app): keep workspace message text readable on accent themes | 2026-10-02 |
 | `merged` | **[can1357/oh-my-pi#13993](https://github.com/can1357/oh-my-pi/pull/13993)** — fix(tui): preserve response scrollback while ask panels are open | 2026-10-02 |
-| `open` | **[makecindy/cindy#5180](https://github.com/makecindy/cindy/pull/5180)** — feat(desktop): request consent for non-Git project recovery | 2026-10-01 |
 | `open` | **[can1357/oh-my-pi#13978](https://github.com/can1357/oh-my-pi/pull/13978)** — fix(tui): retain wait snapshots beside turn usage | 2026-10-01 |
 | `open` | **[CherryHQ/cherry-studio#20386](https://github.com/CherryHQ/cherry-studio/pull/20386)** — fix(new-api): restore Gemini web search through relays | 2026-10-01 |
 | `open` | **[cloudflare/security-audit-skill#65](https://github.com/cloudflare/security-audit-skill/pull/65)** — docs: explain ZIP packaging for Claude app Skills upload | 2026-10-01 |
@@ -168,19 +172,16 @@ I write about the process on [dhpie.com](https://dhpie.com).
 | `open` | **[LodyAI/acp-extension-codex#59](https://github.com/LodyAI/acp-extension-codex/pull/59)** — fix: normalize restored Codex subagent events for Lody | 2026-09-29 |
 | `open` | **[anomalyco/opencode#52148](https://github.com/anomalyco/opencode/pull/52148)** — docs: list Context7 OpenCode plugin | 2026-09-29 |
 | `open` | **[LodyAI/Lody#687](https://github.com/LodyAI/Lody/pull/687)** — fix(cli): keep operation delivery paused after stop | 2026-09-29 |
-| `open` | **[CherryHQ/cherry-studio#21133](https://github.com/CherryHQ/cherry-studio/pull/21133)** — feat(agent-knowledge): add per-binding read/write permissions | 2026-09-29 |
-| `open` | **[CherryHQ/cherry-studio#20949](https://github.com/CherryHQ/cherry-studio/pull/20949)** — fix(agent-session): classify empty completions | 2026-09-29 |
-| `merged` | **[code-yeongyu/oh-my-openagent#8695](https://github.com/code-yeongyu/oh-my-openagent/pull/8695)** — fix(release): extend npm propagation budget | 2026-09-29 |
 <!-- upstream:end -->
 
 <details>
 <summary>Recent conversations · issues, comments &amp; reviews</summary>
 
 <!-- activity:start -->
-- `2026-10-06` Commented on **[earendil-works/pi#10519](https://github.com/earendil-works/pi/issues/10519#issuecomment-6006893429)** — Nix package puts its Node 22 first on PATH, overriding the user&#x27;s node in tool shells
-- `2026-10-05` Commented on **[earendil-works/pi#10489](https://github.com/earendil-works/pi/issues/10489#issuecomment-6004905782)** — forceSystemPrompt projection hoists later toolsAdded into the request tool list (prompt-cache miss …
-- `2026-10-05` Commented on **[earendil-works/pi#10488](https://github.com/earendil-works/pi/issues/10488#issuecomment-6004881786)** — False skill collision on Windows when cwd and home drive-letter casing differs
-- `2026-10-05` Commented on **[LodyAI/Lody#1263](https://github.com/LodyAI/Lody/issues/1263#issuecomment-6003683649)** — \[Feature Request\] Voice input and voice conversation via Codex realtime
+- `2026-10-06` Commented on **[earendil-works/pi#10480](https://github.com/earendil-works/pi/issues/10480#issuecomment-6013584906)** — Direct openai connection not recognising manual usage limit reset
+- `2026-10-06` Commented on **[CherryHQ/cherry-studio#21352](https://github.com/CherryHQ/cherry-studio/issues/21352#issuecomment-6010765052)** — \[Feature\]: Allow switching web search / fetch-URL provider from the chat interface
+- `2026-10-06` Commented on **[makecindy/cindy#5180](https://github.com/makecindy/cindy/pull/5180#issuecomment-6010783730)** — feat(desktop): request consent for non-Git project recovery
+- `2026-10-06` Commented on **[LodyAI/Lody#1270](https://github.com/LodyAI/Lody/issues/1270#issuecomment-6009595700)** — \[Bug\] ACP terminal/wait\_for\_exit waits for background processes the command started
 <!-- activity:end -->
 
 </details>
@@ -201,20 +202,20 @@ I write about the process on [dhpie.com](https://dhpie.com).
 ### `~/telemetry`
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Dante-dan/Dante-dan/main/assets/telemetry/stats-dark-d60f766b9d1932d1.svg" />
-  <img src="https://raw.githubusercontent.com/Dante-dan/Dante-dan/main/assets/telemetry/stats-light-31ffbec3f6535a9f.svg" alt="Public GitHub contribution totals" width="390" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Dante-dan/Dante-dan/main/assets/telemetry/stats-dark-3289f2b8c40757b6.svg" />
+  <img src="https://raw.githubusercontent.com/Dante-dan/Dante-dan/main/assets/telemetry/stats-light-7978efa99bf9eb72.svg" alt="Public GitHub contribution totals" width="390" />
 </picture>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Dante-dan/Dante-dan/main/assets/telemetry/time-dark-3e45e5ef31222d13.svg" />
   <img src="https://raw.githubusercontent.com/Dante-dan/Dante-dan/main/assets/telemetry/time-light-f7cf3a9d7f198682.svg" alt="Commit distribution by time of day, UTC+8" width="390" />
 </picture>
 
-<img src="https://raw.githubusercontent.com/Dante-dan/Dante-dan/main/assets/telemetry/reactions-1d09459f8cca5a44.svg" alt="Reactions received on recent public comments and issue bodies" width="650" />
+<img src="https://raw.githubusercontent.com/Dante-dan/Dante-dan/main/assets/telemetry/reactions-3704f92516f88345.svg" alt="Reactions received on recent public comments and issue bodies" width="650" />
 
 
 
 <!-- telemetry-refresh:start -->
-<sub>Fetched every 8 hours · last successful fetch<br>Totals: 2026-10-06 02:22:37 UTC · Commit hours: 2026-10-06 02:22:37 UTC · Reactions: 2026-10-06 02:22:37 UTC</sub>
+<sub>Fetched every 8 hours · last successful fetch<br>Totals: 2026-10-06 13:28:40 UTC · Commit hours: 2026-10-06 13:28:40 UTC · Reactions: 2026-10-06 13:28:40 UTC</sub>
 <!-- telemetry-refresh:end -->
 
 ### `~/arcade`
