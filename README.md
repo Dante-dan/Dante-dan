@@ -73,19 +73,24 @@ I write about the process on [dhpie.com](https://dhpie.com).
 <sub>Public upstream PRs updated in the last 7 days · refreshed every 8 hours</sub>
 
 <!-- upstream:start -->
-<sub>91 PRs · 68 open · 23 merged</sub>
+<sub>94 PRs · 71 open · 23 merged</sub>
 
 | Status | Pull request | Updated (UTC) |
 | :--- | :--- | :--- |
-| `open` | **[CherryHQ/cherry-studio#21334](https://github.com/CherryHQ/cherry-studio/pull/21334)** — feat(web-search): add self-hosted Crawl4AI URL fetching | 2026-10-05 |
-| `open` | **[multica-ai/multica#9061](https://github.com/multica-ai/multica/pull/9061)** — fix(comments): retain delivered supplement root owners | 2026-10-05 |
+| `open` | **[can1357/oh-my-pi#14542](https://github.com/can1357/oh-my-pi/pull/14542)** — feat(coding-agent): log skipped extension directory errors | 2026-10-06 |
+| `open` | **[multica-ai/multica#9073](https://github.com/multica-ai/multica/pull/9073)** — fix(desktop): add spelling corrections to context menu | 2026-10-06 |
+| `open` | **[code-yeongyu/oh-my-openagent#9621](https://github.com/code-yeongyu/oh-my-openagent/pull/9621)** — fix(task): settle idle host child admission errors | 2026-10-06 |
+| `open` | **[makecindy/cindy#4297](https://github.com/makecindy/cindy/pull/4297)** — fix(desktop): render automation settings before status probes | 2026-10-05 |
+| `open` | **[code-yeongyu/oh-my-openagent#9469](https://github.com/code-yeongyu/oh-my-openagent/pull/9469)** — test: detect environment leaks at test-file teardown | 2026-10-05 |
+| `open` | **[code-yeongyu/oh-my-openagent#9635](https://github.com/code-yeongyu/oh-my-openagent/pull/9635)** — refactor(senpi): load Kibitzer child factory on first wake | 2026-10-05 |
 | `open` | **[can1357/oh-my-pi#14440](https://github.com/can1357/oh-my-pi/pull/14440)** — fix(ai): preserve GLM-5.2 thinking on Ollama Cloud | 2026-10-05 |
 | `open` | **[can1357/oh-my-pi#14439](https://github.com/can1357/oh-my-pi/pull/14439)** — Coalesce identical advisor notes within a review batch | 2026-10-05 |
+| `open` | **[CherryHQ/cherry-studio#21334](https://github.com/CherryHQ/cherry-studio/pull/21334)** — feat(web-search): add self-hosted Crawl4AI URL fetching | 2026-10-05 |
+| `open` | **[multica-ai/multica#9061](https://github.com/multica-ai/multica/pull/9061)** — fix(comments): retain delivered supplement root owners | 2026-10-05 |
 | `merged` | **[alibaba/open-code-review#1610](https://github.com/alibaba/open-code-review/pull/1610)** — fix(llm): allow unlisted OpenRouter model overrides | 2026-10-05 |
 | `open` | **[code-yeongyu/oh-my-openagent#9625](https://github.com/code-yeongyu/oh-my-openagent/pull/9625)** — refactor(senpi): load memory prompt compiler on demand | 2026-10-05 |
 | `open` | **[code-yeongyu/oh-my-openagent#9624](https://github.com/code-yeongyu/oh-my-openagent/pull/9624)** — refactor(senpi): defer the live thread RPC client | 2026-10-05 |
 | `open` | **[code-yeongyu/oh-my-openagent#9619](https://github.com/code-yeongyu/oh-my-openagent/pull/9619)** — fix(senpi): enable reviewer artifact lookup through eval | 2026-10-05 |
-| `open` | **[code-yeongyu/oh-my-openagent#9621](https://github.com/code-yeongyu/oh-my-openagent/pull/9621)** — fix(task): settle idle host child admission errors | 2026-10-05 |
 | `open` | **[code-yeongyu/oh-my-openagent#9603](https://github.com/code-yeongyu/oh-my-openagent/pull/9603)** — perf(senpi): lazy-load mutation formatting outside startup | 2026-10-05 |
 | `open` | **[code-yeongyu/oh-my-openagent#9602](https://github.com/code-yeongyu/oh-my-openagent/pull/9602)** — fix(senpi): keep task executors out of ultrawork orchestration | 2026-10-05 |
 | `open` | **[anomalyco/opencode#53266](https://github.com/anomalyco/opencode/pull/53266)** — fix(core): disable tool selection in compaction summaries | 2026-10-05 |
@@ -119,7 +124,6 @@ I write about the process on [dhpie.com](https://dhpie.com).
 | `open` | **[can1357/oh-my-pi#13956](https://github.com/can1357/oh-my-pi/pull/13956)** — docs(coding-agent): show complete read range calls | 2026-10-03 |
 | `open` | **[can1357/oh-my-pi#13436](https://github.com/can1357/oh-my-pi/pull/13436)** — feat(tui): copy or rewind from either transcript selector | 2026-10-03 |
 | `open` | **[can1357/oh-my-pi#13437](https://github.com/can1357/oh-my-pi/pull/13437)** — feat(coding-agent): honor skill model for invoked task turns | 2026-10-03 |
-| `open` | **[code-yeongyu/oh-my-openagent#9469](https://github.com/code-yeongyu/oh-my-openagent/pull/9469)** — test: detect environment leaks at test-file teardown | 2026-10-03 |
 | `merged` | **[can1357/oh-my-pi#13957](https://github.com/can1357/oh-my-pi/pull/13957)** — fix(coding-agent): expose nested skill read provenance | 2026-10-03 |
 | `merged` | **[can1357/oh-my-pi#13933](https://github.com/can1357/oh-my-pi/pull/13933)** — fix(coding-agent): refuse collab guest queue shorthand | 2026-10-03 |
 | `merged` | **[can1357/oh-my-pi#13934](https://github.com/can1357/oh-my-pi/pull/13934)** — feat(coding-agent): warn once per prompt history write outage | 2026-10-03 |
@@ -167,17 +171,16 @@ I write about the process on [dhpie.com](https://dhpie.com).
 | `open` | **[CherryHQ/cherry-studio#21133](https://github.com/CherryHQ/cherry-studio/pull/21133)** — feat(agent-knowledge): add per-binding read/write permissions | 2026-09-29 |
 | `open` | **[CherryHQ/cherry-studio#20949](https://github.com/CherryHQ/cherry-studio/pull/20949)** — fix(agent-session): classify empty completions | 2026-09-29 |
 | `merged` | **[code-yeongyu/oh-my-openagent#8695](https://github.com/code-yeongyu/oh-my-openagent/pull/8695)** — fix(release): extend npm propagation budget | 2026-09-29 |
-| `open` | **[makecindy/cindy#4297](https://github.com/makecindy/cindy/pull/4297)** — fix(desktop): render automation settings before status probes | 2026-09-28 |
 <!-- upstream:end -->
 
 <details>
 <summary>Recent conversations · issues, comments &amp; reviews</summary>
 
 <!-- activity:start -->
-- `2026-10-05` Commented on **[earendil-works/pi#10419](https://github.com/earendil-works/pi/issues/10419#issuecomment-5996860823)** — Avoid filesystem lookups for builtin extension IDs
-- `2026-10-05` Commented on **[earendil-works/pi#10351](https://github.com/earendil-works/pi/issues/10351#issuecomment-5996037161)** — Editor: deleting a duplicate large paste drops the remaining paste content
-- `2026-10-05` Commented on **[earendil-works/pi#10352](https://github.com/earendil-works/pi/issues/10352#issuecomment-5995031897)** — Keybindings don&#x27;t match when NumLock is on (num\_lock modifier from kitty keyboard protocol)
-- `2026-10-05` Commented on **[LodyAI/Lody#782](https://github.com/LodyAI/Lody/issues/782#issuecomment-5993976728)** — \[Feature Request\] Durable pin order on SessionMeta
+- `2026-10-06` Commented on **[earendil-works/pi#10519](https://github.com/earendil-works/pi/issues/10519#issuecomment-6006893429)** — Nix package puts its Node 22 first on PATH, overriding the user&#x27;s node in tool shells
+- `2026-10-05` Commented on **[earendil-works/pi#10489](https://github.com/earendil-works/pi/issues/10489#issuecomment-6004905782)** — forceSystemPrompt projection hoists later toolsAdded into the request tool list (prompt-cache miss …
+- `2026-10-05` Commented on **[earendil-works/pi#10488](https://github.com/earendil-works/pi/issues/10488#issuecomment-6004881786)** — False skill collision on Windows when cwd and home drive-letter casing differs
+- `2026-10-05` Commented on **[LodyAI/Lody#1263](https://github.com/LodyAI/Lody/issues/1263#issuecomment-6003683649)** — \[Feature Request\] Voice input and voice conversation via Codex realtime
 <!-- activity:end -->
 
 </details>
@@ -189,17 +192,17 @@ I write about the process on [dhpie.com](https://dhpie.com).
 <sub>Latest writing from [dhpie.com](https://dhpie.com)</sub>
 
 <!-- notes:start -->
+- [开源贡献日报 · 2026-10-05](https://dhpie.com/posts/cn/open-source-daily-2026-10-05)
 - [开源贡献日报 · 2026-10-04](https://dhpie.com/posts/cn/open-source-daily-2026-10-04)
 - [开源贡献日报 · 2026-10-03](https://dhpie.com/posts/cn/open-source-daily-2026-10-03)
 - [开源贡献日报 · 2026-09-27](https://dhpie.com/posts/cn/open-source-daily-2026-09-27)
-- [开源贡献日报 · 2026-10-02](https://dhpie.com/posts/cn/open-source-daily-2026-10-02)
 <!-- notes:end -->
 
 ### `~/telemetry`
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Dante-dan/Dante-dan/main/assets/telemetry/stats-dark-0632e303760f20cc.svg" />
-  <img src="https://raw.githubusercontent.com/Dante-dan/Dante-dan/main/assets/telemetry/stats-light-f122bdc7e199274a.svg" alt="Public GitHub contribution totals" width="390" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Dante-dan/Dante-dan/main/assets/telemetry/stats-dark-d60f766b9d1932d1.svg" />
+  <img src="https://raw.githubusercontent.com/Dante-dan/Dante-dan/main/assets/telemetry/stats-light-31ffbec3f6535a9f.svg" alt="Public GitHub contribution totals" width="390" />
 </picture>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Dante-dan/Dante-dan/main/assets/telemetry/time-dark-3e45e5ef31222d13.svg" />
@@ -211,7 +214,7 @@ I write about the process on [dhpie.com](https://dhpie.com).
 
 
 <!-- telemetry-refresh:start -->
-<sub>Fetched every 8 hours · last successful fetch<br>Totals: 2026-10-05 15:02:08 UTC · Commit hours: 2026-10-05 15:02:08 UTC · Reactions: 2026-10-05 15:02:08 UTC</sub>
+<sub>Fetched every 8 hours · last successful fetch<br>Totals: 2026-10-06 02:22:37 UTC · Commit hours: 2026-10-06 02:22:37 UTC · Reactions: 2026-10-06 02:22:37 UTC</sub>
 <!-- telemetry-refresh:end -->
 
 ### `~/arcade`
