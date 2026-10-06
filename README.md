@@ -73,10 +73,13 @@ I write about the process on [dhpie.com](https://dhpie.com).
 <sub>Public upstream PRs updated in the last 7 days · refreshed every 8 hours</sub>
 
 <!-- upstream:start -->
-<sub>95 PRs · 73 open · 22 merged</sub>
+<sub>94 PRs · 71 open · 23 merged</sub>
 
 | Status | Pull request | Updated (UTC) |
 | :--- | :--- | :--- |
+| `open` | **[affaan-m/ECC#3442](https://github.com/affaan-m/ECC/pull/3442)** — fix(state-store): preserve concurrent writers with serialized snapshots | 2026-10-06 |
+| `open` | **[anomalyco/opencode#51528](https://github.com/anomalyco/opencode/pull/51528)** — fix(app): keep workspace message text readable on accent themes | 2026-10-06 |
+| `merged` | **[can1357/oh-my-pi#13956](https://github.com/can1357/oh-my-pi/pull/13956)** — docs(coding-agent): show complete read range calls | 2026-10-06 |
 | `open` | **[can1357/oh-my-pi#14558](https://github.com/can1357/oh-my-pi/pull/14558)** — fix(coding-agent): show resolved diagnostic and SSH config paths | 2026-10-06 |
 | `open` | **[can1357/oh-my-pi#14580](https://github.com/can1357/oh-my-pi/pull/14580)** — feat(extensions): expose configured thinking selector | 2026-10-06 |
 | `open` | **[CherryHQ/cherry-studio#21355](https://github.com/CherryHQ/cherry-studio/pull/21355)** — feat(web-search): choose search and fetch providers per assistant | 2026-10-06 |
@@ -126,7 +129,6 @@ I write about the process on [dhpie.com](https://dhpie.com).
 | `open` | **[multica-ai/multica#9038](https://github.com/multica-ai/multica/pull/9038)** — fix(telegram): report secret key validation errors at startup | 2026-10-03 |
 | `open` | **[anomalyco/opencode#52187](https://github.com/anomalyco/opencode/pull/52187)** — fix(tui): release oversized session message caches on switch | 2026-10-03 |
 | `open` | **[browser-use/jev-ultrafast#200](https://github.com/browser-use/jev-ultrafast/pull/200)** — fix: identify selected fields in text helper context | 2026-10-03 |
-| `open` | **[can1357/oh-my-pi#13956](https://github.com/can1357/oh-my-pi/pull/13956)** — docs(coding-agent): show complete read range calls | 2026-10-03 |
 | `open` | **[can1357/oh-my-pi#13436](https://github.com/can1357/oh-my-pi/pull/13436)** — feat(tui): copy or rewind from either transcript selector | 2026-10-03 |
 | `open` | **[can1357/oh-my-pi#13437](https://github.com/can1357/oh-my-pi/pull/13437)** — feat(coding-agent): honor skill model for invoked task turns | 2026-10-03 |
 | `merged` | **[can1357/oh-my-pi#13957](https://github.com/can1357/oh-my-pi/pull/13957)** — fix(coding-agent): expose nested skill read provenance | 2026-10-03 |
@@ -143,7 +145,6 @@ I write about the process on [dhpie.com](https://dhpie.com).
 | `merged` | **[CherryHQ/cherry-studio#21270](https://github.com/CherryHQ/cherry-studio/pull/21270)** — fix(agent-session): persist background terminal receipts | 2026-10-02 |
 | `open` | **[affaan-m/ECC#3119](https://github.com/affaan-m/ECC/pull/3119)** — fix(install): keep target-compatible modules with cross-harness dependencies | 2026-10-02 |
 | `merged` | **[code-yeongyu/oh-my-openagent#9406](https://github.com/code-yeongyu/oh-my-openagent/pull/9406)** — fix(senpi-task): report recovery after continuation acknowledgement | 2026-10-02 |
-| `open` | **[anomalyco/opencode#51528](https://github.com/anomalyco/opencode/pull/51528)** — fix(app): keep workspace message text readable on accent themes | 2026-10-02 |
 | `merged` | **[can1357/oh-my-pi#13993](https://github.com/can1357/oh-my-pi/pull/13993)** — fix(tui): preserve response scrollback while ask panels are open | 2026-10-02 |
 | `open` | **[can1357/oh-my-pi#13978](https://github.com/can1357/oh-my-pi/pull/13978)** — fix(tui): retain wait snapshots beside turn usage | 2026-10-01 |
 | `open` | **[CherryHQ/cherry-studio#20386](https://github.com/CherryHQ/cherry-studio/pull/20386)** — fix(new-api): restore Gemini web search through relays | 2026-10-01 |
@@ -170,18 +171,16 @@ I write about the process on [dhpie.com](https://dhpie.com).
 | `open` | **[anomalyco/opencode#52145](https://github.com/anomalyco/opencode/pull/52145)** — fix(core): show structured provider error details | 2026-09-29 |
 | `open` | **[cline/cline#14670](https://github.com/cline/cline/pull/14670)** — fix(desktop): explain missing Git during skill install | 2026-09-29 |
 | `open` | **[LodyAI/acp-extension-codex#59](https://github.com/LodyAI/acp-extension-codex/pull/59)** — fix: normalize restored Codex subagent events for Lody | 2026-09-29 |
-| `open` | **[anomalyco/opencode#52148](https://github.com/anomalyco/opencode/pull/52148)** — docs: list Context7 OpenCode plugin | 2026-09-29 |
-| `open` | **[LodyAI/Lody#687](https://github.com/LodyAI/Lody/pull/687)** — fix(cli): keep operation delivery paused after stop | 2026-09-29 |
 <!-- upstream:end -->
 
 <details>
 <summary>Recent conversations · issues, comments &amp; reviews</summary>
 
 <!-- activity:start -->
-- `2026-10-06` Commented on **[earendil-works/pi#10480](https://github.com/earendil-works/pi/issues/10480#issuecomment-6013584906)** — Direct openai connection not recognising manual usage limit reset
-- `2026-10-06` Commented on **[CherryHQ/cherry-studio#21352](https://github.com/CherryHQ/cherry-studio/issues/21352#issuecomment-6010765052)** — \[Feature\]: Allow switching web search / fetch-URL provider from the chat interface
-- `2026-10-06` Commented on **[makecindy/cindy#5180](https://github.com/makecindy/cindy/pull/5180#issuecomment-6010783730)** — feat(desktop): request consent for non-Git project recovery
-- `2026-10-06` Commented on **[LodyAI/Lody#1270](https://github.com/LodyAI/Lody/issues/1270#issuecomment-6009595700)** — \[Bug\] ACP terminal/wait\_for\_exit waits for background processes the command started
+- `2026-10-06` Commented on **[affaan-m/ECC#3442](https://github.com/affaan-m/ECC/pull/3442#discussion_r4199213521)**
+- `2026-10-06` Commented on **[cline/cline#14864](https://github.com/cline/cline/issues/14864#issuecomment-6023078820)** — \`CRITICAL: run\_commands on Windows (PowerShell) — mangled quoting led to \`rmdir /s /q\` running agai…
+- `2026-10-06` Commented on **[cline/cline#14865](https://github.com/cline/cline/issues/14865#issuecomment-6021254680)** — hub: scheduled runs are never claimed — CronStore.claimDueRuns binds :now/:capacity as an object un…
+- `2026-10-06` Commented on **[lobehub/lobehub#20432](https://github.com/lobehub/lobehub/issues/20432#issuecomment-6020212020)** — \[Request\] Add and update Mistral&#x27;s models (Mistral Large 4)
 <!-- activity:end -->
 
 </details>
@@ -193,29 +192,29 @@ I write about the process on [dhpie.com](https://dhpie.com).
 <sub>Latest writing from [dhpie.com](https://dhpie.com)</sub>
 
 <!-- notes:start -->
+- [开源贡献日报 · 2026-10-06](https://dhpie.com/posts/cn/open-source-daily-2026-10-06)
 - [开源贡献日报 · 2026-10-05](https://dhpie.com/posts/cn/open-source-daily-2026-10-05)
 - [开源贡献日报 · 2026-10-04](https://dhpie.com/posts/cn/open-source-daily-2026-10-04)
 - [开源贡献日报 · 2026-10-03](https://dhpie.com/posts/cn/open-source-daily-2026-10-03)
-- [开源贡献日报 · 2026-09-27](https://dhpie.com/posts/cn/open-source-daily-2026-09-27)
 <!-- notes:end -->
 
 ### `~/telemetry`
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Dante-dan/Dante-dan/main/assets/telemetry/stats-dark-3289f2b8c40757b6.svg" />
-  <img src="https://raw.githubusercontent.com/Dante-dan/Dante-dan/main/assets/telemetry/stats-light-7978efa99bf9eb72.svg" alt="Public GitHub contribution totals" width="390" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Dante-dan/Dante-dan/main/assets/telemetry/stats-dark-31a3340a7c232f65.svg" />
+  <img src="https://raw.githubusercontent.com/Dante-dan/Dante-dan/main/assets/telemetry/stats-light-ca7d663a5a025b3a.svg" alt="Public GitHub contribution totals" width="390" />
 </picture>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Dante-dan/Dante-dan/main/assets/telemetry/time-dark-3e45e5ef31222d13.svg" />
-  <img src="https://raw.githubusercontent.com/Dante-dan/Dante-dan/main/assets/telemetry/time-light-f7cf3a9d7f198682.svg" alt="Commit distribution by time of day, UTC+8" width="390" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Dante-dan/Dante-dan/main/assets/telemetry/time-dark-595e79c0ed271676.svg" />
+  <img src="https://raw.githubusercontent.com/Dante-dan/Dante-dan/main/assets/telemetry/time-light-345d0a3df635c5be.svg" alt="Commit distribution by time of day, UTC+8" width="390" />
 </picture>
 
-<img src="https://raw.githubusercontent.com/Dante-dan/Dante-dan/main/assets/telemetry/reactions-3704f92516f88345.svg" alt="Reactions received on recent public comments and issue bodies" width="650" />
+<img src="https://raw.githubusercontent.com/Dante-dan/Dante-dan/main/assets/telemetry/reactions-a3a60f2bf1a33aeb.svg" alt="Reactions received on recent public comments and issue bodies" width="650" />
 
 
 
 <!-- telemetry-refresh:start -->
-<sub>Fetched every 8 hours · last successful fetch<br>Totals: 2026-10-06 13:28:40 UTC · Commit hours: 2026-10-06 13:28:40 UTC · Reactions: 2026-10-06 13:28:40 UTC</sub>
+<sub>Fetched every 8 hours · last successful fetch<br>Totals: 2026-10-06 19:37:52 UTC · Commit hours: 2026-10-06 19:37:52 UTC · Reactions: 2026-10-06 19:37:52 UTC</sub>
 <!-- telemetry-refresh:end -->
 
 ### `~/arcade`
