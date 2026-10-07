@@ -73,10 +73,11 @@ I write about the process on [dhpie.com](https://dhpie.com).
 <sub>Public upstream PRs updated in the last 7 days · refreshed every 8 hours</sub>
 
 <!-- upstream:start -->
-<sub>89 PRs · 68 open · 21 merged</sub>
+<sub>87 PRs · 67 open · 20 merged</sub>
 
 | Status | Pull request | Updated (UTC) |
 | :--- | :--- | :--- |
+| `open` | **[heygen-com/hyperframes#5183](https://github.com/heygen-com/hyperframes/pull/5183)** — fix(engine): include untimed overlays in HDR stacking | 2026-10-07 |
 | `open` | **[makecindy/cindy#5295](https://github.com/makecindy/cindy/pull/5295)** — fix(mobile): constrain iOS sheet scrolling to native viewport | 2026-10-07 |
 | `open` | **[apache/maka#5900](https://github.com/apache/maka/pull/5900)** — fix(runtime): bound proxied fetch transport teardown | 2026-10-07 |
 | `open` | **[anomalyco/opencode#52094](https://github.com/anomalyco/opencode/pull/52094)** — fix(app): keep new sessions in their selected worktree | 2026-10-07 |
@@ -163,19 +164,16 @@ I write about the process on [dhpie.com](https://dhpie.com).
 | `open` | **[CherryHQ/cherry-studio#20323](https://github.com/CherryHQ/cherry-studio/pull/20323)** — fix: accept sparse OpenAI response lifecycle events | 2026-10-01 |
 | `open` | **[makecindy/cindy#4366](https://github.com/makecindy/cindy/pull/4366)** — fix(mobile): avoid stale device roster snapshot | 2026-10-05 |
 | `open` | **[multica-ai/multica#8981](https://github.com/multica-ai/multica/pull/8981)** — MUL-7825: fix(agent): reject invalid private runtime bindings | 2026-10-01 |
-| `open` | **[CherryHQ/cherry-studio#21212](https://github.com/CherryHQ/cherry-studio/pull/21212)** — feat(xai-tools): add native code execution opt-in | 2026-09-30 |
-| `open` | **[makecindy/cindy#5296](https://github.com/makecindy/cindy/pull/5296)** — fix(runtime): preserve Codex transport in automatic fallback | 2026-09-30 |
-| `merged` | **[code-yeongyu/oh-my-openagent#9233](https://github.com/code-yeongyu/oh-my-openagent/pull/9233)** — test(senpi): fail closed on Windows RPC driver results | 2026-09-30 |
 <!-- upstream:end -->
 
 <details>
 <summary>Recent conversations · issues, comments &amp; reviews</summary>
 
 <!-- activity:start -->
+- `2026-10-07` Commented on **[earendil-works/pi#10607](https://github.com/earendil-works/pi/issues/10607#issuecomment-6042900845)** — Report program status via OSC 7501
+- `2026-10-07` Commented on **[loopx-project/loopx#5885](https://github.com/loopx-project/loopx/issues/5885#issuecomment-6042297564)** — turn run-once: quota\_spend CAS failure leaves turn permanently in\_progress (completed work unaudita…
 - `2026-10-07` Commented on **[cline/cline#14865](https://github.com/cline/cline/issues/14865#issuecomment-6036092518)** — hub: scheduled runs are never claimed — CronStore.claimDueRuns binds :now/:capacity as an object un…
 - `2026-10-07` Commented on **[cline/cline#12993](https://github.com/cline/cline/issues/12993#issuecomment-6029650157)** — CLI cannot be used normally on Win32 x64
-- `2026-10-07` Commented on **[MoonshotAI/kimi-code#4036](https://github.com/MoonshotAI/kimi-code/issues/4036#issuecomment-6029610330)** — \[Bug\] /model sent before the first session is consumed as the first message and reports a switch wi…
-- `2026-10-06` Commented on **[anomalyco/opencode#50884](https://github.com/anomalyco/opencode/issues/50884#issuecomment-6027732321)** — Vertex Anthropic HTTP 429 produces no provider event
 <!-- activity:end -->
 
 </details>
@@ -196,8 +194,8 @@ I write about the process on [dhpie.com](https://dhpie.com).
 ### `~/telemetry`
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Dante-dan/Dante-dan/main/assets/telemetry/stats-dark-624acd49e61c4bb4.svg" />
-  <img src="https://raw.githubusercontent.com/Dante-dan/Dante-dan/main/assets/telemetry/stats-light-0bfc8f591735d84a.svg" alt="Public GitHub contribution totals" width="390" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Dante-dan/Dante-dan/main/assets/telemetry/stats-dark-9493ec1a551d7c54.svg" />
+  <img src="https://raw.githubusercontent.com/Dante-dan/Dante-dan/main/assets/telemetry/stats-light-1d861ee9bc9167d4.svg" alt="Public GitHub contribution totals" width="390" />
 </picture>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Dante-dan/Dante-dan/main/assets/telemetry/time-dark-754048922e661ca6.svg" />
@@ -209,7 +207,7 @@ I write about the process on [dhpie.com](https://dhpie.com).
 
 
 <!-- telemetry-refresh:start -->
-<sub>Fetched every 8 hours · last successful fetch<br>Totals: 2026-10-07 13:40:34 UTC · Commit hours: 2026-10-07 13:40:34 UTC · Reactions: 2026-10-07 13:40:34 UTC</sub>
+<sub>Fetched every 8 hours · last successful fetch<br>Totals: 2026-10-07 20:02:47 UTC · Commit hours: 2026-10-07 20:02:47 UTC · Reactions: 2026-10-07 20:02:47 UTC</sub>
 <!-- telemetry-refresh:end -->
 
 ### `~/arcade`
