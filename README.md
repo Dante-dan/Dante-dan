@@ -73,12 +73,14 @@ I write about the process on [dhpie.com](https://dhpie.com).
 <sub>Public upstream PRs updated in the last 7 days · refreshed every 8 hours</sub>
 
 <!-- upstream:start -->
-<sub>91 PRs · 70 open · 21 merged</sub>
+<sub>89 PRs · 68 open · 21 merged</sub>
 
 | Status | Pull request | Updated (UTC) |
 | :--- | :--- | :--- |
-| `open` | **[browser-use/jev-ultrafast#200](https://github.com/browser-use/jev-ultrafast/pull/200)** — fix: identify selected fields in text helper context | 2026-10-08 |
+| `open` | **[CherryHQ/cherry-studio#21133](https://github.com/CherryHQ/cherry-studio/pull/21133)** — feat(agent-knowledge): add per-binding read/write permissions | 2026-10-08 |
+| `open` | **[CherryHQ/cherry-studio#21223](https://github.com/CherryHQ/cherry-studio/pull/21223)** — feat(xai-tools): add opt-in native Grok images in chat | 2026-10-08 |
 | `open` | **[heygen-com/hyperframes#5183](https://github.com/heygen-com/hyperframes/pull/5183)** — fix(engine): include untimed overlays in HDR stacking | 2026-10-08 |
+| `open` | **[browser-use/jev-ultrafast#200](https://github.com/browser-use/jev-ultrafast/pull/200)** — fix: identify selected fields in text helper context | 2026-10-08 |
 | `open` | **[anomalyco/opencode#53874](https://github.com/anomalyco/opencode/pull/53874)** — fix(core): preserve global canonical on session moves | 2026-10-08 |
 | `merged` | **[code-yeongyu/oh-my-openagent#9602](https://github.com/code-yeongyu/oh-my-openagent/pull/9602)** — fix(senpi): keep task executors out of ultrawork orchestration | 2026-10-08 |
 | `open` | **[can1357/oh-my-pi#12082](https://github.com/can1357/oh-my-pi/pull/12082)** — feat(coding-agent): add producer-scoped artifact resolution | 2026-10-07 |
@@ -132,7 +134,6 @@ I write about the process on [dhpie.com](https://dhpie.com).
 | `merged` | **[code-yeongyu/oh-my-openagent#9599](https://github.com/code-yeongyu/oh-my-openagent/pull/9599)** — test: establish process-tree TERM readiness before termination | 2026-10-04 |
 | `merged` | **[code-yeongyu/oh-my-openagent#9586](https://github.com/code-yeongyu/oh-my-openagent/pull/9586)** — fix(web): preserve manifesto reveal order across wrapped lines | 2026-10-04 |
 | `open` | **[CherryHQ/cherry-studio#20353](https://github.com/CherryHQ/cherry-studio/pull/20353)** — fix(ai-runtime): clamp agent output token limit | 2026-10-04 |
-| `open` | **[CherryHQ/cherry-studio#21223](https://github.com/CherryHQ/cherry-studio/pull/21223)** — feat(xai-tools): add opt-in native Grok images in chat | 2026-10-04 |
 | `merged` | **[code-yeongyu/oh-my-openagent#9579](https://github.com/code-yeongyu/oh-my-openagent/pull/9579)** — fix(senpi): count only selected shard QA scenarios | 2026-10-04 |
 | `merged` | **[code-yeongyu/oh-my-openagent#9526](https://github.com/code-yeongyu/oh-my-openagent/pull/9526)** — refactor(senpi): lazy-load memfs maintenance commands | 2026-10-04 |
 | `merged` | **[code-yeongyu/oh-my-openagent#9575](https://github.com/code-yeongyu/oh-my-openagent/pull/9575)** — test(web): assert rendered manifesto brightness without JavaScript | 2026-10-04 |
@@ -165,19 +166,16 @@ I write about the process on [dhpie.com](https://dhpie.com).
 | `merged` | **[code-yeongyu/oh-my-openagent#9406](https://github.com/code-yeongyu/oh-my-openagent/pull/9406)** — fix(senpi-task): report recovery after continuation acknowledgement | 2026-10-02 |
 | `merged` | **[can1357/oh-my-pi#13993](https://github.com/can1357/oh-my-pi/pull/13993)** — fix(tui): preserve response scrollback while ask panels are open | 2026-10-02 |
 | `open` | **[CherryHQ/cherry-studio#20386](https://github.com/CherryHQ/cherry-studio/pull/20386)** — fix(new-api): restore Gemini web search through relays | 2026-10-01 |
-| `open` | **[cloudflare/security-audit-skill#65](https://github.com/cloudflare/security-audit-skill/pull/65)** — docs: explain ZIP packaging for Claude app Skills upload | 2026-10-01 |
-| `open` | **[makecindy/cindy#4553](https://github.com/makecindy/cindy/pull/4553)** — fix(desktop): clear event-backed attention after task deletion | 2026-10-01 |
-| `open` | **[alibaba/open-code-review#1629](https://github.com/alibaba/open-code-review/pull/1629)** — feat(scan): support bounded scan prompt template overrides | 2026-10-01 |
 <!-- upstream:end -->
 
 <details>
 <summary>Recent conversations · issues, comments &amp; reviews</summary>
 
 <!-- activity:start -->
+- `2026-10-08` Commented on **[browser-use/jev-ultrafast#200](https://github.com/browser-use/jev-ultrafast/pull/200#issuecomment-6064538011)** — fix: identify selected fields in text helper context
+- `2026-10-08` Commented on **[earendil-works/pi#10657](https://github.com/earendil-works/pi/issues/10657#issuecomment-6064813633)** — tui: terminal reply fragments (e.g. DA1 split into 8-byte reads) leak into editor input as plain te…
+- `2026-10-08` Commented on **[earendil-works/pi#10415](https://github.com/earendil-works/pi/issues/10415#issuecomment-6058231615)** — \[Bug\] Startup hangs indefinitely when stdin is an open non-TTY pipe without EOF in readPipedStdin()
 - `2026-10-08` Commented on **[anomalyco/opencode#51020](https://github.com/anomalyco/opencode/issues/51020#issuecomment-6058012204)** — \[v2\] Silent part persistence failure — message/part rows never written after sidecar startup
-- `2026-10-08` Commented on **[anomalyco/opencode#53874](https://github.com/anomalyco/opencode/pull/53874#discussion_r4215275749)**
-- `2026-10-08` Commented on **[anomalyco/opencode#50979](https://github.com/anomalyco/opencode/issues/50979#issuecomment-6053091996)** — project: session move into an empty git repo re-points the global project&#x27;s worktree
-- `2026-10-08` Commented on **[heygen-com/hyperframes#5183](https://github.com/heygen-com/hyperframes/pull/5183#issuecomment-6052902090)** — fix(engine): include untimed overlays in HDR stacking
 <!-- activity:end -->
 
 </details>
@@ -189,10 +187,10 @@ I write about the process on [dhpie.com](https://dhpie.com).
 <sub>Latest writing from [dhpie.com](https://dhpie.com)</sub>
 
 <!-- notes:start -->
+- [开源贡献日报 · 2026-10-08](https://dhpie.com/posts/cn/open-source-daily-2026-10-08)
 - [开源贡献日报 · 2026-10-06](https://dhpie.com/posts/cn/open-source-daily-2026-10-06)
 - [开源贡献日报 · 2026-10-05](https://dhpie.com/posts/cn/open-source-daily-2026-10-05)
 - [开源贡献日报 · 2026-10-04](https://dhpie.com/posts/cn/open-source-daily-2026-10-04)
-- [开源贡献日报 · 2026-10-03](https://dhpie.com/posts/cn/open-source-daily-2026-10-03)
 <!-- notes:end -->
 
 ### `~/telemetry`
@@ -211,7 +209,7 @@ I write about the process on [dhpie.com](https://dhpie.com).
 
 
 <!-- telemetry-refresh:start -->
-<sub>Fetched every 8 hours · last successful fetch<br>Totals: 2026-10-08 13:47:25 UTC · Commit hours: 2026-10-08 13:47:25 UTC · Reactions: 2026-10-08 13:47:25 UTC</sub>
+<sub>Fetched every 8 hours · last successful fetch<br>Totals: 2026-10-08 20:01:50 UTC · Commit hours: 2026-10-08 20:01:50 UTC · Reactions: 2026-10-08 20:01:50 UTC</sub>
 <!-- telemetry-refresh:end -->
 
 ### `~/arcade`
