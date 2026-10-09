@@ -73,13 +73,14 @@ I write about the process on [dhpie.com](https://dhpie.com).
 <sub>Public upstream PRs updated in the last 7 days · refreshed every 8 hours</sub>
 
 <!-- upstream:start -->
-<sub>89 PRs · 68 open · 21 merged</sub>
+<sub>87 PRs · 67 open · 20 merged</sub>
 
 | Status | Pull request | Updated (UTC) |
 | :--- | :--- | :--- |
+| `open` | **[heygen-com/hyperframes#5183](https://github.com/heygen-com/hyperframes/pull/5183)** — fix(engine): include untimed overlays in HDR stacking | 2026-10-08 |
+| `open` | **[makecindy/cindy#5295](https://github.com/makecindy/cindy/pull/5295)** — fix(mobile): constrain iOS sheet scrolling to native viewport | 2026-10-08 |
 | `open` | **[CherryHQ/cherry-studio#21133](https://github.com/CherryHQ/cherry-studio/pull/21133)** — feat(agent-knowledge): add per-binding read/write permissions | 2026-10-08 |
 | `open` | **[CherryHQ/cherry-studio#21223](https://github.com/CherryHQ/cherry-studio/pull/21223)** — feat(xai-tools): add opt-in native Grok images in chat | 2026-10-08 |
-| `open` | **[heygen-com/hyperframes#5183](https://github.com/heygen-com/hyperframes/pull/5183)** — fix(engine): include untimed overlays in HDR stacking | 2026-10-08 |
 | `open` | **[browser-use/jev-ultrafast#200](https://github.com/browser-use/jev-ultrafast/pull/200)** — fix: identify selected fields in text helper context | 2026-10-08 |
 | `open` | **[anomalyco/opencode#53874](https://github.com/anomalyco/opencode/pull/53874)** — fix(core): preserve global canonical on session moves | 2026-10-08 |
 | `merged` | **[code-yeongyu/oh-my-openagent#9602](https://github.com/code-yeongyu/oh-my-openagent/pull/9602)** — fix(senpi): keep task executors out of ultrawork orchestration | 2026-10-08 |
@@ -102,7 +103,6 @@ I write about the process on [dhpie.com](https://dhpie.com).
 | `open` | **[can1357/oh-my-pi#14542](https://github.com/can1357/oh-my-pi/pull/14542)** — feat(coding-agent): log skipped extension directory errors | 2026-10-07 |
 | `open` | **[can1357/oh-my-pi#14580](https://github.com/can1357/oh-my-pi/pull/14580)** — feat(extensions): expose configured thinking selector | 2026-10-07 |
 | `open` | **[can1357/oh-my-pi#14558](https://github.com/can1357/oh-my-pi/pull/14558)** — fix(coding-agent): show resolved diagnostic and SSH config paths | 2026-10-07 |
-| `open` | **[makecindy/cindy#5295](https://github.com/makecindy/cindy/pull/5295)** — fix(mobile): constrain iOS sheet scrolling to native viewport | 2026-10-07 |
 | `open` | **[apache/maka#5900](https://github.com/apache/maka/pull/5900)** — fix(runtime): bound proxied fetch transport teardown | 2026-10-07 |
 | `open` | **[anomalyco/opencode#52094](https://github.com/anomalyco/opencode/pull/52094)** — fix(app): keep new sessions in their selected worktree | 2026-10-07 |
 | `merged` | **[CherryHQ/cherry-studio#21334](https://github.com/CherryHQ/cherry-studio/pull/21334)** — feat(web-search): add self-hosted Crawl4AI URL fetching | 2026-10-07 |
@@ -164,18 +164,16 @@ I write about the process on [dhpie.com](https://dhpie.com).
 | `merged` | **[CherryHQ/cherry-studio#21270](https://github.com/CherryHQ/cherry-studio/pull/21270)** — fix(agent-session): persist background terminal receipts | 2026-10-02 |
 | `open` | **[affaan-m/ECC#3119](https://github.com/affaan-m/ECC/pull/3119)** — fix(install): keep target-compatible modules with cross-harness dependencies | 2026-10-02 |
 | `merged` | **[code-yeongyu/oh-my-openagent#9406](https://github.com/code-yeongyu/oh-my-openagent/pull/9406)** — fix(senpi-task): report recovery after continuation acknowledgement | 2026-10-02 |
-| `merged` | **[can1357/oh-my-pi#13993](https://github.com/can1357/oh-my-pi/pull/13993)** — fix(tui): preserve response scrollback while ask panels are open | 2026-10-02 |
-| `open` | **[CherryHQ/cherry-studio#20386](https://github.com/CherryHQ/cherry-studio/pull/20386)** — fix(new-api): restore Gemini web search through relays | 2026-10-01 |
 <!-- upstream:end -->
 
 <details>
 <summary>Recent conversations · issues, comments &amp; reviews</summary>
 
 <!-- activity:start -->
+- `2026-10-08` Commented on **[anomalyco/opencode#51020](https://github.com/anomalyco/opencode/issues/51020#issuecomment-6070274459)** — \[v2\] Silent part persistence failure — message/part rows never written after sidecar startup
 - `2026-10-08` Commented on **[browser-use/jev-ultrafast#200](https://github.com/browser-use/jev-ultrafast/pull/200#issuecomment-6064538011)** — fix: identify selected fields in text helper context
 - `2026-10-08` Commented on **[earendil-works/pi#10657](https://github.com/earendil-works/pi/issues/10657#issuecomment-6064813633)** — tui: terminal reply fragments (e.g. DA1 split into 8-byte reads) leak into editor input as plain te…
 - `2026-10-08` Commented on **[earendil-works/pi#10415](https://github.com/earendil-works/pi/issues/10415#issuecomment-6058231615)** — \[Bug\] Startup hangs indefinitely when stdin is an open non-TTY pipe without EOF in readPipedStdin()
-- `2026-10-08` Commented on **[anomalyco/opencode#51020](https://github.com/anomalyco/opencode/issues/51020#issuecomment-6058012204)** — \[v2\] Silent part persistence failure — message/part rows never written after sidecar startup
 <!-- activity:end -->
 
 </details>
@@ -196,8 +194,8 @@ I write about the process on [dhpie.com](https://dhpie.com).
 ### `~/telemetry`
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Dante-dan/Dante-dan/main/assets/telemetry/stats-dark-7115b1e837e2ccca.svg" />
-  <img src="https://raw.githubusercontent.com/Dante-dan/Dante-dan/main/assets/telemetry/stats-light-ee913ad4d433f8ef.svg" alt="Public GitHub contribution totals" width="390" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Dante-dan/Dante-dan/main/assets/telemetry/stats-dark-877287deec636acc.svg" />
+  <img src="https://raw.githubusercontent.com/Dante-dan/Dante-dan/main/assets/telemetry/stats-light-e89ef9b5a97a9bc7.svg" alt="Public GitHub contribution totals" width="390" />
 </picture>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Dante-dan/Dante-dan/main/assets/telemetry/time-dark-299ce905f3fced90.svg" />
@@ -209,7 +207,7 @@ I write about the process on [dhpie.com](https://dhpie.com).
 
 
 <!-- telemetry-refresh:start -->
-<sub>Fetched every 8 hours · last successful fetch<br>Totals: 2026-10-08 20:01:50 UTC · Commit hours: 2026-10-08 20:01:50 UTC · Reactions: 2026-10-08 20:01:50 UTC</sub>
+<sub>Fetched every 8 hours · last successful fetch<br>Totals: 2026-10-09 02:20:36 UTC · Commit hours: 2026-10-09 02:20:36 UTC · Reactions: 2026-10-09 02:20:36 UTC</sub>
 <!-- telemetry-refresh:end -->
 
 ### `~/arcade`
