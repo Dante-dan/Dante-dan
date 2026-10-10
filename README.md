@@ -43,6 +43,7 @@ I write about the process on [dhpie.com](https://dhpie.com).
 <!-- contributions:start -->
 <sub>Code accepted upstream · last 12 months</sub>
 
+<table align="left" width="270"><tr><td width="64" valign="middle"><a href="https://github.com/apache/maka"><img src="assets/projects/apache--maka.png" width="56" height="56" alt="maka icon" /></a></td><td width="200" valign="middle"><a href="https://github.com/apache/maka"><strong>maka</strong></a><br /><sub><a href="https://github.com/apache/maka/pull/5900">merged contribution</a><br /><a href="https://github.com/apache/maka/pulls?q=is%3Apr+author%3ADante-dan">all PRs ↗</a></sub></td></tr></table>
 <table align="left" width="270"><tr><td width="64" valign="middle"><a href="https://github.com/affaan-m/ECC"><img src="assets/projects/affaan-m--ECC.svg" width="56" height="56" alt="ECC icon" /></a></td><td width="200" valign="middle"><a href="https://github.com/affaan-m/ECC"><strong>ECC</strong></a><br /><sub><a href="https://github.com/affaan-m/ECC/pull/3119">merged contribution</a><br /><a href="https://github.com/affaan-m/ECC/pulls?q=is%3Apr+author%3ADante-dan">all PRs ↗</a></sub></td></tr></table>
 <table align="left" width="270"><tr><td width="64" valign="middle"><a href="https://github.com/cline/cline"><img src="assets/projects/cline--cline.png" width="56" height="56" alt="cline icon" /></a></td><td width="200" valign="middle"><a href="https://github.com/cline/cline"><strong>cline</strong></a><br /><sub><a href="https://github.com/cline/cline/pull/14670">merged contribution</a><br /><a href="https://github.com/cline/cline/pulls?q=is%3Apr+author%3ADante-dan">all PRs ↗</a></sub></td></tr></table>
 <table align="left" width="270"><tr><td width="64" valign="middle"><a href="https://github.com/code-yeongyu/oh-my-openagent"><img src="assets/projects/code-yeongyu--oh-my-openagent.png" width="56" height="56" alt="oh-my-openagent icon" /></a></td><td width="200" valign="middle"><a href="https://github.com/code-yeongyu/oh-my-openagent"><strong>oh-my-openagent</strong></a><br /><sub><a href="https://github.com/code-yeongyu/oh-my-openagent/pull/9602">merged contribution</a><br /><a href="https://github.com/code-yeongyu/oh-my-openagent/pulls?q=is%3Apr+author%3ADante-dan">all PRs ↗</a></sub></td></tr></table>
@@ -53,7 +54,6 @@ I write about the process on [dhpie.com](https://dhpie.com).
 <table align="left" width="270"><tr><td width="64" valign="middle"><a href="https://github.com/LodyAI/acp-extension-dsh"><img src="assets/projects/LodyAI--acp-extension-dsh.png" width="56" height="56" alt="acp-extension-dsh icon" /></a></td><td width="200" valign="middle"><a href="https://github.com/LodyAI/acp-extension-dsh"><strong>acp-extension-dsh</strong></a><br /><sub><a href="https://github.com/LodyAI/acp-extension-dsh/pull/15">merged contribution</a><br /><a href="https://github.com/LodyAI/acp-extension-dsh/pulls?q=is%3Apr+author%3ADante-dan">all PRs ↗</a></sub></td></tr></table>
 <table align="left" width="270"><tr><td width="64" valign="middle"><a href="https://github.com/LodyAI/Lody"><img src="assets/projects/LodyAI--Lody.png" width="56" height="56" alt="Lody icon" /></a></td><td width="200" valign="middle"><a href="https://github.com/LodyAI/Lody"><strong>Lody</strong></a><br /><sub><a href="https://github.com/LodyAI/Lody/pull/587">merged contribution</a><br /><a href="https://github.com/LodyAI/Lody/pulls?q=is%3Apr+author%3ADante-dan">all PRs ↗</a></sub></td></tr></table>
 <table align="left" width="270"><tr><td width="64" valign="middle"><a href="https://github.com/multica-ai/multica"><img src="assets/projects/multica-ai--multica.png" width="56" height="56" alt="multica icon" /></a></td><td width="200" valign="middle"><a href="https://github.com/multica-ai/multica"><strong>multica</strong></a><br /><sub><a href="https://github.com/multica-ai/multica/pull/8297">merged contribution</a><br /><a href="https://github.com/multica-ai/multica/pulls?q=is%3Apr+author%3ADante-dan">all PRs ↗</a></sub></td></tr></table>
-<table align="left" width="270"><tr><td width="64" valign="middle"><a href="https://github.com/apache/maka"><img src="assets/projects/apache--maka.png" width="56" height="56" alt="maka icon" /></a></td><td width="200" valign="middle"><a href="https://github.com/apache/maka"><strong>maka</strong></a><br /><sub><a href="https://github.com/apache/maka/pull/5226">merged contribution</a><br /><a href="https://github.com/apache/maka/pulls?q=is%3Apr+author%3ADante-dan">all PRs ↗</a></sub></td></tr></table>
 <table align="left" width="270"><tr><td width="64" valign="middle"><a href="https://github.com/makecindy/cindy"><img src="assets/projects/makecindy--cindy.png" width="56" height="56" alt="Cindy icon" /></a></td><td width="200" valign="middle"><a href="https://github.com/makecindy/cindy"><strong>Cindy</strong></a><br /><sub><a href="https://github.com/makecindy/cindy/pull/4219">merged contribution</a><br /><a href="https://github.com/makecindy/cindy/pulls?q=is%3Apr+author%3ADante-dan">all PRs ↗</a></sub></td></tr></table>
 <br clear="all" />
 
@@ -74,20 +74,29 @@ I write about the process on [dhpie.com](https://dhpie.com).
 <sub>Public upstream PRs updated in the last 7 days · refreshed every 8 hours</sub>
 
 <!-- upstream:start -->
-<sub>84 PRs · 66 open · 18 merged</sub>
+<sub>80 PRs · 66 open · 14 merged</sub>
 
 | Status | Pull request | Updated (UTC) |
 | :--- | :--- | :--- |
+| `open` | **[apache/maka#5202](https://github.com/apache/maka/pull/5202)** — fix(desktop): update Windows taskbar app icon | 2026-10-10 |
+| `open` | **[CherryHQ/cherry-studio#21223](https://github.com/CherryHQ/cherry-studio/pull/21223)** — feat(xai-tools): add opt-in native Grok images in chat | 2026-10-10 |
+| `open` | **[CherryHQ/cherry-studio#21312](https://github.com/CherryHQ/cherry-studio/pull/21312)** — fix(model-settings): explain saved modality overrides | 2026-10-10 |
+| `merged` | **[apache/maka#5900](https://github.com/apache/maka/pull/5900)** — fix(runtime): bound proxied fetch transport teardown | 2026-10-10 |
+| `open` | **[cline/cline#14400](https://github.com/cline/cline/pull/14400)** — fix(sdk): require string old\_text in editor schema | 2026-10-10 |
+| `open` | **[makecindy/cindy#5295](https://github.com/makecindy/cindy/pull/5295)** — fix(mobile): constrain iOS sheet scrolling to native viewport | 2026-10-10 |
+| `open` | **[code-yeongyu/oh-my-openagent#9625](https://github.com/code-yeongyu/oh-my-openagent/pull/9625)** — refactor(senpi): load memory prompt compiler on demand | 2026-10-10 |
+| `open` | **[code-yeongyu/oh-my-openagent#9469](https://github.com/code-yeongyu/oh-my-openagent/pull/9469)** — test: detect environment leaks at test-file teardown | 2026-10-10 |
+| `open` | **[code-yeongyu/oh-my-openagent#9603](https://github.com/code-yeongyu/oh-my-openagent/pull/9603)** — perf(senpi): lazy-load mutation formatting outside startup | 2026-10-10 |
+| `open` | **[CherryHQ/cherry-studio#20353](https://github.com/CherryHQ/cherry-studio/pull/20353)** — fix(ai-runtime): clamp agent output token limit | 2026-10-10 |
+| `open` | **[code-yeongyu/oh-my-openagent#9621](https://github.com/code-yeongyu/oh-my-openagent/pull/9621)** — fix(task): settle idle host child admission errors | 2026-10-10 |
+| `open` | **[code-yeongyu/oh-my-openagent#9604](https://github.com/code-yeongyu/oh-my-openagent/pull/9604)** — fix(lsp): retain writer error handling through teardown | 2026-10-10 |
+| `open` | **[code-yeongyu/oh-my-openagent#9619](https://github.com/code-yeongyu/oh-my-openagent/pull/9619)** — fix(senpi): enable reviewer artifact lookup through eval | 2026-10-10 |
+| `open` | **[code-yeongyu/oh-my-openagent#9613](https://github.com/code-yeongyu/oh-my-openagent/pull/9613)** — test(senpi-task): make acknowledged fallback close deterministic | 2026-10-10 |
 | `open` | **[CherryHQ/cherry-studio#21360](https://github.com/CherryHQ/cherry-studio/pull/21360)** — docs(tool-approval): clarify scheduled session delegation | 2026-10-10 |
 | `open` | **[CherryHQ/cherry-studio#21355](https://github.com/CherryHQ/cherry-studio/pull/21355)** — feat(web-search): choose search and fetch providers per assistant | 2026-10-10 |
 | `merged` | **[affaan-m/ECC#3119](https://github.com/affaan-m/ECC/pull/3119)** — fix(install): keep target-compatible modules with cross-harness dependencies | 2026-10-10 |
-| `open` | **[CherryHQ/cherry-studio#21312](https://github.com/CherryHQ/cherry-studio/pull/21312)** — fix(model-settings): explain saved modality overrides | 2026-10-10 |
 | `open` | **[CherryHQ/cherry-studio#21133](https://github.com/CherryHQ/cherry-studio/pull/21133)** — feat(agent-knowledge): add per-binding read/write permissions | 2026-10-09 |
-| `open` | **[CherryHQ/cherry-studio#21223](https://github.com/CherryHQ/cherry-studio/pull/21223)** — feat(xai-tools): add opt-in native Grok images in chat | 2026-10-09 |
-| `open` | **[CherryHQ/cherry-studio#20353](https://github.com/CherryHQ/cherry-studio/pull/20353)** — fix(ai-runtime): clamp agent output token limit | 2026-10-09 |
-| `open` | **[cline/cline#14400](https://github.com/cline/cline/pull/14400)** — fix(sdk): require string old\_text in editor schema | 2026-10-09 |
 | `open` | **[CherryHQ/cherry-studio#21422](https://github.com/CherryHQ/cherry-studio/pull/21422)** — fix(chat-errors): preserve provider codes and explain history recovery | 2026-10-09 |
-| `open` | **[makecindy/cindy#5295](https://github.com/makecindy/cindy/pull/5295)** — fix(mobile): constrain iOS sheet scrolling to native viewport | 2026-10-09 |
 | `merged` | **[cline/cline#14670](https://github.com/cline/cline/pull/14670)** — fix(desktop): explain missing Git during skill install | 2026-10-09 |
 | `open` | **[browser-use/jev-ultrafast#200](https://github.com/browser-use/jev-ultrafast/pull/200)** — fix: identify selected fields in text helper context | 2026-10-09 |
 | `open` | **[heygen-com/hyperframes#5183](https://github.com/heygen-com/hyperframes/pull/5183)** — fix(engine): include untimed overlays in HDR stacking | 2026-10-08 |
@@ -112,7 +121,6 @@ I write about the process on [dhpie.com](https://dhpie.com).
 | `open` | **[can1357/oh-my-pi#14542](https://github.com/can1357/oh-my-pi/pull/14542)** — feat(coding-agent): log skipped extension directory errors | 2026-10-07 |
 | `open` | **[can1357/oh-my-pi#14580](https://github.com/can1357/oh-my-pi/pull/14580)** — feat(extensions): expose configured thinking selector | 2026-10-07 |
 | `open` | **[can1357/oh-my-pi#14558](https://github.com/can1357/oh-my-pi/pull/14558)** — fix(coding-agent): show resolved diagnostic and SSH config paths | 2026-10-07 |
-| `open` | **[apache/maka#5900](https://github.com/apache/maka/pull/5900)** — fix(runtime): bound proxied fetch transport teardown | 2026-10-07 |
 | `open` | **[anomalyco/opencode#52094](https://github.com/anomalyco/opencode/pull/52094)** — fix(app): keep new sessions in their selected worktree | 2026-10-07 |
 | `merged` | **[CherryHQ/cherry-studio#21334](https://github.com/CherryHQ/cherry-studio/pull/21334)** — feat(web-search): add self-hosted Crawl4AI URL fetching | 2026-10-07 |
 | `open` | **[alibaba/open-code-review#1664](https://github.com/alibaba/open-code-review/pull/1664)** — fix(review): pin ordinary commit-backed input before loading | 2026-10-07 |
@@ -125,19 +133,12 @@ I write about the process on [dhpie.com](https://dhpie.com).
 | `merged` | **[can1357/oh-my-pi#13956](https://github.com/can1357/oh-my-pi/pull/13956)** — docs(coding-agent): show complete read range calls | 2026-10-06 |
 | `open` | **[code-yeongyu/oh-my-openagent#8297](https://github.com/code-yeongyu/oh-my-openagent/pull/8297)** — fix(opencode): expose V2 plugin setup entry | 2026-10-06 |
 | `open` | **[code-yeongyu/oh-my-openagent#9635](https://github.com/code-yeongyu/oh-my-openagent/pull/9635)** — refactor(senpi): load Kibitzer child factory on first wake | 2026-10-06 |
-| `open` | **[code-yeongyu/oh-my-openagent#9625](https://github.com/code-yeongyu/oh-my-openagent/pull/9625)** — refactor(senpi): load memory prompt compiler on demand | 2026-10-06 |
 | `open` | **[code-yeongyu/oh-my-openagent#9624](https://github.com/code-yeongyu/oh-my-openagent/pull/9624)** — refactor(senpi): defer the live thread RPC client | 2026-10-06 |
-| `open` | **[code-yeongyu/oh-my-openagent#9469](https://github.com/code-yeongyu/oh-my-openagent/pull/9469)** — test: detect environment leaks at test-file teardown | 2026-10-06 |
-| `open` | **[code-yeongyu/oh-my-openagent#9621](https://github.com/code-yeongyu/oh-my-openagent/pull/9621)** — fix(task): settle idle host child admission errors | 2026-10-06 |
-| `open` | **[code-yeongyu/oh-my-openagent#9619](https://github.com/code-yeongyu/oh-my-openagent/pull/9619)** — fix(senpi): enable reviewer artifact lookup through eval | 2026-10-06 |
 | `open` | **[multica-ai/multica#9073](https://github.com/multica-ai/multica/pull/9073)** — fix(desktop): add spelling corrections to context menu | 2026-10-06 |
 | `open` | **[makecindy/cindy#4297](https://github.com/makecindy/cindy/pull/4297)** — fix(desktop): render automation settings before status probes | 2026-10-05 |
 | `open` | **[multica-ai/multica#9061](https://github.com/multica-ai/multica/pull/9061)** — fix(comments): retain delivered supplement root owners | 2026-10-05 |
 | `merged` | **[alibaba/open-code-review#1610](https://github.com/alibaba/open-code-review/pull/1610)** — fix(llm): allow unlisted OpenRouter model overrides | 2026-10-05 |
-| `open` | **[code-yeongyu/oh-my-openagent#9603](https://github.com/code-yeongyu/oh-my-openagent/pull/9603)** — perf(senpi): lazy-load mutation formatting outside startup | 2026-10-05 |
 | `open` | **[anomalyco/opencode#53266](https://github.com/anomalyco/opencode/pull/53266)** — fix(core): disable tool selection in compaction summaries | 2026-10-05 |
-| `open` | **[code-yeongyu/oh-my-openagent#9613](https://github.com/code-yeongyu/oh-my-openagent/pull/9613)** — test(senpi-task): make acknowledged fallback close deterministic | 2026-10-05 |
-| `open` | **[code-yeongyu/oh-my-openagent#9604](https://github.com/code-yeongyu/oh-my-openagent/pull/9604)** — fix(lsp): retain writer error handling through teardown | 2026-10-05 |
 | `merged` | **[code-yeongyu/oh-my-openagent#9599](https://github.com/code-yeongyu/oh-my-openagent/pull/9599)** — test: establish process-tree TERM readiness before termination | 2026-10-04 |
 | `merged` | **[code-yeongyu/oh-my-openagent#9586](https://github.com/code-yeongyu/oh-my-openagent/pull/9586)** — fix(web): preserve manifesto reveal order across wrapped lines | 2026-10-04 |
 | `merged` | **[code-yeongyu/oh-my-openagent#9579](https://github.com/code-yeongyu/oh-my-openagent/pull/9579)** — fix(senpi): count only selected shard QA scenarios | 2026-10-04 |
@@ -157,21 +158,16 @@ I write about the process on [dhpie.com](https://dhpie.com).
 | `open` | **[browser-use/browser-use#5991](https://github.com/browser-use/browser-use/pull/5991)** — fix: honor accept\_downloads in CDP browsers | 2026-10-03 |
 | `open` | **[multica-ai/multica#9038](https://github.com/multica-ai/multica/pull/9038)** — fix(telegram): report secret key validation errors at startup | 2026-10-03 |
 | `open` | **[anomalyco/opencode#52187](https://github.com/anomalyco/opencode/pull/52187)** — fix(tui): release oversized session message caches on switch | 2026-10-03 |
-| `merged` | **[can1357/oh-my-pi#13957](https://github.com/can1357/oh-my-pi/pull/13957)** — fix(coding-agent): expose nested skill read provenance | 2026-10-03 |
-| `merged` | **[can1357/oh-my-pi#13933](https://github.com/can1357/oh-my-pi/pull/13933)** — fix(coding-agent): refuse collab guest queue shorthand | 2026-10-03 |
-| `merged` | **[can1357/oh-my-pi#13934](https://github.com/can1357/oh-my-pi/pull/13934)** — feat(coding-agent): warn once per prompt history write outage | 2026-10-03 |
-| `merged` | **[can1357/oh-my-pi#13801](https://github.com/can1357/oh-my-pi/pull/13801)** — feat(coding-agent): continue focused subagents with dot and c | 2026-10-03 |
-| `merged` | **[code-yeongyu/oh-my-openagent#8690](https://github.com/code-yeongyu/oh-my-openagent/pull/8690)** — fix(publish): wait for tarball readiness | 2026-10-03 |
 <!-- upstream:end -->
 
 <details>
 <summary>Recent conversations · issues, comments &amp; reviews</summary>
 
 <!-- activity:start -->
-- `2026-10-09` Commented on **[langchain-ai/langgraph#6495](https://github.com/langchain-ai/langgraph/issues/6495#issuecomment-6090787921)** — Add on\_end\_behavior parameter to graph.compile() for batch job support
-- `2026-10-09` Commented on **[LodyAI/Lody#1366](https://github.com/LodyAI/Lody/issues/1366#issuecomment-6090585176)** — \[Bug\] Pi runtime path override is ignored because the managed adapter predates LODY\_PI\_PATH support
-- `2026-10-09` Commented on **[earendil-works/pi#10082](https://github.com/earendil-works/pi/issues/10082#issuecomment-6085536287)** — Resuming a session will not render correct context level
-- `2026-10-09` Commented on **[CherryHQ/cherry-studio#21312](https://github.com/CherryHQ/cherry-studio/pull/21312#discussion_r4232360491)**
+- `2026-10-10` Commented on **[LodyAI/Lody#1386](https://github.com/LodyAI/Lody/issues/1386#issuecomment-6096853207)** — \[Feature Request\] Add repository search to the onboarding &quot;Pick a project&quot; step
+- `2026-10-10` Commented on **[anomalyco/opencode#54221](https://github.com/anomalyco/opencode/issues/54221#issuecomment-6096771481)** — tools: let long-running execute, MCP and plugin tool calls move to the background
+- `2026-10-10` Commented on **[anomalyco/opencode#54220](https://github.com/anomalyco/opencode/issues/54220#issuecomment-6096763385)** — codemode: execute and plugin tool calls have no timeout, so one slow call blocks the session until …
+- `2026-10-10` Commented on **[LodyAI/Lody#1369](https://github.com/LodyAI/Lody/issues/1369#issuecomment-6096737004)** — \[Bug\] Unbounded pre-prompt Git fingerprinting causes multi-minute stalls and amplifies parallel-ses…
 <!-- activity:end -->
 
 </details>
@@ -192,12 +188,12 @@ I write about the process on [dhpie.com](https://dhpie.com).
 ### `~/telemetry`
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Dante-dan/Dante-dan/main/assets/telemetry/stats-dark-11a042e64c3464d8.svg" />
-  <img src="https://raw.githubusercontent.com/Dante-dan/Dante-dan/main/assets/telemetry/stats-light-976255bd25089428.svg" alt="Public GitHub contribution totals" width="390" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Dante-dan/Dante-dan/main/assets/telemetry/stats-dark-7c424bc5c0004985.svg" />
+  <img src="https://raw.githubusercontent.com/Dante-dan/Dante-dan/main/assets/telemetry/stats-light-1977e90e4343e856.svg" alt="Public GitHub contribution totals" width="390" />
 </picture>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Dante-dan/Dante-dan/main/assets/telemetry/time-dark-58480af4f7afab25.svg" />
-  <img src="https://raw.githubusercontent.com/Dante-dan/Dante-dan/main/assets/telemetry/time-light-fb30a5bb835dc072.svg" alt="Commit distribution by time of day, UTC+8" width="390" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Dante-dan/Dante-dan/main/assets/telemetry/time-dark-07fdd3828647bdd3.svg" />
+  <img src="https://raw.githubusercontent.com/Dante-dan/Dante-dan/main/assets/telemetry/time-light-61ed2e6424756109.svg" alt="Commit distribution by time of day, UTC+8" width="390" />
 </picture>
 
 <img src="https://raw.githubusercontent.com/Dante-dan/Dante-dan/main/assets/telemetry/reactions-d7a5e8e749c7662e.svg" alt="Reactions received on recent public comments and issue bodies" width="650" />
@@ -205,7 +201,7 @@ I write about the process on [dhpie.com](https://dhpie.com).
 
 
 <!-- telemetry-refresh:start -->
-<sub>Fetched every 8 hours · last successful fetch<br>Totals: 2026-10-10 01:50:44 UTC · Commit hours: 2026-10-10 01:50:44 UTC · Reactions: 2026-10-10 01:50:44 UTC</sub>
+<sub>Fetched every 8 hours · last successful fetch<br>Totals: 2026-10-10 12:46:31 UTC · Commit hours: 2026-10-10 12:46:31 UTC · Reactions: 2026-10-10 12:46:31 UTC</sub>
 <!-- telemetry-refresh:end -->
 
 ### `~/arcade`
