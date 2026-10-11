@@ -74,10 +74,13 @@ I write about the process on [dhpie.com](https://dhpie.com).
 <sub>Public upstream PRs updated in the last 7 days · refreshed every 8 hours</sub>
 
 <!-- upstream:start -->
-<sub>75 PRs · 60 open · 15 merged</sub>
+<sub>75 PRs · 63 open · 12 merged</sub>
 
 | Status | Pull request | Updated (UTC) |
 | :--- | :--- | :--- |
+| `open` | **[farion1231/cc-switch#8156](https://github.com/farion1231/cc-switch/pull/8156)** — fix(codex): preserve multi-agent task text in chat conversion | 2026-10-11 |
+| `open` | **[heygen-com/hyperframes#5469](https://github.com/heygen-com/hyperframes/pull/5469)** — fix(media): read ElevenLabs input as UTF-8 | 2026-10-11 |
+| `open` | **[cloudflare/security-audit-skill#74](https://github.com/cloudflare/security-audit-skill/pull/74)** — feat: model shared validation blockers in findings | 2026-10-11 |
 | `merged` | **[apache/maka#5202](https://github.com/apache/maka/pull/5202)** — fix(desktop): update Windows taskbar app icon | 2026-10-11 |
 | `open` | **[CherryHQ/cherry-studio#21133](https://github.com/CherryHQ/cherry-studio/pull/21133)** — feat(agent-knowledge): add per-binding read/write permissions | 2026-10-11 |
 | `merged` | **[affaan-m/ECC#3491](https://github.com/affaan-m/ECC/pull/3491)** — fix(hooks): price Claude 5.5 per deduplicated request | 2026-10-11 |
@@ -150,19 +153,16 @@ I write about the process on [dhpie.com](https://dhpie.com).
 | `merged` | **[alibaba/open-code-review#1610](https://github.com/alibaba/open-code-review/pull/1610)** — fix(llm): allow unlisted OpenRouter model overrides | 2026-10-05 |
 | `merged` | **[code-yeongyu/oh-my-openagent#9599](https://github.com/code-yeongyu/oh-my-openagent/pull/9599)** — test: establish process-tree TERM readiness before termination | 2026-10-04 |
 | `merged` | **[code-yeongyu/oh-my-openagent#9586](https://github.com/code-yeongyu/oh-my-openagent/pull/9586)** — fix(web): preserve manifesto reveal order across wrapped lines | 2026-10-04 |
-| `merged` | **[code-yeongyu/oh-my-openagent#9579](https://github.com/code-yeongyu/oh-my-openagent/pull/9579)** — fix(senpi): count only selected shard QA scenarios | 2026-10-04 |
-| `merged` | **[code-yeongyu/oh-my-openagent#9526](https://github.com/code-yeongyu/oh-my-openagent/pull/9526)** — refactor(senpi): lazy-load memfs maintenance commands | 2026-10-04 |
-| `merged` | **[code-yeongyu/oh-my-openagent#9575](https://github.com/code-yeongyu/oh-my-openagent/pull/9575)** — test(web): assert rendered manifesto brightness without JavaScript | 2026-10-04 |
 <!-- upstream:end -->
 
 <details>
 <summary>Recent conversations · issues, comments &amp; reviews</summary>
 
 <!-- activity:start -->
+- `2026-10-11` Commented on **[anomalyco/opencode#45989](https://github.com/anomalyco/opencode/issues/45989#issuecomment-6111132827)** — bug: infinite retry loop on rate limit without logging (&quot;Free usage exceeded, subscribe to Go&quot;)
 - `2026-10-11` Commented on **[earendil-works/pi#10705](https://github.com/earendil-works/pi/issues/10705#issuecomment-6105636739)** — abort() from agent\_settled resolves but an already-deferred continuation still runs
 - `2026-10-11` Commented on **[CherryHQ/cherry-studio#21133](https://github.com/CherryHQ/cherry-studio/pull/21133#discussion_r4240321887)**
 - `2026-10-10` Commented on **[langchain-ai/langgraph#5564](https://github.com/langchain-ai/langgraph/issues/5564#issuecomment-6102999381)** — 🐛 Bug Report: isLoading remains true even after stream completion due to delayed history fetch
-- `2026-10-10` Commented on **[langchain-ai/langgraph#5551](https://github.com/langchain-ai/langgraph/issues/5551#issuecomment-6102976295)** — Create AGENTS.md Documentation for Repository Guidelines
 <!-- activity:end -->
 
 </details>
@@ -183,8 +183,8 @@ I write about the process on [dhpie.com](https://dhpie.com).
 ### `~/telemetry`
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Dante-dan/Dante-dan/main/assets/telemetry/stats-dark-8f4a42de5427e4c8.svg" />
-  <img src="https://raw.githubusercontent.com/Dante-dan/Dante-dan/main/assets/telemetry/stats-light-bb899424a293b8b3.svg" alt="Public GitHub contribution totals" width="390" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Dante-dan/Dante-dan/main/assets/telemetry/stats-dark-36b0ec0e64255b66.svg" />
+  <img src="https://raw.githubusercontent.com/Dante-dan/Dante-dan/main/assets/telemetry/stats-light-c37ee6428a847761.svg" alt="Public GitHub contribution totals" width="390" />
 </picture>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Dante-dan/Dante-dan/main/assets/telemetry/time-dark-790cd21b109b5d3a.svg" />
@@ -196,7 +196,7 @@ I write about the process on [dhpie.com](https://dhpie.com).
 
 
 <!-- telemetry-refresh:start -->
-<sub>Fetched every 8 hours · last successful fetch<br>Totals: 2026-10-11 13:09:48 UTC · Commit hours: 2026-10-11 13:09:48 UTC · Reactions: 2026-10-11 13:09:48 UTC</sub>
+<sub>Fetched every 8 hours · last successful fetch<br>Totals: 2026-10-11 19:02:36 UTC · Commit hours: 2026-10-11 19:02:36 UTC · Reactions: 2026-10-11 19:02:36 UTC</sub>
 <!-- telemetry-refresh:end -->
 
 ### `~/arcade`
