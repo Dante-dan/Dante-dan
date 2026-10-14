@@ -74,24 +74,27 @@ I write about the process on [dhpie.com](https://dhpie.com).
 <sub>Public upstream PRs updated in the last 7 days · refreshed every 8 hours</sub>
 
 <!-- upstream:start -->
-<sub>89 PRs · 75 open · 14 merged</sub>
+<sub>90 PRs · 77 open · 13 merged</sub>
 
 | Status | Pull request | Updated (UTC) |
 | :--- | :--- | :--- |
-| `open` | **[farion1231/cc-switch#8254](https://github.com/farion1231/cc-switch/pull/8254)** — fix(hermes): read live WSL databases inside their distribution | 2026-10-13 |
+| `open` | **[heygen-com/hyperframes#5430](https://github.com/heygen-com/hyperframes/pull/5430)** — fix(engine): await seek completion during drawElement batches | 2026-10-14 |
 | `open` | **[code-yeongyu/oh-my-openagent#9625](https://github.com/code-yeongyu/oh-my-openagent/pull/9625)** — refactor(senpi): load memory prompt compiler on demand | 2026-10-13 |
+| `open` | **[CherryHQ/cherry-studio#21223](https://github.com/CherryHQ/cherry-studio/pull/21223)** — feat(xai-tools): add opt-in native Grok images in chat | 2026-10-13 |
+| `open` | **[code-yeongyu/oh-my-openagent#10109](https://github.com/code-yeongyu/oh-my-openagent/pull/10109)** — fix(senpi): restore official R0 lifecycle QA fixtures | 2026-10-13 |
+| `open` | **[CherryHQ/cherry-studio#21318](https://github.com/CherryHQ/cherry-studio/pull/21318)** — fix(sensenova-images): send image edits as JSON | 2026-10-13 |
+| `open` | **[code-yeongyu/oh-my-openagent#10107](https://github.com/code-yeongyu/oh-my-openagent/pull/10107)** — fix(senpi-task): name task child sessions with their parent | 2026-10-13 |
+| `open` | **[anomalyco/opencode#55039](https://github.com/anomalyco/opencode/pull/55039)** — fix(core): stabilize capped file search and prioritize source trees | 2026-10-13 |
+| `open` | **[farion1231/cc-switch#8254](https://github.com/farion1231/cc-switch/pull/8254)** — fix(hermes): read live WSL databases inside their distribution | 2026-10-13 |
 | `open` | **[nuxt/modules#1059](https://github.com/nuxt/modules/pull/1059)** — feat: add \`nuxt-inline-scripts\` | 2026-10-13 |
 | `open` | **[CherryHQ/cherry-studio#21312](https://github.com/CherryHQ/cherry-studio/pull/21312)** — fix(model-settings): explain saved modality overrides | 2026-10-13 |
 | `open` | **[CherryHQ/cherry-studio#20353](https://github.com/CherryHQ/cherry-studio/pull/20353)** — fix(ai-runtime): clamp agent output token limit | 2026-10-13 |
 | `open` | **[apache/maka#6085](https://github.com/apache/maka/pull/6085)** — fix(cli): preserve fullscreen editor and status on short terminals | 2026-10-13 |
-| `open` | **[anomalyco/opencode#55039](https://github.com/anomalyco/opencode/pull/55039)** — fix(server): report capped file search indexes | 2026-10-13 |
 | `open` | **[farion1231/cc-switch#8232](https://github.com/farion1231/cc-switch/pull/8232)** — feat(codex): persist restart notice dismissal preference | 2026-10-13 |
 | `merged` | **[makecindy/cindy#5296](https://github.com/makecindy/cindy/pull/5296)** — fix(runtime): preserve Codex transport in automatic fallback | 2026-10-13 |
 | `merged` | **[CherryHQ/cherry-studio#21558](https://github.com/CherryHQ/cherry-studio/pull/21558)** — feat(heartbeat): configure per-agent execution timeout | 2026-10-13 |
 | `open` | **[apache/maka#5218](https://github.com/apache/maka/pull/5218)** — fix(desktop): add HTML artifact Finder fallback | 2026-10-13 |
-| `open` | **[CherryHQ/cherry-studio#21223](https://github.com/CherryHQ/cherry-studio/pull/21223)** — feat(xai-tools): add opt-in native Grok images in chat | 2026-10-13 |
 | `open` | **[CherryHQ/cherry-studio#21133](https://github.com/CherryHQ/cherry-studio/pull/21133)** — feat(agent-knowledge): add per-binding read/write permissions | 2026-10-13 |
-| `open` | **[heygen-com/hyperframes#5430](https://github.com/heygen-com/hyperframes/pull/5430)** — fix(engine): await seek completion during drawElement batches | 2026-10-13 |
 | `merged` | **[heygen-com/hyperframes#5469](https://github.com/heygen-com/hyperframes/pull/5469)** — fix(media): read ElevenLabs input as UTF-8 | 2026-10-12 |
 | `open` | **[anomalyco/opencode#54942](https://github.com/anomalyco/opencode/pull/54942)** — fix(core): refresh MCP tools before session snapshots | 2026-10-12 |
 | `open` | **[anomalyco/opencode#54939](https://github.com/anomalyco/opencode/pull/54939)** — fix(app): preserve KaTeX MathML annotations | 2026-10-12 |
@@ -165,18 +168,16 @@ I write about the process on [dhpie.com](https://dhpie.com).
 | `open` | **[can1357/oh-my-pi#14542](https://github.com/can1357/oh-my-pi/pull/14542)** — feat(coding-agent): log skipped extension directory errors | 2026-10-07 |
 | `open` | **[can1357/oh-my-pi#14580](https://github.com/can1357/oh-my-pi/pull/14580)** — feat(extensions): expose configured thinking selector | 2026-10-07 |
 | `merged` | **[CherryHQ/cherry-studio#21334](https://github.com/CherryHQ/cherry-studio/pull/21334)** — feat(web-search): add self-hosted Crawl4AI URL fetching | 2026-10-07 |
-| `open` | **[makecindy/cindy#5180](https://github.com/makecindy/cindy/pull/5180)** — feat(desktop): request consent for non-Git project recovery | 2026-10-06 |
-| `merged` | **[can1357/oh-my-pi#13956](https://github.com/can1357/oh-my-pi/pull/13956)** — docs(coding-agent): show complete read range calls | 2026-10-06 |
 <!-- upstream:end -->
 
 <details>
 <summary>Recent conversations · issues, comments &amp; reviews</summary>
 
 <!-- activity:start -->
-- `2026-10-13` Commented on **[farion1231/cc-switch#8205](https://github.com/farion1231/cc-switch/issues/8205#issuecomment-6138620634)** — \[Bug\] Windows 版 CC Switch 无法通过 WSL UNC 路径实时读取 Hermes SQLite 会话数据库
-- `2026-10-13` Commented on **[apache/maka#6082](https://github.com/apache/maka/issues/6082#issuecomment-6138205310)** — bug(tui): fullscreen multiline drafts clip status on short terminals
-- `2026-10-13` Commented on **[anomalyco/opencode#54940](https://github.com/anomalyco/opencode/issues/54940#issuecomment-6138311418)** — v2: non-Git file search drops existing files after refreshing its capped index
-- `2026-10-13` Commented on **[anomalyco/opencode#54985](https://github.com/anomalyco/opencode/issues/54985#issuecomment-6138507345)** — web: DOCX preview renders Chinese characters as squares
+- `2026-10-13` Commented on **[farion1231/cc-switch#8205](https://github.com/farion1231/cc-switch/issues/8205#issuecomment-6150522590)** — \[Bug\] Windows 版 CC Switch 无法通过 WSL UNC 路径实时读取 Hermes SQLite 会话数据库
+- `2026-10-13` Reviewed on **[CherryHQ/cherry-studio#21223](https://github.com/CherryHQ/cherry-studio/pull/21223#pullrequestreview-5507638709)**
+- `2026-10-13` Commented on **[heygen-com/hyperframes#5430](https://github.com/heygen-com/hyperframes/pull/5430#issuecomment-6151043531)** — fix(engine): await seek completion during drawElement batches
+- `2026-10-13` Reviewed on **[anomalyco/opencode#55039](https://github.com/anomalyco/opencode/pull/55039#pullrequestreview-5507278883)**
 <!-- activity:end -->
 
 </details>
@@ -188,17 +189,17 @@ I write about the process on [dhpie.com](https://dhpie.com).
 <sub>Latest writing from [dhpie.com](https://dhpie.com)</sub>
 
 <!-- notes:start -->
+- [开源贡献日报 · 2026-10-13](https://dhpie.com/posts/cn/open-source-daily-2026-10-13)
 - [开源贡献日报 · 2026-10-12](https://dhpie.com/posts/cn/open-source-daily-2026-10-12)
 - [开源贡献日报 · 2026-10-11](https://dhpie.com/posts/cn/open-source-daily-2026-10-11)
 - [开源贡献日报 · 2026-10-10](https://dhpie.com/posts/cn/open-source-daily-2026-10-10)
-- [开源贡献日报 · 2026-10-08](https://dhpie.com/posts/cn/open-source-daily-2026-10-08)
 <!-- notes:end -->
 
 ### `~/telemetry`
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Dante-dan/Dante-dan/main/assets/telemetry/stats-dark-a1f7d55297b036e0.svg" />
-  <img src="https://raw.githubusercontent.com/Dante-dan/Dante-dan/main/assets/telemetry/stats-light-6113a2443550026c.svg" alt="Public GitHub contribution totals" width="390" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Dante-dan/Dante-dan/main/assets/telemetry/stats-dark-7cf8778de665f979.svg" />
+  <img src="https://raw.githubusercontent.com/Dante-dan/Dante-dan/main/assets/telemetry/stats-light-9f305974f73b3c88.svg" alt="Public GitHub contribution totals" width="390" />
 </picture>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Dante-dan/Dante-dan/main/assets/telemetry/time-dark-f382f7cb119a55ac.svg" />
@@ -210,7 +211,7 @@ I write about the process on [dhpie.com](https://dhpie.com).
 
 
 <!-- telemetry-refresh:start -->
-<sub>Fetched every 8 hours · last successful fetch<br>Totals: 2026-10-13 14:26:48 UTC · Commit hours: 2026-10-13 14:26:48 UTC · Reactions: 2026-10-13 14:26:48 UTC</sub>
+<sub>Fetched every 8 hours · last successful fetch<br>Totals: 2026-10-14 01:18:40 UTC · Commit hours: 2026-10-14 01:18:40 UTC · Reactions: 2026-10-14 01:18:40 UTC</sub>
 <!-- telemetry-refresh:end -->
 
 ### `~/arcade`
