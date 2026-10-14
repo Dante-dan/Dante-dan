@@ -74,12 +74,18 @@ I write about the process on [dhpie.com](https://dhpie.com).
 <sub>Public upstream PRs updated in the last 7 days · refreshed every 8 hours</sub>
 
 <!-- upstream:start -->
-<sub>97 PRs · 83 open · 14 merged</sub>
+<sub>101 PRs · 87 open · 14 merged</sub>
 
 | Status | Pull request | Updated (UTC) |
 | :--- | :--- | :--- |
-| `open` | **[makecindy/cindy#4424](https://github.com/makecindy/cindy/pull/4424)** — feat(mobile): render Mermaid in Markdown file reader | 2026-10-14 |
+| `open` | **[CherryHQ/cherry-studio#21223](https://github.com/CherryHQ/cherry-studio/pull/21223)** — feat(xai-tools): add opt-in native Grok images in chat | 2026-10-14 |
 | `open` | **[code-yeongyu/oh-my-openagent#10107](https://github.com/code-yeongyu/oh-my-openagent/pull/10107)** — fix(senpi-task): name task child sessions with their parent | 2026-10-14 |
+| `open` | **[code-yeongyu/oh-my-openagent#9624](https://github.com/code-yeongyu/oh-my-openagent/pull/9624)** — refactor(senpi): defer the live thread RPC client | 2026-10-14 |
+| `open` | **[anomalyco/opencode#55480](https://github.com/anomalyco/opencode/pull/55480)** — fix(session-ui): reuse parsed DOM for live markdown | 2026-10-14 |
+| `open` | **[anomalyco/opencode#55479](https://github.com/anomalyco/opencode/pull/55479)** — fix(core): bound watches for symlinked skill files | 2026-10-14 |
+| `open` | **[anomalyco/opencode#55477](https://github.com/anomalyco/opencode/pull/55477)** — fix(tui): preserve readline Ctrl+B in sessions | 2026-10-14 |
+| `open` | **[anomalyco/opencode#51805](https://github.com/anomalyco/opencode/pull/51805)** — fix(app): keep nested directory for local sessions | 2026-10-14 |
+| `open` | **[makecindy/cindy#4424](https://github.com/makecindy/cindy/pull/4424)** — feat(mobile): render Mermaid in Markdown file reader | 2026-10-14 |
 | `open` | **[makecindy/cindy#6026](https://github.com/makecindy/cindy/pull/6026)** — fix(providers): preserve unknown image input in native bridges | 2026-10-14 |
 | `open` | **[anomalyco/opencode#55362](https://github.com/anomalyco/opencode/pull/55362)** — fix(cli): scope global session lists by directory | 2026-10-14 |
 | `open` | **[can1357/oh-my-pi#13436](https://github.com/can1357/oh-my-pi/pull/13436)** — feat(tui): copy or rewind from either transcript selector | 2026-10-14 |
@@ -94,7 +100,6 @@ I write about the process on [dhpie.com](https://dhpie.com).
 | `open` | **[farion1231/cc-switch#8232](https://github.com/farion1231/cc-switch/pull/8232)** — feat(codex): persist restart notice dismissal preference | 2026-10-14 |
 | `open` | **[apache/maka#5248](https://github.com/apache/maka/pull/5248)** — feat(runtime): verify background HTTP readiness | 2026-10-14 |
 | `open` | **[heygen-com/hyperframes#5430](https://github.com/heygen-com/hyperframes/pull/5430)** — fix(engine): await seek completion during drawElement batches | 2026-10-14 |
-| `open` | **[CherryHQ/cherry-studio#21223](https://github.com/CherryHQ/cherry-studio/pull/21223)** — feat(xai-tools): add opt-in native Grok images in chat | 2026-10-13 |
 | `open` | **[code-yeongyu/oh-my-openagent#10109](https://github.com/code-yeongyu/oh-my-openagent/pull/10109)** — fix(senpi): restore official R0 lifecycle QA fixtures | 2026-10-13 |
 | `open` | **[CherryHQ/cherry-studio#21318](https://github.com/CherryHQ/cherry-studio/pull/21318)** — fix(sensenova-images): send image edits as JSON | 2026-10-13 |
 | `open` | **[anomalyco/opencode#55039](https://github.com/anomalyco/opencode/pull/55039)** — fix(core): stabilize capped file search and prioritize source trees | 2026-10-13 |
@@ -141,7 +146,6 @@ I write about the process on [dhpie.com](https://dhpie.com).
 | `open` | **[anomalyco/opencode#52145](https://github.com/anomalyco/opencode/pull/52145)** — fix(core): show structured provider error details | 2026-10-10 |
 | `open` | **[anomalyco/opencode#52148](https://github.com/anomalyco/opencode/pull/52148)** — docs: list Context7 OpenCode plugin | 2026-10-10 |
 | `open` | **[anomalyco/opencode#52094](https://github.com/anomalyco/opencode/pull/52094)** — fix(app): keep new sessions in their selected worktree | 2026-10-10 |
-| `open` | **[anomalyco/opencode#51805](https://github.com/anomalyco/opencode/pull/51805)** — fix(app): keep nested directory for local sessions | 2026-10-10 |
 | `open` | **[anomalyco/opencode#51528](https://github.com/anomalyco/opencode/pull/51528)** — fix(app): keep workspace message text readable on accent themes | 2026-10-10 |
 | `open` | **[anomalyco/opencode#49943](https://github.com/anomalyco/opencode/pull/49943)** — fix(tui): widen tab close target | 2026-10-10 |
 | `open` | **[anomalyco/opencode#49808](https://github.com/anomalyco/opencode/pull/49808)** — fix(core): register compatible Responses provider | 2026-10-10 |
@@ -181,10 +185,10 @@ I write about the process on [dhpie.com](https://dhpie.com).
 <summary>Recent conversations · issues, comments &amp; reviews</summary>
 
 <!-- activity:start -->
-- `2026-10-14` Commented on **[anomalyco/opencode#55225](https://github.com/anomalyco/opencode/issues/55225#issuecomment-6161181843)** — npm installs all four Linux x64 binaries (≈800 MB) because @opencode/cli-\* packages lack a \`libc\` f…
-- `2026-10-14` Reviewed on **[makecindy/cindy#6026](https://github.com/makecindy/cindy/pull/6026#pullrequestreview-5515178229)**
-- `2026-10-14` Commented on **[anomalyco/opencode#55119](https://github.com/anomalyco/opencode/issues/55119#issuecomment-6164389693)** — Global \`plugins\` not loaded when \`~/.config/opencode\` is a symlink (inotify\_add\_watch &quot;Not a direct…
-- `2026-10-14` Commented on **[anomalyco/opencode#55311](https://github.com/anomalyco/opencode/pull/55311#discussion_r4268487611)**
+- `2026-10-14` Commented on **[CherryHQ/cherry-studio#21223](https://github.com/CherryHQ/cherry-studio/pull/21223#discussion_r4274654601)**
+- `2026-10-14` Commented on **[multica-ai/multica#9248](https://github.com/multica-ai/multica/issues/9248#issuecomment-6164218994)** — \[Bug\]: Claude supplement channel unavailable on ~100% of daemon runs — hard-coded 3s handshake dead…
+- `2026-10-14` Commented on **[anomalyco/opencode#54620](https://github.com/anomalyco/opencode/issues/54620#issuecomment-6168757958)** — Standard readline binding CTRL-B BROKEN
+- `2026-10-14` Commented on **[anomalyco/opencode#55133](https://github.com/anomalyco/opencode/issues/55133#issuecomment-6164431002)** — desktop: sessions from unrelated folders merge into a shared &quot;global&quot; project
 <!-- activity:end -->
 
 </details>
@@ -196,29 +200,29 @@ I write about the process on [dhpie.com](https://dhpie.com).
 <sub>Latest writing from [dhpie.com](https://dhpie.com)</sub>
 
 <!-- notes:start -->
+- [开源贡献日报 · 2026-10-14](https://dhpie.com/posts/cn/open-source-daily-2026-10-14)
 - [开源贡献日报 · 2026-10-13](https://dhpie.com/posts/cn/open-source-daily-2026-10-13)
 - [开源贡献日报 · 2026-10-12](https://dhpie.com/posts/cn/open-source-daily-2026-10-12)
 - [开源贡献日报 · 2026-10-11](https://dhpie.com/posts/cn/open-source-daily-2026-10-11)
-- [开源贡献日报 · 2026-10-10](https://dhpie.com/posts/cn/open-source-daily-2026-10-10)
 <!-- notes:end -->
 
 ### `~/telemetry`
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Dante-dan/Dante-dan/main/assets/telemetry/stats-dark-b34a6584b681ed52.svg" />
-  <img src="https://raw.githubusercontent.com/Dante-dan/Dante-dan/main/assets/telemetry/stats-light-f0d4722aefbdf300.svg" alt="Public GitHub contribution totals" width="390" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Dante-dan/Dante-dan/main/assets/telemetry/stats-dark-ee56a4aa2314774d.svg" />
+  <img src="https://raw.githubusercontent.com/Dante-dan/Dante-dan/main/assets/telemetry/stats-light-29b05b886a4f4a93.svg" alt="Public GitHub contribution totals" width="390" />
 </picture>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Dante-dan/Dante-dan/main/assets/telemetry/time-dark-2acf304f5de6b4be.svg" />
   <img src="https://raw.githubusercontent.com/Dante-dan/Dante-dan/main/assets/telemetry/time-light-c485641b7270f38f.svg" alt="Commit distribution by time of day, UTC+8" width="390" />
 </picture>
 
-<img src="https://raw.githubusercontent.com/Dante-dan/Dante-dan/main/assets/telemetry/reactions-eec3e09706277bf5.svg" alt="Reactions received on recent public comments and issue bodies" width="650" />
+<img src="https://raw.githubusercontent.com/Dante-dan/Dante-dan/main/assets/telemetry/reactions-d590a147cdf95a68.svg" alt="Reactions received on recent public comments and issue bodies" width="650" />
 
 
 
 <!-- telemetry-refresh:start -->
-<sub>Fetched every 8 hours · last successful fetch<br>Totals: 2026-10-14 12:10:59 UTC · Commit hours: 2026-10-14 12:10:59 UTC · Reactions: 2026-10-14 12:10:59 UTC</sub>
+<sub>Fetched every 8 hours · last successful fetch<br>Totals: 2026-10-14 18:46:23 UTC · Commit hours: 2026-10-14 18:46:23 UTC · Reactions: 2026-10-14 18:46:23 UTC</sub>
 <!-- telemetry-refresh:end -->
 
 ### `~/arcade`
