@@ -43,8 +43,8 @@ I write about the process on [dhpie.com](https://dhpie.com).
 <!-- contributions:start -->
 <sub>Code accepted upstream · last 12 months</sub>
 
+<table align="left" width="270"><tr><td width="64" valign="middle"><a href="https://github.com/CherryHQ/cherry-studio"><img src="assets/projects/CherryHQ--cherry-studio.png" width="56" height="56" alt="Cherry Studio icon" /></a></td><td width="200" valign="middle"><a href="https://github.com/CherryHQ/cherry-studio"><strong>Cherry Studio</strong></a><br /><sub><a href="https://github.com/CherryHQ/cherry-studio/pull/20320">merged contribution</a><br /><a href="https://github.com/CherryHQ/cherry-studio/pulls?q=is%3Apr+author%3ADante-dan">all PRs ↗</a></sub></td></tr></table>
 <table align="left" width="270"><tr><td width="64" valign="middle"><a href="https://github.com/multica-ai/multica"><img src="assets/projects/multica-ai--multica.png" width="56" height="56" alt="multica icon" /></a></td><td width="200" valign="middle"><a href="https://github.com/multica-ai/multica"><strong>multica</strong></a><br /><sub><a href="https://github.com/multica-ai/multica/pull/8549">merged contribution</a><br /><a href="https://github.com/multica-ai/multica/pulls?q=is%3Apr+author%3ADante-dan">all PRs ↗</a></sub></td></tr></table>
-<table align="left" width="270"><tr><td width="64" valign="middle"><a href="https://github.com/CherryHQ/cherry-studio"><img src="assets/projects/CherryHQ--cherry-studio.png" width="56" height="56" alt="Cherry Studio icon" /></a></td><td width="200" valign="middle"><a href="https://github.com/CherryHQ/cherry-studio"><strong>Cherry Studio</strong></a><br /><sub><a href="https://github.com/CherryHQ/cherry-studio/pull/21312">merged contribution</a><br /><a href="https://github.com/CherryHQ/cherry-studio/pulls?q=is%3Apr+author%3ADante-dan">all PRs ↗</a></sub></td></tr></table>
 <table align="left" width="270"><tr><td width="64" valign="middle"><a href="https://github.com/makecindy/cindy"><img src="assets/projects/makecindy--cindy.png" width="56" height="56" alt="Cindy icon" /></a></td><td width="200" valign="middle"><a href="https://github.com/makecindy/cindy"><strong>Cindy</strong></a><br /><sub><a href="https://github.com/makecindy/cindy/pull/5296">merged contribution</a><br /><a href="https://github.com/makecindy/cindy/pulls?q=is%3Apr+author%3ADante-dan">all PRs ↗</a></sub></td></tr></table>
 <table align="left" width="270"><tr><td width="64" valign="middle"><a href="https://github.com/cline/cline"><img src="assets/projects/cline--cline.png" width="56" height="56" alt="cline icon" /></a></td><td width="200" valign="middle"><a href="https://github.com/cline/cline"><strong>cline</strong></a><br /><sub><a href="https://github.com/cline/cline/pull/14400">merged contribution</a><br /><a href="https://github.com/cline/cline/pulls?q=is%3Apr+author%3ADante-dan">all PRs ↗</a></sub></td></tr></table>
 <table align="left" width="270"><tr><td width="64" valign="middle"><a href="https://github.com/code-yeongyu/oh-my-openagent"><img src="assets/projects/code-yeongyu--oh-my-openagent.png" width="56" height="56" alt="oh-my-openagent icon" /></a></td><td width="200" valign="middle"><a href="https://github.com/code-yeongyu/oh-my-openagent"><strong>oh-my-openagent</strong></a><br /><sub><a href="https://github.com/code-yeongyu/oh-my-openagent/pull/9469">merged contribution</a><br /><a href="https://github.com/code-yeongyu/oh-my-openagent/pulls?q=is%3Apr+author%3ADante-dan">all PRs ↗</a></sub></td></tr></table>
@@ -74,13 +74,18 @@ I write about the process on [dhpie.com](https://dhpie.com).
 <sub>Public upstream PRs updated in the last 7 days · refreshed every 8 hours</sub>
 
 <!-- upstream:start -->
-<sub>101 PRs · 87 open · 14 merged</sub>
+<sub>86 PRs · 71 open · 15 merged</sub>
 
 | Status | Pull request | Updated (UTC) |
 | :--- | :--- | :--- |
-| `open` | **[CherryHQ/cherry-studio#21223](https://github.com/CherryHQ/cherry-studio/pull/21223)** — feat(xai-tools): add opt-in native Grok images in chat | 2026-10-14 |
-| `open` | **[code-yeongyu/oh-my-openagent#10107](https://github.com/code-yeongyu/oh-my-openagent/pull/10107)** — fix(senpi-task): name task child sessions with their parent | 2026-10-14 |
 | `open` | **[code-yeongyu/oh-my-openagent#9624](https://github.com/code-yeongyu/oh-my-openagent/pull/9624)** — refactor(senpi): defer the live thread RPC client | 2026-10-14 |
+| `open` | **[CherryHQ/cherry-studio#21223](https://github.com/CherryHQ/cherry-studio/pull/21223)** — feat(xai-tools): add opt-in native Grok images in chat | 2026-10-14 |
+| `open` | **[can1357/oh-my-pi#13436](https://github.com/can1357/oh-my-pi/pull/13436)** — feat(tui): copy or rewind from either transcript selector | 2026-10-14 |
+| `open` | **[anomalyco/opencode#53122](https://github.com/anomalyco/opencode/pull/53122)** — refactor(core): extract transcript projection | 2026-10-14 |
+| `open` | **[anomalyco/opencode#52148](https://github.com/anomalyco/opencode/pull/52148)** — docs: list Context7 OpenCode plugin | 2026-10-14 |
+| `open` | **[anomalyco/opencode#55311](https://github.com/anomalyco/opencode/pull/55311)** — fix(client): stop failed services before reporting startup errors | 2026-10-14 |
+| `merged` | **[CherryHQ/cherry-studio#20320](https://github.com/CherryHQ/cherry-studio/pull/20320)** — fix(work): keep pinned tasks in agent grouping | 2026-10-14 |
+| `open` | **[code-yeongyu/oh-my-openagent#10107](https://github.com/code-yeongyu/oh-my-openagent/pull/10107)** — fix(senpi-task): name task child sessions with their parent | 2026-10-14 |
 | `open` | **[anomalyco/opencode#55480](https://github.com/anomalyco/opencode/pull/55480)** — fix(session-ui): reuse parsed DOM for live markdown | 2026-10-14 |
 | `open` | **[anomalyco/opencode#55479](https://github.com/anomalyco/opencode/pull/55479)** — fix(core): bound watches for symlinked skill files | 2026-10-14 |
 | `open` | **[anomalyco/opencode#55477](https://github.com/anomalyco/opencode/pull/55477)** — fix(tui): preserve readline Ctrl+B in sessions | 2026-10-14 |
@@ -88,10 +93,8 @@ I write about the process on [dhpie.com](https://dhpie.com).
 | `open` | **[makecindy/cindy#4424](https://github.com/makecindy/cindy/pull/4424)** — feat(mobile): render Mermaid in Markdown file reader | 2026-10-14 |
 | `open` | **[makecindy/cindy#6026](https://github.com/makecindy/cindy/pull/6026)** — fix(providers): preserve unknown image input in native bridges | 2026-10-14 |
 | `open` | **[anomalyco/opencode#55362](https://github.com/anomalyco/opencode/pull/55362)** — fix(cli): scope global session lists by directory | 2026-10-14 |
-| `open` | **[can1357/oh-my-pi#13436](https://github.com/can1357/oh-my-pi/pull/13436)** — feat(tui): copy or rewind from either transcript selector | 2026-10-14 |
 | `open` | **[multica-ai/multica#9252](https://github.com/multica-ai/multica/pull/9252)** — fix(agent): honor Claude supplement startup handshake budget | 2026-10-14 |
 | `open` | **[code-yeongyu/oh-my-openagent#10138](https://github.com/code-yeongyu/oh-my-openagent/pull/10138)** — docs(install): explain npm package-name bin conflicts | 2026-10-14 |
-| `open` | **[anomalyco/opencode#55311](https://github.com/anomalyco/opencode/pull/55311)** — fix(client): stop failed services before reporting startup errors | 2026-10-14 |
 | `merged` | **[multica-ai/multica#8549](https://github.com/multica-ai/multica/pull/8549)** — MUL-7488: fix(execenv): exclude committed local HEAD changes from resume replay | 2026-10-14 |
 | `open` | **[heygen-com/hyperframes#5594](https://github.com/heygen-com/hyperframes/pull/5594)** — feat(studio): show canvas gesture position, size and rotation | 2026-10-14 |
 | `open` | **[code-yeongyu/oh-my-openagent#9625](https://github.com/code-yeongyu/oh-my-openagent/pull/9625)** — refactor(senpi): load memory prompt compiler on demand | 2026-10-14 |
@@ -140,11 +143,9 @@ I write about the process on [dhpie.com](https://dhpie.com).
 | `merged` | **[can1357/oh-my-pi#14558](https://github.com/can1357/oh-my-pi/pull/14558)** — fix(coding-agent): show resolved diagnostic and SSH config paths | 2026-10-10 |
 | `open` | **[code-yeongyu/oh-my-openagent#9437](https://github.com/code-yeongyu/oh-my-openagent/pull/9437)** — test(team-mode): make fallback cancellation gate deterministic | 2026-10-10 |
 | `open` | **[anomalyco/opencode#53266](https://github.com/anomalyco/opencode/pull/53266)** — fix(core): disable tool selection in compaction summaries | 2026-10-10 |
-| `open` | **[anomalyco/opencode#53122](https://github.com/anomalyco/opencode/pull/53122)** — refactor(core): extract transcript projection | 2026-10-10 |
 | `open` | **[anomalyco/opencode#52635](https://github.com/anomalyco/opencode/pull/52635)** — fix(core): release detached location graphs after reload | 2026-10-10 |
 | `open` | **[anomalyco/opencode#52187](https://github.com/anomalyco/opencode/pull/52187)** — fix(tui): release oversized session message caches on switch | 2026-10-10 |
 | `open` | **[anomalyco/opencode#52145](https://github.com/anomalyco/opencode/pull/52145)** — fix(core): show structured provider error details | 2026-10-10 |
-| `open` | **[anomalyco/opencode#52148](https://github.com/anomalyco/opencode/pull/52148)** — docs: list Context7 OpenCode plugin | 2026-10-10 |
 | `open` | **[anomalyco/opencode#52094](https://github.com/anomalyco/opencode/pull/52094)** — fix(app): keep new sessions in their selected worktree | 2026-10-10 |
 | `open` | **[anomalyco/opencode#51528](https://github.com/anomalyco/opencode/pull/51528)** — fix(app): keep workspace message text readable on accent themes | 2026-10-10 |
 | `open` | **[anomalyco/opencode#49943](https://github.com/anomalyco/opencode/pull/49943)** — fix(tui): widen tab close target | 2026-10-10 |
@@ -163,32 +164,16 @@ I write about the process on [dhpie.com](https://dhpie.com).
 | `open` | **[browser-use/jev-ultrafast#200](https://github.com/browser-use/jev-ultrafast/pull/200)** — fix: identify selected fields in text helper context | 2026-10-09 |
 | `open` | **[heygen-com/hyperframes#5183](https://github.com/heygen-com/hyperframes/pull/5183)** — fix(engine): include untimed overlays in HDR stacking | 2026-10-08 |
 | `merged` | **[code-yeongyu/oh-my-openagent#9602](https://github.com/code-yeongyu/oh-my-openagent/pull/9602)** — fix(senpi): keep task executors out of ultrawork orchestration | 2026-10-08 |
-| `open` | **[can1357/oh-my-pi#12082](https://github.com/can1357/oh-my-pi/pull/12082)** — feat(coding-agent): add producer-scoped artifact resolution | 2026-10-07 |
-| `open` | **[can1357/oh-my-pi#12083](https://github.com/can1357/oh-my-pi/pull/12083)** — fix(coding-agent): clarify omp identity in system prompt | 2026-10-07 |
-| `open` | **[can1357/oh-my-pi#12081](https://github.com/can1357/oh-my-pi/pull/12081)** — feat(github): support operation-specific approval policies | 2026-10-07 |
-| `open` | **[can1357/oh-my-pi#12253](https://github.com/can1357/oh-my-pi/pull/12253)** — fix(session): anchor exit marker to persisted tail | 2026-10-07 |
-| `open` | **[can1357/oh-my-pi#12381](https://github.com/can1357/oh-my-pi/pull/12381)** — test(browser): require a live CDP endpoint for Linux Chromium | 2026-10-07 |
-| `open` | **[can1357/oh-my-pi#12394](https://github.com/can1357/oh-my-pi/pull/12394)** — fix(coding-agent): save manual handoff artifacts when enabled | 2026-10-07 |
-| `open` | **[can1357/oh-my-pi#12378](https://github.com/can1357/oh-my-pi/pull/12378)** — fix(session): relocate custom sessions across filesystems | 2026-10-07 |
-| `open` | **[can1357/oh-my-pi#12818](https://github.com/can1357/oh-my-pi/pull/12818)** — fix(natives): keep macOS TUI sessions out of the Dock | 2026-10-07 |
-| `open` | **[can1357/oh-my-pi#13437](https://github.com/can1357/oh-my-pi/pull/13437)** — feat(coding-agent): honor skill model for invoked task turns | 2026-10-07 |
-| `open` | **[can1357/oh-my-pi#13976](https://github.com/can1357/oh-my-pi/pull/13976)** — feat(tui): support multi-row top chrome for extension composers | 2026-10-07 |
-| `open` | **[can1357/oh-my-pi#13771](https://github.com/can1357/oh-my-pi/pull/13771)** — fix(glob): return empty result for a missing single path | 2026-10-07 |
-| `open` | **[can1357/oh-my-pi#14133](https://github.com/can1357/oh-my-pi/pull/14133)** — fix(coding-agent): reject unknown slash commands locally | 2026-10-07 |
-| `open` | **[can1357/oh-my-pi#14440](https://github.com/can1357/oh-my-pi/pull/14440)** — fix(ai): preserve GLM-5.2 thinking on Ollama Cloud | 2026-10-07 |
-| `open` | **[can1357/oh-my-pi#14439](https://github.com/can1357/oh-my-pi/pull/14439)** — Coalesce identical advisor notes within a review batch | 2026-10-07 |
-| `open` | **[can1357/oh-my-pi#14542](https://github.com/can1357/oh-my-pi/pull/14542)** — feat(coding-agent): log skipped extension directory errors | 2026-10-07 |
-| `open` | **[can1357/oh-my-pi#14580](https://github.com/can1357/oh-my-pi/pull/14580)** — feat(extensions): expose configured thinking selector | 2026-10-07 |
 <!-- upstream:end -->
 
 <details>
 <summary>Recent conversations · issues, comments &amp; reviews</summary>
 
 <!-- activity:start -->
-- `2026-10-14` Commented on **[CherryHQ/cherry-studio#21223](https://github.com/CherryHQ/cherry-studio/pull/21223#discussion_r4274654601)**
-- `2026-10-14` Commented on **[multica-ai/multica#9248](https://github.com/multica-ai/multica/issues/9248#issuecomment-6164218994)** — \[Bug\]: Claude supplement channel unavailable on ~100% of daemon runs — hard-coded 3s handshake dead…
-- `2026-10-14` Commented on **[anomalyco/opencode#54620](https://github.com/anomalyco/opencode/issues/54620#issuecomment-6168757958)** — Standard readline binding CTRL-B BROKEN
-- `2026-10-14` Commented on **[anomalyco/opencode#55133](https://github.com/anomalyco/opencode/issues/55133#issuecomment-6164431002)** — desktop: sessions from unrelated folders merge into a shared &quot;global&quot; project
+- `2026-10-14` Commented on **[CherryHQ/cherry-studio#21223](https://github.com/CherryHQ/cherry-studio/pull/21223#issuecomment-6178210267)** — feat(xai-tools): add opt-in native Grok images in chat
+- `2026-10-14` Commented on **[anomalyco/opencode#55311](https://github.com/anomalyco/opencode/pull/55311#discussion_r4276026280)**
+- `2026-10-14` Commented on **[anomalyco/opencode#55367](https://github.com/anomalyco/opencode/issues/55367#issuecomment-6173800623)** — server (NixOS): watcher subscribes /nix/store as parent-directory watch for home-manager skill deri…
+- `2026-10-14` Commented on **[earendil-works/pi#10919](https://github.com/earendil-works/pi/issues/10919#issuecomment-6173839467)** — Skills: make invalid-name warnings actionable and clarify whether the skill loaded
 <!-- activity:end -->
 
 </details>
@@ -209,12 +194,12 @@ I write about the process on [dhpie.com](https://dhpie.com).
 ### `~/telemetry`
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Dante-dan/Dante-dan/main/assets/telemetry/stats-dark-ee56a4aa2314774d.svg" />
-  <img src="https://raw.githubusercontent.com/Dante-dan/Dante-dan/main/assets/telemetry/stats-light-29b05b886a4f4a93.svg" alt="Public GitHub contribution totals" width="390" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Dante-dan/Dante-dan/main/assets/telemetry/stats-dark-1ccddde8f6e3c3df.svg" />
+  <img src="https://raw.githubusercontent.com/Dante-dan/Dante-dan/main/assets/telemetry/stats-light-72eb6ff21444eb3c.svg" alt="Public GitHub contribution totals" width="390" />
 </picture>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Dante-dan/Dante-dan/main/assets/telemetry/time-dark-2acf304f5de6b4be.svg" />
-  <img src="https://raw.githubusercontent.com/Dante-dan/Dante-dan/main/assets/telemetry/time-light-c485641b7270f38f.svg" alt="Commit distribution by time of day, UTC+8" width="390" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Dante-dan/Dante-dan/main/assets/telemetry/time-dark-ec5209a9204ada30.svg" />
+  <img src="https://raw.githubusercontent.com/Dante-dan/Dante-dan/main/assets/telemetry/time-light-161843337fa99578.svg" alt="Commit distribution by time of day, UTC+8" width="390" />
 </picture>
 
 <img src="https://raw.githubusercontent.com/Dante-dan/Dante-dan/main/assets/telemetry/reactions-d590a147cdf95a68.svg" alt="Reactions received on recent public comments and issue bodies" width="650" />
@@ -222,7 +207,7 @@ I write about the process on [dhpie.com](https://dhpie.com).
 
 
 <!-- telemetry-refresh:start -->
-<sub>Fetched every 8 hours · last successful fetch<br>Totals: 2026-10-14 18:46:23 UTC · Commit hours: 2026-10-14 18:46:23 UTC · Reactions: 2026-10-14 18:46:23 UTC</sub>
+<sub>Fetched every 8 hours · last successful fetch<br>Totals: 2026-10-15 00:39:21 UTC · Commit hours: 2026-10-15 00:39:21 UTC · Reactions: 2026-10-15 00:39:21 UTC</sub>
 <!-- telemetry-refresh:end -->
 
 ### `~/arcade`
