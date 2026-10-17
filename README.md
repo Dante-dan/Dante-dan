@@ -75,13 +75,16 @@ I write about the process on [dhpie.com](https://dhpie.com).
 <sub>Public upstream PRs updated in the last 7 days · refreshed every 8 hours</sub>
 
 <!-- upstream:start -->
-<sub>105 PRs · 85 open · 20 merged</sub>
+<sub>103 PRs · 84 open · 19 merged</sub>
 
 | Status | Pull request | Updated (UTC) |
 | :--- | :--- | :--- |
+| `open` | **[makecindy/cindy#6319](https://github.com/makecindy/cindy/pull/6319)** — fix(local-models): keep Ollama DNS failures generic | 2026-10-17 |
+| `open` | **[heygen-com/hyperframes#5773](https://github.com/heygen-com/hyperframes/pull/5773)** — test: preserve browser cleanup and regression failure evidence | 2026-10-17 |
+| `open` | **[heygen-com/hyperframes#5183](https://github.com/heygen-com/hyperframes/pull/5183)** — fix(engine): include untimed overlays in HDR stacking | 2026-10-17 |
+| `open` | **[makecindy/cindy#4424](https://github.com/makecindy/cindy/pull/4424)** — feat(mobile): render Mermaid in Markdown file reader | 2026-10-17 |
+| `open` | **[heygen-com/hyperframes#5738](https://github.com/heygen-com/hyperframes/pull/5738)** — fix(skills): preserve approved videos across reassembly | 2026-10-17 |
 | `open` | **[apache/maka#6118](https://github.com/apache/maka/pull/6118)** — fix(storage): restore Codex import image attachments | 2026-10-16 |
-| `open` | **[heygen-com/hyperframes#5183](https://github.com/heygen-com/hyperframes/pull/5183)** — fix(engine): include untimed overlays in HDR stacking | 2026-10-16 |
-| `open` | **[makecindy/cindy#4424](https://github.com/makecindy/cindy/pull/4424)** — feat(mobile): render Mermaid in Markdown file reader | 2026-10-16 |
 | `open` | **[code-yeongyu/oh-my-openagent#9613](https://github.com/code-yeongyu/oh-my-openagent/pull/9613)** — test(senpi-task): make acknowledged fallback close deterministic | 2026-10-16 |
 | `open` | **[anomalyco/opencode#56198](https://github.com/anomalyco/opencode/pull/56198)** — fix(app): prepare side questions from shortcuts | 2026-10-16 |
 | `open` | **[CherryHQ/cherry-studio#20353](https://github.com/CherryHQ/cherry-studio/pull/20353)** — fix(ai-runtime): clamp agent output token limit | 2026-10-16 |
@@ -179,21 +182,16 @@ I write about the process on [dhpie.com](https://dhpie.com).
 | `open` | **[anomalyco/opencode#49808](https://github.com/anomalyco/opencode/pull/49808)** — fix(core): register compatible Responses provider | 2026-10-10 |
 | `open` | **[code-yeongyu/oh-my-openagent#9684](https://github.com/code-yeongyu/oh-my-openagent/pull/9684)** — feat(work-with-pr): batch PR watch fingerprints before detail reads | 2026-10-10 |
 | `open` | **[code-yeongyu/oh-my-openagent#9693](https://github.com/code-yeongyu/oh-my-openagent/pull/9693)** — feat(pr-watch): persist host polling and session wake receipts | 2026-10-10 |
-| `merged` | **[apache/maka#5900](https://github.com/apache/maka/pull/5900)** — fix(runtime): bound proxied fetch transport teardown | 2026-10-10 |
-| `open` | **[code-yeongyu/oh-my-openagent#9603](https://github.com/code-yeongyu/oh-my-openagent/pull/9603)** — perf(senpi): lazy-load mutation formatting outside startup | 2026-10-10 |
-| `open` | **[code-yeongyu/oh-my-openagent#9621](https://github.com/code-yeongyu/oh-my-openagent/pull/9621)** — fix(task): settle idle host child admission errors | 2026-10-10 |
-| `open` | **[code-yeongyu/oh-my-openagent#9604](https://github.com/code-yeongyu/oh-my-openagent/pull/9604)** — fix(lsp): retain writer error handling through teardown | 2026-10-10 |
-| `open` | **[CherryHQ/cherry-studio#21360](https://github.com/CherryHQ/cherry-studio/pull/21360)** — docs(tool-approval): clarify scheduled session delegation | 2026-10-10 |
 <!-- upstream:end -->
 
 <details>
 <summary>Recent conversations · issues, comments &amp; reviews</summary>
 
 <!-- activity:start -->
-- `2026-10-16` Commented on **[anomalyco/opencode#56150](https://github.com/anomalyco/opencode/issues/56150#issuecomment-6221890183)** — TUI: DialogPrompt ctrl+c bypasses busy guard
-- `2026-10-16` Commented on **[earendil-works/pi#11006](https://github.com/earendil-works/pi/issues/11006#issuecomment-6218147847)** — GitHub Copilot models enabled by an enterprise admin stay hidden after restart
-- `2026-10-16` Commented on **[earendil-works/pi#11021](https://github.com/earendil-works/pi/issues/11021#issuecomment-6218179761)** — openai: ChatGPT sign-in still uses 272K for GPT-6.1 Sol despite 500K account catalog
-- `2026-10-16` Commented on **[makecindy/cindy#6274](https://github.com/makecindy/cindy/pull/6274#issuecomment-6225989893)** — feat(desktop): add dictation to question answers
+- `2026-10-17` Commented on **[langchain-ai/langgraph#7592](https://github.com/langchain-ai/langgraph/issues/7592#issuecomment-6231328771)** — Regression in 1.1.7 (#7498): Second regenerate from latest checkpoint doesn&#x27;t create new branch
+- `2026-10-17` Commented on **[anomalyco/opencode#51071](https://github.com/anomalyco/opencode/issues/51071#issuecomment-6231192694)** — v2: subagent model overrides are accepted without user authorization
+- `2026-10-17` Commented on **[makecindy/cindy#4424](https://github.com/makecindy/cindy/pull/4424#discussion_r4301360184)**
+- `2026-10-17` Commented on **[earendil-works/pi#9549](https://github.com/earendil-works/pi/issues/9549#issuecomment-6227952816)** — \[fullscreen\] Large transcripts re-render every frame; every resize re-emits the whole transcript (1…
 <!-- activity:end -->
 
 </details>
@@ -214,20 +212,20 @@ I write about the process on [dhpie.com](https://dhpie.com).
 ### `~/telemetry`
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Dante-dan/Dante-dan/main/assets/telemetry/stats-dark-8e99adaeebf2ed39.svg" />
-  <img src="https://raw.githubusercontent.com/Dante-dan/Dante-dan/main/assets/telemetry/stats-light-f7dfbce20fa579f6.svg" alt="Public GitHub contribution totals" width="390" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Dante-dan/Dante-dan/main/assets/telemetry/stats-dark-c4287c25c675c7de.svg" />
+  <img src="https://raw.githubusercontent.com/Dante-dan/Dante-dan/main/assets/telemetry/stats-light-0d687824eb2fdd01.svg" alt="Public GitHub contribution totals" width="390" />
 </picture>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Dante-dan/Dante-dan/main/assets/telemetry/time-dark-b09e55c9ea67bbd4.svg" />
   <img src="https://raw.githubusercontent.com/Dante-dan/Dante-dan/main/assets/telemetry/time-light-44a0cea00ef782f0.svg" alt="Commit distribution by time of day, UTC+8" width="390" />
 </picture>
 
-<img src="https://raw.githubusercontent.com/Dante-dan/Dante-dan/main/assets/telemetry/reactions-ee6214dd57dd7c87.svg" alt="Reactions received on recent public comments and issue bodies" width="650" />
+<img src="https://raw.githubusercontent.com/Dante-dan/Dante-dan/main/assets/telemetry/reactions-342df98a5edd991e.svg" alt="Reactions received on recent public comments and issue bodies" width="650" />
 
 
 
 <!-- telemetry-refresh:start -->
-<sub>Fetched every 8 hours · last successful fetch<br>Totals: 2026-10-17 00:38:26 UTC · Commit hours: 2026-10-17 00:38:26 UTC · Reactions: 2026-10-17 00:38:26 UTC</sub>
+<sub>Fetched every 8 hours · last successful fetch<br>Totals: 2026-10-17 11:00:24 UTC · Commit hours: 2026-10-17 11:00:24 UTC · Reactions: 2026-10-17 11:00:24 UTC</sub>
 <!-- telemetry-refresh:end -->
 
 ### `~/arcade`
