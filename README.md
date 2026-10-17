@@ -43,7 +43,7 @@ I write about the process on [dhpie.com](https://dhpie.com).
 <!-- contributions:start -->
 <sub>Code accepted upstream · last 12 months</sub>
 
-<table align="left" width="270"><tr><td width="64" valign="middle"><a href="https://github.com/makecindy/cindy"><img src="assets/projects/makecindy--cindy.png" width="56" height="56" alt="Cindy icon" /></a></td><td width="200" valign="middle"><a href="https://github.com/makecindy/cindy"><strong>Cindy</strong></a><br /><sub><a href="https://github.com/makecindy/cindy/pull/6026">merged contribution</a><br /><a href="https://github.com/makecindy/cindy/pulls?q=is%3Apr+author%3ADante-dan">all PRs ↗</a></sub></td></tr></table>
+<table align="left" width="270"><tr><td width="64" valign="middle"><a href="https://github.com/makecindy/cindy"><img src="assets/projects/makecindy--cindy.png" width="56" height="56" alt="Cindy icon" /></a></td><td width="200" valign="middle"><a href="https://github.com/makecindy/cindy"><strong>Cindy</strong></a><br /><sub><a href="https://github.com/makecindy/cindy/pull/4553">merged contribution</a><br /><a href="https://github.com/makecindy/cindy/pulls?q=is%3Apr+author%3ADante-dan">all PRs ↗</a></sub></td></tr></table>
 <table align="left" width="270"><tr><td width="64" valign="middle"><a href="https://github.com/apache/maka"><img src="assets/projects/apache--maka.png" width="56" height="56" alt="maka icon" /></a></td><td width="200" valign="middle"><a href="https://github.com/apache/maka"><strong>maka</strong></a><br /><sub><a href="https://github.com/apache/maka/pull/6085">merged contribution</a><br /><a href="https://github.com/apache/maka/pulls?q=is%3Apr+author%3ADante-dan">all PRs ↗</a></sub></td></tr></table>
 <table align="left" width="270"><tr><td width="64" valign="middle"><a href="https://github.com/anomalyco/opencode"><img src="assets/projects/anomalyco--opencode.png" width="56" height="56" alt="opencode icon" /></a></td><td width="200" valign="middle"><a href="https://github.com/anomalyco/opencode"><strong>opencode</strong></a><br /><sub><a href="https://github.com/anomalyco/opencode/pull/55778">merged contribution</a><br /><a href="https://github.com/anomalyco/opencode/pulls?q=is%3Apr+author%3ADante-dan">all PRs ↗</a></sub></td></tr></table>
 <table align="left" width="270"><tr><td width="64" valign="middle"><a href="https://github.com/can1357/oh-my-pi"><img src="assets/projects/can1357--oh-my-pi.png" width="56" height="56" alt="oh-my-pi icon" /></a></td><td width="200" valign="middle"><a href="https://github.com/can1357/oh-my-pi"><strong>oh-my-pi</strong></a><br /><sub><a href="https://github.com/can1357/oh-my-pi/pull/14440">merged contribution</a><br /><a href="https://github.com/can1357/oh-my-pi/pulls?q=is%3Apr+author%3ADante-dan">all PRs ↗</a></sub></td></tr></table>
@@ -79,11 +79,18 @@ I write about the process on [dhpie.com](https://dhpie.com).
 
 | Status | Pull request | Updated (UTC) |
 | :--- | :--- | :--- |
-| `open` | **[makecindy/cindy#4377](https://github.com/makecindy/cindy/pull/4377)** — fix(codex): preserve compacted turn recovery after disconnect | 2026-10-16 |
-| `open` | **[makecindy/cindy#4553](https://github.com/makecindy/cindy/pull/4553)** — fix(desktop): clear event-backed attention after task deletion | 2026-10-16 |
+| `open` | **[apache/maka#6118](https://github.com/apache/maka/pull/6118)** — fix(storage): restore Codex import image attachments | 2026-10-16 |
+| `open` | **[heygen-com/hyperframes#5183](https://github.com/heygen-com/hyperframes/pull/5183)** — fix(engine): include untimed overlays in HDR stacking | 2026-10-16 |
 | `open` | **[makecindy/cindy#4424](https://github.com/makecindy/cindy/pull/4424)** — feat(mobile): render Mermaid in Markdown file reader | 2026-10-16 |
-| `open` | **[anomalyco/opencode#56199](https://github.com/anomalyco/opencode/pull/56199)** — fix(tui): disable unused child navigation defaults | 2026-10-16 |
+| `open` | **[code-yeongyu/oh-my-openagent#9613](https://github.com/code-yeongyu/oh-my-openagent/pull/9613)** — test(senpi-task): make acknowledged fallback close deterministic | 2026-10-16 |
 | `open` | **[anomalyco/opencode#56198](https://github.com/anomalyco/opencode/pull/56198)** — fix(app): prepare side questions from shortcuts | 2026-10-16 |
+| `open` | **[CherryHQ/cherry-studio#20353](https://github.com/CherryHQ/cherry-studio/pull/20353)** — fix(ai-runtime): clamp agent output token limit | 2026-10-16 |
+| `open` | **[CherryHQ/cherry-studio#20434](https://github.com/CherryHQ/cherry-studio/pull/20434)** — fix(ai): stabilize OpenRouter session routing | 2026-10-16 |
+| `open` | **[anomalyco/opencode#56215](https://github.com/anomalyco/opencode/pull/56215)** — fix(tui): preserve busy prompts on ctrl+c | 2026-10-16 |
+| `merged` | **[makecindy/cindy#4553](https://github.com/makecindy/cindy/pull/4553)** — fix(desktop): clear event-backed attention after task deletion | 2026-10-16 |
+| `open` | **[code-yeongyu/oh-my-openagent#10109](https://github.com/code-yeongyu/oh-my-openagent/pull/10109)** — fix(senpi): restore official R0 lifecycle QA fixtures | 2026-10-16 |
+| `open` | **[makecindy/cindy#4377](https://github.com/makecindy/cindy/pull/4377)** — fix(codex): preserve compacted turn recovery after disconnect | 2026-10-16 |
+| `open` | **[anomalyco/opencode#56199](https://github.com/anomalyco/opencode/pull/56199)** — fix(tui): disable unused child navigation defaults | 2026-10-16 |
 | `open` | **[CherryHQ/cherry-studio#21355](https://github.com/CherryHQ/cherry-studio/pull/21355)** — feat(web-search): choose search and fetch providers per assistant | 2026-10-16 |
 | `open` | **[alibaba/open-code-review#1637](https://github.com/alibaba/open-code-review/pull/1637)** — feat(action): split review and publication for fresh App tokens | 2026-10-16 |
 | `open` | **[can1357/oh-my-pi#14439](https://github.com/can1357/oh-my-pi/pull/14439)** — Coalesce identical advisor notes within a review batch | 2026-10-16 |
@@ -92,8 +99,6 @@ I write about the process on [dhpie.com](https://dhpie.com).
 | `open` | **[CherryHQ/cherry-studio#20349](https://github.com/CherryHQ/cherry-studio/pull/20349)** — fix(data-api): avoid overlapping timed-out reads | 2026-10-16 |
 | `open` | **[CherryHQ/cherry-studio#20747](https://github.com/CherryHQ/cherry-studio/pull/20747)** — feat(api-gateway): add knowledge base write routes | 2026-10-16 |
 | `open` | **[CherryHQ/cherry-studio#21212](https://github.com/CherryHQ/cherry-studio/pull/21212)** — feat(xai-tools): add native code execution opt-in | 2026-10-16 |
-| `open` | **[CherryHQ/cherry-studio#20434](https://github.com/CherryHQ/cherry-studio/pull/20434)** — fix(ai): stabilize OpenRouter session routing | 2026-10-16 |
-| `open` | **[apache/maka#6118](https://github.com/apache/maka/pull/6118)** — fix(storage): restore Codex import image attachments | 2026-10-16 |
 | `merged` | **[apache/maka#6085](https://github.com/apache/maka/pull/6085)** — fix(cli): preserve fullscreen editor and status on short terminals | 2026-10-16 |
 | `merged` | **[makecindy/cindy#4366](https://github.com/makecindy/cindy/pull/4366)** — fix(mobile): avoid stale device roster snapshot | 2026-10-16 |
 | `open` | **[CherryHQ/cherry-studio#20321](https://github.com/CherryHQ/cherry-studio/pull/20321)** — fix(chat-errors): normalize non-error throws | 2026-10-16 |
@@ -110,9 +115,7 @@ I write about the process on [dhpie.com](https://dhpie.com).
 | `merged` | **[code-yeongyu/oh-my-openagent#9624](https://github.com/code-yeongyu/oh-my-openagent/pull/9624)** — refactor(senpi): defer the live thread RPC client | 2026-10-15 |
 | `merged` | **[CherryHQ/cherry-studio#20281](https://github.com/CherryHQ/cherry-studio/pull/20281)** — fix(ai-core): repair restored tool result names | 2026-10-15 |
 | `open` | **[heygen-com/hyperframes#5594](https://github.com/heygen-com/hyperframes/pull/5594)** — feat(studio): show canvas gesture position, size and rotation | 2026-10-15 |
-| `open` | **[CherryHQ/cherry-studio#20353](https://github.com/CherryHQ/cherry-studio/pull/20353)** — fix(ai-runtime): clamp agent output token limit | 2026-10-15 |
 | `open` | **[anomalyco/opencode#55615](https://github.com/anomalyco/opencode/pull/55615)** — fix(app): honor configured default agent | 2026-10-15 |
-| `open` | **[heygen-com/hyperframes#5183](https://github.com/heygen-com/hyperframes/pull/5183)** — fix(engine): include untimed overlays in HDR stacking | 2026-10-15 |
 | `open` | **[CherryHQ/cherry-studio#20386](https://github.com/CherryHQ/cherry-studio/pull/20386)** — fix(new-api): restore Gemini web search through relays | 2026-10-15 |
 | `open` | **[CherryHQ/cherry-studio#20486](https://github.com/CherryHQ/cherry-studio/pull/20486)** — fix(knowledge): handle oversized Zhipu reranks | 2026-10-15 |
 | `open` | **[apache/maka#5278](https://github.com/apache/maka/pull/5278)** — fix(runtime): bound OpenAI Chat image tool results | 2026-10-15 |
@@ -135,7 +138,6 @@ I write about the process on [dhpie.com](https://dhpie.com).
 | `open` | **[farion1231/cc-switch#8232](https://github.com/farion1231/cc-switch/pull/8232)** — feat(codex): persist restart notice dismissal preference | 2026-10-14 |
 | `open` | **[apache/maka#5248](https://github.com/apache/maka/pull/5248)** — feat(runtime): verify background HTTP readiness | 2026-10-14 |
 | `open` | **[heygen-com/hyperframes#5430](https://github.com/heygen-com/hyperframes/pull/5430)** — fix(engine): await seek completion during drawElement batches | 2026-10-14 |
-| `open` | **[code-yeongyu/oh-my-openagent#10109](https://github.com/code-yeongyu/oh-my-openagent/pull/10109)** — fix(senpi): restore official R0 lifecycle QA fixtures | 2026-10-13 |
 | `open` | **[CherryHQ/cherry-studio#21318](https://github.com/CherryHQ/cherry-studio/pull/21318)** — fix(sensenova-images): send image edits as JSON | 2026-10-13 |
 | `open` | **[anomalyco/opencode#55039](https://github.com/anomalyco/opencode/pull/55039)** — fix(core): stabilize capped file search and prioritize source trees | 2026-10-13 |
 | `open` | **[nuxt/modules#1059](https://github.com/nuxt/modules/pull/1059)** — feat: add \`nuxt-inline-scripts\` | 2026-10-13 |
@@ -181,19 +183,17 @@ I write about the process on [dhpie.com](https://dhpie.com).
 | `open` | **[code-yeongyu/oh-my-openagent#9603](https://github.com/code-yeongyu/oh-my-openagent/pull/9603)** — perf(senpi): lazy-load mutation formatting outside startup | 2026-10-10 |
 | `open` | **[code-yeongyu/oh-my-openagent#9621](https://github.com/code-yeongyu/oh-my-openagent/pull/9621)** — fix(task): settle idle host child admission errors | 2026-10-10 |
 | `open` | **[code-yeongyu/oh-my-openagent#9604](https://github.com/code-yeongyu/oh-my-openagent/pull/9604)** — fix(lsp): retain writer error handling through teardown | 2026-10-10 |
-| `open` | **[code-yeongyu/oh-my-openagent#9613](https://github.com/code-yeongyu/oh-my-openagent/pull/9613)** — test(senpi-task): make acknowledged fallback close deterministic | 2026-10-10 |
 | `open` | **[CherryHQ/cherry-studio#21360](https://github.com/CherryHQ/cherry-studio/pull/21360)** — docs(tool-approval): clarify scheduled session delegation | 2026-10-10 |
-| `merged` | **[affaan-m/ECC#3119](https://github.com/affaan-m/ECC/pull/3119)** — fix(install): keep target-compatible modules with cross-harness dependencies | 2026-10-10 |
 <!-- upstream:end -->
 
 <details>
 <summary>Recent conversations · issues, comments &amp; reviews</summary>
 
 <!-- activity:start -->
-- `2026-10-16` Commented on **[makecindy/cindy#4424](https://github.com/makecindy/cindy/pull/4424#discussion_r4297417364)**
-- `2026-10-16` Commented on **[CherryHQ/cherry-studio#21355](https://github.com/CherryHQ/cherry-studio/pull/21355#discussion_r4297358471)**
-- `2026-10-15` Commented on **[anomalyco/opencode#55759](https://github.com/anomalyco/opencode/issues/55759#issuecomment-6197655655)** — \[FEATURE\]: Allow passing system prompt to CLI separately from user prompt
-- `2026-10-15` Commented on **[anomalyco/opencode#55768](https://github.com/anomalyco/opencode/issues/55768#issuecomment-6197069912)** — \[Bug\]: ctx.model.transform serves placeholder limit.context (200000) for config-defined models — pe…
+- `2026-10-16` Commented on **[anomalyco/opencode#56150](https://github.com/anomalyco/opencode/issues/56150#issuecomment-6221890183)** — TUI: DialogPrompt ctrl+c bypasses busy guard
+- `2026-10-16` Commented on **[earendil-works/pi#11006](https://github.com/earendil-works/pi/issues/11006#issuecomment-6218147847)** — GitHub Copilot models enabled by an enterprise admin stay hidden after restart
+- `2026-10-16` Commented on **[earendil-works/pi#11021](https://github.com/earendil-works/pi/issues/11021#issuecomment-6218179761)** — openai: ChatGPT sign-in still uses 272K for GPT-6.1 Sol despite 500K account catalog
+- `2026-10-16` Commented on **[makecindy/cindy#6274](https://github.com/makecindy/cindy/pull/6274#issuecomment-6225989893)** — feat(desktop): add dictation to question answers
 <!-- activity:end -->
 
 </details>
@@ -214,12 +214,12 @@ I write about the process on [dhpie.com](https://dhpie.com).
 ### `~/telemetry`
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Dante-dan/Dante-dan/main/assets/telemetry/stats-dark-4ebfb8a99fadb660.svg" />
-  <img src="https://raw.githubusercontent.com/Dante-dan/Dante-dan/main/assets/telemetry/stats-light-da35c4d144dce590.svg" alt="Public GitHub contribution totals" width="390" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Dante-dan/Dante-dan/main/assets/telemetry/stats-dark-8e99adaeebf2ed39.svg" />
+  <img src="https://raw.githubusercontent.com/Dante-dan/Dante-dan/main/assets/telemetry/stats-light-f7dfbce20fa579f6.svg" alt="Public GitHub contribution totals" width="390" />
 </picture>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Dante-dan/Dante-dan/main/assets/telemetry/time-dark-0917a1fdf6409bb5.svg" />
-  <img src="https://raw.githubusercontent.com/Dante-dan/Dante-dan/main/assets/telemetry/time-light-0b5db9cc0a3f8c5d.svg" alt="Commit distribution by time of day, UTC+8" width="390" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Dante-dan/Dante-dan/main/assets/telemetry/time-dark-b09e55c9ea67bbd4.svg" />
+  <img src="https://raw.githubusercontent.com/Dante-dan/Dante-dan/main/assets/telemetry/time-light-44a0cea00ef782f0.svg" alt="Commit distribution by time of day, UTC+8" width="390" />
 </picture>
 
 <img src="https://raw.githubusercontent.com/Dante-dan/Dante-dan/main/assets/telemetry/reactions-ee6214dd57dd7c87.svg" alt="Reactions received on recent public comments and issue bodies" width="650" />
@@ -227,7 +227,7 @@ I write about the process on [dhpie.com](https://dhpie.com).
 
 
 <!-- telemetry-refresh:start -->
-<sub>Fetched every 8 hours · last successful fetch<br>Totals: 2026-10-16 18:13:40 UTC · Commit hours: 2026-10-16 18:13:40 UTC · Reactions: 2026-10-16 18:13:40 UTC</sub>
+<sub>Fetched every 8 hours · last successful fetch<br>Totals: 2026-10-17 00:38:26 UTC · Commit hours: 2026-10-17 00:38:26 UTC · Reactions: 2026-10-17 00:38:26 UTC</sub>
 <!-- telemetry-refresh:end -->
 
 ### `~/arcade`
