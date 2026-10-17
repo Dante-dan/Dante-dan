@@ -43,6 +43,7 @@ I write about the process on [dhpie.com](https://dhpie.com).
 <!-- contributions:start -->
 <sub>Code accepted upstream · last 12 months</sub>
 
+<table align="left" width="270"><tr><td width="64" valign="middle"><a href="https://github.com/farion1231/cc-switch"><img src="assets/projects/farion1231--cc-switch.png" width="56" height="56" alt="cc-switch icon" /></a></td><td width="200" valign="middle"><a href="https://github.com/farion1231/cc-switch"><strong>cc-switch</strong></a><br /><sub><a href="https://github.com/farion1231/cc-switch/pull/8254">merged contribution</a><br /><a href="https://github.com/farion1231/cc-switch/pulls?q=is%3Apr+author%3ADante-dan">all PRs ↗</a></sub></td></tr></table>
 <table align="left" width="270"><tr><td width="64" valign="middle"><a href="https://github.com/makecindy/cindy"><img src="assets/projects/makecindy--cindy.png" width="56" height="56" alt="Cindy icon" /></a></td><td width="200" valign="middle"><a href="https://github.com/makecindy/cindy"><strong>Cindy</strong></a><br /><sub><a href="https://github.com/makecindy/cindy/pull/4553">merged contribution</a><br /><a href="https://github.com/makecindy/cindy/pulls?q=is%3Apr+author%3ADante-dan">all PRs ↗</a></sub></td></tr></table>
 <table align="left" width="270"><tr><td width="64" valign="middle"><a href="https://github.com/apache/maka"><img src="assets/projects/apache--maka.png" width="56" height="56" alt="maka icon" /></a></td><td width="200" valign="middle"><a href="https://github.com/apache/maka"><strong>maka</strong></a><br /><sub><a href="https://github.com/apache/maka/pull/6085">merged contribution</a><br /><a href="https://github.com/apache/maka/pulls?q=is%3Apr+author%3ADante-dan">all PRs ↗</a></sub></td></tr></table>
 <table align="left" width="270"><tr><td width="64" valign="middle"><a href="https://github.com/anomalyco/opencode"><img src="assets/projects/anomalyco--opencode.png" width="56" height="56" alt="opencode icon" /></a></td><td width="200" valign="middle"><a href="https://github.com/anomalyco/opencode"><strong>opencode</strong></a><br /><sub><a href="https://github.com/anomalyco/opencode/pull/55778">merged contribution</a><br /><a href="https://github.com/anomalyco/opencode/pulls?q=is%3Apr+author%3ADante-dan">all PRs ↗</a></sub></td></tr></table>
@@ -75,14 +76,15 @@ I write about the process on [dhpie.com](https://dhpie.com).
 <sub>Public upstream PRs updated in the last 7 days · refreshed every 8 hours</sub>
 
 <!-- upstream:start -->
-<sub>103 PRs · 84 open · 19 merged</sub>
+<sub>103 PRs · 83 open · 20 merged</sub>
 
 | Status | Pull request | Updated (UTC) |
 | :--- | :--- | :--- |
+| `open` | **[makecindy/cindy#4424](https://github.com/makecindy/cindy/pull/4424)** — feat(mobile): render Mermaid in Markdown file reader | 2026-10-17 |
+| `merged` | **[farion1231/cc-switch#8254](https://github.com/farion1231/cc-switch/pull/8254)** — fix(hermes): read live WSL databases inside their distribution | 2026-10-17 |
 | `open` | **[makecindy/cindy#6319](https://github.com/makecindy/cindy/pull/6319)** — fix(local-models): keep Ollama DNS failures generic | 2026-10-17 |
 | `open` | **[heygen-com/hyperframes#5773](https://github.com/heygen-com/hyperframes/pull/5773)** — test: preserve browser cleanup and regression failure evidence | 2026-10-17 |
 | `open` | **[heygen-com/hyperframes#5183](https://github.com/heygen-com/hyperframes/pull/5183)** — fix(engine): include untimed overlays in HDR stacking | 2026-10-17 |
-| `open` | **[makecindy/cindy#4424](https://github.com/makecindy/cindy/pull/4424)** — feat(mobile): render Mermaid in Markdown file reader | 2026-10-17 |
 | `open` | **[heygen-com/hyperframes#5738](https://github.com/heygen-com/hyperframes/pull/5738)** — fix(skills): preserve approved videos across reassembly | 2026-10-17 |
 | `open` | **[apache/maka#6118](https://github.com/apache/maka/pull/6118)** — fix(storage): restore Codex import image attachments | 2026-10-16 |
 | `open` | **[code-yeongyu/oh-my-openagent#9613](https://github.com/code-yeongyu/oh-my-openagent/pull/9613)** — test(senpi-task): make acknowledged fallback close deterministic | 2026-10-16 |
@@ -97,7 +99,6 @@ I write about the process on [dhpie.com](https://dhpie.com).
 | `open` | **[CherryHQ/cherry-studio#21355](https://github.com/CherryHQ/cherry-studio/pull/21355)** — feat(web-search): choose search and fetch providers per assistant | 2026-10-16 |
 | `open` | **[alibaba/open-code-review#1637](https://github.com/alibaba/open-code-review/pull/1637)** — feat(action): split review and publication for fresh App tokens | 2026-10-16 |
 | `open` | **[can1357/oh-my-pi#14439](https://github.com/can1357/oh-my-pi/pull/14439)** — Coalesce identical advisor notes within a review batch | 2026-10-16 |
-| `open` | **[farion1231/cc-switch#8254](https://github.com/farion1231/cc-switch/pull/8254)** — fix(hermes): read live WSL databases inside their distribution | 2026-10-16 |
 | `merged` | **[makecindy/cindy#6026](https://github.com/makecindy/cindy/pull/6026)** — fix(providers): preserve unknown image input in native bridges | 2026-10-16 |
 | `open` | **[CherryHQ/cherry-studio#20349](https://github.com/CherryHQ/cherry-studio/pull/20349)** — fix(data-api): avoid overlapping timed-out reads | 2026-10-16 |
 | `open` | **[CherryHQ/cherry-studio#20747](https://github.com/CherryHQ/cherry-studio/pull/20747)** — feat(api-gateway): add knowledge base write routes | 2026-10-16 |
@@ -188,10 +189,10 @@ I write about the process on [dhpie.com](https://dhpie.com).
 <summary>Recent conversations · issues, comments &amp; reviews</summary>
 
 <!-- activity:start -->
-- `2026-10-17` Commented on **[langchain-ai/langgraph#7592](https://github.com/langchain-ai/langgraph/issues/7592#issuecomment-6231328771)** — Regression in 1.1.7 (#7498): Second regenerate from latest checkpoint doesn&#x27;t create new branch
-- `2026-10-17` Commented on **[anomalyco/opencode#51071](https://github.com/anomalyco/opencode/issues/51071#issuecomment-6231192694)** — v2: subagent model overrides are accepted without user authorization
-- `2026-10-17` Commented on **[makecindy/cindy#4424](https://github.com/makecindy/cindy/pull/4424#discussion_r4301360184)**
-- `2026-10-17` Commented on **[earendil-works/pi#9549](https://github.com/earendil-works/pi/issues/9549#issuecomment-6227952816)** — \[fullscreen\] Large transcripts re-render every frame; every resize re-emits the whole transcript (1…
+- `2026-10-17` Commented on **[langchain-ai/langgraph#7658](https://github.com/langchain-ai/langgraph/issues/7658#issuecomment-6237071346)** — Allow invoke API with command to update subGraph state
+- `2026-10-17` Commented on **[earendil-works/pi#10919](https://github.com/earendil-works/pi/issues/10919#issuecomment-6234816451)** — Skills: make invalid-name warnings actionable and clarify whether the skill loaded
+- `2026-10-17` Commented on **[makecindy/cindy#6339](https://github.com/makecindy/cindy/issues/6339#issuecomment-6234676280)** — bug: 远程 Agent 在 Windows、任务在 Mac 时，Claude Code 的临时目录路径会被当成相对路径写进项目（代码推断，待复现）
+- `2026-10-17` Commented on **[CherryHQ/cherry-studio#21901](https://github.com/CherryHQ/cherry-studio/issues/21901#issuecomment-6234538614)** — \[Bug\]: DSH bridge closes mid-turn with &quot;dsh bridge disconnected&quot; / &quot;JSON-RPC input closed&quot; and no c…
 <!-- activity:end -->
 
 </details>
@@ -203,21 +204,21 @@ I write about the process on [dhpie.com](https://dhpie.com).
 <sub>Latest writing from [dhpie.com](https://dhpie.com)</sub>
 
 <!-- notes:start -->
+- [开源贡献日报 · 2026-10-17](https://dhpie.com/posts/cn/open-source-daily-2026-10-17)
 - [开源贡献日报 · 2026-10-16](https://dhpie.com/posts/cn/open-source-daily-2026-10-16)
 - [开源贡献日报 · 2026-10-15](https://dhpie.com/posts/cn/open-source-daily-2026-10-15)
 - [开源贡献日报 · 2026-10-07](https://dhpie.com/posts/cn/open-source-daily-2026-10-07)
-- [开源贡献日报 · 2026-10-09](https://dhpie.com/posts/cn/open-source-daily-2026-10-09)
 <!-- notes:end -->
 
 ### `~/telemetry`
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Dante-dan/Dante-dan/main/assets/telemetry/stats-dark-c4287c25c675c7de.svg" />
-  <img src="https://raw.githubusercontent.com/Dante-dan/Dante-dan/main/assets/telemetry/stats-light-0d687824eb2fdd01.svg" alt="Public GitHub contribution totals" width="390" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Dante-dan/Dante-dan/main/assets/telemetry/stats-dark-76ce5c89dce15d94.svg" />
+  <img src="https://raw.githubusercontent.com/Dante-dan/Dante-dan/main/assets/telemetry/stats-light-b51343d19fecd12d.svg" alt="Public GitHub contribution totals" width="390" />
 </picture>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Dante-dan/Dante-dan/main/assets/telemetry/time-dark-b09e55c9ea67bbd4.svg" />
-  <img src="https://raw.githubusercontent.com/Dante-dan/Dante-dan/main/assets/telemetry/time-light-44a0cea00ef782f0.svg" alt="Commit distribution by time of day, UTC+8" width="390" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Dante-dan/Dante-dan/main/assets/telemetry/time-dark-5058b37b4ea235f1.svg" />
+  <img src="https://raw.githubusercontent.com/Dante-dan/Dante-dan/main/assets/telemetry/time-light-9e1e183d571873c4.svg" alt="Commit distribution by time of day, UTC+8" width="390" />
 </picture>
 
 <img src="https://raw.githubusercontent.com/Dante-dan/Dante-dan/main/assets/telemetry/reactions-342df98a5edd991e.svg" alt="Reactions received on recent public comments and issue bodies" width="650" />
@@ -225,7 +226,7 @@ I write about the process on [dhpie.com](https://dhpie.com).
 
 
 <!-- telemetry-refresh:start -->
-<sub>Fetched every 8 hours · last successful fetch<br>Totals: 2026-10-17 11:00:24 UTC · Commit hours: 2026-10-17 11:00:24 UTC · Reactions: 2026-10-17 11:00:24 UTC</sub>
+<sub>Fetched every 8 hours · last successful fetch<br>Totals: 2026-10-17 17:22:49 UTC · Commit hours: 2026-10-17 17:22:49 UTC · Reactions: 2026-10-17 17:22:49 UTC</sub>
 <!-- telemetry-refresh:end -->
 
 ### `~/arcade`
