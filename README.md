@@ -76,18 +76,22 @@ I write about the process on [dhpie.com](https://dhpie.com).
 <sub>Public upstream PRs updated in the last 7 days · refreshed every 8 hours</sub>
 
 <!-- upstream:start -->
-<sub>103 PRs · 83 open · 20 merged</sub>
+<sub>95 PRs · 76 open · 19 merged</sub>
 
 | Status | Pull request | Updated (UTC) |
 | :--- | :--- | :--- |
+| `open` | **[code-yeongyu/oh-my-openagent#9613](https://github.com/code-yeongyu/oh-my-openagent/pull/9613)** — test(senpi-task): make acknowledged fallback close deterministic | 2026-10-17 |
+| `open` | **[heygen-com/hyperframes#5183](https://github.com/heygen-com/hyperframes/pull/5183)** — fix(engine): include untimed overlays in HDR stacking | 2026-10-17 |
+| `open` | **[heygen-com/hyperframes#5773](https://github.com/heygen-com/hyperframes/pull/5773)** — test: preserve browser cleanup and regression failure evidence | 2026-10-17 |
+| `open` | **[heygen-com/hyperframes#5738](https://github.com/heygen-com/hyperframes/pull/5738)** — fix(skills): preserve approved videos across reassembly | 2026-10-17 |
+| `open` | **[heygen-com/hyperframes#5594](https://github.com/heygen-com/hyperframes/pull/5594)** — feat(studio): show canvas gesture position, size and rotation | 2026-10-17 |
+| `open` | **[apache/maka#6145](https://github.com/apache/maka/pull/6145)** — fix(ui): preserve running tool state when reconnecting | 2026-10-17 |
+| `open` | **[anomalyco/opencode#56524](https://github.com/anomalyco/opencode/pull/56524)** — fix(core): store tool output in workspace environments | 2026-10-17 |
+| `open` | **[anomalyco/opencode#56511](https://github.com/anomalyco/opencode/pull/56511)** — fix(core): enforce Code Mode deny policies | 2026-10-17 |
 | `open` | **[makecindy/cindy#4424](https://github.com/makecindy/cindy/pull/4424)** — feat(mobile): render Mermaid in Markdown file reader | 2026-10-17 |
 | `merged` | **[farion1231/cc-switch#8254](https://github.com/farion1231/cc-switch/pull/8254)** — fix(hermes): read live WSL databases inside their distribution | 2026-10-17 |
 | `open` | **[makecindy/cindy#6319](https://github.com/makecindy/cindy/pull/6319)** — fix(local-models): keep Ollama DNS failures generic | 2026-10-17 |
-| `open` | **[heygen-com/hyperframes#5773](https://github.com/heygen-com/hyperframes/pull/5773)** — test: preserve browser cleanup and regression failure evidence | 2026-10-17 |
-| `open` | **[heygen-com/hyperframes#5183](https://github.com/heygen-com/hyperframes/pull/5183)** — fix(engine): include untimed overlays in HDR stacking | 2026-10-17 |
-| `open` | **[heygen-com/hyperframes#5738](https://github.com/heygen-com/hyperframes/pull/5738)** — fix(skills): preserve approved videos across reassembly | 2026-10-17 |
 | `open` | **[apache/maka#6118](https://github.com/apache/maka/pull/6118)** — fix(storage): restore Codex import image attachments | 2026-10-16 |
-| `open` | **[code-yeongyu/oh-my-openagent#9613](https://github.com/code-yeongyu/oh-my-openagent/pull/9613)** — test(senpi-task): make acknowledged fallback close deterministic | 2026-10-16 |
 | `open` | **[anomalyco/opencode#56198](https://github.com/anomalyco/opencode/pull/56198)** — fix(app): prepare side questions from shortcuts | 2026-10-16 |
 | `open` | **[CherryHQ/cherry-studio#20353](https://github.com/CherryHQ/cherry-studio/pull/20353)** — fix(ai-runtime): clamp agent output token limit | 2026-10-16 |
 | `open` | **[CherryHQ/cherry-studio#20434](https://github.com/CherryHQ/cherry-studio/pull/20434)** — fix(ai): stabilize OpenRouter session routing | 2026-10-16 |
@@ -118,7 +122,6 @@ I write about the process on [dhpie.com](https://dhpie.com).
 | `open` | **[CherryHQ/cherry-studio#21133](https://github.com/CherryHQ/cherry-studio/pull/21133)** — feat(agent-knowledge): add per-binding read/write permissions | 2026-10-15 |
 | `merged` | **[code-yeongyu/oh-my-openagent#9624](https://github.com/code-yeongyu/oh-my-openagent/pull/9624)** — refactor(senpi): defer the live thread RPC client | 2026-10-15 |
 | `merged` | **[CherryHQ/cherry-studio#20281](https://github.com/CherryHQ/cherry-studio/pull/20281)** — fix(ai-core): repair restored tool result names | 2026-10-15 |
-| `open` | **[heygen-com/hyperframes#5594](https://github.com/heygen-com/hyperframes/pull/5594)** — feat(studio): show canvas gesture position, size and rotation | 2026-10-15 |
 | `open` | **[anomalyco/opencode#55615](https://github.com/anomalyco/opencode/pull/55615)** — fix(app): honor configured default agent | 2026-10-15 |
 | `open` | **[CherryHQ/cherry-studio#20386](https://github.com/CherryHQ/cherry-studio/pull/20386)** — fix(new-api): restore Gemini web search through relays | 2026-10-15 |
 | `open` | **[CherryHQ/cherry-studio#20486](https://github.com/CherryHQ/cherry-studio/pull/20486)** — fix(knowledge): handle oversized Zhipu reranks | 2026-10-15 |
@@ -172,27 +175,16 @@ I write about the process on [dhpie.com](https://dhpie.com).
 | `open` | **[cloudflare/security-audit-skill#74](https://github.com/cloudflare/security-audit-skill/pull/74)** — feat: model shared validation blockers in findings | 2026-10-11 |
 | `merged` | **[apache/maka#5202](https://github.com/apache/maka/pull/5202)** — fix(desktop): update Windows taskbar app icon | 2026-10-11 |
 | `merged` | **[affaan-m/ECC#3491](https://github.com/affaan-m/ECC/pull/3491)** — fix(hooks): price Claude 5.5 per deduplicated request | 2026-10-11 |
-| `merged` | **[can1357/oh-my-pi#14558](https://github.com/can1357/oh-my-pi/pull/14558)** — fix(coding-agent): show resolved diagnostic and SSH config paths | 2026-10-10 |
-| `open` | **[code-yeongyu/oh-my-openagent#9437](https://github.com/code-yeongyu/oh-my-openagent/pull/9437)** — test(team-mode): make fallback cancellation gate deterministic | 2026-10-10 |
-| `open` | **[anomalyco/opencode#53266](https://github.com/anomalyco/opencode/pull/53266)** — fix(core): disable tool selection in compaction summaries | 2026-10-10 |
-| `open` | **[anomalyco/opencode#52635](https://github.com/anomalyco/opencode/pull/52635)** — fix(core): release detached location graphs after reload | 2026-10-10 |
-| `open` | **[anomalyco/opencode#52187](https://github.com/anomalyco/opencode/pull/52187)** — fix(tui): release oversized session message caches on switch | 2026-10-10 |
-| `open` | **[anomalyco/opencode#52145](https://github.com/anomalyco/opencode/pull/52145)** — fix(core): show structured provider error details | 2026-10-10 |
-| `open` | **[anomalyco/opencode#51528](https://github.com/anomalyco/opencode/pull/51528)** — fix(app): keep workspace message text readable on accent themes | 2026-10-10 |
-| `open` | **[anomalyco/opencode#49943](https://github.com/anomalyco/opencode/pull/49943)** — fix(tui): widen tab close target | 2026-10-10 |
-| `open` | **[anomalyco/opencode#49808](https://github.com/anomalyco/opencode/pull/49808)** — fix(core): register compatible Responses provider | 2026-10-10 |
-| `open` | **[code-yeongyu/oh-my-openagent#9684](https://github.com/code-yeongyu/oh-my-openagent/pull/9684)** — feat(work-with-pr): batch PR watch fingerprints before detail reads | 2026-10-10 |
-| `open` | **[code-yeongyu/oh-my-openagent#9693](https://github.com/code-yeongyu/oh-my-openagent/pull/9693)** — feat(pr-watch): persist host polling and session wake receipts | 2026-10-10 |
 <!-- upstream:end -->
 
 <details>
 <summary>Recent conversations · issues, comments &amp; reviews</summary>
 
 <!-- activity:start -->
-- `2026-10-17` Commented on **[langchain-ai/langgraph#7658](https://github.com/langchain-ai/langgraph/issues/7658#issuecomment-6237071346)** — Allow invoke API with command to update subGraph state
-- `2026-10-17` Commented on **[earendil-works/pi#10919](https://github.com/earendil-works/pi/issues/10919#issuecomment-6234816451)** — Skills: make invalid-name warnings actionable and clarify whether the skill loaded
-- `2026-10-17` Commented on **[makecindy/cindy#6339](https://github.com/makecindy/cindy/issues/6339#issuecomment-6234676280)** — bug: 远程 Agent 在 Windows、任务在 Mac 时，Claude Code 的临时目录路径会被当成相对路径写进项目（代码推断，待复现）
-- `2026-10-17` Commented on **[CherryHQ/cherry-studio#21901](https://github.com/CherryHQ/cherry-studio/issues/21901#issuecomment-6234538614)** — \[Bug\]: DSH bridge closes mid-turn with &quot;dsh bridge disconnected&quot; / &quot;JSON-RPC input closed&quot; and no c…
+- `2026-10-17` Commented on **[anomalyco/opencode#56511](https://github.com/anomalyco/opencode/pull/56511#discussion_r4304808941)**
+- `2026-10-17` Commented on **[anomalyco/opencode#56524](https://github.com/anomalyco/opencode/pull/56524#discussion_r4304807674)**
+- `2026-10-17` Commented on **[anomalyco/opencode#56502](https://github.com/anomalyco/opencode/issues/56502#issuecomment-6242323388)** — session permissions: deny rules don&#x27;t bind API-created sessions (varying toolset + bash/shell name …
+- `2026-10-17` Commented on **[anomalyco/opencode#56466](https://github.com/anomalyco/opencode/issues/56466#issuecomment-6240023620)** — core: shell and tool output files ignore workspace placement
 <!-- activity:end -->
 
 </details>
@@ -213,8 +205,8 @@ I write about the process on [dhpie.com](https://dhpie.com).
 ### `~/telemetry`
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Dante-dan/Dante-dan/main/assets/telemetry/stats-dark-76ce5c89dce15d94.svg" />
-  <img src="https://raw.githubusercontent.com/Dante-dan/Dante-dan/main/assets/telemetry/stats-light-b51343d19fecd12d.svg" alt="Public GitHub contribution totals" width="390" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Dante-dan/Dante-dan/main/assets/telemetry/stats-dark-cab8e10a656d196a.svg" />
+  <img src="https://raw.githubusercontent.com/Dante-dan/Dante-dan/main/assets/telemetry/stats-light-beea30fe0078c287.svg" alt="Public GitHub contribution totals" width="390" />
 </picture>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Dante-dan/Dante-dan/main/assets/telemetry/time-dark-5058b37b4ea235f1.svg" />
@@ -226,7 +218,7 @@ I write about the process on [dhpie.com](https://dhpie.com).
 
 
 <!-- telemetry-refresh:start -->
-<sub>Fetched every 8 hours · last successful fetch<br>Totals: 2026-10-17 17:22:49 UTC · Commit hours: 2026-10-17 17:22:49 UTC · Reactions: 2026-10-17 17:22:49 UTC</sub>
+<sub>Fetched every 8 hours · last successful fetch<br>Totals: 2026-10-18 00:07:56 UTC · Commit hours: 2026-10-18 00:07:56 UTC · Reactions: 2026-10-18 00:07:56 UTC</sub>
 <!-- telemetry-refresh:end -->
 
 ### `~/arcade`
