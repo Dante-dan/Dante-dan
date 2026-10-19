@@ -76,7 +76,7 @@ I write about the process on [dhpie.com](https://dhpie.com).
 <sub>Public upstream PRs updated in the last 7 days · refreshed every 8 hours</sub>
 
 <!-- upstream:start -->
-<sub>87 PRs · 67 open · 20 merged</sub>
+<sub>83 PRs · 63 open · 20 merged</sub>
 
 | Status | Pull request | Updated (UTC) |
 | :--- | :--- | :--- |
@@ -163,20 +163,16 @@ I write about the process on [dhpie.com](https://dhpie.com).
 | `open` | **[anomalyco/opencode#54942](https://github.com/anomalyco/opencode/pull/54942)** — fix(core): refresh MCP tools before session snapshots | 2026-10-12 |
 | `open` | **[anomalyco/opencode#54939](https://github.com/anomalyco/opencode/pull/54939)** — fix(app): preserve KaTeX MathML annotations | 2026-10-12 |
 | `open` | **[anomalyco/opencode#54937](https://github.com/anomalyco/opencode/pull/54937)** — fix(core): migrate legacy message ID prefixes | 2026-10-12 |
-| `open` | **[anomalyco/opencode#54883](https://github.com/anomalyco/opencode/pull/54883)** — fix(client): preserve initializing service contenders | 2026-10-12 |
-| `open` | **[CherryHQ/cherry-studio#21317](https://github.com/CherryHQ/cherry-studio/pull/21317)** — fix(agent-stream): reject billed empty assistant completions | 2026-10-12 |
-| `open` | **[anomalyco/opencode#54878](https://github.com/anomalyco/opencode/pull/54878)** — fix(core): skip missing locations during reload | 2026-10-12 |
-| `open` | **[anomalyco/opencode#54877](https://github.com/anomalyco/opencode/pull/54877)** — fix(desktop): sign zip data descriptors | 2026-10-12 |
 <!-- upstream:end -->
 
 <details>
 <summary>Recent conversations · issues, comments &amp; reviews</summary>
 
 <!-- activity:start -->
+- `2026-10-19` Commented on **[langchain-ai/langgraph#9345](https://github.com/langchain-ai/langgraph/issues/9345#issuecomment-6268255614)** — \`get\_state()\` does not report an interrupt raised inside a node&#x27;s \`error\_handler\`
+- `2026-10-19` Commented on **[earendil-works/pi#11091](https://github.com/earendil-works/pi/issues/11091#issuecomment-6268561268)** — anthropic-messages: mid-conversation system message lands before a user message when the next assis…
+- `2026-10-19` Commented on **[CherryHQ/cherry-studio#21983](https://github.com/CherryHQ/cherry-studio/issues/21983#issuecomment-6265306958)** — \[Bug\]: Agent artifact (report\_artifacts) with relative path / full-width parens filename can&#x27;t be p…
 - `2026-10-19` Commented on **[loopx-project/loopx#6842](https://github.com/loopx-project/loopx/issues/6842#issuecomment-6259680773)** — \[Bug\]: the required Windows lane fails on the long-path CLI budget fixture because the fixture pins…
-- `2026-10-19` Commented on **[CherryHQ/cherry-studio#21961](https://github.com/CherryHQ/cherry-studio/issues/21961#issuecomment-6259641899)** — \[Bug\]: LM Studio provider returns HTTP 400 &quot;Invalid url.&quot; when a Work-mode turn carries local image…
-- `2026-10-19` Commented on **[earendil-works/pi#7730](https://github.com/earendil-works/pi/issues/7730#issuecomment-6259624955)** — High CPU usage on Mac OS with long session
-- `2026-10-18` Commented on **[earendil-works/pi#10704](https://github.com/earendil-works/pi/issues/10704#issuecomment-6256216448)** — waitForIdle() resolves during settled-handler compaction before deferred continuation
 <!-- activity:end -->
 
 </details>
@@ -210,7 +206,7 @@ I write about the process on [dhpie.com](https://dhpie.com).
 
 
 <!-- telemetry-refresh:start -->
-<sub>Fetched every 8 hours · last successful fetch<br>Totals: 2026-10-19 13:44:08 UTC · Commit hours: 2026-10-19 13:44:08 UTC · Reactions: 2026-10-19 13:44:08 UTC</sub>
+<sub>Fetched every 8 hours · last successful fetch<br>Totals: 2026-10-19 20:02:39 UTC · Commit hours: 2026-10-19 20:02:39 UTC · Reactions: 2026-10-19 20:02:39 UTC</sub>
 <!-- telemetry-refresh:end -->
 
 ### `~/arcade`
