@@ -43,10 +43,10 @@ I write about the process on [dhpie.com](https://dhpie.com).
 <!-- contributions:start -->
 <sub>Code accepted upstream · last 12 months</sub>
 
+<table align="left" width="270"><tr><td width="64" valign="middle"><a href="https://github.com/apache/maka"><img src="assets/projects/apache--maka.png" width="56" height="56" alt="maka icon" /></a></td><td width="200" valign="middle"><a href="https://github.com/apache/maka"><strong>maka</strong></a><br /><sub><a href="https://github.com/apache/maka/pull/6145">merged contribution</a><br /><a href="https://github.com/apache/maka/pulls?q=is%3Apr+author%3ADante-dan">all PRs ↗</a></sub></td></tr></table>
 <table align="left" width="270"><tr><td width="64" valign="middle"><a href="https://github.com/code-yeongyu/oh-my-openagent"><img src="assets/projects/code-yeongyu--oh-my-openagent.png" width="56" height="56" alt="oh-my-openagent icon" /></a></td><td width="200" valign="middle"><a href="https://github.com/code-yeongyu/oh-my-openagent"><strong>oh-my-openagent</strong></a><br /><sub><a href="https://github.com/code-yeongyu/oh-my-openagent/pull/9613">merged contribution</a><br /><a href="https://github.com/code-yeongyu/oh-my-openagent/pulls?q=is%3Apr+author%3ADante-dan">all PRs ↗</a></sub></td></tr></table>
 <table align="left" width="270"><tr><td width="64" valign="middle"><a href="https://github.com/farion1231/cc-switch"><img src="assets/projects/farion1231--cc-switch.png" width="56" height="56" alt="cc-switch icon" /></a></td><td width="200" valign="middle"><a href="https://github.com/farion1231/cc-switch"><strong>cc-switch</strong></a><br /><sub><a href="https://github.com/farion1231/cc-switch/pull/8254">merged contribution</a><br /><a href="https://github.com/farion1231/cc-switch/pulls?q=is%3Apr+author%3ADante-dan">all PRs ↗</a></sub></td></tr></table>
 <table align="left" width="270"><tr><td width="64" valign="middle"><a href="https://github.com/makecindy/cindy"><img src="assets/projects/makecindy--cindy.png" width="56" height="56" alt="Cindy icon" /></a></td><td width="200" valign="middle"><a href="https://github.com/makecindy/cindy"><strong>Cindy</strong></a><br /><sub><a href="https://github.com/makecindy/cindy/pull/4553">merged contribution</a><br /><a href="https://github.com/makecindy/cindy/pulls?q=is%3Apr+author%3ADante-dan">all PRs ↗</a></sub></td></tr></table>
-<table align="left" width="270"><tr><td width="64" valign="middle"><a href="https://github.com/apache/maka"><img src="assets/projects/apache--maka.png" width="56" height="56" alt="maka icon" /></a></td><td width="200" valign="middle"><a href="https://github.com/apache/maka"><strong>maka</strong></a><br /><sub><a href="https://github.com/apache/maka/pull/6085">merged contribution</a><br /><a href="https://github.com/apache/maka/pulls?q=is%3Apr+author%3ADante-dan">all PRs ↗</a></sub></td></tr></table>
 <table align="left" width="270"><tr><td width="64" valign="middle"><a href="https://github.com/anomalyco/opencode"><img src="assets/projects/anomalyco--opencode.png" width="56" height="56" alt="opencode icon" /></a></td><td width="200" valign="middle"><a href="https://github.com/anomalyco/opencode"><strong>opencode</strong></a><br /><sub><a href="https://github.com/anomalyco/opencode/pull/55778">merged contribution</a><br /><a href="https://github.com/anomalyco/opencode/pulls?q=is%3Apr+author%3ADante-dan">all PRs ↗</a></sub></td></tr></table>
 <table align="left" width="270"><tr><td width="64" valign="middle"><a href="https://github.com/can1357/oh-my-pi"><img src="assets/projects/can1357--oh-my-pi.png" width="56" height="56" alt="oh-my-pi icon" /></a></td><td width="200" valign="middle"><a href="https://github.com/can1357/oh-my-pi"><strong>oh-my-pi</strong></a><br /><sub><a href="https://github.com/can1357/oh-my-pi/pull/14440">merged contribution</a><br /><a href="https://github.com/can1357/oh-my-pi/pulls?q=is%3Apr+author%3ADante-dan">all PRs ↗</a></sub></td></tr></table>
 <table align="left" width="270"><tr><td width="64" valign="middle"><a href="https://github.com/CherryHQ/cherry-studio"><img src="assets/projects/CherryHQ--cherry-studio.png" width="56" height="56" alt="Cherry Studio icon" /></a></td><td width="200" valign="middle"><a href="https://github.com/CherryHQ/cherry-studio"><strong>Cherry Studio</strong></a><br /><sub><a href="https://github.com/CherryHQ/cherry-studio/pull/20281">merged contribution</a><br /><a href="https://github.com/CherryHQ/cherry-studio/pulls?q=is%3Apr+author%3ADante-dan">all PRs ↗</a></sub></td></tr></table>
@@ -76,10 +76,13 @@ I write about the process on [dhpie.com](https://dhpie.com).
 <sub>Public upstream PRs updated in the last 7 days · refreshed every 8 hours</sub>
 
 <!-- upstream:start -->
-<sub>95 PRs · 77 open · 18 merged</sub>
+<sub>95 PRs · 75 open · 20 merged</sub>
 
 | Status | Pull request | Updated (UTC) |
 | :--- | :--- | :--- |
+| `merged` | **[apache/maka#6145](https://github.com/apache/maka/pull/6145)** — fix(ui): preserve running tool state when reconnecting | 2026-10-19 |
+| `merged` | **[apache/maka#6118](https://github.com/apache/maka/pull/6118)** — fix(storage): restore Codex import image attachments | 2026-10-19 |
+| `open` | **[can1357/oh-my-pi#16254](https://github.com/can1357/oh-my-pi/pull/16254)** — fix(coding-agent): refuse oversized transcripts before resume | 2026-10-18 |
 | `open` | **[apache/maka#5266](https://github.com/apache/maka/pull/5266)** — fix(runtime): allow bounded Apple Git startup | 2026-10-18 |
 | `open` | **[apache/maka#6151](https://github.com/apache/maka/pull/6151)** — fix(storage): retry pending context-offload checkpoints | 2026-10-18 |
 | `merged` | **[code-yeongyu/oh-my-openagent#9613](https://github.com/code-yeongyu/oh-my-openagent/pull/9613)** — test(senpi-task): make acknowledged fallback close deterministic | 2026-10-18 |
@@ -90,13 +93,11 @@ I write about the process on [dhpie.com](https://dhpie.com).
 | `open` | **[anomalyco/opencode#56511](https://github.com/anomalyco/opencode/pull/56511)** — fix(core): enforce Code Mode deny policies | 2026-10-18 |
 | `open` | **[anomalyco/opencode#56524](https://github.com/anomalyco/opencode/pull/56524)** — fix(core): store tool output in workspace environments | 2026-10-18 |
 | `open` | **[heygen-com/hyperframes#5738](https://github.com/heygen-com/hyperframes/pull/5738)** — fix(skills): preserve approved videos across reassembly | 2026-10-18 |
-| `open` | **[apache/maka#6145](https://github.com/apache/maka/pull/6145)** — fix(ui): preserve running tool state when reconnecting | 2026-10-18 |
 | `open` | **[heygen-com/hyperframes#5183](https://github.com/heygen-com/hyperframes/pull/5183)** — fix(engine): include untimed overlays in HDR stacking | 2026-10-17 |
 | `open` | **[heygen-com/hyperframes#5773](https://github.com/heygen-com/hyperframes/pull/5773)** — test: preserve browser cleanup and regression failure evidence | 2026-10-17 |
 | `open` | **[heygen-com/hyperframes#5594](https://github.com/heygen-com/hyperframes/pull/5594)** — feat(studio): show canvas gesture position, size and rotation | 2026-10-17 |
 | `merged` | **[farion1231/cc-switch#8254](https://github.com/farion1231/cc-switch/pull/8254)** — fix(hermes): read live WSL databases inside their distribution | 2026-10-17 |
 | `open` | **[makecindy/cindy#6319](https://github.com/makecindy/cindy/pull/6319)** — fix(local-models): keep Ollama DNS failures generic | 2026-10-17 |
-| `open` | **[apache/maka#6118](https://github.com/apache/maka/pull/6118)** — fix(storage): restore Codex import image attachments | 2026-10-16 |
 | `open` | **[anomalyco/opencode#56198](https://github.com/anomalyco/opencode/pull/56198)** — fix(app): prepare side questions from shortcuts | 2026-10-16 |
 | `open` | **[CherryHQ/cherry-studio#20353](https://github.com/CherryHQ/cherry-studio/pull/20353)** — fix(ai-runtime): clamp agent output token limit | 2026-10-16 |
 | `open` | **[CherryHQ/cherry-studio#20434](https://github.com/CherryHQ/cherry-studio/pull/20434)** — fix(ai): stabilize OpenRouter session routing | 2026-10-16 |
@@ -174,17 +175,16 @@ I write about the process on [dhpie.com](https://dhpie.com).
 | `open` | **[alibaba/open-code-review#1644](https://github.com/alibaba/open-code-review/pull/1644)** — fix(config): clear optional custom provider fields | 2026-10-12 |
 | `open` | **[farion1231/cc-switch#8156](https://github.com/farion1231/cc-switch/pull/8156)** — fix(codex): reject unsupported encrypted agent tasks in chat conversion | 2026-10-12 |
 | `merged` | **[code-yeongyu/oh-my-openagent#9469](https://github.com/code-yeongyu/oh-my-openagent/pull/9469)** — test: detect environment leaks at test-file teardown | 2026-10-12 |
-| `open` | **[anomalyco/opencode#53874](https://github.com/anomalyco/opencode/pull/53874)** — fix(core): preserve global canonical on session moves | 2026-10-11 |
 <!-- upstream:end -->
 
 <details>
 <summary>Recent conversations · issues, comments &amp; reviews</summary>
 
 <!-- activity:start -->
-- `2026-10-18` Commented on **[farion1231/cc-switch#8502](https://github.com/farion1231/cc-switch/issues/8502#issuecomment-6252424200)** — \[Bug\] WebDAV 同步未下发写回 Pi (models.json)，且被本地旧配置反向覆写抹除
-- `2026-10-18` Commented on **[anomalyco/opencode#56712](https://github.com/anomalyco/opencode/issues/56712#issuecomment-6250522606)** — opencode: \`serve --service\` hangs in userspace busy-loop at 100% CPU (v2.0.29)
-- `2026-10-18` Commented on **[farion1231/cc-switch#8485](https://github.com/farion1231/cc-switch/issues/8485#issuecomment-6250451928)** — 在聚合模式下，同一个模型如 gpt-6.1-sol有两个供应商时，会话里切换不了供应商，只会发给会话第一个供应商
-- `2026-10-18` Commented on **[MoonshotAI/kimi-code#4268](https://github.com/MoonshotAI/kimi-code/issues/4268#issuecomment-6248935289)** — Web UI: kimi-file:// images in assistant markdown messages fail to render (&quot;Image failed to load&quot;)
+- `2026-10-18` Commented on **[earendil-works/pi#10704](https://github.com/earendil-works/pi/issues/10704#issuecomment-6256216448)** — waitForIdle() resolves during settled-handler compaction before deferred continuation
+- `2026-10-18` Commented on **[CherryHQ/cherry-studio#21956](https://github.com/CherryHQ/cherry-studio/issues/21956#issuecomment-6256157747)** — \[Bug\]: Entering a conversation with many attachments freezes the window while attachment buffers ar…
+- `2026-10-18` Commented on **[langchain-ai/langgraph#9344](https://github.com/langchain-ai/langgraph/issues/9344#issuecomment-6255941682)** — Command(update=...) on a new thread applies the update twice
+- `2026-10-18` Commented on **[langchain-ai/langgraph#7843](https://github.com/langchain-ai/langgraph/issues/7843#issuecomment-6255920083)** — checkpoint-sqlite: storage model does not use \`new\_versions\` to normalize channel values like Postg…
 <!-- activity:end -->
 
 </details>
@@ -205,12 +205,12 @@ I write about the process on [dhpie.com](https://dhpie.com).
 ### `~/telemetry`
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Dante-dan/Dante-dan/main/assets/telemetry/stats-dark-d40842643e5268dc.svg" />
-  <img src="https://raw.githubusercontent.com/Dante-dan/Dante-dan/main/assets/telemetry/stats-light-ee37ea886f8725eb.svg" alt="Public GitHub contribution totals" width="390" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Dante-dan/Dante-dan/main/assets/telemetry/stats-dark-55dd8132d79eb07c.svg" />
+  <img src="https://raw.githubusercontent.com/Dante-dan/Dante-dan/main/assets/telemetry/stats-light-dde108a6dad492a1.svg" alt="Public GitHub contribution totals" width="390" />
 </picture>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Dante-dan/Dante-dan/main/assets/telemetry/time-dark-49d9cecf8eaf9566.svg" />
-  <img src="https://raw.githubusercontent.com/Dante-dan/Dante-dan/main/assets/telemetry/time-light-872128661790c252.svg" alt="Commit distribution by time of day, UTC+8" width="390" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Dante-dan/Dante-dan/main/assets/telemetry/time-dark-14b18a77798690ee.svg" />
+  <img src="https://raw.githubusercontent.com/Dante-dan/Dante-dan/main/assets/telemetry/time-light-36c4cf0ae7f2cbfb.svg" alt="Commit distribution by time of day, UTC+8" width="390" />
 </picture>
 
 <img src="https://raw.githubusercontent.com/Dante-dan/Dante-dan/main/assets/telemetry/reactions-e80fb9b4d20eda32.svg" alt="Reactions received on recent public comments and issue bodies" width="650" />
@@ -218,7 +218,7 @@ I write about the process on [dhpie.com](https://dhpie.com).
 
 
 <!-- telemetry-refresh:start -->
-<sub>Fetched every 8 hours · last successful fetch<br>Totals: 2026-10-18 17:28:08 UTC · Commit hours: 2026-10-18 17:28:08 UTC · Reactions: 2026-10-18 17:28:08 UTC</sub>
+<sub>Fetched every 8 hours · last successful fetch<br>Totals: 2026-10-19 00:17:37 UTC · Commit hours: 2026-10-19 00:17:37 UTC · Reactions: 2026-10-19 00:17:37 UTC</sub>
 <!-- telemetry-refresh:end -->
 
 ### `~/arcade`
