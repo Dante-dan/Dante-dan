@@ -76,10 +76,11 @@ I write about the process on [dhpie.com](https://dhpie.com).
 <sub>Public upstream PRs updated in the last 7 days · refreshed every 8 hours</sub>
 
 <!-- upstream:start -->
-<sub>83 PRs · 63 open · 20 merged</sub>
+<sub>79 PRs · 60 open · 19 merged</sub>
 
 | Status | Pull request | Updated (UTC) |
 | :--- | :--- | :--- |
+| `open` | **[CherryHQ/cherry-studio#21318](https://github.com/CherryHQ/cherry-studio/pull/21318)** — fix(sensenova-images): send image edits as JSON | 2026-10-19 |
 | `open` | **[can1357/oh-my-pi#16254](https://github.com/can1357/oh-my-pi/pull/16254)** — fix(coding-agent): refuse oversized transcripts before resume | 2026-10-19 |
 | `open` | **[code-yeongyu/oh-my-openagent#9604](https://github.com/code-yeongyu/oh-my-openagent/pull/9604)** — fix(lsp): retain writer error handling through teardown | 2026-10-19 |
 | `merged` | **[multica-ai/multica#8981](https://github.com/multica-ai/multica/pull/8981)** — MUL-7825, MUL-7826: fix(agent): reject invalid private runtime bindings | 2026-10-19 |
@@ -153,16 +154,11 @@ I write about the process on [dhpie.com](https://dhpie.com).
 | `open` | **[farion1231/cc-switch#8232](https://github.com/farion1231/cc-switch/pull/8232)** — feat(codex): persist restart notice dismissal preference | 2026-10-14 |
 | `open` | **[apache/maka#5248](https://github.com/apache/maka/pull/5248)** — feat(runtime): verify background HTTP readiness | 2026-10-14 |
 | `open` | **[heygen-com/hyperframes#5430](https://github.com/heygen-com/hyperframes/pull/5430)** — fix(engine): await seek completion during drawElement batches | 2026-10-14 |
-| `open` | **[CherryHQ/cherry-studio#21318](https://github.com/CherryHQ/cherry-studio/pull/21318)** — fix(sensenova-images): send image edits as JSON | 2026-10-13 |
 | `open` | **[anomalyco/opencode#55039](https://github.com/anomalyco/opencode/pull/55039)** — fix(core): stabilize capped file search and prioritize source trees | 2026-10-13 |
 | `open` | **[nuxt/modules#1059](https://github.com/nuxt/modules/pull/1059)** — feat: add \`nuxt-inline-scripts\` | 2026-10-13 |
 | `merged` | **[makecindy/cindy#5296](https://github.com/makecindy/cindy/pull/5296)** — fix(runtime): preserve Codex transport in automatic fallback | 2026-10-13 |
 | `merged` | **[CherryHQ/cherry-studio#21558](https://github.com/CherryHQ/cherry-studio/pull/21558)** — feat(heartbeat): configure per-agent execution timeout | 2026-10-13 |
 | `open` | **[apache/maka#5218](https://github.com/apache/maka/pull/5218)** — fix(desktop): add HTML artifact Finder fallback | 2026-10-13 |
-| `merged` | **[heygen-com/hyperframes#5469](https://github.com/heygen-com/hyperframes/pull/5469)** — fix(media): read ElevenLabs input as UTF-8 | 2026-10-12 |
-| `open` | **[anomalyco/opencode#54942](https://github.com/anomalyco/opencode/pull/54942)** — fix(core): refresh MCP tools before session snapshots | 2026-10-12 |
-| `open` | **[anomalyco/opencode#54939](https://github.com/anomalyco/opencode/pull/54939)** — fix(app): preserve KaTeX MathML annotations | 2026-10-12 |
-| `open` | **[anomalyco/opencode#54937](https://github.com/anomalyco/opencode/pull/54937)** — fix(core): migrate legacy message ID prefixes | 2026-10-12 |
 <!-- upstream:end -->
 
 <details>
@@ -206,7 +202,7 @@ I write about the process on [dhpie.com](https://dhpie.com).
 
 
 <!-- telemetry-refresh:start -->
-<sub>Fetched every 8 hours · last successful fetch<br>Totals: 2026-10-19 20:02:39 UTC · Commit hours: 2026-10-19 20:02:39 UTC · Reactions: 2026-10-19 20:02:39 UTC</sub>
+<sub>Fetched every 8 hours · last successful fetch<br>Totals: 2026-10-20 01:08:54 UTC · Commit hours: 2026-10-20 01:08:54 UTC · Reactions: 2026-10-20 01:08:54 UTC</sub>
 <!-- telemetry-refresh:end -->
 
 ### `~/arcade`
