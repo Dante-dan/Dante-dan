@@ -76,18 +76,21 @@ I write about the process on [dhpie.com](https://dhpie.com).
 <sub>Public upstream PRs updated in the last 7 days · refreshed every 8 hours</sub>
 
 <!-- upstream:start -->
-<sub>77 PRs · 59 open · 18 merged</sub>
+<sub>78 PRs · 60 open · 18 merged</sub>
 
 | Status | Pull request | Updated (UTC) |
 | :--- | :--- | :--- |
+| `open` | **[apache/maka#6226](https://github.com/apache/maka/pull/6226)** — fix(runtime-host): add explicit managed root identity recovery | 2026-10-21 |
+| `open` | **[alibaba/open-code-review#1797](https://github.com/alibaba/open-code-review/pull/1797)** — feat(telemetry): expose per-attempt LLM HTTP spans | 2026-10-21 |
+| `open` | **[heygen-com/hyperframes#6032](https://github.com/heygen-com/hyperframes/pull/6032)** — fix(player): include visible playback rate in accessible name | 2026-10-21 |
+| `open` | **[can1357/oh-my-pi#16254](https://github.com/can1357/oh-my-pi/pull/16254)** — fix(coding-agent): refuse oversized transcripts before resume | 2026-10-21 |
+| `open` | **[apache/maka#6198](https://github.com/apache/maka/pull/6198)** — feat(desktop): unify Personal Assistant task panel densities | 2026-10-21 |
 | `open` | **[apache/maka#6212](https://github.com/apache/maka/pull/6212)** — fix(desktop): keep lightbox close clear of window controls | 2026-10-21 |
 | `open` | **[farion1231/cc-switch#8642](https://github.com/farion1231/cc-switch/pull/8642)** — fix(usage): use Chinese units for compact token counts | 2026-10-21 |
-| `open` | **[apache/maka#6198](https://github.com/apache/maka/pull/6198)** — feat(desktop): unify Personal Assistant task panel densities | 2026-10-21 |
 | `open` | **[nuxt/modules#1059](https://github.com/nuxt/modules/pull/1059)** — feat: add \`nuxt-inline-scripts\` | 2026-10-21 |
 | `merged` | **[apache/maka#6151](https://github.com/apache/maka/pull/6151)** — fix(storage): retry pending context-offload checkpoints | 2026-10-21 |
 | `merged` | **[apache/maka#5286](https://github.com/apache/maka/pull/5286)** — fix(desktop): guard broadcasts by renderer frame | 2026-10-21 |
 | `open` | **[farion1231/cc-switch#8647](https://github.com/farion1231/cc-switch/pull/8647)** — feat(provider): refresh Claude Desktop providers from Claude Code | 2026-10-21 |
-| `open` | **[can1357/oh-my-pi#16254](https://github.com/can1357/oh-my-pi/pull/16254)** — fix(coding-agent): refuse oversized transcripts before resume | 2026-10-21 |
 | `open` | **[CherryHQ/cherry-studio#20953](https://github.com/CherryHQ/cherry-studio/pull/20953)** — fix(doctor): avoid unactionable dependency links | 2026-10-20 |
 | `open` | **[cline/cline#15223](https://github.com/cline/cline/pull/15223)** — fix(desktop): avoid sending session transcripts twice | 2026-10-20 |
 | `open` | **[alibaba/open-code-review#1637](https://github.com/alibaba/open-code-review/pull/1637)** — feat(action): split review and publication for fresh App tokens | 2026-10-20 |
@@ -155,18 +158,16 @@ I write about the process on [dhpie.com](https://dhpie.com).
 | `open` | **[anomalyco/opencode#52148](https://github.com/anomalyco/opencode/pull/52148)** — docs: list Context7 OpenCode plugin | 2026-10-14 |
 | `open` | **[anomalyco/opencode#55311](https://github.com/anomalyco/opencode/pull/55311)** — fix(client): stop failed services before reporting startup errors | 2026-10-14 |
 | `merged` | **[CherryHQ/cherry-studio#20320](https://github.com/CherryHQ/cherry-studio/pull/20320)** — fix(work): keep pinned tasks in agent grouping | 2026-10-14 |
-| `open` | **[code-yeongyu/oh-my-openagent#10107](https://github.com/code-yeongyu/oh-my-openagent/pull/10107)** — fix(senpi-task): name task child sessions with their parent | 2026-10-14 |
-| `open` | **[anomalyco/opencode#55477](https://github.com/anomalyco/opencode/pull/55477)** — fix(tui): preserve readline Ctrl+B in sessions | 2026-10-14 |
 <!-- upstream:end -->
 
 <details>
 <summary>Recent conversations · issues, comments &amp; reviews</summary>
 
 <!-- activity:start -->
-- `2026-10-21` Commented on **[apache/maka#6198](https://github.com/apache/maka/pull/6198#issuecomment-6314006820)** — feat(desktop): unify Personal Assistant task panel densities
-- `2026-10-21` Commented on **[CherryHQ/cherry-studio#21983](https://github.com/CherryHQ/cherry-studio/issues/21983#issuecomment-6314303750)** — \[Bug\]: Agent artifact (report\_artifacts) with relative path / full-width parens filename can&#x27;t be p…
-- `2026-10-21` Commented on **[anomalyco/opencode#57214](https://github.com/anomalyco/opencode/issues/57214#issuecomment-6314263076)** — \[FEATURE\]: Plugin API: hook before the host stores synthetic text
-- `2026-10-21` Commented on **[farion1231/cc-switch#8658](https://github.com/farion1231/cc-switch/issues/8658#issuecomment-6314168611)** — \[Bug\]\[Codex\] “跟随 Codex 登录”时应展示实际 auth.json，置灰只读并支持复制
+- `2026-10-21` Commented on **[apache/maka#6226](https://github.com/apache/maka/pull/6226#issuecomment-6321157338)** — fix(runtime-host): add explicit managed root identity recovery
+- `2026-10-21` Commented on **[heygen-com/hyperframes#6021](https://github.com/heygen-com/hyperframes/issues/6021#issuecomment-6318087745)** — Player: speed button&#x27;s accessible name doesn&#x27;t include its visible text
+- `2026-10-21` Commented on **[anomalyco/opencode#57213](https://github.com/anomalyco/opencode/issues/57213#issuecomment-6317823097)** — \[FEATURE\]: Plugin API: change or remove a stored message or part
+- `2026-10-21` Commented on **[anomalyco/opencode#57495](https://github.com/anomalyco/opencode/issues/57495#issuecomment-6317736768)** — provider: slow plugin setup disables all github-copilot models
 <!-- activity:end -->
 
 </details>
@@ -187,8 +188,8 @@ I write about the process on [dhpie.com](https://dhpie.com).
 ### `~/telemetry`
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Dante-dan/Dante-dan/main/assets/telemetry/stats-dark-a5334928824eb5d7.svg" />
-  <img src="https://raw.githubusercontent.com/Dante-dan/Dante-dan/main/assets/telemetry/stats-light-eb02684465b4c687.svg" alt="Public GitHub contribution totals" width="390" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Dante-dan/Dante-dan/main/assets/telemetry/stats-dark-8ef76b40e40c7f31.svg" />
+  <img src="https://raw.githubusercontent.com/Dante-dan/Dante-dan/main/assets/telemetry/stats-light-ba8144ba2293f784.svg" alt="Public GitHub contribution totals" width="390" />
 </picture>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Dante-dan/Dante-dan/main/assets/telemetry/time-dark-5bc2750348e33716.svg" />
@@ -200,7 +201,7 @@ I write about the process on [dhpie.com](https://dhpie.com).
 
 
 <!-- telemetry-refresh:start -->
-<sub>Fetched every 8 hours · last successful fetch<br>Totals: 2026-10-21 12:06:30 UTC · Commit hours: 2026-10-21 12:06:30 UTC · Reactions: 2026-10-21 12:06:30 UTC</sub>
+<sub>Fetched every 8 hours · last successful fetch<br>Totals: 2026-10-21 18:48:41 UTC · Commit hours: 2026-10-21 18:48:41 UTC · Reactions: 2026-10-21 18:48:41 UTC</sub>
 <!-- telemetry-refresh:end -->
 
 ### `~/arcade`
