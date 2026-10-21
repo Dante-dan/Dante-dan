@@ -80,15 +80,16 @@ I write about the process on [dhpie.com](https://dhpie.com).
 
 | Status | Pull request | Updated (UTC) |
 | :--- | :--- | :--- |
-| `open` | **[apache/maka#6198](https://github.com/apache/maka/pull/6198)** — feat(desktop): unify Personal Assistant task panel densities | 2026-10-20 |
+| `open` | **[CherryHQ/cherry-studio#20953](https://github.com/CherryHQ/cherry-studio/pull/20953)** — fix(doctor): avoid unactionable dependency links | 2026-10-20 |
 | `open` | **[can1357/oh-my-pi#16254](https://github.com/can1357/oh-my-pi/pull/16254)** — fix(coding-agent): refuse oversized transcripts before resume | 2026-10-20 |
+| `open` | **[cline/cline#15223](https://github.com/cline/cline/pull/15223)** — fix(desktop): avoid sending session transcripts twice | 2026-10-20 |
+| `open` | **[apache/maka#6198](https://github.com/apache/maka/pull/6198)** — feat(desktop): unify Personal Assistant task panel densities | 2026-10-20 |
 | `open` | **[alibaba/open-code-review#1637](https://github.com/alibaba/open-code-review/pull/1637)** — feat(action): split review and publication for fresh App tokens | 2026-10-20 |
 | `open` | **[cloudflare/security-audit-skill#83](https://github.com/cloudflare/security-audit-skill/pull/83)** — docs: align completion gates and carried record validation | 2026-10-20 |
 | `open` | **[cloudflare/security-audit-skill#82](https://github.com/cloudflare/security-audit-skill/pull/82)** — fix: allow artifact sharing within an archived attempt | 2026-10-20 |
 | `merged` | **[multica-ai/multica#9061](https://github.com/multica-ai/multica/pull/9061)** — fix(comments): retain delivered supplement root owners (MUL-7874) | 2026-10-20 |
 | `open` | **[farion1231/cc-switch#8568](https://github.com/farion1231/cc-switch/pull/8568)** — fix(provider): remind users to check active provider after adding | 2026-10-20 |
 | `open` | **[CherryHQ/cherry-studio#21318](https://github.com/CherryHQ/cherry-studio/pull/21318)** — fix(sensenova-images): send image edits as JSON | 2026-10-19 |
-| `open` | **[code-yeongyu/oh-my-openagent#9604](https://github.com/code-yeongyu/oh-my-openagent/pull/9604)** — fix(lsp): retain writer error handling through teardown | 2026-10-19 |
 | `merged` | **[multica-ai/multica#8981](https://github.com/multica-ai/multica/pull/8981)** — MUL-7825, MUL-7826: fix(agent): reject invalid private runtime bindings | 2026-10-19 |
 | `open` | **[CherryHQ/cherry-studio#21360](https://github.com/CherryHQ/cherry-studio/pull/21360)** — docs(tool-approval): clarify scheduled session delegation | 2026-10-19 |
 | `merged` | **[multica-ai/multica#9252](https://github.com/multica-ai/multica/pull/9252)** — MUL-8016: fix(agent): honor Claude supplement startup handshake budget | 2026-10-19 |
@@ -158,17 +159,16 @@ I write about the process on [dhpie.com](https://dhpie.com).
 | `merged` | **[CherryHQ/cherry-studio#21312](https://github.com/CherryHQ/cherry-studio/pull/21312)** — fix(model-settings): explain saved modality overrides | 2026-10-14 |
 | `open` | **[farion1231/cc-switch#8232](https://github.com/farion1231/cc-switch/pull/8232)** — feat(codex): persist restart notice dismissal preference | 2026-10-14 |
 | `open` | **[apache/maka#5248](https://github.com/apache/maka/pull/5248)** — feat(runtime): verify background HTTP readiness | 2026-10-14 |
-| `open` | **[heygen-com/hyperframes#5430](https://github.com/heygen-com/hyperframes/pull/5430)** — fix(engine): await seek completion during drawElement batches | 2026-10-14 |
 <!-- upstream:end -->
 
 <details>
 <summary>Recent conversations · issues, comments &amp; reviews</summary>
 
 <!-- activity:start -->
-- `2026-10-20` Commented on **[apache/maka#6198](https://github.com/apache/maka/pull/6198#issuecomment-6295711366)** — feat(desktop): unify Personal Assistant task panel densities
-- `2026-10-20` Commented on **[cline/cline#15213](https://github.com/cline/cline/issues/15213#issuecomment-6295633407)** — Incompatibility of Node.js in Cursor
-- `2026-10-20` Commented on **[apache/maka#6194](https://github.com/apache/maka/issues/6194#issuecomment-6292273442)** — feat(desktop): refine the expanded and collapsed Personal Assistant task panel
-- `2026-10-20` Commented on **[anomalyco/opencode#57381](https://github.com/anomalyco/opencode/issues/57381#issuecomment-6292242869)** — session: import overwrites time.updated with the import time
+- `2026-10-20` Commented on **[anomalyco/opencode#57496](https://github.com/anomalyco/opencode/issues/57496#issuecomment-6304036641)** — Native subtask can be skipped when automatic compaction advances the finished-message boundary
+- `2026-10-20` Commented on **[anomalyco/opencode#57492](https://github.com/anomalyco/opencode/issues/57492#issuecomment-6303439513)** — \[FEATURE\]: Support non-interactive API-key login via auth login
+- `2026-10-20` Commented on **[anomalyco/opencode#57495](https://github.com/anomalyco/opencode/issues/57495#issuecomment-6303387407)** — provider: slow plugin setup disables all github-copilot models
+- `2026-10-20` Commented on **[anomalyco/opencode#57484](https://github.com/anomalyco/opencode/issues/57484#issuecomment-6303275327)** — Code Mode execute: function expression (async () =\&gt; {...}) silently returns null
 <!-- activity:end -->
 
 </details>
@@ -189,12 +189,12 @@ I write about the process on [dhpie.com](https://dhpie.com).
 ### `~/telemetry`
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Dante-dan/Dante-dan/main/assets/telemetry/stats-dark-315a03bbc05c6077.svg" />
-  <img src="https://raw.githubusercontent.com/Dante-dan/Dante-dan/main/assets/telemetry/stats-light-0c6a4098ac7786f9.svg" alt="Public GitHub contribution totals" width="390" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Dante-dan/Dante-dan/main/assets/telemetry/stats-dark-d906b997c0b04b98.svg" />
+  <img src="https://raw.githubusercontent.com/Dante-dan/Dante-dan/main/assets/telemetry/stats-light-3543fc418b4b0a47.svg" alt="Public GitHub contribution totals" width="390" />
 </picture>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Dante-dan/Dante-dan/main/assets/telemetry/time-dark-c428a6954818de5c.svg" />
-  <img src="https://raw.githubusercontent.com/Dante-dan/Dante-dan/main/assets/telemetry/time-light-f395239dc1dba092.svg" alt="Commit distribution by time of day, UTC+8" width="390" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Dante-dan/Dante-dan/main/assets/telemetry/time-dark-d90755347e26f2a3.svg" />
+  <img src="https://raw.githubusercontent.com/Dante-dan/Dante-dan/main/assets/telemetry/time-light-57aee2cd14106ac3.svg" alt="Commit distribution by time of day, UTC+8" width="390" />
 </picture>
 
 <img src="https://raw.githubusercontent.com/Dante-dan/Dante-dan/main/assets/telemetry/reactions-e80fb9b4d20eda32.svg" alt="Reactions received on recent public comments and issue bodies" width="650" />
@@ -202,7 +202,7 @@ I write about the process on [dhpie.com](https://dhpie.com).
 
 
 <!-- telemetry-refresh:start -->
-<sub>Fetched every 8 hours · last successful fetch<br>Totals: 2026-10-20 18:34:48 UTC · Commit hours: 2026-10-20 18:34:48 UTC · Reactions: 2026-10-20 18:34:48 UTC</sub>
+<sub>Fetched every 8 hours · last successful fetch<br>Totals: 2026-10-21 00:43:25 UTC · Commit hours: 2026-10-21 00:43:25 UTC · Reactions: 2026-10-21 00:43:25 UTC</sub>
 <!-- telemetry-refresh:end -->
 
 ### `~/arcade`
