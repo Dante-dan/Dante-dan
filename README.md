@@ -76,13 +76,14 @@ I write about the process on [dhpie.com](https://dhpie.com).
 <sub>Public upstream PRs updated in the last 7 days · refreshed every 8 hours</sub>
 
 <!-- upstream:start -->
-<sub>74 PRs · 57 open · 17 merged</sub>
+<sub>69 PRs · 52 open · 17 merged</sub>
 
 | Status | Pull request | Updated (UTC) |
 | :--- | :--- | :--- |
+| `open` | **[CherryHQ/cherry-studio#20949](https://github.com/CherryHQ/cherry-studio/pull/20949)** — fix(agent-session): classify empty completions | 2026-10-22 |
+| `open` | **[apache/maka#6226](https://github.com/apache/maka/pull/6226)** — fix(runtime-host): add explicit managed root identity recovery | 2026-10-22 |
 | `open` | **[CherryHQ/cherry-studio#21422](https://github.com/CherryHQ/cherry-studio/pull/21422)** — fix(chat-errors): preserve provider codes and explain history recovery | 2026-10-21 |
 | `open` | **[CherryHQ/cherry-studio#21187](https://github.com/CherryHQ/cherry-studio/pull/21187)** — fix(kb-citations): improve synthesis attribution and citation previews | 2026-10-21 |
-| `open` | **[apache/maka#6226](https://github.com/apache/maka/pull/6226)** — fix(runtime-host): add explicit managed root identity recovery | 2026-10-21 |
 | `open` | **[alibaba/open-code-review#1797](https://github.com/alibaba/open-code-review/pull/1797)** — feat(telemetry): expose per-attempt LLM HTTP spans | 2026-10-21 |
 | `open` | **[heygen-com/hyperframes#6032](https://github.com/heygen-com/hyperframes/pull/6032)** — fix(player): include visible playback rate in accessible name | 2026-10-21 |
 | `open` | **[can1357/oh-my-pi#16254](https://github.com/can1357/oh-my-pi/pull/16254)** — fix(coding-agent): refuse oversized transcripts before resume | 2026-10-21 |
@@ -148,22 +149,16 @@ I write about the process on [dhpie.com](https://dhpie.com).
 | `open` | **[CherryHQ/cherry-studio#21133](https://github.com/CherryHQ/cherry-studio/pull/21133)** — feat(agent-knowledge): add per-binding read/write permissions | 2026-10-15 |
 | `merged` | **[code-yeongyu/oh-my-openagent#9624](https://github.com/code-yeongyu/oh-my-openagent/pull/9624)** — refactor(senpi): defer the live thread RPC client | 2026-10-15 |
 | `merged` | **[CherryHQ/cherry-studio#20281](https://github.com/CherryHQ/cherry-studio/pull/20281)** — fix(ai-core): repair restored tool result names | 2026-10-15 |
-| `open` | **[anomalyco/opencode#55615](https://github.com/anomalyco/opencode/pull/55615)** — fix(app): honor configured default agent | 2026-10-15 |
-| `open` | **[CherryHQ/cherry-studio#20386](https://github.com/CherryHQ/cherry-studio/pull/20386)** — fix(new-api): restore Gemini web search through relays | 2026-10-15 |
-| `open` | **[CherryHQ/cherry-studio#20486](https://github.com/CherryHQ/cherry-studio/pull/20486)** — fix(knowledge): handle oversized Zhipu reranks | 2026-10-15 |
-| `open` | **[apache/maka#5278](https://github.com/apache/maka/pull/5278)** — fix(runtime): bound OpenAI Chat image tool results | 2026-10-15 |
-| `open` | **[anomalyco/opencode#52094](https://github.com/anomalyco/opencode/pull/52094)** — fix(app): keep new sessions in their selected worktree | 2026-10-15 |
-| `open` | **[anomalyco/opencode#51805](https://github.com/anomalyco/opencode/pull/51805)** — fix(app): keep nested directory for local sessions | 2026-10-15 |
 <!-- upstream:end -->
 
 <details>
 <summary>Recent conversations · issues, comments &amp; reviews</summary>
 
 <!-- activity:start -->
-- `2026-10-21` Commented on **[apache/maka#6226](https://github.com/apache/maka/pull/6226#issuecomment-6321157338)** — fix(runtime-host): add explicit managed root identity recovery
-- `2026-10-21` Commented on **[heygen-com/hyperframes#6021](https://github.com/heygen-com/hyperframes/issues/6021#issuecomment-6318087745)** — Player: speed button&#x27;s accessible name doesn&#x27;t include its visible text
-- `2026-10-21` Commented on **[anomalyco/opencode#57213](https://github.com/anomalyco/opencode/issues/57213#issuecomment-6317823097)** — \[FEATURE\]: Plugin API: change or remove a stored message or part
-- `2026-10-21` Commented on **[anomalyco/opencode#57495](https://github.com/anomalyco/opencode/issues/57495#issuecomment-6317736768)** — provider: slow plugin setup disables all github-copilot models
+- `2026-10-22` Commented on **[MoonshotAI/kimi-code#4327](https://github.com/MoonshotAI/kimi-code/issues/4327#issuecomment-6333153104)** — 工具返回后偶发 400，reasoning\_content 未回传给上游 openai 协议 + thinking 模型
+- `2026-10-22` Commented on **[CherryHQ/cherry-studio#22404](https://github.com/CherryHQ/cherry-studio/issues/22404#issuecomment-6333107226)** — \[Bug\]: SKILL.md frontmatter fails to parse when a CRLF file contains a nested mapping — the skill s…
+- `2026-10-22` Commented on **[lobehub/lobehub#21389](https://github.com/lobehub/lobehub/issues/21389#issuecomment-6330770642)** — \[Bug\] Desktop with local database (PGlite): Export loses all topics and messages with \`RuntimeError…
+- `2026-10-22` Commented on **[apache/maka#6226](https://github.com/apache/maka/pull/6226#issuecomment-6330597977)** — fix(runtime-host): add explicit managed root identity recovery
 <!-- activity:end -->
 
 </details>
@@ -184,20 +179,20 @@ I write about the process on [dhpie.com](https://dhpie.com).
 ### `~/telemetry`
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Dante-dan/Dante-dan/main/assets/telemetry/stats-dark-8ef76b40e40c7f31.svg" />
-  <img src="https://raw.githubusercontent.com/Dante-dan/Dante-dan/main/assets/telemetry/stats-light-ba8144ba2293f784.svg" alt="Public GitHub contribution totals" width="390" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Dante-dan/Dante-dan/main/assets/telemetry/stats-dark-07dd57b8953fff97.svg" />
+  <img src="https://raw.githubusercontent.com/Dante-dan/Dante-dan/main/assets/telemetry/stats-light-21058c44b3edf977.svg" alt="Public GitHub contribution totals" width="390" />
 </picture>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Dante-dan/Dante-dan/main/assets/telemetry/time-dark-5bc2750348e33716.svg" />
-  <img src="https://raw.githubusercontent.com/Dante-dan/Dante-dan/main/assets/telemetry/time-light-688065a1824c7e71.svg" alt="Commit distribution by time of day, UTC+8" width="390" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Dante-dan/Dante-dan/main/assets/telemetry/time-dark-0ec7d6edffb7bdca.svg" />
+  <img src="https://raw.githubusercontent.com/Dante-dan/Dante-dan/main/assets/telemetry/time-light-cc6b3030fee5831a.svg" alt="Commit distribution by time of day, UTC+8" width="390" />
 </picture>
 
-<img src="https://raw.githubusercontent.com/Dante-dan/Dante-dan/main/assets/telemetry/reactions-e80fb9b4d20eda32.svg" alt="Reactions received on recent public comments and issue bodies" width="650" />
+<img src="https://raw.githubusercontent.com/Dante-dan/Dante-dan/main/assets/telemetry/reactions-e37bac650e400c46.svg" alt="Reactions received on recent public comments and issue bodies" width="650" />
 
 
 
 <!-- telemetry-refresh:start -->
-<sub>Fetched every 8 hours · last successful fetch<br>Totals: 2026-10-22 00:47:18 UTC · Commit hours: 2026-10-22 00:47:18 UTC · Reactions: 2026-10-22 00:47:18 UTC</sub>
+<sub>Fetched every 8 hours · last successful fetch<br>Totals: 2026-10-22 12:10:12 UTC · Commit hours: 2026-10-22 12:10:12 UTC · Reactions: 2026-10-22 12:10:12 UTC</sub>
 <!-- telemetry-refresh:end -->
 
 ### `~/arcade`
