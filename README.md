@@ -76,17 +76,19 @@ I write about the process on [dhpie.com](https://dhpie.com).
 <sub>Public upstream PRs updated in the last 7 days · refreshed every 8 hours</sub>
 
 <!-- upstream:start -->
-<sub>69 PRs · 52 open · 17 merged</sub>
+<sub>66 PRs · 51 open · 15 merged</sub>
 
 | Status | Pull request | Updated (UTC) |
 | :--- | :--- | :--- |
+| `open` | **[CherryHQ/cherry-studio#21133](https://github.com/CherryHQ/cherry-studio/pull/21133)** — feat(agent-knowledge): add per-binding read/write permissions | 2026-10-22 |
+| `open` | **[CherryHQ/cherry-studio#21422](https://github.com/CherryHQ/cherry-studio/pull/21422)** — fix(chat-errors): preserve provider codes and explain history recovery | 2026-10-22 |
+| `open` | **[can1357/oh-my-pi#16254](https://github.com/can1357/oh-my-pi/pull/16254)** — fix(coding-agent): refuse oversized transcripts before resume | 2026-10-22 |
+| `open` | **[CherryHQ/cherry-studio#21187](https://github.com/CherryHQ/cherry-studio/pull/21187)** — fix(kb-citations): improve synthesis attribution and citation previews | 2026-10-22 |
+| `open` | **[CherryHQ/cherry-studio#20953](https://github.com/CherryHQ/cherry-studio/pull/20953)** — fix(doctor): avoid unactionable dependency links | 2026-10-22 |
 | `open` | **[CherryHQ/cherry-studio#20949](https://github.com/CherryHQ/cherry-studio/pull/20949)** — fix(agent-session): classify empty completions | 2026-10-22 |
 | `open` | **[apache/maka#6226](https://github.com/apache/maka/pull/6226)** — fix(runtime-host): add explicit managed root identity recovery | 2026-10-22 |
-| `open` | **[CherryHQ/cherry-studio#21422](https://github.com/CherryHQ/cherry-studio/pull/21422)** — fix(chat-errors): preserve provider codes and explain history recovery | 2026-10-21 |
-| `open` | **[CherryHQ/cherry-studio#21187](https://github.com/CherryHQ/cherry-studio/pull/21187)** — fix(kb-citations): improve synthesis attribution and citation previews | 2026-10-21 |
-| `open` | **[alibaba/open-code-review#1797](https://github.com/alibaba/open-code-review/pull/1797)** — feat(telemetry): expose per-attempt LLM HTTP spans | 2026-10-21 |
+| `open` | **[alibaba/open-code-review#1797](https://github.com/alibaba/open-code-review/pull/1797)** — feat(telemetry): expose per-attempt LLM HTTP spans | 2026-10-22 |
 | `open` | **[heygen-com/hyperframes#6032](https://github.com/heygen-com/hyperframes/pull/6032)** — fix(player): include visible playback rate in accessible name | 2026-10-21 |
-| `open` | **[can1357/oh-my-pi#16254](https://github.com/can1357/oh-my-pi/pull/16254)** — fix(coding-agent): refuse oversized transcripts before resume | 2026-10-21 |
 | `open` | **[apache/maka#6198](https://github.com/apache/maka/pull/6198)** — feat(desktop): unify Personal Assistant task panel densities | 2026-10-21 |
 | `open` | **[apache/maka#6212](https://github.com/apache/maka/pull/6212)** — fix(desktop): keep lightbox close clear of window controls | 2026-10-21 |
 | `open` | **[farion1231/cc-switch#8642](https://github.com/farion1231/cc-switch/pull/8642)** — fix(usage): use Chinese units for compact token counts | 2026-10-21 |
@@ -94,7 +96,6 @@ I write about the process on [dhpie.com](https://dhpie.com).
 | `merged` | **[apache/maka#6151](https://github.com/apache/maka/pull/6151)** — fix(storage): retry pending context-offload checkpoints | 2026-10-21 |
 | `merged` | **[apache/maka#5286](https://github.com/apache/maka/pull/5286)** — fix(desktop): guard broadcasts by renderer frame | 2026-10-21 |
 | `open` | **[farion1231/cc-switch#8647](https://github.com/farion1231/cc-switch/pull/8647)** — feat(provider): refresh Claude Desktop providers from Claude Code | 2026-10-21 |
-| `open` | **[CherryHQ/cherry-studio#20953](https://github.com/CherryHQ/cherry-studio/pull/20953)** — fix(doctor): avoid unactionable dependency links | 2026-10-20 |
 | `open` | **[cline/cline#15223](https://github.com/cline/cline/pull/15223)** — fix(desktop): avoid sending session transcripts twice | 2026-10-20 |
 | `open` | **[alibaba/open-code-review#1637](https://github.com/alibaba/open-code-review/pull/1637)** — feat(action): split review and publication for fresh App tokens | 2026-10-20 |
 | `open` | **[cloudflare/security-audit-skill#83](https://github.com/cloudflare/security-audit-skill/pull/83)** — docs: align completion gates and carried record validation | 2026-10-20 |
@@ -145,20 +146,16 @@ I write about the process on [dhpie.com](https://dhpie.com).
 | `open` | **[anomalyco/opencode#55480](https://github.com/anomalyco/opencode/pull/55480)** — fix(session-ui): reuse parsed DOM for live markdown | 2026-10-15 |
 | `merged` | **[can1357/oh-my-pi#14440](https://github.com/can1357/oh-my-pi/pull/14440)** — fix(ai): preserve GLM-5.2 thinking on Ollama Cloud | 2026-10-15 |
 | `open` | **[anomalyco/opencode#55779](https://github.com/anomalyco/opencode/pull/55779)** — fix(server): flush SSE headers before streaming events | 2026-10-15 |
-| `open` | **[makecindy/cindy#6141](https://github.com/makecindy/cindy/pull/6141)** — fix(media): bind xAI media to independent OAuth accounts | 2026-10-15 |
-| `open` | **[CherryHQ/cherry-studio#21133](https://github.com/CherryHQ/cherry-studio/pull/21133)** — feat(agent-knowledge): add per-binding read/write permissions | 2026-10-15 |
-| `merged` | **[code-yeongyu/oh-my-openagent#9624](https://github.com/code-yeongyu/oh-my-openagent/pull/9624)** — refactor(senpi): defer the live thread RPC client | 2026-10-15 |
-| `merged` | **[CherryHQ/cherry-studio#20281](https://github.com/CherryHQ/cherry-studio/pull/20281)** — fix(ai-core): repair restored tool result names | 2026-10-15 |
 <!-- upstream:end -->
 
 <details>
 <summary>Recent conversations · issues, comments &amp; reviews</summary>
 
 <!-- activity:start -->
-- `2026-10-22` Commented on **[MoonshotAI/kimi-code#4327](https://github.com/MoonshotAI/kimi-code/issues/4327#issuecomment-6333153104)** — 工具返回后偶发 400，reasoning\_content 未回传给上游 openai 协议 + thinking 模型
-- `2026-10-22` Commented on **[CherryHQ/cherry-studio#22404](https://github.com/CherryHQ/cherry-studio/issues/22404#issuecomment-6333107226)** — \[Bug\]: SKILL.md frontmatter fails to parse when a CRLF file contains a nested mapping — the skill s…
-- `2026-10-22` Commented on **[lobehub/lobehub#21389](https://github.com/lobehub/lobehub/issues/21389#issuecomment-6330770642)** — \[Bug\] Desktop with local database (PGlite): Export loses all topics and messages with \`RuntimeError…
-- `2026-10-22` Commented on **[apache/maka#6226](https://github.com/apache/maka/pull/6226#issuecomment-6330597977)** — fix(runtime-host): add explicit managed root identity recovery
+- `2026-10-22` Commented on **[anomalyco/opencode#57818](https://github.com/anomalyco/opencode/issues/57818#issuecomment-6335343262)** — \[FEATURE\]: Render plugin-supplied interactive HTML/JS inline in the Desktop chat
+- `2026-10-22` Commented on **[anomalyco/opencode#57813](https://github.com/anomalyco/opencode/issues/57813#issuecomment-6335403757)** — Windows: processes started by a tool command outlive the command and the server
+- `2026-10-22` Commented on **[anomalyco/opencode#58054](https://github.com/anomalyco/opencode/issues/58054#issuecomment-6335340470)** — \[FEATURE\]: tui: session tab title marquee is too fast to read — make it configurable
+- `2026-10-22` Commented on **[makecindy/cindy#6736](https://github.com/makecindy/cindy/issues/6736#issuecomment-6333963477)** — fix(codex): 收养外部会话使用非规范 rollout 文件名导致 thread/resume 失败
 <!-- activity:end -->
 
 </details>
@@ -192,7 +189,7 @@ I write about the process on [dhpie.com](https://dhpie.com).
 
 
 <!-- telemetry-refresh:start -->
-<sub>Fetched every 8 hours · last successful fetch<br>Totals: 2026-10-22 12:10:12 UTC · Commit hours: 2026-10-22 12:10:12 UTC · Reactions: 2026-10-22 12:10:12 UTC</sub>
+<sub>Fetched every 8 hours · last successful fetch<br>Totals: 2026-10-22 18:41:29 UTC · Commit hours: 2026-10-22 18:41:29 UTC · Reactions: 2026-10-22 18:41:29 UTC</sub>
 <!-- telemetry-refresh:end -->
 
 ### `~/arcade`
