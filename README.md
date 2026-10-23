@@ -76,11 +76,14 @@ I write about the process on [dhpie.com](https://dhpie.com).
 <sub>Public upstream PRs updated in the last 7 days · refreshed every 8 hours</sub>
 
 <!-- upstream:start -->
-<sub>53 PRs · 42 open · 11 merged</sub>
+<sub>49 PRs · 39 open · 10 merged</sub>
 
 | Status | Pull request | Updated (UTC) |
 | :--- | :--- | :--- |
-| `open` | **[apache/maka#6262](https://github.com/apache/maka/pull/6262)** — fix(runtime): avoid compaction without safe-prefix progress | 2026-10-23 |
+| `open` | **[CherryHQ/cherry-studio#21317](https://github.com/CherryHQ/cherry-studio/pull/21317)** — fix(agent-stream): reject billed empty assistant completions | 2026-10-23 |
+| `open` | **[apache/maka#6262](https://github.com/apache/maka/pull/6262)** — fix(runtime): handle recovered unknown calls in compaction | 2026-10-23 |
+| `open` | **[CherryHQ/cherry-studio#21223](https://github.com/CherryHQ/cherry-studio/pull/21223)** — feat(xai-tools): add opt-in native Grok images in chat | 2026-10-23 |
+| `open` | **[cline/cline#15223](https://github.com/cline/cline/pull/15223)** — fix(desktop): avoid sending session transcripts twice | 2026-10-23 |
 | `open` | **[CherryHQ/cherry-studio#21133](https://github.com/CherryHQ/cherry-studio/pull/21133)** — feat(agent-knowledge): add per-binding read/write permissions | 2026-10-22 |
 | `open` | **[CherryHQ/cherry-studio#21422](https://github.com/CherryHQ/cherry-studio/pull/21422)** — fix(chat-errors): preserve provider codes and explain history recovery | 2026-10-22 |
 | `open` | **[can1357/oh-my-pi#16254](https://github.com/can1357/oh-my-pi/pull/16254)** — fix(coding-agent): refuse oversized transcripts before resume | 2026-10-22 |
@@ -97,7 +100,6 @@ I write about the process on [dhpie.com](https://dhpie.com).
 | `merged` | **[apache/maka#6151](https://github.com/apache/maka/pull/6151)** — fix(storage): retry pending context-offload checkpoints | 2026-10-21 |
 | `merged` | **[apache/maka#5286](https://github.com/apache/maka/pull/5286)** — fix(desktop): guard broadcasts by renderer frame | 2026-10-21 |
 | `open` | **[farion1231/cc-switch#8647](https://github.com/farion1231/cc-switch/pull/8647)** — feat(provider): refresh Claude Desktop providers from Claude Code | 2026-10-21 |
-| `open` | **[cline/cline#15223](https://github.com/cline/cline/pull/15223)** — fix(desktop): avoid sending session transcripts twice | 2026-10-20 |
 | `open` | **[alibaba/open-code-review#1637](https://github.com/alibaba/open-code-review/pull/1637)** — feat(action): split review and publication for fresh App tokens | 2026-10-20 |
 | `open` | **[cloudflare/security-audit-skill#83](https://github.com/cloudflare/security-audit-skill/pull/83)** — docs: align completion gates and carried record validation | 2026-10-20 |
 | `open` | **[cloudflare/security-audit-skill#82](https://github.com/cloudflare/security-audit-skill/pull/82)** — fix: allow artifact sharing within an archived attempt | 2026-10-20 |
@@ -127,22 +129,16 @@ I write about the process on [dhpie.com](https://dhpie.com).
 | `open` | **[CherryHQ/cherry-studio#20434](https://github.com/CherryHQ/cherry-studio/pull/20434)** — fix(ai): stabilize OpenRouter session routing | 2026-10-16 |
 | `open` | **[anomalyco/opencode#56215](https://github.com/anomalyco/opencode/pull/56215)** — fix(tui): preserve busy prompts on ctrl+c | 2026-10-16 |
 | `merged` | **[makecindy/cindy#4553](https://github.com/makecindy/cindy/pull/4553)** — fix(desktop): clear event-backed attention after task deletion | 2026-10-16 |
-| `open` | **[code-yeongyu/oh-my-openagent#10109](https://github.com/code-yeongyu/oh-my-openagent/pull/10109)** — fix(senpi): restore official R0 lifecycle QA fixtures | 2026-10-16 |
-| `open` | **[makecindy/cindy#4377](https://github.com/makecindy/cindy/pull/4377)** — fix(codex): preserve compacted turn recovery after disconnect | 2026-10-16 |
-| `open` | **[anomalyco/opencode#56199](https://github.com/anomalyco/opencode/pull/56199)** — fix(tui): disable unused child navigation defaults | 2026-10-16 |
-| `open` | **[CherryHQ/cherry-studio#21355](https://github.com/CherryHQ/cherry-studio/pull/21355)** — feat(web-search): choose search and fetch providers per assistant | 2026-10-16 |
-| `open` | **[can1357/oh-my-pi#14439](https://github.com/can1357/oh-my-pi/pull/14439)** — Coalesce identical advisor notes within a review batch | 2026-10-16 |
-| `merged` | **[makecindy/cindy#6026](https://github.com/makecindy/cindy/pull/6026)** — fix(providers): preserve unknown image input in native bridges | 2026-10-16 |
 <!-- upstream:end -->
 
 <details>
 <summary>Recent conversations · issues, comments &amp; reviews</summary>
 
 <!-- activity:start -->
+- `2026-10-23` Commented on **[apache/maka#6254](https://github.com/apache/maka/issues/6254#issuecomment-6359923636)** — bug(runtime): manual compaction reports success without advancing after tool crash recovery
+- `2026-10-23` Commented on **[apache/maka#6262](https://github.com/apache/maka/pull/6262#issuecomment-6366489768)** — fix(runtime): handle recovered unknown calls in compaction
 - `2026-10-22` Commented on **[earendil-works/pi#11223](https://github.com/earendil-works/pi/issues/11223#issuecomment-6353738768)** — modelOverrides are silently ignored for classifier models
 - `2026-10-23` Commented on **[earendil-works/pi#7739](https://github.com/earendil-works/pi/issues/7739#issuecomment-6355872296)** — Set a startup-time budget targeting jcode-comparable latency and memory
-- `2026-10-23` Commented on **[anomalyco/opencode#58128](https://github.com/anomalyco/opencode/issues/58128#issuecomment-6355530627)** — do not stop retrying on llm api failures
-- `2026-10-22` Commented on **[langchain-ai/langgraph#9266](https://github.com/langchain-ai/langgraph/issues/9266#issuecomment-6346262434)** — PostgresStore: literal nested-dict filters raise \`ValueError: Unsupported operator: \&lt;key\&gt;\` (same ro…
 <!-- activity:end -->
 
 </details>
@@ -154,17 +150,17 @@ I write about the process on [dhpie.com](https://dhpie.com).
 <sub>Latest writing from [dhpie.com](https://dhpie.com)</sub>
 
 <!-- notes:start -->
+- [开源贡献日报 · 2026-10-23](https://dhpie.com/posts/cn/open-source-daily-2026-10-23)
 - [开源贡献日报 · 2026-10-22](https://dhpie.com/posts/cn/open-source-daily-2026-10-22)
 - [开源贡献日报 · 2026-10-20](https://dhpie.com/posts/cn/open-source-daily-2026-10-20)
 - [开源贡献日报 · 2026-10-18](https://dhpie.com/posts/cn/open-source-daily-2026-10-18)
-- [开源贡献日报 · 2026-10-17](https://dhpie.com/posts/cn/open-source-daily-2026-10-17)
 <!-- notes:end -->
 
 ### `~/telemetry`
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Dante-dan/Dante-dan/main/assets/telemetry/stats-dark-1c6141e76738cd10.svg" />
-  <img src="https://raw.githubusercontent.com/Dante-dan/Dante-dan/main/assets/telemetry/stats-light-ed32e7173ef80872.svg" alt="Public GitHub contribution totals" width="390" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Dante-dan/Dante-dan/main/assets/telemetry/stats-dark-d92d3777a97b1e7b.svg" />
+  <img src="https://raw.githubusercontent.com/Dante-dan/Dante-dan/main/assets/telemetry/stats-light-1c3d867bd86ea915.svg" alt="Public GitHub contribution totals" width="390" />
 </picture>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Dante-dan/Dante-dan/main/assets/telemetry/time-dark-0ec7d6edffb7bdca.svg" />
@@ -176,7 +172,7 @@ I write about the process on [dhpie.com](https://dhpie.com).
 
 
 <!-- telemetry-refresh:start -->
-<sub>Fetched every 8 hours · last successful fetch<br>Totals: 2026-10-23 11:53:30 UTC · Commit hours: 2026-10-23 11:53:30 UTC · Reactions: 2026-10-23 11:53:30 UTC</sub>
+<sub>Fetched every 8 hours · last successful fetch<br>Totals: 2026-10-23 18:32:35 UTC · Commit hours: 2026-10-23 18:32:35 UTC · Reactions: 2026-10-23 18:32:35 UTC</sub>
 <!-- telemetry-refresh:end -->
 
 ### `~/arcade`
