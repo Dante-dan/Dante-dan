@@ -76,7 +76,7 @@ I write about the process on [dhpie.com](https://dhpie.com).
 <sub>Public upstream PRs updated in the last 7 days · refreshed every 8 hours</sub>
 
 <!-- upstream:start -->
-<sub>66 PRs · 51 open · 15 merged</sub>
+<sub>61 PRs · 48 open · 13 merged</sub>
 
 | Status | Pull request | Updated (UTC) |
 | :--- | :--- | :--- |
@@ -141,21 +141,16 @@ I write about the process on [dhpie.com](https://dhpie.com).
 | `open` | **[CherryHQ/cherry-studio#20323](https://github.com/CherryHQ/cherry-studio/pull/20323)** — fix: accept sparse OpenAI response lifecycle events | 2026-10-16 |
 | `open` | **[code-yeongyu/oh-my-openagent#10138](https://github.com/code-yeongyu/oh-my-openagent/pull/10138)** — docs(install): explain npm package-name bin conflicts | 2026-10-16 |
 | `open` | **[multica-ai/multica#9280](https://github.com/multica-ai/multica/pull/9280)** — feat(daemon): allow per-agent local directory execution modes | 2026-10-16 |
-| `open` | **[makecindy/cindy#6168](https://github.com/makecindy/cindy/pull/6168)** — feat(desktop): add native Linux RPM packages | 2026-10-15 |
-| `merged` | **[anomalyco/opencode#55778](https://github.com/anomalyco/opencode/pull/55778)** — fix(core): seed configured limits before model transforms | 2026-10-15 |
-| `open` | **[anomalyco/opencode#55480](https://github.com/anomalyco/opencode/pull/55480)** — fix(session-ui): reuse parsed DOM for live markdown | 2026-10-15 |
-| `merged` | **[can1357/oh-my-pi#14440](https://github.com/can1357/oh-my-pi/pull/14440)** — fix(ai): preserve GLM-5.2 thinking on Ollama Cloud | 2026-10-15 |
-| `open` | **[anomalyco/opencode#55779](https://github.com/anomalyco/opencode/pull/55779)** — fix(server): flush SSE headers before streaming events | 2026-10-15 |
 <!-- upstream:end -->
 
 <details>
 <summary>Recent conversations · issues, comments &amp; reviews</summary>
 
 <!-- activity:start -->
-- `2026-10-22` Commented on **[anomalyco/opencode#57818](https://github.com/anomalyco/opencode/issues/57818#issuecomment-6335343262)** — \[FEATURE\]: Render plugin-supplied interactive HTML/JS inline in the Desktop chat
-- `2026-10-22` Commented on **[anomalyco/opencode#57813](https://github.com/anomalyco/opencode/issues/57813#issuecomment-6335403757)** — Windows: processes started by a tool command outlive the command and the server
-- `2026-10-22` Commented on **[anomalyco/opencode#58054](https://github.com/anomalyco/opencode/issues/58054#issuecomment-6335340470)** — \[FEATURE\]: tui: session tab title marquee is too fast to read — make it configurable
-- `2026-10-22` Commented on **[makecindy/cindy#6736](https://github.com/makecindy/cindy/issues/6736#issuecomment-6333963477)** — fix(codex): 收养外部会话使用非规范 rollout 文件名导致 thread/resume 失败
+- `2026-10-22` Commented on **[langchain-ai/langgraph#9266](https://github.com/langchain-ai/langgraph/issues/9266#issuecomment-6346262434)** — PostgresStore: literal nested-dict filters raise \`ValueError: Unsupported operator: \&lt;key\&gt;\` (same ro…
+- `2026-10-22` Commented on **[anomalyco/opencode#58148](https://github.com/anomalyco/opencode/issues/58148#issuecomment-6345904383)** — worktree: worktree\_create targets the project&#x27;s canonical directory, not the session directory (pro…
+- `2026-10-22` Commented on **[anomalyco/opencode#58192](https://github.com/anomalyco/opencode/issues/58192#issuecomment-6349716623)** — \[FEATURE\]: Mark a session unread from the home session list
+- `2026-10-22` Commented on **[anomalyco/opencode#58189](https://github.com/anomalyco/opencode/issues/58189#issuecomment-6349700765)** — \[FEATURE\]: desktop: default new sessions to the last-used worktree instead of New worktree
 <!-- activity:end -->
 
 </details>
@@ -189,7 +184,7 @@ I write about the process on [dhpie.com](https://dhpie.com).
 
 
 <!-- telemetry-refresh:start -->
-<sub>Fetched every 8 hours · last successful fetch<br>Totals: 2026-10-22 18:41:29 UTC · Commit hours: 2026-10-22 18:41:29 UTC · Reactions: 2026-10-22 18:41:29 UTC</sub>
+<sub>Fetched every 8 hours · last successful fetch<br>Totals: 2026-10-23 00:46:22 UTC · Commit hours: 2026-10-23 00:46:22 UTC · Reactions: 2026-10-23 00:46:22 UTC</sub>
 <!-- telemetry-refresh:end -->
 
 ### `~/arcade`
