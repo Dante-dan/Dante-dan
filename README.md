@@ -76,10 +76,11 @@ I write about the process on [dhpie.com](https://dhpie.com).
 <sub>Public upstream PRs updated in the last 7 days · refreshed every 8 hours</sub>
 
 <!-- upstream:start -->
-<sub>61 PRs · 48 open · 13 merged</sub>
+<sub>53 PRs · 42 open · 11 merged</sub>
 
 | Status | Pull request | Updated (UTC) |
 | :--- | :--- | :--- |
+| `open` | **[apache/maka#6262](https://github.com/apache/maka/pull/6262)** — fix(runtime): avoid compaction without safe-prefix progress | 2026-10-23 |
 | `open` | **[CherryHQ/cherry-studio#21133](https://github.com/CherryHQ/cherry-studio/pull/21133)** — feat(agent-knowledge): add per-binding read/write permissions | 2026-10-22 |
 | `open` | **[CherryHQ/cherry-studio#21422](https://github.com/CherryHQ/cherry-studio/pull/21422)** — fix(chat-errors): preserve provider codes and explain history recovery | 2026-10-22 |
 | `open` | **[can1357/oh-my-pi#16254](https://github.com/can1357/oh-my-pi/pull/16254)** — fix(coding-agent): refuse oversized transcripts before resume | 2026-10-22 |
@@ -132,25 +133,16 @@ I write about the process on [dhpie.com](https://dhpie.com).
 | `open` | **[CherryHQ/cherry-studio#21355](https://github.com/CherryHQ/cherry-studio/pull/21355)** — feat(web-search): choose search and fetch providers per assistant | 2026-10-16 |
 | `open` | **[can1357/oh-my-pi#14439](https://github.com/can1357/oh-my-pi/pull/14439)** — Coalesce identical advisor notes within a review batch | 2026-10-16 |
 | `merged` | **[makecindy/cindy#6026](https://github.com/makecindy/cindy/pull/6026)** — fix(providers): preserve unknown image input in native bridges | 2026-10-16 |
-| `open` | **[CherryHQ/cherry-studio#20349](https://github.com/CherryHQ/cherry-studio/pull/20349)** — fix(data-api): avoid overlapping timed-out reads | 2026-10-16 |
-| `open` | **[CherryHQ/cherry-studio#20747](https://github.com/CherryHQ/cherry-studio/pull/20747)** — feat(api-gateway): add knowledge base write routes | 2026-10-16 |
-| `open` | **[CherryHQ/cherry-studio#21212](https://github.com/CherryHQ/cherry-studio/pull/21212)** — feat(xai-tools): add native code execution opt-in | 2026-10-16 |
-| `merged` | **[apache/maka#6085](https://github.com/apache/maka/pull/6085)** — fix(cli): preserve fullscreen editor and status on short terminals | 2026-10-16 |
-| `merged` | **[makecindy/cindy#4366](https://github.com/makecindy/cindy/pull/4366)** — fix(mobile): avoid stale device roster snapshot | 2026-10-16 |
-| `open` | **[CherryHQ/cherry-studio#20321](https://github.com/CherryHQ/cherry-studio/pull/20321)** — fix(chat-errors): normalize non-error throws | 2026-10-16 |
-| `open` | **[CherryHQ/cherry-studio#20323](https://github.com/CherryHQ/cherry-studio/pull/20323)** — fix: accept sparse OpenAI response lifecycle events | 2026-10-16 |
-| `open` | **[code-yeongyu/oh-my-openagent#10138](https://github.com/code-yeongyu/oh-my-openagent/pull/10138)** — docs(install): explain npm package-name bin conflicts | 2026-10-16 |
-| `open` | **[multica-ai/multica#9280](https://github.com/multica-ai/multica/pull/9280)** — feat(daemon): allow per-agent local directory execution modes | 2026-10-16 |
 <!-- upstream:end -->
 
 <details>
 <summary>Recent conversations · issues, comments &amp; reviews</summary>
 
 <!-- activity:start -->
+- `2026-10-22` Commented on **[earendil-works/pi#11223](https://github.com/earendil-works/pi/issues/11223#issuecomment-6353738768)** — modelOverrides are silently ignored for classifier models
+- `2026-10-23` Commented on **[earendil-works/pi#7739](https://github.com/earendil-works/pi/issues/7739#issuecomment-6355872296)** — Set a startup-time budget targeting jcode-comparable latency and memory
+- `2026-10-23` Commented on **[anomalyco/opencode#58128](https://github.com/anomalyco/opencode/issues/58128#issuecomment-6355530627)** — do not stop retrying on llm api failures
 - `2026-10-22` Commented on **[langchain-ai/langgraph#9266](https://github.com/langchain-ai/langgraph/issues/9266#issuecomment-6346262434)** — PostgresStore: literal nested-dict filters raise \`ValueError: Unsupported operator: \&lt;key\&gt;\` (same ro…
-- `2026-10-22` Commented on **[anomalyco/opencode#58148](https://github.com/anomalyco/opencode/issues/58148#issuecomment-6345904383)** — worktree: worktree\_create targets the project&#x27;s canonical directory, not the session directory (pro…
-- `2026-10-22` Commented on **[anomalyco/opencode#58192](https://github.com/anomalyco/opencode/issues/58192#issuecomment-6349716623)** — \[FEATURE\]: Mark a session unread from the home session list
-- `2026-10-22` Commented on **[anomalyco/opencode#58189](https://github.com/anomalyco/opencode/issues/58189#issuecomment-6349700765)** — \[FEATURE\]: desktop: default new sessions to the last-used worktree instead of New worktree
 <!-- activity:end -->
 
 </details>
@@ -162,17 +154,17 @@ I write about the process on [dhpie.com](https://dhpie.com).
 <sub>Latest writing from [dhpie.com](https://dhpie.com)</sub>
 
 <!-- notes:start -->
+- [开源贡献日报 · 2026-10-22](https://dhpie.com/posts/cn/open-source-daily-2026-10-22)
 - [开源贡献日报 · 2026-10-20](https://dhpie.com/posts/cn/open-source-daily-2026-10-20)
 - [开源贡献日报 · 2026-10-18](https://dhpie.com/posts/cn/open-source-daily-2026-10-18)
 - [开源贡献日报 · 2026-10-17](https://dhpie.com/posts/cn/open-source-daily-2026-10-17)
-- [开源贡献日报 · 2026-10-16](https://dhpie.com/posts/cn/open-source-daily-2026-10-16)
 <!-- notes:end -->
 
 ### `~/telemetry`
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Dante-dan/Dante-dan/main/assets/telemetry/stats-dark-07dd57b8953fff97.svg" />
-  <img src="https://raw.githubusercontent.com/Dante-dan/Dante-dan/main/assets/telemetry/stats-light-21058c44b3edf977.svg" alt="Public GitHub contribution totals" width="390" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Dante-dan/Dante-dan/main/assets/telemetry/stats-dark-1c6141e76738cd10.svg" />
+  <img src="https://raw.githubusercontent.com/Dante-dan/Dante-dan/main/assets/telemetry/stats-light-ed32e7173ef80872.svg" alt="Public GitHub contribution totals" width="390" />
 </picture>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Dante-dan/Dante-dan/main/assets/telemetry/time-dark-0ec7d6edffb7bdca.svg" />
@@ -184,7 +176,7 @@ I write about the process on [dhpie.com](https://dhpie.com).
 
 
 <!-- telemetry-refresh:start -->
-<sub>Fetched every 8 hours · last successful fetch<br>Totals: 2026-10-23 00:46:22 UTC · Commit hours: 2026-10-23 00:46:22 UTC · Reactions: 2026-10-23 00:46:22 UTC</sub>
+<sub>Fetched every 8 hours · last successful fetch<br>Totals: 2026-10-23 11:53:30 UTC · Commit hours: 2026-10-23 11:53:30 UTC · Reactions: 2026-10-23 11:53:30 UTC</sub>
 <!-- telemetry-refresh:end -->
 
 ### `~/arcade`
