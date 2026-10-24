@@ -76,10 +76,13 @@ I write about the process on [dhpie.com](https://dhpie.com).
 <sub>Public upstream PRs updated in the last 7 days · refreshed every 8 hours</sub>
 
 <!-- upstream:start -->
-<sub>49 PRs · 39 open · 10 merged</sub>
+<sub>45 PRs · 36 open · 9 merged</sub>
 
 | Status | Pull request | Updated (UTC) |
 | :--- | :--- | :--- |
+| `open` | **[heygen-com/hyperframes#6032](https://github.com/heygen-com/hyperframes/pull/6032)** — fix(player): include visible playback rate in accessible name | 2026-10-24 |
+| `open` | **[farion1231/cc-switch#8800](https://github.com/farion1231/cc-switch/pull/8800)** — fix(proxy): forward selected Codex provider HTTP headers | 2026-10-23 |
+| `open` | **[cline/cline#15296](https://github.com/cline/cline/pull/15296)** — fix(desktop): handle update menu actions once on macOS | 2026-10-23 |
 | `open` | **[CherryHQ/cherry-studio#21317](https://github.com/CherryHQ/cherry-studio/pull/21317)** — fix(agent-stream): reject billed empty assistant completions | 2026-10-23 |
 | `open` | **[apache/maka#6262](https://github.com/apache/maka/pull/6262)** — fix(runtime): handle recovered unknown calls in compaction | 2026-10-23 |
 | `open` | **[CherryHQ/cherry-studio#21223](https://github.com/CherryHQ/cherry-studio/pull/21223)** — feat(xai-tools): add opt-in native Grok images in chat | 2026-10-23 |
@@ -92,7 +95,6 @@ I write about the process on [dhpie.com](https://dhpie.com).
 | `open` | **[CherryHQ/cherry-studio#20949](https://github.com/CherryHQ/cherry-studio/pull/20949)** — fix(agent-session): classify empty completions | 2026-10-22 |
 | `open` | **[apache/maka#6226](https://github.com/apache/maka/pull/6226)** — fix(runtime-host): add explicit managed root identity recovery | 2026-10-22 |
 | `open` | **[alibaba/open-code-review#1797](https://github.com/alibaba/open-code-review/pull/1797)** — feat(telemetry): expose per-attempt LLM HTTP spans | 2026-10-22 |
-| `open` | **[heygen-com/hyperframes#6032](https://github.com/heygen-com/hyperframes/pull/6032)** — fix(player): include visible playback rate in accessible name | 2026-10-21 |
 | `open` | **[apache/maka#6198](https://github.com/apache/maka/pull/6198)** — feat(desktop): unify Personal Assistant task panel densities | 2026-10-21 |
 | `open` | **[apache/maka#6212](https://github.com/apache/maka/pull/6212)** — fix(desktop): keep lightbox close clear of window controls | 2026-10-21 |
 | `open` | **[farion1231/cc-switch#8642](https://github.com/farion1231/cc-switch/pull/8642)** — fix(usage): use Chinese units for compact token counts | 2026-10-21 |
@@ -109,7 +111,6 @@ I write about the process on [dhpie.com](https://dhpie.com).
 | `merged` | **[multica-ai/multica#8981](https://github.com/multica-ai/multica/pull/8981)** — MUL-7825, MUL-7826: fix(agent): reject invalid private runtime bindings | 2026-10-19 |
 | `open` | **[CherryHQ/cherry-studio#21360](https://github.com/CherryHQ/cherry-studio/pull/21360)** — docs(tool-approval): clarify scheduled session delegation | 2026-10-19 |
 | `merged` | **[multica-ai/multica#9252](https://github.com/multica-ai/multica/pull/9252)** — MUL-8016: fix(agent): honor Claude supplement startup handshake budget | 2026-10-19 |
-| `open` | **[heygen-com/hyperframes#5738](https://github.com/heygen-com/hyperframes/pull/5738)** — fix(skills): preserve approved videos across reassembly | 2026-10-19 |
 | `open` | **[anomalyco/opencode#56644](https://github.com/anomalyco/opencode/pull/56644)** — fix(plugin): share host OpenTUI runtime with server plugins | 2026-10-19 |
 | `merged` | **[apache/maka#6145](https://github.com/apache/maka/pull/6145)** — fix(ui): preserve running tool state when reconnecting | 2026-10-19 |
 | `merged` | **[apache/maka#6118](https://github.com/apache/maka/pull/6118)** — fix(storage): restore Codex import image attachments | 2026-10-19 |
@@ -124,21 +125,16 @@ I write about the process on [dhpie.com](https://dhpie.com).
 | `open` | **[heygen-com/hyperframes#5594](https://github.com/heygen-com/hyperframes/pull/5594)** — feat(studio): show canvas gesture position, size and rotation | 2026-10-17 |
 | `merged` | **[farion1231/cc-switch#8254](https://github.com/farion1231/cc-switch/pull/8254)** — fix(hermes): read live WSL databases inside their distribution | 2026-10-17 |
 | `open` | **[makecindy/cindy#6319](https://github.com/makecindy/cindy/pull/6319)** — fix(local-models): keep Ollama DNS failures generic | 2026-10-17 |
-| `open` | **[anomalyco/opencode#56198](https://github.com/anomalyco/opencode/pull/56198)** — fix(app): prepare side questions from shortcuts | 2026-10-16 |
-| `open` | **[CherryHQ/cherry-studio#20353](https://github.com/CherryHQ/cherry-studio/pull/20353)** — fix(ai-runtime): clamp agent output token limit | 2026-10-16 |
-| `open` | **[CherryHQ/cherry-studio#20434](https://github.com/CherryHQ/cherry-studio/pull/20434)** — fix(ai): stabilize OpenRouter session routing | 2026-10-16 |
-| `open` | **[anomalyco/opencode#56215](https://github.com/anomalyco/opencode/pull/56215)** — fix(tui): preserve busy prompts on ctrl+c | 2026-10-16 |
-| `merged` | **[makecindy/cindy#4553](https://github.com/makecindy/cindy/pull/4553)** — fix(desktop): clear event-backed attention after task deletion | 2026-10-16 |
 <!-- upstream:end -->
 
 <details>
 <summary>Recent conversations · issues, comments &amp; reviews</summary>
 
 <!-- activity:start -->
-- `2026-10-23` Commented on **[apache/maka#6254](https://github.com/apache/maka/issues/6254#issuecomment-6359923636)** — bug(runtime): manual compaction reports success without advancing after tool crash recovery
-- `2026-10-23` Commented on **[apache/maka#6262](https://github.com/apache/maka/pull/6262#issuecomment-6366489768)** — fix(runtime): handle recovered unknown calls in compaction
-- `2026-10-22` Commented on **[earendil-works/pi#11223](https://github.com/earendil-works/pi/issues/11223#issuecomment-6353738768)** — modelOverrides are silently ignored for classifier models
-- `2026-10-23` Commented on **[earendil-works/pi#7739](https://github.com/earendil-works/pi/issues/7739#issuecomment-6355872296)** — Set a startup-time budget targeting jcode-comparable latency and memory
+- `2026-10-23` Commented on **[earendil-works/pi#11350](https://github.com/earendil-works/pi/issues/11350#issuecomment-6376522496)** — codemode: long-running scripts in in-process subagents starve every other session (no per-session f…
+- `2026-10-23` Commented on **[MoonshotAI/kimi-code#4366](https://github.com/MoonshotAI/kimi-code/issues/4366#issuecomment-6376488917)** — /fork fires SessionStart and SessionEnd hooks for the fork while the TUI stays in the original sess…
+- `2026-10-23` Commented on **[CherryHQ/cherry-studio#22582](https://github.com/CherryHQ/cherry-studio/issues/22582#issuecomment-6376037851)** — \[Bug\]: Cannot delete note: “Failed to move item to trash” on Fedora KDE (Flatpak)
+- `2026-10-23` Commented on **[farion1231/cc-switch#8797](https://github.com/farion1231/cc-switch/issues/8797#issuecomment-6376036323)** — 路由或聚合模式，会丢失http\_headers配置
 <!-- activity:end -->
 
 </details>
@@ -159,8 +155,8 @@ I write about the process on [dhpie.com](https://dhpie.com).
 ### `~/telemetry`
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Dante-dan/Dante-dan/main/assets/telemetry/stats-dark-d92d3777a97b1e7b.svg" />
-  <img src="https://raw.githubusercontent.com/Dante-dan/Dante-dan/main/assets/telemetry/stats-light-1c3d867bd86ea915.svg" alt="Public GitHub contribution totals" width="390" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Dante-dan/Dante-dan/main/assets/telemetry/stats-dark-8655afc4066f0a78.svg" />
+  <img src="https://raw.githubusercontent.com/Dante-dan/Dante-dan/main/assets/telemetry/stats-light-2724e940efbc926e.svg" alt="Public GitHub contribution totals" width="390" />
 </picture>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Dante-dan/Dante-dan/main/assets/telemetry/time-dark-0ec7d6edffb7bdca.svg" />
@@ -172,7 +168,7 @@ I write about the process on [dhpie.com](https://dhpie.com).
 
 
 <!-- telemetry-refresh:start -->
-<sub>Fetched every 8 hours · last successful fetch<br>Totals: 2026-10-23 18:32:35 UTC · Commit hours: 2026-10-23 18:32:35 UTC · Reactions: 2026-10-23 18:32:35 UTC</sub>
+<sub>Fetched every 8 hours · last successful fetch<br>Totals: 2026-10-24 00:51:48 UTC · Commit hours: 2026-10-24 00:51:48 UTC · Reactions: 2026-10-24 00:51:48 UTC</sub>
 <!-- telemetry-refresh:end -->
 
 ### `~/arcade`
