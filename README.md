@@ -76,14 +76,19 @@ I write about the process on [dhpie.com](https://dhpie.com).
 <sub>Public upstream PRs updated in the last 7 days · refreshed every 8 hours</sub>
 
 <!-- upstream:start -->
-<sub>51 PRs · 39 open · 12 merged</sub>
+<sub>53 PRs · 42 open · 11 merged</sub>
 
 | Status | Pull request | Updated (UTC) |
 | :--- | :--- | :--- |
+| `open` | **[affaan-m/ECC#3693](https://github.com/affaan-m/ECC/pull/3693)** — docs: reuse bounded batch preparation and preserve outcomes | 2026-10-24 |
+| `open` | **[affaan-m/ECC#3692](https://github.com/affaan-m/ECC/pull/3692)** — docs(skills): preserve harness tool and entity boundaries | 2026-10-24 |
+| `open` | **[affaan-m/ECC#3691](https://github.com/affaan-m/ECC/pull/3691)** — docs(skills): distinguish operation failures from document mismatches | 2026-10-24 |
 | `open` | **[code-yeongyu/oh-my-openagent#11165](https://github.com/code-yeongyu/oh-my-openagent/pull/11165)** — fix(memory): reserve project nudges before asynchronous reads | 2026-10-24 |
+| `open` | **[affaan-m/ECC#3689](https://github.com/affaan-m/ECC/pull/3689)** — docs: retire legacy marketplace entries during migration | 2026-10-24 |
 | `open` | **[code-yeongyu/oh-my-openagent#11167](https://github.com/code-yeongyu/oh-my-openagent/pull/11167)** — fix(memory): neutralize inherited pathspec modes in literal Git lookups | 2026-10-24 |
-| `open` | **[code-yeongyu/oh-my-openagent#11164](https://github.com/code-yeongyu/oh-my-openagent/pull/11164)** — test(memory): require observed reads in parked backlog check | 2026-10-24 |
 | `open` | **[code-yeongyu/oh-my-openagent#11128](https://github.com/code-yeongyu/oh-my-openagent/pull/11128)** — ci: expose an unconditional lint ratchet check | 2026-10-24 |
+| `open` | **[apache/maka#6226](https://github.com/apache/maka/pull/6226)** — fix(runtime-host): add explicit managed root identity recovery | 2026-10-24 |
+| `open` | **[code-yeongyu/oh-my-openagent#11164](https://github.com/code-yeongyu/oh-my-openagent/pull/11164)** — test(memory): require observed reads in parked backlog check | 2026-10-24 |
 | `open` | **[heygen-com/hyperframes#6213](https://github.com/heygen-com/hyperframes/pull/6213)** — fix(cli): allow disabling orphan browser cleanup | 2026-10-24 |
 | `merged` | **[heygen-com/hyperframes#6032](https://github.com/heygen-com/hyperframes/pull/6032)** — fix(player): include visible playback rate in accessible name | 2026-10-24 |
 | `open` | **[heygen-com/hyperframes#5183](https://github.com/heygen-com/hyperframes/pull/5183)** — fix(engine): include untimed overlays in HDR stacking | 2026-10-24 |
@@ -101,7 +106,6 @@ I write about the process on [dhpie.com](https://dhpie.com).
 | `open` | **[CherryHQ/cherry-studio#21187](https://github.com/CherryHQ/cherry-studio/pull/21187)** — fix(kb-citations): improve synthesis attribution and citation previews | 2026-10-22 |
 | `open` | **[CherryHQ/cherry-studio#20953](https://github.com/CherryHQ/cherry-studio/pull/20953)** — fix(doctor): avoid unactionable dependency links | 2026-10-22 |
 | `open` | **[CherryHQ/cherry-studio#20949](https://github.com/CherryHQ/cherry-studio/pull/20949)** — fix(agent-session): classify empty completions | 2026-10-22 |
-| `open` | **[apache/maka#6226](https://github.com/apache/maka/pull/6226)** — fix(runtime-host): add explicit managed root identity recovery | 2026-10-22 |
 | `open` | **[alibaba/open-code-review#1797](https://github.com/alibaba/open-code-review/pull/1797)** — feat(telemetry): expose per-attempt LLM HTTP spans | 2026-10-22 |
 | `open` | **[apache/maka#6198](https://github.com/apache/maka/pull/6198)** — feat(desktop): unify Personal Assistant task panel densities | 2026-10-21 |
 | `open` | **[apache/maka#6212](https://github.com/apache/maka/pull/6212)** — fix(desktop): keep lightbox close clear of window controls | 2026-10-21 |
@@ -129,18 +133,16 @@ I write about the process on [dhpie.com](https://dhpie.com).
 | `open` | **[anomalyco/opencode#56511](https://github.com/anomalyco/opencode/pull/56511)** — fix(core): enforce Code Mode deny policies | 2026-10-18 |
 | `open` | **[anomalyco/opencode#56524](https://github.com/anomalyco/opencode/pull/56524)** — fix(core): store tool output in workspace environments | 2026-10-18 |
 | `open` | **[heygen-com/hyperframes#5594](https://github.com/heygen-com/hyperframes/pull/5594)** — feat(studio): show canvas gesture position, size and rotation | 2026-10-17 |
-| `merged` | **[farion1231/cc-switch#8254](https://github.com/farion1231/cc-switch/pull/8254)** — fix(hermes): read live WSL databases inside their distribution | 2026-10-17 |
-| `open` | **[makecindy/cindy#6319](https://github.com/makecindy/cindy/pull/6319)** — fix(local-models): keep Ollama DNS failures generic | 2026-10-17 |
 <!-- upstream:end -->
 
 <details>
 <summary>Recent conversations · issues, comments &amp; reviews</summary>
 
 <!-- activity:start -->
-- `2026-10-24` Commented on **[anomalyco/opencode#55446](https://github.com/anomalyco/opencode/issues/55446#issuecomment-6383565042)** — desktop/web: group sidebar sessions by project like Codex Projects view
-- `2026-10-24` Commented on **[anomalyco/opencode#58658](https://github.com/anomalyco/opencode/issues/58658#issuecomment-6383563094)** — \[FEATURE\]: tui: support Linux PRIMARY selection (middle-click paste, select-to-copy)
-- `2026-10-24` Commented on **[anomalyco/opencode#58654](https://github.com/anomalyco/opencode/issues/58654#issuecomment-6383554333)** — \[FEATURE\]: MCP manager - a schema-aware MCP config editor surface
-- `2026-10-24` Commented on **[anomalyco/opencode#58653](https://github.com/anomalyco/opencode/issues/58653#issuecomment-6383552918)** — \[FEATURE\]: MCP config - prompt for unresolved placeholder values and store the secrets outside the …
+- `2026-10-24` Commented on **[anomalyco/opencode#58515](https://github.com/anomalyco/opencode/issues/58515#issuecomment-6386682273)** — Missing session tabs/list empty in terminal while desktop app and /api/session show old sessions
+- `2026-10-24` Commented on **[anomalyco/opencode#58570](https://github.com/anomalyco/opencode/issues/58570#issuecomment-6386677115)** — \[BUG\] Assistant stops displaying text during a long tool-driven task, continues working silently, a…
+- `2026-10-24` Commented on **[CherryHQ/cherry-studio#22582](https://github.com/CherryHQ/cherry-studio/issues/22582#issuecomment-6386665305)** — \[Bug\]: Cannot delete note: “Failed to move item to trash” on Fedora KDE (Flatpak)
+- `2026-10-24` Commented on **[affaan-m/ECC#3693](https://github.com/affaan-m/ECC/pull/3693#discussion_r4367700604)**
 <!-- activity:end -->
 
 </details>
@@ -161,8 +163,8 @@ I write about the process on [dhpie.com](https://dhpie.com).
 ### `~/telemetry`
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Dante-dan/Dante-dan/main/assets/telemetry/stats-dark-056c08c194de0978.svg" />
-  <img src="https://raw.githubusercontent.com/Dante-dan/Dante-dan/main/assets/telemetry/stats-light-93c2633bd7feaaca.svg" alt="Public GitHub contribution totals" width="390" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Dante-dan/Dante-dan/main/assets/telemetry/stats-dark-b2943797ee3d5f84.svg" />
+  <img src="https://raw.githubusercontent.com/Dante-dan/Dante-dan/main/assets/telemetry/stats-light-9e3a5576e2ad40e8.svg" alt="Public GitHub contribution totals" width="390" />
 </picture>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Dante-dan/Dante-dan/main/assets/telemetry/time-dark-8146f245897032fa.svg" />
@@ -174,7 +176,7 @@ I write about the process on [dhpie.com](https://dhpie.com).
 
 
 <!-- telemetry-refresh:start -->
-<sub>Fetched every 8 hours · last successful fetch<br>Totals: 2026-10-24 11:20:28 UTC · Commit hours: 2026-10-24 11:20:28 UTC · Reactions: 2026-10-24 11:20:28 UTC</sub>
+<sub>Fetched every 8 hours · last successful fetch<br>Totals: 2026-10-24 17:31:41 UTC · Commit hours: 2026-10-24 17:31:41 UTC · Reactions: 2026-10-24 17:31:41 UTC</sub>
 <!-- telemetry-refresh:end -->
 
 ### `~/arcade`
