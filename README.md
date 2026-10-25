@@ -43,7 +43,7 @@ I write about the process on [dhpie.com](https://dhpie.com).
 <!-- contributions:start -->
 <sub>Code accepted upstream · last 12 months</sub>
 
-<table align="left" width="270"><tr><td width="64" valign="middle"><a href="https://github.com/heygen-com/hyperframes"><img src="assets/projects/heygen-com--hyperframes.png" width="56" height="56" alt="hyperframes icon" /></a></td><td width="200" valign="middle"><a href="https://github.com/heygen-com/hyperframes"><strong>hyperframes</strong></a><br /><sub><a href="https://github.com/heygen-com/hyperframes/pull/6032">merged contribution</a><br /><a href="https://github.com/heygen-com/hyperframes/pulls?q=is%3Apr+author%3ADante-dan">all PRs ↗</a></sub></td></tr></table>
+<table align="left" width="270"><tr><td width="64" valign="middle"><a href="https://github.com/heygen-com/hyperframes"><img src="assets/projects/heygen-com--hyperframes.png" width="56" height="56" alt="hyperframes icon" /></a></td><td width="200" valign="middle"><a href="https://github.com/heygen-com/hyperframes"><strong>hyperframes</strong></a><br /><sub><a href="https://github.com/heygen-com/hyperframes/pull/6213">merged contribution</a><br /><a href="https://github.com/heygen-com/hyperframes/pulls?q=is%3Apr+author%3ADante-dan">all PRs ↗</a></sub></td></tr></table>
 <table align="left" width="270"><tr><td width="64" valign="middle"><a href="https://github.com/apache/maka"><img src="assets/projects/apache--maka.png" width="56" height="56" alt="maka icon" /></a></td><td width="200" valign="middle"><a href="https://github.com/apache/maka"><strong>maka</strong></a><br /><sub><a href="https://github.com/apache/maka/pull/6151">merged contribution</a><br /><a href="https://github.com/apache/maka/pulls?q=is%3Apr+author%3ADante-dan">all PRs ↗</a></sub></td></tr></table>
 <table align="left" width="270"><tr><td width="64" valign="middle"><a href="https://github.com/multica-ai/multica"><img src="assets/projects/multica-ai--multica.png" width="56" height="56" alt="multica icon" /></a></td><td width="200" valign="middle"><a href="https://github.com/multica-ai/multica"><strong>multica</strong></a><br /><sub><a href="https://github.com/multica-ai/multica/pull/9061">merged contribution</a><br /><a href="https://github.com/multica-ai/multica/pulls?q=is%3Apr+author%3ADante-dan">all PRs ↗</a></sub></td></tr></table>
 <table align="left" width="270"><tr><td width="64" valign="middle"><a href="https://github.com/code-yeongyu/oh-my-openagent"><img src="assets/projects/code-yeongyu--oh-my-openagent.png" width="56" height="56" alt="oh-my-openagent icon" /></a></td><td width="200" valign="middle"><a href="https://github.com/code-yeongyu/oh-my-openagent"><strong>oh-my-openagent</strong></a><br /><sub><a href="https://github.com/code-yeongyu/oh-my-openagent/pull/9613">merged contribution</a><br /><a href="https://github.com/code-yeongyu/oh-my-openagent/pulls?q=is%3Apr+author%3ADante-dan">all PRs ↗</a></sub></td></tr></table>
@@ -76,10 +76,11 @@ I write about the process on [dhpie.com](https://dhpie.com).
 <sub>Public upstream PRs updated in the last 7 days · refreshed every 8 hours</sub>
 
 <!-- upstream:start -->
-<sub>53 PRs · 42 open · 11 merged</sub>
+<sub>52 PRs · 40 open · 12 merged</sub>
 
 | Status | Pull request | Updated (UTC) |
 | :--- | :--- | :--- |
+| `merged` | **[heygen-com/hyperframes#6213](https://github.com/heygen-com/hyperframes/pull/6213)** — fix(cli): allow disabling orphan browser cleanup | 2026-10-24 |
 | `open` | **[affaan-m/ECC#3693](https://github.com/affaan-m/ECC/pull/3693)** — docs: reuse bounded batch preparation and preserve outcomes | 2026-10-24 |
 | `open` | **[affaan-m/ECC#3692](https://github.com/affaan-m/ECC/pull/3692)** — docs(skills): preserve harness tool and entity boundaries | 2026-10-24 |
 | `open` | **[affaan-m/ECC#3691](https://github.com/affaan-m/ECC/pull/3691)** — docs(skills): distinguish operation failures from document mismatches | 2026-10-24 |
@@ -89,7 +90,6 @@ I write about the process on [dhpie.com](https://dhpie.com).
 | `open` | **[code-yeongyu/oh-my-openagent#11128](https://github.com/code-yeongyu/oh-my-openagent/pull/11128)** — ci: expose an unconditional lint ratchet check | 2026-10-24 |
 | `open` | **[apache/maka#6226](https://github.com/apache/maka/pull/6226)** — fix(runtime-host): add explicit managed root identity recovery | 2026-10-24 |
 | `open` | **[code-yeongyu/oh-my-openagent#11164](https://github.com/code-yeongyu/oh-my-openagent/pull/11164)** — test(memory): require observed reads in parked backlog check | 2026-10-24 |
-| `open` | **[heygen-com/hyperframes#6213](https://github.com/heygen-com/hyperframes/pull/6213)** — fix(cli): allow disabling orphan browser cleanup | 2026-10-24 |
 | `merged` | **[heygen-com/hyperframes#6032](https://github.com/heygen-com/hyperframes/pull/6032)** — fix(player): include visible playback rate in accessible name | 2026-10-24 |
 | `open` | **[heygen-com/hyperframes#5183](https://github.com/heygen-com/hyperframes/pull/5183)** — fix(engine): include untimed overlays in HDR stacking | 2026-10-24 |
 | `open` | **[farion1231/cc-switch#8800](https://github.com/farion1231/cc-switch/pull/8800)** — fix(codex): preserve image tool discovery through local routing | 2026-10-24 |
@@ -132,7 +132,6 @@ I write about the process on [dhpie.com](https://dhpie.com).
 | `open` | **[anomalyco/opencode#56645](https://github.com/anomalyco/opencode/pull/56645)** — fix(app): mark compacted context usage as unmeasured | 2026-10-18 |
 | `open` | **[anomalyco/opencode#56511](https://github.com/anomalyco/opencode/pull/56511)** — fix(core): enforce Code Mode deny policies | 2026-10-18 |
 | `open` | **[anomalyco/opencode#56524](https://github.com/anomalyco/opencode/pull/56524)** — fix(core): store tool output in workspace environments | 2026-10-18 |
-| `open` | **[heygen-com/hyperframes#5594](https://github.com/heygen-com/hyperframes/pull/5594)** — feat(studio): show canvas gesture position, size and rotation | 2026-10-17 |
 <!-- upstream:end -->
 
 <details>
@@ -163,20 +162,20 @@ I write about the process on [dhpie.com](https://dhpie.com).
 ### `~/telemetry`
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Dante-dan/Dante-dan/main/assets/telemetry/stats-dark-b2943797ee3d5f84.svg" />
-  <img src="https://raw.githubusercontent.com/Dante-dan/Dante-dan/main/assets/telemetry/stats-light-9e3a5576e2ad40e8.svg" alt="Public GitHub contribution totals" width="390" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Dante-dan/Dante-dan/main/assets/telemetry/stats-dark-21bfeedd469d17fb.svg" />
+  <img src="https://raw.githubusercontent.com/Dante-dan/Dante-dan/main/assets/telemetry/stats-light-b2ebbb53619804d4.svg" alt="Public GitHub contribution totals" width="390" />
 </picture>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Dante-dan/Dante-dan/main/assets/telemetry/time-dark-8146f245897032fa.svg" />
-  <img src="https://raw.githubusercontent.com/Dante-dan/Dante-dan/main/assets/telemetry/time-light-bf1f752eb8aff447.svg" alt="Commit distribution by time of day, UTC+8" width="390" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Dante-dan/Dante-dan/main/assets/telemetry/time-dark-e1f9fba01a060760.svg" />
+  <img src="https://raw.githubusercontent.com/Dante-dan/Dante-dan/main/assets/telemetry/time-light-e4d8ec6238c0c757.svg" alt="Commit distribution by time of day, UTC+8" width="390" />
 </picture>
 
-<img src="https://raw.githubusercontent.com/Dante-dan/Dante-dan/main/assets/telemetry/reactions-0d66d82c7ffbe9c2.svg" alt="Reactions received on recent public comments and issue bodies" width="650" />
+<img src="https://raw.githubusercontent.com/Dante-dan/Dante-dan/main/assets/telemetry/reactions-e37bac650e400c46.svg" alt="Reactions received on recent public comments and issue bodies" width="650" />
 
 
 
 <!-- telemetry-refresh:start -->
-<sub>Fetched every 8 hours · last successful fetch<br>Totals: 2026-10-24 17:31:41 UTC · Commit hours: 2026-10-24 17:31:41 UTC · Reactions: 2026-10-24 17:31:41 UTC</sub>
+<sub>Fetched every 8 hours · last successful fetch<br>Totals: 2026-10-25 00:24:59 UTC · Commit hours: 2026-10-25 00:24:59 UTC · Reactions: 2026-10-25 00:24:59 UTC</sub>
 <!-- telemetry-refresh:end -->
 
 ### `~/arcade`
