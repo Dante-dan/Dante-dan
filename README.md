@@ -76,10 +76,13 @@ I write about the process on [dhpie.com](https://dhpie.com).
 <sub>Public upstream PRs updated in the last 7 days · refreshed every 8 hours</sub>
 
 <!-- upstream:start -->
-<sub>52 PRs · 37 open · 15 merged</sub>
+<sub>50 PRs · 36 open · 14 merged</sub>
 
 | Status | Pull request | Updated (UTC) |
 | :--- | :--- | :--- |
+| `open` | **[affaan-m/ECC#3692](https://github.com/affaan-m/ECC/pull/3692)** — docs(skills): preserve harness tool and entity boundaries | 2026-10-25 |
+| `open` | **[affaan-m/ECC#3689](https://github.com/affaan-m/ECC/pull/3689)** — docs: retire legacy marketplace entries during migration | 2026-10-25 |
+| `open` | **[affaan-m/ECC#3693](https://github.com/affaan-m/ECC/pull/3693)** — docs: reuse bounded batch preparation and preserve outcomes | 2026-10-25 |
 | `open` | **[CherryHQ/cherry-studio#21355](https://github.com/CherryHQ/cherry-studio/pull/21355)** — feat(web-search): choose search and fetch providers per assistant | 2026-10-25 |
 | `merged` | **[code-yeongyu/oh-my-openagent#11165](https://github.com/code-yeongyu/oh-my-openagent/pull/11165)** — fix(memory): reserve project nudges before asynchronous reads | 2026-10-25 |
 | `open` | **[code-yeongyu/oh-my-openagent#11167](https://github.com/code-yeongyu/oh-my-openagent/pull/11167)** — fix(memory): neutralize inherited pathspec modes in literal Git lookups | 2026-10-25 |
@@ -89,10 +92,7 @@ I write about the process on [dhpie.com](https://dhpie.com).
 | `merged` | **[code-yeongyu/oh-my-openagent#11128](https://github.com/code-yeongyu/oh-my-openagent/pull/11128)** — ci: expose an unconditional lint ratchet check | 2026-10-25 |
 | `merged` | **[code-yeongyu/oh-my-openagent#11164](https://github.com/code-yeongyu/oh-my-openagent/pull/11164)** — test(memory): require observed reads in parked backlog check | 2026-10-25 |
 | `merged` | **[heygen-com/hyperframes#6213](https://github.com/heygen-com/hyperframes/pull/6213)** — fix(cli): allow disabling orphan browser cleanup | 2026-10-24 |
-| `open` | **[affaan-m/ECC#3693](https://github.com/affaan-m/ECC/pull/3693)** — docs: reuse bounded batch preparation and preserve outcomes | 2026-10-24 |
-| `open` | **[affaan-m/ECC#3692](https://github.com/affaan-m/ECC/pull/3692)** — docs(skills): preserve harness tool and entity boundaries | 2026-10-24 |
 | `open` | **[affaan-m/ECC#3691](https://github.com/affaan-m/ECC/pull/3691)** — docs(skills): distinguish operation failures from document mismatches | 2026-10-24 |
-| `open` | **[affaan-m/ECC#3689](https://github.com/affaan-m/ECC/pull/3689)** — docs: retire legacy marketplace entries during migration | 2026-10-24 |
 | `open` | **[apache/maka#6226](https://github.com/apache/maka/pull/6226)** — fix(runtime-host): add explicit managed root identity recovery | 2026-10-24 |
 | `merged` | **[heygen-com/hyperframes#6032](https://github.com/heygen-com/hyperframes/pull/6032)** — fix(player): include visible playback rate in accessible name | 2026-10-24 |
 | `open` | **[heygen-com/hyperframes#5183](https://github.com/heygen-com/hyperframes/pull/5183)** — fix(engine): include untimed overlays in HDR stacking | 2026-10-24 |
@@ -130,18 +130,16 @@ I write about the process on [dhpie.com](https://dhpie.com).
 | `open` | **[anomalyco/opencode#56644](https://github.com/anomalyco/opencode/pull/56644)** — fix(plugin): share host OpenTUI runtime with server plugins | 2026-10-19 |
 | `merged` | **[apache/maka#6145](https://github.com/apache/maka/pull/6145)** — fix(ui): preserve running tool state when reconnecting | 2026-10-19 |
 | `merged` | **[apache/maka#6118](https://github.com/apache/maka/pull/6118)** — fix(storage): restore Codex import image attachments | 2026-10-19 |
-| `open` | **[apache/maka#5266](https://github.com/apache/maka/pull/5266)** — fix(runtime): allow bounded Apple Git startup | 2026-10-18 |
-| `merged` | **[code-yeongyu/oh-my-openagent#9613](https://github.com/code-yeongyu/oh-my-openagent/pull/9613)** — test(senpi-task): make acknowledged fallback close deterministic | 2026-10-18 |
 <!-- upstream:end -->
 
 <details>
 <summary>Recent conversations · issues, comments &amp; reviews</summary>
 
 <!-- activity:start -->
+- `2026-10-25` Commented on **[affaan-m/ECC#3689](https://github.com/affaan-m/ECC/pull/3689#discussion_r4371545584)**
+- `2026-10-25` Commented on **[affaan-m/ECC#3692](https://github.com/affaan-m/ECC/pull/3692#discussion_r4371544465)**
+- `2026-10-25` Commented on **[affaan-m/ECC#3693](https://github.com/affaan-m/ECC/pull/3693#discussion_r4371542370)**
 - `2026-10-24` Commented on **[anomalyco/opencode#58515](https://github.com/anomalyco/opencode/issues/58515#issuecomment-6386682273)** — Missing session tabs/list empty in terminal while desktop app and /api/session show old sessions
-- `2026-10-24` Commented on **[anomalyco/opencode#58570](https://github.com/anomalyco/opencode/issues/58570#issuecomment-6386677115)** — \[BUG\] Assistant stops displaying text during a long tool-driven task, continues working silently, a…
-- `2026-10-24` Commented on **[CherryHQ/cherry-studio#22582](https://github.com/CherryHQ/cherry-studio/issues/22582#issuecomment-6386665305)** — \[Bug\]: Cannot delete note: “Failed to move item to trash” on Fedora KDE (Flatpak)
-- `2026-10-24` Commented on **[affaan-m/ECC#3693](https://github.com/affaan-m/ECC/pull/3693#discussion_r4367700604)**
 <!-- activity:end -->
 
 </details>
@@ -175,7 +173,7 @@ I write about the process on [dhpie.com](https://dhpie.com).
 
 
 <!-- telemetry-refresh:start -->
-<sub>Fetched every 8 hours · last successful fetch<br>Totals: 2026-10-25 11:50:31 UTC · Commit hours: 2026-10-25 11:50:31 UTC · Reactions: 2026-10-25 11:50:31 UTC</sub>
+<sub>Fetched every 8 hours · last successful fetch<br>Totals: 2026-10-25 17:44:06 UTC · Commit hours: 2026-10-25 17:44:06 UTC · Reactions: 2026-10-25 17:44:06 UTC</sub>
 <!-- telemetry-refresh:end -->
 
 ### `~/arcade`
