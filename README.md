@@ -80,21 +80,25 @@ I write about the process on [dhpie.com](https://dhpie.com).
 
 | Status | Pull request | Updated (UTC) |
 | :--- | :--- | :--- |
-| `open` | **[affaan-m/ECC#3752](https://github.com/affaan-m/ECC/pull/3752)** — docs(codex): document cache dependencies without bin links | 2026-10-26 |
-| `open` | **[affaan-m/ECC#3751](https://github.com/affaan-m/ECC/pull/3751)** — docs: add prepared verifier and effect state evaluation | 2026-10-26 |
+| `open` | **[affaan-m/ECC#3752](https://github.com/affaan-m/ECC/pull/3752)** — docs(codex): document cache dependencies without bin links | 2026-10-27 |
+| `open` | **[affaan-m/ECC#3751](https://github.com/affaan-m/ECC/pull/3751)** — docs: add prepared verifier and effect state evaluation | 2026-10-27 |
+| `open` | **[makecindy/cindy#7190](https://github.com/makecindy/cindy/pull/7190)** — fix(scheduler): rearm one-shot schedules across restart | 2026-10-26 |
+| `open` | **[makecindy/cindy#7202](https://github.com/makecindy/cindy/pull/7202)** — fix(maker-core): expose repeated Claude connection retry progress | 2026-10-26 |
+| `open` | **[makecindy/cindy#7203](https://github.com/makecindy/cindy/pull/7203)** — fix(bots): deliver component images as group attachments | 2026-10-26 |
+| `open` | **[makecindy/cindy#7235](https://github.com/makecindy/cindy/pull/7235)** — fix(remote-desktop): cache capability probes across remounts | 2026-10-26 |
+| `open` | **[code-yeongyu/oh-my-openagent#11418](https://github.com/code-yeongyu/oh-my-openagent/pull/11418)** — fix(senpi): report unstaged LSP runtime and stage preload builds | 2026-10-26 |
+| `open` | **[heygen-com/hyperframes#6433](https://github.com/heygen-com/hyperframes/pull/6433)** — fix(engine): preserve untimed HDR overlays and subtree masks | 2026-10-26 |
 | `open` | **[affaan-m/ECC#3750](https://github.com/affaan-m/ECC/pull/3750)** — docs: add public feedback goal fidelity evaluation | 2026-10-26 |
 | `open` | **[affaan-m/ECC#3749](https://github.com/affaan-m/ECC/pull/3749)** — docs: add search-first connector gap evaluation | 2026-10-26 |
 | `open` | **[multica-ai/multica#9541](https://github.com/multica-ai/multica/pull/9541)** — feat(daemon): add workspace-scoped host enrollment | 2026-10-26 |
 | `merged` | **[heygen-com/hyperframes#6395](https://github.com/heygen-com/hyperframes/pull/6395)** — fix(producer): deduplicate scene font faces before embedding | 2026-10-26 |
 | `open` | **[can1357/oh-my-pi#12394](https://github.com/can1357/oh-my-pi/pull/12394)** — fix(coding-agent): save manual handoff artifacts when enabled | 2026-10-26 |
-| `open` | **[heygen-com/hyperframes#6433](https://github.com/heygen-com/hyperframes/pull/6433)** — fix(engine): preserve untimed HDR overlays and subtree masks | 2026-10-26 |
 | `merged` | **[cline/cline#15296](https://github.com/cline/cline/pull/15296)** — fix(desktop): handle update menu actions once on macOS | 2026-10-26 |
 | `open` | **[farion1231/cc-switch#8893](https://github.com/farion1231/cc-switch/pull/8893)** — feat(apps): add compact and large-card display density | 2026-10-26 |
 | `open` | **[code-yeongyu/oh-my-openagent#9693](https://github.com/code-yeongyu/oh-my-openagent/pull/9693)** — feat(pr-watch): persist host polling and session wake receipts | 2026-10-26 |
 | `open` | **[code-yeongyu/oh-my-openagent#9437](https://github.com/code-yeongyu/oh-my-openagent/pull/9437)** — test(team-mode): make fallback cancellation gate deterministic | 2026-10-26 |
 | `open` | **[code-yeongyu/oh-my-openagent#10109](https://github.com/code-yeongyu/oh-my-openagent/pull/10109)** — fix(senpi): restore official R0 lifecycle QA fixtures | 2026-10-26 |
 | `merged` | **[multica-ai/multica#9534](https://github.com/multica-ai/multica/pull/9534)** — MUL-8244: fix(agent): preserve recovered Antigravity stream responses | 2026-10-26 |
-| `open` | **[makecindy/cindy#7235](https://github.com/makecindy/cindy/pull/7235)** — fix(remote-desktop): cache capability probes across remounts | 2026-10-26 |
 | `open` | **[makecindy/cindy#7200](https://github.com/makecindy/cindy/pull/7200)** — fix(codex): canonicalize adopted rollout paths before resume | 2026-10-26 |
 | `open` | **[makecindy/cindy#7195](https://github.com/makecindy/cindy/pull/7195)** — fix(maker-ipc): preserve delegated task titles before source wrapping | 2026-10-26 |
 | `merged` | **[CherryHQ/cherry-studio#22685](https://github.com/CherryHQ/cherry-studio/pull/22685)** — fix(webdav-backup): preserve upload size rejection guidance | 2026-10-26 |
@@ -104,11 +108,8 @@ I write about the process on [dhpie.com](https://dhpie.com).
 | `open` | **[multica-ai/multica#9539](https://github.com/multica-ai/multica/pull/9539)** — MUL-8209: fix(autopilots): redact webhook credentials before persistence | 2026-10-26 |
 | `open` | **[multica-ai/multica#9049](https://github.com/multica-ai/multica/pull/9049)** — MUL-7865: fix(wakeup): keep /note comments quiet for subscriptions | 2026-10-26 |
 | `open` | **[multica-ai/multica#8865](https://github.com/multica-ai/multica/pull/8865)** — MUL-7730: fix(agent): run matching PowerShell script for Pi-family launchers on Windows | 2026-10-26 |
-| `open` | **[makecindy/cindy#7203](https://github.com/makecindy/cindy/pull/7203)** — fix(bots): deliver component images as group attachments | 2026-10-26 |
-| `open` | **[makecindy/cindy#7202](https://github.com/makecindy/cindy/pull/7202)** — fix(maker-core): expose repeated Claude connection retry progress | 2026-10-26 |
 | `open` | **[affaan-m/ECC#3689](https://github.com/affaan-m/ECC/pull/3689)** — docs: retire legacy marketplace entries during migration | 2026-10-26 |
 | `open` | **[makecindy/cindy#7191](https://github.com/makecindy/cindy/pull/7191)** — fix(desktop): distinguish upstream resource quota from Cindy balance | 2026-10-26 |
-| `open` | **[makecindy/cindy#7190](https://github.com/makecindy/cindy/pull/7190)** — fix(scheduler): rearm one-shot schedules across restart | 2026-10-26 |
 | `open` | **[can1357/oh-my-pi#17061](https://github.com/can1357/oh-my-pi/pull/17061)** — feat(coding-agent): allow directory-scoped resume picker | 2026-10-26 |
 | `open` | **[makecindy/cindy#7172](https://github.com/makecindy/cindy/pull/7172)** — fix(desktop): allow redirected userData media roots | 2026-10-26 |
 | `open` | **[loopx-project/loopx#7349](https://github.com/loopx-project/loopx/pull/7349)** — feat(diagnostics): bind manual reads to exact session and run evidence | 2026-10-26 |
@@ -152,17 +153,16 @@ I write about the process on [dhpie.com](https://dhpie.com).
 | `open` | **[cloudflare/security-audit-skill#82](https://github.com/cloudflare/security-audit-skill/pull/82)** — fix: allow artifact sharing within an archived attempt | 2026-10-20 |
 | `merged` | **[multica-ai/multica#9061](https://github.com/multica-ai/multica/pull/9061)** — fix(comments): retain delivered supplement root owners (MUL-7874) | 2026-10-20 |
 | `open` | **[farion1231/cc-switch#8568](https://github.com/farion1231/cc-switch/pull/8568)** — fix(provider): remind users to check active provider after adding | 2026-10-20 |
-| `open` | **[CherryHQ/cherry-studio#21318](https://github.com/CherryHQ/cherry-studio/pull/21318)** — fix(sensenova-images): send image edits as JSON | 2026-10-19 |
 <!-- upstream:end -->
 
 <details>
 <summary>Recent conversations · issues, comments &amp; reviews</summary>
 
 <!-- activity:start -->
-- `2026-10-26` Commented on **[lobehub/lobehub#21635](https://github.com/lobehub/lobehub/issues/21635#issuecomment-6425545481)** — \[Bug\] Mid-stream literal \`\&lt; think \&gt;\` tags in response body still hijack stream parser into reasonin…
-- `2026-10-26` Commented on **[earendil-works/pi#7547](https://github.com/earendil-works/pi/issues/7547#issuecomment-6424959087)** — \[Windows\] \[sink-thread\] How do you use Pi on windows? What issues are you seeing?
-- `2026-10-26` Commented on **[earendil-works/pi#11444](https://github.com/earendil-works/pi/issues/11444#issuecomment-6423032213)** — Tree branch summarization does not pass the selected thinking level
-- `2026-10-26` Commented on **[anomalyco/opencode#59321](https://github.com/anomalyco/opencode/issues/59321#issuecomment-6422860102)** — \[Bug\]: compaction replaces read results with &quot;\[Old tool result content cleared\]&quot; — agent edits file…
+- `2026-10-27` Commented on **[affaan-m/ECC#3752](https://github.com/affaan-m/ECC/pull/3752#issuecomment-6430781212)** — docs(codex): document cache dependencies without bin links
+- `2026-10-26` Commented on **[makecindy/cindy#7202](https://github.com/makecindy/cindy/pull/7202#discussion_r4382495714)**
+- `2026-10-26` Commented on **[affaan-m/ECC#3750](https://github.com/affaan-m/ECC/pull/3750#discussion_r4382399549)**
+- `2026-10-27` Commented on **[affaan-m/ECC#3751](https://github.com/affaan-m/ECC/pull/3751#issuecomment-6430749905)** — docs: add prepared verifier and effect state evaluation
 <!-- activity:end -->
 
 </details>
@@ -183,8 +183,8 @@ I write about the process on [dhpie.com](https://dhpie.com).
 ### `~/telemetry`
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Dante-dan/Dante-dan/main/assets/telemetry/stats-dark-225353899e2d2de2.svg" />
-  <img src="https://raw.githubusercontent.com/Dante-dan/Dante-dan/main/assets/telemetry/stats-light-28efbd4ab3679752.svg" alt="Public GitHub contribution totals" width="390" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Dante-dan/Dante-dan/main/assets/telemetry/stats-dark-47160122719538f7.svg" />
+  <img src="https://raw.githubusercontent.com/Dante-dan/Dante-dan/main/assets/telemetry/stats-light-ad8cfafb9c451470.svg" alt="Public GitHub contribution totals" width="390" />
 </picture>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Dante-dan/Dante-dan/main/assets/telemetry/time-dark-f674423741f68d89.svg" />
@@ -196,7 +196,7 @@ I write about the process on [dhpie.com](https://dhpie.com).
 
 
 <!-- telemetry-refresh:start -->
-<sub>Fetched every 8 hours · last successful fetch<br>Totals: 2026-10-26 20:03:07 UTC · Commit hours: 2026-10-26 20:03:07 UTC · Reactions: 2026-10-26 20:03:07 UTC</sub>
+<sub>Fetched every 8 hours · last successful fetch<br>Totals: 2026-10-27 01:33:41 UTC · Commit hours: 2026-10-27 01:33:41 UTC · Reactions: 2026-10-27 01:33:41 UTC</sub>
 <!-- telemetry-refresh:end -->
 
 ### `~/arcade`
