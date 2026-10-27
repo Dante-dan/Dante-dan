@@ -43,6 +43,7 @@ I write about the process on [dhpie.com](https://dhpie.com).
 <!-- contributions:start -->
 <sub>Code accepted upstream · last 12 months</sub>
 
+<table align="left" width="270"><tr><td width="64" valign="middle"><a href="https://github.com/can1357/oh-my-pi"><img src="assets/projects/can1357--oh-my-pi.png" width="56" height="56" alt="oh-my-pi icon" /></a></td><td width="200" valign="middle"><a href="https://github.com/can1357/oh-my-pi"><strong>oh-my-pi</strong></a><br /><sub><a href="https://github.com/can1357/oh-my-pi/pull/17061">merged contribution</a><br /><a href="https://github.com/can1357/oh-my-pi/pulls?q=is%3Apr+author%3ADante-dan">all PRs ↗</a></sub></td></tr></table>
 <table align="left" width="270"><tr><td width="64" valign="middle"><a href="https://github.com/loopx-project/loopx"><img src="assets/projects/loopx-project--loopx.png" width="56" height="56" alt="loopx icon" /></a></td><td width="200" valign="middle"><a href="https://github.com/loopx-project/loopx"><strong>loopx</strong></a><br /><sub><a href="https://github.com/loopx-project/loopx/pull/7349">merged contribution</a><br /><a href="https://github.com/loopx-project/loopx/pulls?q=is%3Apr+author%3ADante-dan">all PRs ↗</a></sub></td></tr></table>
 <table align="left" width="270"><tr><td width="64" valign="middle"><a href="https://github.com/heygen-com/hyperframes"><img src="assets/projects/heygen-com--hyperframes.png" width="56" height="56" alt="hyperframes icon" /></a></td><td width="200" valign="middle"><a href="https://github.com/heygen-com/hyperframes"><strong>hyperframes</strong></a><br /><sub><a href="https://github.com/heygen-com/hyperframes/pull/6395">merged contribution</a><br /><a href="https://github.com/heygen-com/hyperframes/pulls?q=is%3Apr+author%3ADante-dan">all PRs ↗</a></sub></td></tr></table>
 <table align="left" width="270"><tr><td width="64" valign="middle"><a href="https://github.com/cline/cline"><img src="assets/projects/cline--cline.png" width="56" height="56" alt="cline icon" /></a></td><td width="200" valign="middle"><a href="https://github.com/cline/cline"><strong>cline</strong></a><br /><sub><a href="https://github.com/cline/cline/pull/15296">merged contribution</a><br /><a href="https://github.com/cline/cline/pulls?q=is%3Apr+author%3ADante-dan">all PRs ↗</a></sub></td></tr></table>
@@ -53,7 +54,6 @@ I write about the process on [dhpie.com](https://dhpie.com).
 <table align="left" width="270"><tr><td width="64" valign="middle"><a href="https://github.com/farion1231/cc-switch"><img src="assets/projects/farion1231--cc-switch.png" width="56" height="56" alt="cc-switch icon" /></a></td><td width="200" valign="middle"><a href="https://github.com/farion1231/cc-switch"><strong>cc-switch</strong></a><br /><sub><a href="https://github.com/farion1231/cc-switch/pull/8254">merged contribution</a><br /><a href="https://github.com/farion1231/cc-switch/pulls?q=is%3Apr+author%3ADante-dan">all PRs ↗</a></sub></td></tr></table>
 <table align="left" width="270"><tr><td width="64" valign="middle"><a href="https://github.com/makecindy/cindy"><img src="assets/projects/makecindy--cindy.png" width="56" height="56" alt="Cindy icon" /></a></td><td width="200" valign="middle"><a href="https://github.com/makecindy/cindy"><strong>Cindy</strong></a><br /><sub><a href="https://github.com/makecindy/cindy/pull/4553">merged contribution</a><br /><a href="https://github.com/makecindy/cindy/pulls?q=is%3Apr+author%3ADante-dan">all PRs ↗</a></sub></td></tr></table>
 <table align="left" width="270"><tr><td width="64" valign="middle"><a href="https://github.com/anomalyco/opencode"><img src="assets/projects/anomalyco--opencode.png" width="56" height="56" alt="opencode icon" /></a></td><td width="200" valign="middle"><a href="https://github.com/anomalyco/opencode"><strong>opencode</strong></a><br /><sub><a href="https://github.com/anomalyco/opencode/pull/55778">merged contribution</a><br /><a href="https://github.com/anomalyco/opencode/pulls?q=is%3Apr+author%3ADante-dan">all PRs ↗</a></sub></td></tr></table>
-<table align="left" width="270"><tr><td width="64" valign="middle"><a href="https://github.com/can1357/oh-my-pi"><img src="assets/projects/can1357--oh-my-pi.png" width="56" height="56" alt="oh-my-pi icon" /></a></td><td width="200" valign="middle"><a href="https://github.com/can1357/oh-my-pi"><strong>oh-my-pi</strong></a><br /><sub><a href="https://github.com/can1357/oh-my-pi/pull/14440">merged contribution</a><br /><a href="https://github.com/can1357/oh-my-pi/pulls?q=is%3Apr+author%3ADante-dan">all PRs ↗</a></sub></td></tr></table>
 <table align="left" width="270"><tr><td width="64" valign="middle"><a href="https://github.com/affaan-m/ECC"><img src="assets/projects/affaan-m--ECC.svg" width="56" height="56" alt="ECC icon" /></a></td><td width="200" valign="middle"><a href="https://github.com/affaan-m/ECC"><strong>ECC</strong></a><br /><sub><a href="https://github.com/affaan-m/ECC/pull/3491">merged contribution</a><br /><a href="https://github.com/affaan-m/ECC/pulls?q=is%3Apr+author%3ADante-dan">all PRs ↗</a></sub></td></tr></table>
 <table align="left" width="270"><tr><td width="64" valign="middle"><a href="https://github.com/alibaba/open-code-review"><img src="assets/projects/alibaba--open-code-review.png" width="56" height="56" alt="open-code-review icon" /></a></td><td width="200" valign="middle"><a href="https://github.com/alibaba/open-code-review"><strong>open-code-review</strong></a><br /><sub><a href="https://github.com/alibaba/open-code-review/pull/1610">merged contribution</a><br /><a href="https://github.com/alibaba/open-code-review/pulls?q=is%3Apr+author%3ADante-dan">all PRs ↗</a></sub></td></tr></table>
 <table align="left" width="270"><tr><td width="64" valign="middle"><a href="https://github.com/LodyAI/acp-extension-dsh"><img src="assets/projects/LodyAI--acp-extension-dsh.png" width="56" height="56" alt="acp-extension-dsh icon" /></a></td><td width="200" valign="middle"><a href="https://github.com/LodyAI/acp-extension-dsh"><strong>acp-extension-dsh</strong></a><br /><sub><a href="https://github.com/LodyAI/acp-extension-dsh/pull/15">merged contribution</a><br /><a href="https://github.com/LodyAI/acp-extension-dsh/pulls?q=is%3Apr+author%3ADante-dan">all PRs ↗</a></sub></td></tr></table>
@@ -77,10 +77,11 @@ I write about the process on [dhpie.com](https://dhpie.com).
 <sub>Public upstream PRs updated in the last 7 days · refreshed every 8 hours</sub>
 
 <!-- upstream:start -->
-<sub>73 PRs · 59 open · 14 merged</sub>
+<sub>71 PRs · 56 open · 15 merged</sub>
 
 | Status | Pull request | Updated (UTC) |
 | :--- | :--- | :--- |
+| `merged` | **[can1357/oh-my-pi#17061](https://github.com/can1357/oh-my-pi/pull/17061)** — feat(coding-agent): allow directory-scoped resume picker | 2026-10-27 |
 | `open` | **[makecindy/cindy#7446](https://github.com/makecindy/cindy/pull/7446)** — fix(chat): retain turns after transient heartbeat failures | 2026-10-27 |
 | `open` | **[makecindy/cindy#7190](https://github.com/makecindy/cindy/pull/7190)** — fix(scheduler): rearm one-shot schedules across restart | 2026-10-27 |
 | `open` | **[affaan-m/ECC#3749](https://github.com/affaan-m/ECC/pull/3749)** — docs: add search-first connector gap evaluation | 2026-10-27 |
@@ -116,7 +117,6 @@ I write about the process on [dhpie.com](https://dhpie.com).
 | `open` | **[multica-ai/multica#8865](https://github.com/multica-ai/multica/pull/8865)** — MUL-7730: fix(agent): run matching PowerShell script for Pi-family launchers on Windows | 2026-10-26 |
 | `open` | **[affaan-m/ECC#3689](https://github.com/affaan-m/ECC/pull/3689)** — docs: retire legacy marketplace entries during migration | 2026-10-26 |
 | `open` | **[makecindy/cindy#7191](https://github.com/makecindy/cindy/pull/7191)** — fix(desktop): distinguish upstream resource quota from Cindy balance | 2026-10-26 |
-| `open` | **[can1357/oh-my-pi#17061](https://github.com/can1357/oh-my-pi/pull/17061)** — feat(coding-agent): allow directory-scoped resume picker | 2026-10-26 |
 | `open` | **[makecindy/cindy#7172](https://github.com/makecindy/cindy/pull/7172)** — fix(desktop): allow redirected userData media roots | 2026-10-26 |
 | `open` | **[CherryHQ/cherry-studio#22670](https://github.com/CherryHQ/cherry-studio/pull/22670)** — fix(chat-attachments): bound plain-text extraction | 2026-10-26 |
 | `open` | **[cline/cline#15223](https://github.com/cline/cline/pull/15223)** — fix(desktop): avoid sending session transcripts twice | 2026-10-26 |
@@ -152,8 +152,6 @@ I write about the process on [dhpie.com](https://dhpie.com).
 | `merged` | **[apache/maka#6151](https://github.com/apache/maka/pull/6151)** — fix(storage): retry pending context-offload checkpoints | 2026-10-21 |
 | `merged` | **[apache/maka#5286](https://github.com/apache/maka/pull/5286)** — fix(desktop): guard broadcasts by renderer frame | 2026-10-21 |
 | `open` | **[farion1231/cc-switch#8647](https://github.com/farion1231/cc-switch/pull/8647)** — feat(provider): refresh Claude Desktop providers from Claude Code | 2026-10-21 |
-| `open` | **[alibaba/open-code-review#1637](https://github.com/alibaba/open-code-review/pull/1637)** — feat(action): split review and publication for fresh App tokens | 2026-10-20 |
-| `open` | **[cloudflare/security-audit-skill#83](https://github.com/cloudflare/security-audit-skill/pull/83)** — docs: align completion gates and carried record validation | 2026-10-20 |
 <!-- upstream:end -->
 
 <details>
@@ -184,20 +182,20 @@ I write about the process on [dhpie.com](https://dhpie.com).
 ### `~/telemetry`
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Dante-dan/Dante-dan/main/assets/telemetry/stats-dark-5564747df01a2530.svg" />
-  <img src="https://raw.githubusercontent.com/Dante-dan/Dante-dan/main/assets/telemetry/stats-light-535e806ab807370c.svg" alt="Public GitHub contribution totals" width="390" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Dante-dan/Dante-dan/main/assets/telemetry/stats-dark-50114b802077efe2.svg" />
+  <img src="https://raw.githubusercontent.com/Dante-dan/Dante-dan/main/assets/telemetry/stats-light-c9b8d3638fac0d4e.svg" alt="Public GitHub contribution totals" width="390" />
 </picture>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Dante-dan/Dante-dan/main/assets/telemetry/time-dark-bc67d0437c8d9605.svg" />
-  <img src="https://raw.githubusercontent.com/Dante-dan/Dante-dan/main/assets/telemetry/time-light-50db701ce1af67e6.svg" alt="Commit distribution by time of day, UTC+8" width="390" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Dante-dan/Dante-dan/main/assets/telemetry/time-dark-3128a9b52b9134e1.svg" />
+  <img src="https://raw.githubusercontent.com/Dante-dan/Dante-dan/main/assets/telemetry/time-light-730c79603c4f4339.svg" alt="Commit distribution by time of day, UTC+8" width="390" />
 </picture>
 
-<img src="https://raw.githubusercontent.com/Dante-dan/Dante-dan/main/assets/telemetry/reactions-ee6214dd57dd7c87.svg" alt="Reactions received on recent public comments and issue bodies" width="650" />
+<img src="https://raw.githubusercontent.com/Dante-dan/Dante-dan/main/assets/telemetry/reactions-342df98a5edd991e.svg" alt="Reactions received on recent public comments and issue bodies" width="650" />
 
 
 
 <!-- telemetry-refresh:start -->
-<sub>Fetched every 8 hours · last successful fetch<br>Totals: 2026-10-27 12:31:19 UTC · Commit hours: 2026-10-27 12:31:19 UTC · Reactions: 2026-10-27 12:31:19 UTC</sub>
+<sub>Fetched every 8 hours · last successful fetch<br>Totals: 2026-10-27 19:31:53 UTC · Commit hours: 2026-10-27 19:31:53 UTC · Reactions: 2026-10-27 19:31:53 UTC</sub>
 <!-- telemetry-refresh:end -->
 
 ### `~/arcade`
