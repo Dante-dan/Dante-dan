@@ -33,9 +33,9 @@ I write about the process on [dhpie.com](https://dhpie.com).
 <sub>Recently pushed public projects · forks excluded</sub>
 
 <!-- workbench:start -->
+- **[pi-agent-book](https://github.com/Dante-dan/pi-agent-book)** — 《Pi Agent从入门到精通》：面向零基础的中文开源书，基于源码拆解上下文、记忆、工具、扩展与持续进化，附可复现实验。
 - **[dan-skills](https://github.com/Dante-dan/dan-skills)** — Public TypeScript project.
 - **[pi-agent-learning-lab](https://github.com/Dante-dan/pi-agent-learning-lab)** — Interactive Chinese learning lab for Pi Agent extensions, SDK, tools, sessions, providers, and production patterns
-- **[pi-agent-book](https://github.com/Dante-dan/pi-agent-book)** — 《Pi Agent从入门到精通》：面向零基础的中文开源书，基于源码拆解上下文、记忆、工具、扩展与持续进化，附可复现实验。
 <!-- workbench:end -->
 
 ### `~/contributions`
@@ -81,10 +81,13 @@ I write about the process on [dhpie.com](https://dhpie.com).
 
 | Status | Pull request | Updated (UTC) |
 | :--- | :--- | :--- |
+| `open` | **[CherryHQ/cherry-studio#22670](https://github.com/CherryHQ/cherry-studio/pull/22670)** — fix(chat-attachments): bound plain-text extraction | 2026-10-28 |
+| `open` | **[affaan-m/ECC#3749](https://github.com/affaan-m/ECC/pull/3749)** — docs: add search-first connector gap evaluation | 2026-10-28 |
+| `open` | **[affaan-m/ECC#3692](https://github.com/affaan-m/ECC/pull/3692)** — docs(skills): preserve harness tool and entity boundaries | 2026-10-28 |
+| `open` | **[multica-ai/multica#9541](https://github.com/multica-ai/multica/pull/9541)** — feat(daemon): add workspace-scoped host enrollment | 2026-10-28 |
 | `merged` | **[can1357/oh-my-pi#17061](https://github.com/can1357/oh-my-pi/pull/17061)** — feat(coding-agent): allow directory-scoped resume picker | 2026-10-27 |
 | `open` | **[makecindy/cindy#7446](https://github.com/makecindy/cindy/pull/7446)** — fix(chat): retain turns after transient heartbeat failures | 2026-10-27 |
 | `open` | **[makecindy/cindy#7190](https://github.com/makecindy/cindy/pull/7190)** — fix(scheduler): rearm one-shot schedules across restart | 2026-10-27 |
-| `open` | **[affaan-m/ECC#3749](https://github.com/affaan-m/ECC/pull/3749)** — docs: add search-first connector gap evaluation | 2026-10-27 |
 | `open` | **[makecindy/cindy#7448](https://github.com/makecindy/cindy/pull/7448)** — fix(learn): preserve namespaced built-in skill dispatch | 2026-10-27 |
 | `open` | **[CherryHQ/cherry-studio#21355](https://github.com/CherryHQ/cherry-studio/pull/21355)** — feat(web-search): choose search and fetch providers per assistant | 2026-10-27 |
 | `open` | **[affaan-m/ECC#3752](https://github.com/affaan-m/ECC/pull/3752)** — docs(codex): document cache dependencies without bin links | 2026-10-27 |
@@ -97,7 +100,6 @@ I write about the process on [dhpie.com](https://dhpie.com).
 | `open` | **[makecindy/cindy#7235](https://github.com/makecindy/cindy/pull/7235)** — fix(remote-desktop): cache capability probes across remounts | 2026-10-26 |
 | `open` | **[heygen-com/hyperframes#6433](https://github.com/heygen-com/hyperframes/pull/6433)** — fix(engine): preserve untimed HDR overlays and subtree masks | 2026-10-26 |
 | `open` | **[affaan-m/ECC#3750](https://github.com/affaan-m/ECC/pull/3750)** — docs: add public feedback goal fidelity evaluation | 2026-10-26 |
-| `open` | **[multica-ai/multica#9541](https://github.com/multica-ai/multica/pull/9541)** — feat(daemon): add workspace-scoped host enrollment | 2026-10-26 |
 | `merged` | **[heygen-com/hyperframes#6395](https://github.com/heygen-com/hyperframes/pull/6395)** — fix(producer): deduplicate scene font faces before embedding | 2026-10-26 |
 | `open` | **[can1357/oh-my-pi#12394](https://github.com/can1357/oh-my-pi/pull/12394)** — fix(coding-agent): save manual handoff artifacts when enabled | 2026-10-26 |
 | `merged` | **[cline/cline#15296](https://github.com/cline/cline/pull/15296)** — fix(desktop): handle update menu actions once on macOS | 2026-10-26 |
@@ -118,12 +120,10 @@ I write about the process on [dhpie.com](https://dhpie.com).
 | `open` | **[affaan-m/ECC#3689](https://github.com/affaan-m/ECC/pull/3689)** — docs: retire legacy marketplace entries during migration | 2026-10-26 |
 | `open` | **[makecindy/cindy#7191](https://github.com/makecindy/cindy/pull/7191)** — fix(desktop): distinguish upstream resource quota from Cindy balance | 2026-10-26 |
 | `open` | **[makecindy/cindy#7172](https://github.com/makecindy/cindy/pull/7172)** — fix(desktop): allow redirected userData media roots | 2026-10-26 |
-| `open` | **[CherryHQ/cherry-studio#22670](https://github.com/CherryHQ/cherry-studio/pull/22670)** — fix(chat-attachments): bound plain-text extraction | 2026-10-26 |
 | `open` | **[cline/cline#15223](https://github.com/cline/cline/pull/15223)** — fix(desktop): avoid sending session transcripts twice | 2026-10-26 |
 | `open` | **[heygen-com/hyperframes#5594](https://github.com/heygen-com/hyperframes/pull/5594)** — feat(studio): show canvas gesture position, size and rotation | 2026-10-25 |
 | `open` | **[affaan-m/ECC#3693](https://github.com/affaan-m/ECC/pull/3693)** — docs: reuse bounded batch preparation and preserve outcomes | 2026-10-25 |
 | `open` | **[affaan-m/ECC#3691](https://github.com/affaan-m/ECC/pull/3691)** — docs(skills): distinguish operation failures from document mismatches | 2026-10-25 |
-| `open` | **[affaan-m/ECC#3692](https://github.com/affaan-m/ECC/pull/3692)** — docs(skills): preserve harness tool and entity boundaries | 2026-10-25 |
 | `merged` | **[code-yeongyu/oh-my-openagent#11165](https://github.com/code-yeongyu/oh-my-openagent/pull/11165)** — fix(memory): reserve project nudges before asynchronous reads | 2026-10-25 |
 | `open` | **[code-yeongyu/oh-my-openagent#10107](https://github.com/code-yeongyu/oh-my-openagent/pull/10107)** — fix(senpi-task): name task child sessions with their parent | 2026-10-25 |
 | `open` | **[code-yeongyu/oh-my-openagent#9625](https://github.com/code-yeongyu/oh-my-openagent/pull/9625)** — refactor(senpi): load memory prompt compiler on demand | 2026-10-25 |
@@ -158,10 +158,10 @@ I write about the process on [dhpie.com](https://dhpie.com).
 <summary>Recent conversations · issues, comments &amp; reviews</summary>
 
 <!-- activity:start -->
+- `2026-10-28` Commented on **[affaan-m/ECC#3692](https://github.com/affaan-m/ECC/pull/3692#issuecomment-6457806671)** — docs(skills): preserve harness tool and entity boundaries
+- `2026-10-28` Commented on **[affaan-m/ECC#3749](https://github.com/affaan-m/ECC/pull/3749#issuecomment-6457798863)** — docs: add search-first connector gap evaluation
+- `2026-10-28` Commented on **[CherryHQ/cherry-studio#22670](https://github.com/CherryHQ/cherry-studio/pull/22670#discussion_r4395854468)**
 - `2026-10-27` Commented on **[affaan-m/ECC#3680](https://github.com/affaan-m/ECC/issues/3680#issuecomment-6438628935)** — \[Feedback\] search-first: add an existing-connector diagnostic reuse example
-- `2026-10-27` Commented on **[earendil-works/pi#11433](https://github.com/earendil-works/pi/issues/11433#issuecomment-6438353289)** — pi-env: exec hangs when a pipe-reader or waiter thread fails to start
-- `2026-10-27` Commented on **[anomalyco/opencode#52042](https://github.com/anomalyco/opencode/issues/52042#issuecomment-6438344327)** — session: provider image rejection bricks session — generic 400 error, no recovery path
-- `2026-10-27` Commented on **[MoonshotAI/kimi-code#4464](https://github.com/MoonshotAI/kimi-code/issues/4464#issuecomment-6438251093)** — \[Bug\] Cancelling an active IPC model stream leaves its producer and HTTP response alive
 <!-- activity:end -->
 
 </details>
@@ -182,12 +182,12 @@ I write about the process on [dhpie.com](https://dhpie.com).
 ### `~/telemetry`
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Dante-dan/Dante-dan/main/assets/telemetry/stats-dark-50114b802077efe2.svg" />
-  <img src="https://raw.githubusercontent.com/Dante-dan/Dante-dan/main/assets/telemetry/stats-light-c9b8d3638fac0d4e.svg" alt="Public GitHub contribution totals" width="390" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Dante-dan/Dante-dan/main/assets/telemetry/stats-dark-67a61794b1833003.svg" />
+  <img src="https://raw.githubusercontent.com/Dante-dan/Dante-dan/main/assets/telemetry/stats-light-5e25437ddd43798f.svg" alt="Public GitHub contribution totals" width="390" />
 </picture>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Dante-dan/Dante-dan/main/assets/telemetry/time-dark-3128a9b52b9134e1.svg" />
-  <img src="https://raw.githubusercontent.com/Dante-dan/Dante-dan/main/assets/telemetry/time-light-730c79603c4f4339.svg" alt="Commit distribution by time of day, UTC+8" width="390" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Dante-dan/Dante-dan/main/assets/telemetry/time-dark-f4088adfef283c3e.svg" />
+  <img src="https://raw.githubusercontent.com/Dante-dan/Dante-dan/main/assets/telemetry/time-light-b1df9298089b8da4.svg" alt="Commit distribution by time of day, UTC+8" width="390" />
 </picture>
 
 <img src="https://raw.githubusercontent.com/Dante-dan/Dante-dan/main/assets/telemetry/reactions-342df98a5edd991e.svg" alt="Reactions received on recent public comments and issue bodies" width="650" />
@@ -195,7 +195,7 @@ I write about the process on [dhpie.com](https://dhpie.com).
 
 
 <!-- telemetry-refresh:start -->
-<sub>Fetched every 8 hours · last successful fetch<br>Totals: 2026-10-27 19:31:53 UTC · Commit hours: 2026-10-27 19:31:53 UTC · Reactions: 2026-10-27 19:31:53 UTC</sub>
+<sub>Fetched every 8 hours · last successful fetch<br>Totals: 2026-10-28 01:30:35 UTC · Commit hours: 2026-10-28 01:30:35 UTC · Reactions: 2026-10-28 01:30:35 UTC</sub>
 <!-- telemetry-refresh:end -->
 
 ### `~/arcade`
