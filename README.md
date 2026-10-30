@@ -33,9 +33,9 @@ I write about the process on [dhpie.com](https://dhpie.com).
 <sub>Recently pushed public projects · forks excluded</sub>
 
 <!-- workbench:start -->
+- **[dayweave](https://github.com/Dante-dan/dayweave)** — Dayweave · 拾日 — An ambient personal secretary: everyday conversations to lasting text archives and thoughtful insights.
 - **[pi-agent-book](https://github.com/Dante-dan/pi-agent-book)** — 《Pi Agent从入门到精通》：面向零基础的中文开源书，基于源码拆解上下文、记忆、工具、扩展与持续进化，附可复现实验。
 - **[dan-skills](https://github.com/Dante-dan/dan-skills)** — Public TypeScript project.
-- **[pi-agent-learning-lab](https://github.com/Dante-dan/pi-agent-learning-lab)** — Interactive Chinese learning lab for Pi Agent extensions, SDK, tools, sessions, providers, and production patterns
 <!-- workbench:end -->
 
 ### `~/contributions`
@@ -43,8 +43,8 @@ I write about the process on [dhpie.com](https://dhpie.com).
 <!-- contributions:start -->
 <sub>Code accepted upstream · last 12 months</sub>
 
+<table align="left" width="270"><tr><td width="64" valign="middle"><a href="https://github.com/CherryHQ/cherry-studio"><img src="assets/projects/CherryHQ--cherry-studio.png" width="56" height="56" alt="Cherry Studio icon" /></a></td><td width="200" valign="middle"><a href="https://github.com/CherryHQ/cherry-studio"><strong>Cherry Studio</strong></a><br /><sub><a href="https://github.com/CherryHQ/cherry-studio/pull/20323">merged contribution</a><br /><a href="https://github.com/CherryHQ/cherry-studio/pulls?q=is%3Apr+author%3ADante-dan">all PRs ↗</a></sub></td></tr></table>
 <table align="left" width="270"><tr><td width="64" valign="middle"><a href="https://github.com/affaan-m/ECC"><img src="assets/projects/affaan-m--ECC.svg" width="56" height="56" alt="ECC icon" /></a></td><td width="200" valign="middle"><a href="https://github.com/affaan-m/ECC"><strong>ECC</strong></a><br /><sub><a href="https://github.com/affaan-m/ECC/pull/3752">merged contribution</a><br /><a href="https://github.com/affaan-m/ECC/pulls?q=is%3Apr+author%3ADante-dan">all PRs ↗</a></sub></td></tr></table>
-<table align="left" width="270"><tr><td width="64" valign="middle"><a href="https://github.com/CherryHQ/cherry-studio"><img src="assets/projects/CherryHQ--cherry-studio.png" width="56" height="56" alt="Cherry Studio icon" /></a></td><td width="200" valign="middle"><a href="https://github.com/CherryHQ/cherry-studio"><strong>Cherry Studio</strong></a><br /><sub><a href="https://github.com/CherryHQ/cherry-studio/pull/20349">merged contribution</a><br /><a href="https://github.com/CherryHQ/cherry-studio/pulls?q=is%3Apr+author%3ADante-dan">all PRs ↗</a></sub></td></tr></table>
 <table align="left" width="270"><tr><td width="64" valign="middle"><a href="https://github.com/can1357/oh-my-pi"><img src="assets/projects/can1357--oh-my-pi.png" width="56" height="56" alt="oh-my-pi icon" /></a></td><td width="200" valign="middle"><a href="https://github.com/can1357/oh-my-pi"><strong>oh-my-pi</strong></a><br /><sub><a href="https://github.com/can1357/oh-my-pi/pull/17061">merged contribution</a><br /><a href="https://github.com/can1357/oh-my-pi/pulls?q=is%3Apr+author%3ADante-dan">all PRs ↗</a></sub></td></tr></table>
 <table align="left" width="270"><tr><td width="64" valign="middle"><a href="https://github.com/loopx-project/loopx"><img src="assets/projects/loopx-project--loopx.png" width="56" height="56" alt="loopx icon" /></a></td><td width="200" valign="middle"><a href="https://github.com/loopx-project/loopx"><strong>loopx</strong></a><br /><sub><a href="https://github.com/loopx-project/loopx/pull/7349">merged contribution</a><br /><a href="https://github.com/loopx-project/loopx/pulls?q=is%3Apr+author%3ADante-dan">all PRs ↗</a></sub></td></tr></table>
 <table align="left" width="270"><tr><td width="64" valign="middle"><a href="https://github.com/heygen-com/hyperframes"><img src="assets/projects/heygen-com--hyperframes.png" width="56" height="56" alt="hyperframes icon" /></a></td><td width="200" valign="middle"><a href="https://github.com/heygen-com/hyperframes"><strong>hyperframes</strong></a><br /><sub><a href="https://github.com/heygen-com/hyperframes/pull/6395">merged contribution</a><br /><a href="https://github.com/heygen-com/hyperframes/pulls?q=is%3Apr+author%3ADante-dan">all PRs ↗</a></sub></td></tr></table>
@@ -77,10 +77,11 @@ I write about the process on [dhpie.com](https://dhpie.com).
 <sub>Public upstream PRs updated in the last 7 days · refreshed every 8 hours</sub>
 
 <!-- upstream:start -->
-<sub>56 PRs · 38 open · 18 merged</sub>
+<sub>57 PRs · 38 open · 19 merged</sub>
 
 | Status | Pull request | Updated (UTC) |
 | :--- | :--- | :--- |
+| `merged` | **[CherryHQ/cherry-studio#20323](https://github.com/CherryHQ/cherry-studio/pull/20323)** — fix: accept sparse OpenAI response lifecycle events | 2026-10-30 |
 | `merged` | **[affaan-m/ECC#3752](https://github.com/affaan-m/ECC/pull/3752)** — docs(codex): document cache dependencies without bin links | 2026-10-29 |
 | `merged` | **[affaan-m/ECC#3750](https://github.com/affaan-m/ECC/pull/3750)** — docs: add public feedback goal fidelity evaluation | 2026-10-29 |
 | `merged` | **[affaan-m/ECC#3749](https://github.com/affaan-m/ECC/pull/3749)** — docs: add search-first connector gap evaluation | 2026-10-29 |
@@ -167,12 +168,12 @@ I write about the process on [dhpie.com](https://dhpie.com).
 ### `~/telemetry`
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Dante-dan/Dante-dan/main/assets/telemetry/stats-dark-dc025f550c51386d.svg" />
-  <img src="https://raw.githubusercontent.com/Dante-dan/Dante-dan/main/assets/telemetry/stats-light-28afab00f5484d5c.svg" alt="Public GitHub contribution totals" width="390" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Dante-dan/Dante-dan/main/assets/telemetry/stats-dark-2afd72feccd5cdf9.svg" />
+  <img src="https://raw.githubusercontent.com/Dante-dan/Dante-dan/main/assets/telemetry/stats-light-3c40b21ed71e4a29.svg" alt="Public GitHub contribution totals" width="390" />
 </picture>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Dante-dan/Dante-dan/main/assets/telemetry/time-dark-f9deb720fe42b761.svg" />
-  <img src="https://raw.githubusercontent.com/Dante-dan/Dante-dan/main/assets/telemetry/time-light-d9c3ca0a4f572dc4.svg" alt="Commit distribution by time of day, UTC+8" width="390" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Dante-dan/Dante-dan/main/assets/telemetry/time-dark-e17304ce8a14e084.svg" />
+  <img src="https://raw.githubusercontent.com/Dante-dan/Dante-dan/main/assets/telemetry/time-light-03959c22f493070f.svg" alt="Commit distribution by time of day, UTC+8" width="390" />
 </picture>
 
 <img src="https://raw.githubusercontent.com/Dante-dan/Dante-dan/main/assets/telemetry/reactions-342df98a5edd991e.svg" alt="Reactions received on recent public comments and issue bodies" width="650" />
@@ -180,7 +181,7 @@ I write about the process on [dhpie.com](https://dhpie.com).
 
 
 <!-- telemetry-refresh:start -->
-<sub>Fetched every 8 hours · last successful fetch<br>Totals: 2026-10-30 02:03:10 UTC · Commit hours: 2026-10-30 02:03:10 UTC · Reactions: 2026-10-30 02:03:10 UTC</sub>
+<sub>Fetched every 8 hours · last successful fetch<br>Totals: 2026-10-30 13:16:03 UTC · Commit hours: 2026-10-30 13:16:03 UTC · Reactions: 2026-10-30 13:16:03 UTC</sub>
 <!-- telemetry-refresh:end -->
 
 ### `~/arcade`
