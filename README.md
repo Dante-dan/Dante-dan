@@ -77,7 +77,7 @@ I write about the process on [dhpie.com](https://dhpie.com).
 <sub>Public upstream PRs updated in the last 7 days · refreshed every 8 hours</sub>
 
 <!-- upstream:start -->
-<sub>50 PRs · 33 open · 17 merged</sub>
+<sub>47 PRs · 33 open · 14 merged</sub>
 
 | Status | Pull request | Updated (UTC) |
 | :--- | :--- | :--- |
@@ -128,19 +128,13 @@ I write about the process on [dhpie.com](https://dhpie.com).
 | `merged` | **[code-yeongyu/oh-my-openagent#11165](https://github.com/code-yeongyu/oh-my-openagent/pull/11165)** — fix(memory): reserve project nudges before asynchronous reads | 2026-10-25 |
 | `open` | **[code-yeongyu/oh-my-openagent#10107](https://github.com/code-yeongyu/oh-my-openagent/pull/10107)** — fix(senpi-task): name task child sessions with their parent | 2026-10-25 |
 | `open` | **[code-yeongyu/oh-my-openagent#9625](https://github.com/code-yeongyu/oh-my-openagent/pull/9625)** — refactor(senpi): load memory prompt compiler on demand | 2026-10-25 |
-| `merged` | **[code-yeongyu/oh-my-openagent#11128](https://github.com/code-yeongyu/oh-my-openagent/pull/11128)** — ci: expose an unconditional lint ratchet check | 2026-10-25 |
-| `merged` | **[code-yeongyu/oh-my-openagent#11164](https://github.com/code-yeongyu/oh-my-openagent/pull/11164)** — test(memory): require observed reads in parked backlog check | 2026-10-25 |
-| `merged` | **[heygen-com/hyperframes#6213](https://github.com/heygen-com/hyperframes/pull/6213)** — fix(cli): allow disabling orphan browser cleanup | 2026-10-24 |
 <!-- upstream:end -->
 
 <details>
 <summary>Recent conversations · issues, comments &amp; reviews</summary>
 
 <!-- activity:start -->
-- `2026-10-28` Commented on **[affaan-m/ECC#3692](https://github.com/affaan-m/ECC/pull/3692#issuecomment-6457806671)** — docs(skills): preserve harness tool and entity boundaries
-- `2026-10-28` Commented on **[affaan-m/ECC#3749](https://github.com/affaan-m/ECC/pull/3749#issuecomment-6457798863)** — docs: add search-first connector gap evaluation
-- `2026-10-28` Commented on **[CherryHQ/cherry-studio#22670](https://github.com/CherryHQ/cherry-studio/pull/22670#discussion_r4395854468)**
-- `2026-10-27` Commented on **[affaan-m/ECC#3680](https://github.com/affaan-m/ECC/issues/3680#issuecomment-6438628935)** — \[Feedback\] search-first: add an existing-connector diagnostic reuse example
+No public conversations in the last 30 days.
 <!-- activity:end -->
 
 </details>
@@ -174,7 +168,7 @@ I write about the process on [dhpie.com](https://dhpie.com).
 
 
 <!-- telemetry-refresh:start -->
-<sub>Fetched every 8 hours · last successful fetch<br>Totals: 2026-10-31 18:41:06 UTC · Commit hours: 2026-10-31 18:41:06 UTC · Reactions: 2026-10-31 18:41:06 UTC</sub>
+<sub>Fetched every 8 hours · last successful fetch<br>Totals: 2026-11-01 01:20:07 UTC · Commit hours: 2026-11-01 01:20:07 UTC · Reactions: 2026-11-01 01:20:07 UTC</sub>
 <!-- telemetry-refresh:end -->
 
 ### `~/arcade`
