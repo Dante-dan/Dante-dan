@@ -78,7 +78,7 @@ I write about the process on [dhpie.com](https://dhpie.com).
 <sub>Public upstream PRs updated in the last 7 days · refreshed every 8 hours</sub>
 
 <!-- upstream:start -->
-<sub>46 PRs · 32 open · 14 merged</sub>
+<sub>44 PRs · 30 open · 14 merged</sub>
 
 | Status | Pull request | Updated (UTC) |
 | :--- | :--- | :--- |
@@ -126,8 +126,6 @@ I write about the process on [dhpie.com](https://dhpie.com).
 | `open` | **[multica-ai/multica#9049](https://github.com/multica-ai/multica/pull/9049)** — MUL-7865: fix(wakeup): keep /note comments quiet for subscriptions | 2026-10-26 |
 | `open` | **[multica-ai/multica#8865](https://github.com/multica-ai/multica/pull/8865)** — MUL-7730: fix(agent): run matching PowerShell script for Pi-family launchers on Windows | 2026-10-26 |
 | `open` | **[makecindy/cindy#7191](https://github.com/makecindy/cindy/pull/7191)** — fix(desktop): distinguish upstream resource quota from Cindy balance | 2026-10-26 |
-| `open` | **[cline/cline#15223](https://github.com/cline/cline/pull/15223)** — fix(desktop): avoid sending session transcripts twice | 2026-10-26 |
-| `open` | **[heygen-com/hyperframes#5594](https://github.com/heygen-com/hyperframes/pull/5594)** — feat(studio): show canvas gesture position, size and rotation | 2026-10-25 |
 <!-- upstream:end -->
 
 <details>
@@ -155,12 +153,12 @@ No public conversations in the last 30 days.
 ### `~/telemetry`
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Dante-dan/Dante-dan/main/assets/telemetry/stats-dark-6ba90f816d40e1f7.svg" />
-  <img src="https://raw.githubusercontent.com/Dante-dan/Dante-dan/main/assets/telemetry/stats-light-2276e43b1ccec4a5.svg" alt="Public GitHub contribution totals" width="390" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Dante-dan/Dante-dan/main/assets/telemetry/stats-dark-078de50feb470dc2.svg" />
+  <img src="https://raw.githubusercontent.com/Dante-dan/Dante-dan/main/assets/telemetry/stats-light-4564442195c64e2e.svg" alt="Public GitHub contribution totals" width="390" />
 </picture>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Dante-dan/Dante-dan/main/assets/telemetry/time-dark-0c640ad689651aa8.svg" />
-  <img src="https://raw.githubusercontent.com/Dante-dan/Dante-dan/main/assets/telemetry/time-light-b0ae2656b856c01c.svg" alt="Commit distribution by time of day, UTC+8" width="390" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Dante-dan/Dante-dan/main/assets/telemetry/time-dark-f98791bf001952fb.svg" />
+  <img src="https://raw.githubusercontent.com/Dante-dan/Dante-dan/main/assets/telemetry/time-light-3ee523e2b219ef84.svg" alt="Commit distribution by time of day, UTC+8" width="390" />
 </picture>
 
 <img src="https://raw.githubusercontent.com/Dante-dan/Dante-dan/main/assets/telemetry/reactions-342df98a5edd991e.svg" alt="Reactions received on recent public comments and issue bodies" width="650" />
@@ -168,7 +166,7 @@ No public conversations in the last 30 days.
 
 
 <!-- telemetry-refresh:start -->
-<sub>Fetched every 8 hours · last successful fetch<br>Totals: 2026-11-01 19:01:30 UTC · Commit hours: 2026-11-01 19:01:30 UTC · Reactions: 2026-11-01 19:01:30 UTC</sub>
+<sub>Fetched every 8 hours · last successful fetch<br>Totals: 2026-11-02 01:38:05 UTC · Commit hours: 2026-11-02 01:38:05 UTC · Reactions: 2026-11-02 01:38:05 UTC</sub>
 <!-- telemetry-refresh:end -->
 
 ### `~/arcade`
