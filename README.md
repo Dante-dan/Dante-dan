@@ -78,10 +78,17 @@ I write about the process on [dhpie.com](https://dhpie.com).
 <sub>Public upstream PRs updated in the last 7 days · refreshed every 8 hours</sub>
 
 <!-- upstream:start -->
-<sub>44 PRs · 30 open · 14 merged</sub>
+<sub>36 PRs · 25 open · 11 merged</sub>
 
 | Status | Pull request | Updated (UTC) |
 | :--- | :--- | :--- |
+| `open` | **[code-yeongyu/oh-my-openagent#8405](https://github.com/code-yeongyu/oh-my-openagent/pull/8405)** — test(codex): bound the installer manifest fixture | 2026-11-02 |
+| `open` | **[code-yeongyu/oh-my-openagent#9437](https://github.com/code-yeongyu/oh-my-openagent/pull/9437)** — test(team-mode): make fallback cancellation gate deterministic | 2026-11-02 |
+| `open` | **[code-yeongyu/oh-my-openagent#8297](https://github.com/code-yeongyu/oh-my-openagent/pull/8297)** — fix(opencode): expose V2 plugin setup entry | 2026-11-02 |
+| `open` | **[code-yeongyu/oh-my-openagent#8404](https://github.com/code-yeongyu/oh-my-openagent/pull/8404)** — fix(team-core): publish complete lock owners atomically | 2026-11-02 |
+| `open` | **[code-yeongyu/oh-my-openagent#9684](https://github.com/code-yeongyu/oh-my-openagent/pull/9684)** — feat(work-with-pr): batch PR watch fingerprints before detail reads | 2026-11-02 |
+| `open` | **[code-yeongyu/oh-my-openagent#10109](https://github.com/code-yeongyu/oh-my-openagent/pull/10109)** — fix(senpi): restore official R0 lifecycle QA fixtures | 2026-11-02 |
+| `open` | **[browser-use/browser-use#5798](https://github.com/browser-use/browser-use/pull/5798)** — fix(dom): preserve password input value state | 2026-11-02 |
 | `merged` | **[JimLiu/baoyu-skills#201](https://github.com/JimLiu/baoyu-skills/pull/201)** — fix(wechat): accept URL covers and cover\_image frontmatter key | 2026-11-01 |
 | `open` | **[apache/maka#5753](https://github.com/apache/maka/pull/5753)** — fix(transcript): recover from oversized invocations | 2026-11-01 |
 | `open` | **[makecindy/cindy#7172](https://github.com/makecindy/cindy/pull/7172)** — fix(desktop): allow redirected userData media roots | 2026-10-31 |
@@ -111,21 +118,6 @@ I write about the process on [dhpie.com](https://dhpie.com).
 | `open` | **[makecindy/cindy#7202](https://github.com/makecindy/cindy/pull/7202)** — fix(maker-core): expose repeated Claude connection retry progress | 2026-10-28 |
 | `open` | **[makecindy/cindy#7203](https://github.com/makecindy/cindy/pull/7203)** — fix(bots): deliver component images as group attachments | 2026-10-28 |
 | `merged` | **[heygen-com/hyperframes#6395](https://github.com/heygen-com/hyperframes/pull/6395)** — fix(producer): deduplicate scene font faces before embedding | 2026-10-26 |
-| `merged` | **[cline/cline#15296](https://github.com/cline/cline/pull/15296)** — fix(desktop): handle update menu actions once on macOS | 2026-10-26 |
-| `open` | **[farion1231/cc-switch#8893](https://github.com/farion1231/cc-switch/pull/8893)** — feat(apps): add compact and large-card display density | 2026-10-26 |
-| `open` | **[code-yeongyu/oh-my-openagent#9693](https://github.com/code-yeongyu/oh-my-openagent/pull/9693)** — feat(pr-watch): persist host polling and session wake receipts | 2026-10-26 |
-| `open` | **[code-yeongyu/oh-my-openagent#9437](https://github.com/code-yeongyu/oh-my-openagent/pull/9437)** — test(team-mode): make fallback cancellation gate deterministic | 2026-10-26 |
-| `open` | **[code-yeongyu/oh-my-openagent#10109](https://github.com/code-yeongyu/oh-my-openagent/pull/10109)** — fix(senpi): restore official R0 lifecycle QA fixtures | 2026-10-26 |
-| `merged` | **[multica-ai/multica#9534](https://github.com/multica-ai/multica/pull/9534)** — MUL-8244: fix(agent): preserve recovered Antigravity stream responses | 2026-10-26 |
-| `open` | **[makecindy/cindy#7195](https://github.com/makecindy/cindy/pull/7195)** — fix(maker-ipc): preserve delegated task titles before source wrapping | 2026-10-26 |
-| `merged` | **[CherryHQ/cherry-studio#22685](https://github.com/CherryHQ/cherry-studio/pull/22685)** — fix(webdav-backup): preserve upload size rejection guidance | 2026-10-26 |
-| `open` | **[code-yeongyu/oh-my-openagent#9684](https://github.com/code-yeongyu/oh-my-openagent/pull/9684)** — feat(work-with-pr): batch PR watch fingerprints before detail reads | 2026-10-26 |
-| `open` | **[code-yeongyu/oh-my-openagent#10138](https://github.com/code-yeongyu/oh-my-openagent/pull/10138)** — docs(install): explain npm package-name bin conflicts | 2026-10-26 |
-| `open` | **[code-yeongyu/oh-my-openagent#11167](https://github.com/code-yeongyu/oh-my-openagent/pull/11167)** — fix(memory): neutralize inherited pathspec modes in literal Git lookups | 2026-10-26 |
-| `open` | **[multica-ai/multica#9539](https://github.com/multica-ai/multica/pull/9539)** — MUL-8209: fix(autopilots): redact webhook credentials before persistence | 2026-10-26 |
-| `open` | **[multica-ai/multica#9049](https://github.com/multica-ai/multica/pull/9049)** — MUL-7865: fix(wakeup): keep /note comments quiet for subscriptions | 2026-10-26 |
-| `open` | **[multica-ai/multica#8865](https://github.com/multica-ai/multica/pull/8865)** — MUL-7730: fix(agent): run matching PowerShell script for Pi-family launchers on Windows | 2026-10-26 |
-| `open` | **[makecindy/cindy#7191](https://github.com/makecindy/cindy/pull/7191)** — fix(desktop): distinguish upstream resource quota from Cindy balance | 2026-10-26 |
 <!-- upstream:end -->
 
 <details>
@@ -144,17 +136,17 @@ No public conversations in the last 30 days.
 <sub>Latest writing from [dhpie.com](https://dhpie.com)</sub>
 
 <!-- notes:start -->
+- [把 Session 还给系统：拆解 DeepSeek Harness 的 Super-agent](https://dhpie.com/posts/cn/deepseek-harness-super-agent-teardown)
 - [开源贡献日报 · 2026-10-26](https://dhpie.com/posts/cn/open-source-daily-2026-10-26)
 - [开源贡献日报 · 2026-10-19](https://dhpie.com/posts/cn/open-source-daily-2026-10-19)
 - [开源贡献日报 · 2026-10-21](https://dhpie.com/posts/cn/open-source-daily-2026-10-21)
-- [开源贡献日报 · 2026-10-24](https://dhpie.com/posts/cn/open-source-daily-2026-10-24)
 <!-- notes:end -->
 
 ### `~/telemetry`
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Dante-dan/Dante-dan/main/assets/telemetry/stats-dark-078de50feb470dc2.svg" />
-  <img src="https://raw.githubusercontent.com/Dante-dan/Dante-dan/main/assets/telemetry/stats-light-4564442195c64e2e.svg" alt="Public GitHub contribution totals" width="390" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Dante-dan/Dante-dan/main/assets/telemetry/stats-dark-7a5f82a3d6e3badd.svg" />
+  <img src="https://raw.githubusercontent.com/Dante-dan/Dante-dan/main/assets/telemetry/stats-light-c3fef7b755443ae4.svg" alt="Public GitHub contribution totals" width="390" />
 </picture>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Dante-dan/Dante-dan/main/assets/telemetry/time-dark-f98791bf001952fb.svg" />
@@ -166,7 +158,7 @@ No public conversations in the last 30 days.
 
 
 <!-- telemetry-refresh:start -->
-<sub>Fetched every 8 hours · last successful fetch<br>Totals: 2026-11-02 01:38:05 UTC · Commit hours: 2026-11-02 01:38:05 UTC · Reactions: 2026-11-02 01:38:05 UTC</sub>
+<sub>Fetched every 8 hours · last successful fetch<br>Totals: 2026-11-02 16:22:57 UTC · Commit hours: 2026-11-02 16:22:57 UTC · Reactions: 2026-11-02 16:22:57 UTC</sub>
 <!-- telemetry-refresh:end -->
 
 ### `~/arcade`
