@@ -78,11 +78,11 @@ I write about the process on [dhpie.com](https://dhpie.com).
 <sub>Public upstream PRs updated in the last 7 days · refreshed every 8 hours</sub>
 
 <!-- upstream:start -->
-<sub>42 PRs · 33 open · 9 merged</sub>
+<sub>40 PRs · 32 open · 8 merged</sub>
 
 | Status | Pull request | Updated (UTC) |
 | :--- | :--- | :--- |
-| `open` | **[code-yeongyu/oh-my-openagent#9693](https://github.com/code-yeongyu/oh-my-openagent/pull/9693)** — feat(pr-watch): persist host polling and session wake receipts | 2026-11-04 |
+| `open` | **[code-yeongyu/oh-my-openagent#9693](https://github.com/code-yeongyu/oh-my-openagent/pull/9693)** — feat(pr-watch): persist host polling and session wake receipts | 2026-11-05 |
 | `open` | **[code-yeongyu/oh-my-openagent#9684](https://github.com/code-yeongyu/oh-my-openagent/pull/9684)** — feat(work-with-pr): batch PR watch fingerprints before detail reads | 2026-11-04 |
 | `open` | **[makecindy/cindy#7191](https://github.com/makecindy/cindy/pull/7191)** — fix(desktop): distinguish upstream resource quota from Cindy balance | 2026-11-04 |
 | `merged` | **[LodyAI/Lody#750](https://github.com/LodyAI/Lody/pull/750)** — fix: prevent narrow Monaco Find tooltip flicker | 2026-11-04 |
@@ -122,8 +122,6 @@ I write about the process on [dhpie.com](https://dhpie.com).
 | `merged` | **[affaan-m/ECC#3750](https://github.com/affaan-m/ECC/pull/3750)** — docs: add public feedback goal fidelity evaluation | 2026-10-29 |
 | `merged` | **[affaan-m/ECC#3749](https://github.com/affaan-m/ECC/pull/3749)** — docs: add search-first connector gap evaluation | 2026-10-29 |
 | `merged` | **[affaan-m/ECC#3751](https://github.com/affaan-m/ECC/pull/3751)** — docs: add prepared verifier and effect state evaluation | 2026-10-29 |
-| `open` | **[can1357/oh-my-pi#12394](https://github.com/can1357/oh-my-pi/pull/12394)** — fix(coding-agent): save manual handoff artifacts when enabled | 2026-10-28 |
-| `merged` | **[CherryHQ/cherry-studio#20349](https://github.com/CherryHQ/cherry-studio/pull/20349)** — fix(data-api): avoid overlapping timed-out reads | 2026-10-28 |
 <!-- upstream:end -->
 
 <details>
@@ -151,8 +149,8 @@ I write about the process on [dhpie.com](https://dhpie.com).
 ### `~/telemetry`
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Dante-dan/Dante-dan/main/assets/telemetry/stats-dark-7b48a1df60212884.svg" />
-  <img src="https://raw.githubusercontent.com/Dante-dan/Dante-dan/main/assets/telemetry/stats-light-e5e55998149a86c4.svg" alt="Public GitHub contribution totals" width="390" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Dante-dan/Dante-dan/main/assets/telemetry/stats-dark-b6a5a41dce86c606.svg" />
+  <img src="https://raw.githubusercontent.com/Dante-dan/Dante-dan/main/assets/telemetry/stats-light-17555977b81ae3b2.svg" alt="Public GitHub contribution totals" width="390" />
 </picture>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Dante-dan/Dante-dan/main/assets/telemetry/time-dark-bdf18fab25a28825.svg" />
@@ -164,7 +162,7 @@ I write about the process on [dhpie.com](https://dhpie.com).
 
 
 <!-- telemetry-refresh:start -->
-<sub>Fetched every 8 hours · last successful fetch<br>Totals: 2026-11-04 14:45:52 UTC · Commit hours: 2026-11-04 14:45:52 UTC · Reactions: 2026-11-04 14:45:52 UTC</sub>
+<sub>Fetched every 8 hours · last successful fetch<br>Totals: 2026-11-05 02:39:00 UTC · Commit hours: 2026-11-05 02:39:00 UTC · Reactions: 2026-11-05 02:39:00 UTC</sub>
 <!-- telemetry-refresh:end -->
 
 ### `~/arcade`
