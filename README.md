@@ -149,12 +149,12 @@ I write about the process on [dhpie.com](https://dhpie.com).
 ### `~/telemetry`
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Dante-dan/Dante-dan/main/assets/telemetry/stats-dark-b6a5a41dce86c606.svg" />
-  <img src="https://raw.githubusercontent.com/Dante-dan/Dante-dan/main/assets/telemetry/stats-light-17555977b81ae3b2.svg" alt="Public GitHub contribution totals" width="390" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Dante-dan/Dante-dan/main/assets/telemetry/stats-dark-84759324ddb6b76d.svg" />
+  <img src="https://raw.githubusercontent.com/Dante-dan/Dante-dan/main/assets/telemetry/stats-light-93f24b72f6ce8046.svg" alt="Public GitHub contribution totals" width="390" />
 </picture>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Dante-dan/Dante-dan/main/assets/telemetry/time-dark-bdf18fab25a28825.svg" />
-  <img src="https://raw.githubusercontent.com/Dante-dan/Dante-dan/main/assets/telemetry/time-light-e794225c867be353.svg" alt="Commit distribution by time of day, UTC+8" width="390" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Dante-dan/Dante-dan/main/assets/telemetry/time-dark-fab92f9744960f45.svg" />
+  <img src="https://raw.githubusercontent.com/Dante-dan/Dante-dan/main/assets/telemetry/time-light-03a4f6af83337322.svg" alt="Commit distribution by time of day, UTC+8" width="390" />
 </picture>
 
 <img src="https://raw.githubusercontent.com/Dante-dan/Dante-dan/main/assets/telemetry/reactions-342df98a5edd991e.svg" alt="Reactions received on recent public comments and issue bodies" width="650" />
@@ -162,7 +162,7 @@ I write about the process on [dhpie.com](https://dhpie.com).
 
 
 <!-- telemetry-refresh:start -->
-<sub>Fetched every 8 hours · last successful fetch<br>Totals: 2026-11-05 02:39:00 UTC · Commit hours: 2026-11-05 02:39:00 UTC · Reactions: 2026-11-05 02:39:00 UTC</sub>
+<sub>Fetched every 8 hours · last successful fetch<br>Totals: 2026-11-05 14:50:14 UTC · Commit hours: 2026-11-05 14:50:14 UTC · Reactions: 2026-11-05 14:50:14 UTC</sub>
 <!-- telemetry-refresh:end -->
 
 ### `~/arcade`
