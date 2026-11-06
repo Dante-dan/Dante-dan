@@ -78,7 +78,7 @@ I write about the process on [dhpie.com](https://dhpie.com).
 <sub>Public upstream PRs updated in the last 7 days · refreshed every 8 hours</sub>
 
 <!-- upstream:start -->
-<sub>40 PRs · 32 open · 8 merged</sub>
+<sub>36 PRs · 32 open · 4 merged</sub>
 
 | Status | Pull request | Updated (UTC) |
 | :--- | :--- | :--- |
@@ -118,10 +118,6 @@ I write about the process on [dhpie.com](https://dhpie.com).
 | `merged` | **[CherryHQ/cherry-studio#20487](https://github.com/CherryHQ/cherry-studio/pull/20487)** — feat(proxy): add connection test | 2026-10-30 |
 | `open` | **[heygen-com/hyperframes#6433](https://github.com/heygen-com/hyperframes/pull/6433)** — fix(engine): preserve untimed HDR overlays and subtree masks | 2026-10-30 |
 | `merged` | **[CherryHQ/cherry-studio#20323](https://github.com/CherryHQ/cherry-studio/pull/20323)** — fix: accept sparse OpenAI response lifecycle events | 2026-10-30 |
-| `merged` | **[affaan-m/ECC#3752](https://github.com/affaan-m/ECC/pull/3752)** — docs(codex): document cache dependencies without bin links | 2026-10-29 |
-| `merged` | **[affaan-m/ECC#3750](https://github.com/affaan-m/ECC/pull/3750)** — docs: add public feedback goal fidelity evaluation | 2026-10-29 |
-| `merged` | **[affaan-m/ECC#3749](https://github.com/affaan-m/ECC/pull/3749)** — docs: add search-first connector gap evaluation | 2026-10-29 |
-| `merged` | **[affaan-m/ECC#3751](https://github.com/affaan-m/ECC/pull/3751)** — docs: add prepared verifier and effect state evaluation | 2026-10-29 |
 <!-- upstream:end -->
 
 <details>
@@ -162,7 +158,7 @@ I write about the process on [dhpie.com](https://dhpie.com).
 
 
 <!-- telemetry-refresh:start -->
-<sub>Fetched every 8 hours · last successful fetch<br>Totals: 2026-11-05 14:50:14 UTC · Commit hours: 2026-11-05 14:50:14 UTC · Reactions: 2026-11-05 14:50:14 UTC</sub>
+<sub>Fetched every 8 hours · last successful fetch<br>Totals: 2026-11-06 02:38:00 UTC · Commit hours: 2026-11-06 02:38:00 UTC · Reactions: 2026-11-06 02:38:00 UTC</sub>
 <!-- telemetry-refresh:end -->
 
 ### `~/arcade`
