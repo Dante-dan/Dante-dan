@@ -78,7 +78,7 @@ I write about the process on [dhpie.com](https://dhpie.com).
 <sub>Public upstream PRs updated in the last 7 days · refreshed every 8 hours</sub>
 
 <!-- upstream:start -->
-<sub>34 PRs · 31 open · 3 merged</sub>
+<sub>33 PRs · 30 open · 3 merged</sub>
 
 | Status | Pull request | Updated (UTC) |
 | :--- | :--- | :--- |
@@ -115,7 +115,6 @@ I write about the process on [dhpie.com](https://dhpie.com).
 | `open` | **[code-yeongyu/oh-my-openagent#10109](https://github.com/code-yeongyu/oh-my-openagent/pull/10109)** — fix(senpi): restore official R0 lifecycle QA fixtures | 2026-11-02 |
 | `open` | **[browser-use/browser-use#5798](https://github.com/browser-use/browser-use/pull/5798)** — fix(dom): preserve password input value state | 2026-11-02 |
 | `merged` | **[JimLiu/baoyu-skills#201](https://github.com/JimLiu/baoyu-skills/pull/201)** — fix(wechat): accept URL covers and cover\_image frontmatter key | 2026-11-01 |
-| `open` | **[apache/maka#5753](https://github.com/apache/maka/pull/5753)** — fix(transcript): recover from oversized invocations | 2026-11-01 |
 <!-- upstream:end -->
 
 <details>
@@ -143,8 +142,8 @@ I write about the process on [dhpie.com](https://dhpie.com).
 ### `~/telemetry`
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Dante-dan/Dante-dan/main/assets/telemetry/stats-dark-4ba42786a1de41f4.svg" />
-  <img src="https://raw.githubusercontent.com/Dante-dan/Dante-dan/main/assets/telemetry/stats-light-82228b11c99f5edc.svg" alt="Public GitHub contribution totals" width="390" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Dante-dan/Dante-dan/main/assets/telemetry/stats-dark-4b28e47caf3a365c.svg" />
+  <img src="https://raw.githubusercontent.com/Dante-dan/Dante-dan/main/assets/telemetry/stats-light-43e051c7ffa92328.svg" alt="Public GitHub contribution totals" width="390" />
 </picture>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Dante-dan/Dante-dan/main/assets/telemetry/time-dark-4b1519259d7e1f0d.svg" />
@@ -156,7 +155,7 @@ I write about the process on [dhpie.com](https://dhpie.com).
 
 
 <!-- telemetry-refresh:start -->
-<sub>Fetched every 8 hours · last successful fetch<br>Totals: 2026-11-08 01:35:29 UTC · Commit hours: 2026-11-08 01:35:29 UTC · Reactions: 2026-11-08 01:35:29 UTC</sub>
+<sub>Fetched every 8 hours · last successful fetch<br>Totals: 2026-11-08 13:42:19 UTC · Commit hours: 2026-11-08 13:42:19 UTC · Reactions: 2026-11-08 13:42:19 UTC</sub>
 <!-- telemetry-refresh:end -->
 
 ### `~/arcade`
