@@ -78,7 +78,7 @@ I write about the process on [dhpie.com](https://dhpie.com).
 <sub>Public upstream PRs updated in the last 7 days · refreshed every 8 hours</sub>
 
 <!-- upstream:start -->
-<sub>33 PRs · 30 open · 3 merged</sub>
+<sub>32 PRs · 30 open · 2 merged</sub>
 
 | Status | Pull request | Updated (UTC) |
 | :--- | :--- | :--- |
@@ -114,7 +114,6 @@ I write about the process on [dhpie.com](https://dhpie.com).
 | `open` | **[code-yeongyu/oh-my-openagent#8404](https://github.com/code-yeongyu/oh-my-openagent/pull/8404)** — fix(team-core): publish complete lock owners atomically | 2026-11-02 |
 | `open` | **[code-yeongyu/oh-my-openagent#10109](https://github.com/code-yeongyu/oh-my-openagent/pull/10109)** — fix(senpi): restore official R0 lifecycle QA fixtures | 2026-11-02 |
 | `open` | **[browser-use/browser-use#5798](https://github.com/browser-use/browser-use/pull/5798)** — fix(dom): preserve password input value state | 2026-11-02 |
-| `merged` | **[JimLiu/baoyu-skills#201](https://github.com/JimLiu/baoyu-skills/pull/201)** — fix(wechat): accept URL covers and cover\_image frontmatter key | 2026-11-01 |
 <!-- upstream:end -->
 
 <details>
@@ -155,7 +154,7 @@ I write about the process on [dhpie.com](https://dhpie.com).
 
 
 <!-- telemetry-refresh:start -->
-<sub>Fetched every 8 hours · last successful fetch<br>Totals: 2026-11-08 13:42:19 UTC · Commit hours: 2026-11-08 13:42:19 UTC · Reactions: 2026-11-08 13:42:19 UTC</sub>
+<sub>Fetched every 8 hours · last successful fetch<br>Totals: 2026-11-08 18:55:59 UTC · Commit hours: 2026-11-08 18:55:59 UTC · Reactions: 2026-11-08 18:55:59 UTC</sub>
 <!-- telemetry-refresh:end -->
 
 ### `~/arcade`
