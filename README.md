@@ -78,35 +78,17 @@ I write about the process on [dhpie.com](https://dhpie.com).
 <sub>Public upstream PRs updated in the last 7 days · refreshed every 8 hours</sub>
 
 <!-- upstream:start -->
-<sub>25 PRs · 23 open · 2 merged</sub>
+<sub>7 PRs · 5 open · 2 merged</sub>
 
 | Status | Pull request | Updated (UTC) |
 | :--- | :--- | :--- |
+| `open` | **[alibaba/open-code-review#1797](https://github.com/alibaba/open-code-review/pull/1797)** — feat(telemetry): expose per-attempt LLM HTTP spans | 2026-11-10 |
 | `open` | **[anomalyco/opencode#55311](https://github.com/anomalyco/opencode/pull/55311)** — fix(client): stop failed services before reporting startup errors | 2026-11-07 |
 | `merged` | **[heygen-com/hyperframes#5594](https://github.com/heygen-com/hyperframes/pull/5594)** — feat(studio): show canvas gesture position, size and rotation | 2026-11-07 |
 | `open` | **[code-yeongyu/oh-my-openagent#9693](https://github.com/code-yeongyu/oh-my-openagent/pull/9693)** — feat(pr-watch): persist host polling and session wake receipts | 2026-11-05 |
 | `open` | **[code-yeongyu/oh-my-openagent#9684](https://github.com/code-yeongyu/oh-my-openagent/pull/9684)** — feat(work-with-pr): batch PR watch fingerprints before detail reads | 2026-11-04 |
 | `open` | **[makecindy/cindy#7191](https://github.com/makecindy/cindy/pull/7191)** — fix(desktop): distinguish upstream resource quota from Cindy balance | 2026-11-04 |
 | `merged` | **[LodyAI/Lody#750](https://github.com/LodyAI/Lody/pull/750)** — fix: prevent narrow Monaco Find tooltip flicker | 2026-11-04 |
-| `open` | **[CherryHQ/cherry-studio#20353](https://github.com/CherryHQ/cherry-studio/pull/20353)** — fix(ai-runtime): clamp agent output token limit | 2026-11-03 |
-| `open` | **[CherryHQ/cherry-studio#20378](https://github.com/CherryHQ/cherry-studio/pull/20378)** — feat(knowledge): accept all recognized text files | 2026-11-03 |
-| `open` | **[CherryHQ/cherry-studio#20321](https://github.com/CherryHQ/cherry-studio/pull/20321)** — fix(chat-errors): normalize non-error throws | 2026-11-03 |
-| `open` | **[CherryHQ/cherry-studio#20434](https://github.com/CherryHQ/cherry-studio/pull/20434)** — fix(ai): stabilize OpenRouter session routing | 2026-11-03 |
-| `open` | **[CherryHQ/cherry-studio#20486](https://github.com/CherryHQ/cherry-studio/pull/20486)** — fix(knowledge): handle oversized Zhipu reranks | 2026-11-03 |
-| `open` | **[CherryHQ/cherry-studio#20386](https://github.com/CherryHQ/cherry-studio/pull/20386)** — fix(new-api): restore Gemini web search through relays | 2026-11-03 |
-| `open` | **[CherryHQ/cherry-studio#20748](https://github.com/CherryHQ/cherry-studio/pull/20748)** — fix(model-controls): honor disabled reasoning capability | 2026-11-03 |
-| `open` | **[CherryHQ/cherry-studio#20747](https://github.com/CherryHQ/cherry-studio/pull/20747)** — feat(api-gateway): add knowledge base write routes | 2026-11-03 |
-| `open` | **[CherryHQ/cherry-studio#20949](https://github.com/CherryHQ/cherry-studio/pull/20949)** — fix(agent-session): classify empty completions | 2026-11-03 |
-| `open` | **[CherryHQ/cherry-studio#21223](https://github.com/CherryHQ/cherry-studio/pull/21223)** — feat(xai-tools): add opt-in native Grok images in chat | 2026-11-03 |
-| `open` | **[CherryHQ/cherry-studio#21212](https://github.com/CherryHQ/cherry-studio/pull/21212)** — feat(xai-tools): add native code execution opt-in | 2026-11-03 |
-| `open` | **[CherryHQ/cherry-studio#20953](https://github.com/CherryHQ/cherry-studio/pull/20953)** — fix(doctor): avoid unactionable dependency links | 2026-11-03 |
-| `open` | **[CherryHQ/cherry-studio#21133](https://github.com/CherryHQ/cherry-studio/pull/21133)** — feat(agent-knowledge): add per-binding read/write permissions | 2026-11-03 |
-| `open` | **[CherryHQ/cherry-studio#21318](https://github.com/CherryHQ/cherry-studio/pull/21318)** — fix(sensenova-images): send image edits as JSON | 2026-11-03 |
-| `open` | **[CherryHQ/cherry-studio#21360](https://github.com/CherryHQ/cherry-studio/pull/21360)** — docs(tool-approval): clarify scheduled session delegation | 2026-11-03 |
-| `open` | **[CherryHQ/cherry-studio#21355](https://github.com/CherryHQ/cherry-studio/pull/21355)** — feat(web-search): choose search and fetch providers per assistant | 2026-11-03 |
-| `open` | **[CherryHQ/cherry-studio#21422](https://github.com/CherryHQ/cherry-studio/pull/21422)** — fix(chat-errors): preserve provider codes and explain history recovery | 2026-11-03 |
-| `open` | **[CherryHQ/cherry-studio#21317](https://github.com/CherryHQ/cherry-studio/pull/21317)** — fix(agent-stream): reject billed empty assistant completions | 2026-11-03 |
-| `open` | **[CherryHQ/cherry-studio#21187](https://github.com/CherryHQ/cherry-studio/pull/21187)** — fix(kb-citations): improve synthesis attribution and citation previews | 2026-11-03 |
 <!-- upstream:end -->
 
 <details>
@@ -147,7 +129,7 @@ I write about the process on [dhpie.com](https://dhpie.com).
 
 
 <!-- telemetry-refresh:start -->
-<sub>Fetched every 8 hours · last successful fetch<br>Totals: 2026-11-10 15:06:16 UTC · Commit hours: 2026-11-10 15:06:16 UTC · Reactions: 2026-11-10 15:06:16 UTC</sub>
+<sub>Fetched every 8 hours · last successful fetch<br>Totals: 2026-11-11 02:01:29 UTC · Commit hours: 2026-11-11 02:01:29 UTC · Reactions: 2026-11-11 02:01:29 UTC</sub>
 <!-- telemetry-refresh:end -->
 
 ### `~/arcade`
