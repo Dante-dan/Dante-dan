@@ -78,7 +78,7 @@ I write about the process on [dhpie.com](https://dhpie.com).
 <sub>Public upstream PRs updated in the last 7 days · refreshed every 8 hours</sub>
 
 <!-- upstream:start -->
-<sub>7 PRs · 5 open · 2 merged</sub>
+<sub>4 PRs · 3 open · 1 merged</sub>
 
 | Status | Pull request | Updated (UTC) |
 | :--- | :--- | :--- |
@@ -86,9 +86,6 @@ I write about the process on [dhpie.com](https://dhpie.com).
 | `open` | **[anomalyco/opencode#55311](https://github.com/anomalyco/opencode/pull/55311)** — fix(client): stop failed services before reporting startup errors | 2026-11-07 |
 | `merged` | **[heygen-com/hyperframes#5594](https://github.com/heygen-com/hyperframes/pull/5594)** — feat(studio): show canvas gesture position, size and rotation | 2026-11-07 |
 | `open` | **[code-yeongyu/oh-my-openagent#9693](https://github.com/code-yeongyu/oh-my-openagent/pull/9693)** — feat(pr-watch): persist host polling and session wake receipts | 2026-11-05 |
-| `open` | **[code-yeongyu/oh-my-openagent#9684](https://github.com/code-yeongyu/oh-my-openagent/pull/9684)** — feat(work-with-pr): batch PR watch fingerprints before detail reads | 2026-11-04 |
-| `open` | **[makecindy/cindy#7191](https://github.com/makecindy/cindy/pull/7191)** — fix(desktop): distinguish upstream resource quota from Cindy balance | 2026-11-04 |
-| `merged` | **[LodyAI/Lody#750](https://github.com/LodyAI/Lody/pull/750)** — fix: prevent narrow Monaco Find tooltip flicker | 2026-11-04 |
 <!-- upstream:end -->
 
 <details>
@@ -116,8 +113,8 @@ I write about the process on [dhpie.com](https://dhpie.com).
 ### `~/telemetry`
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Dante-dan/Dante-dan/main/assets/telemetry/stats-dark-21d3949269477ec2.svg" />
-  <img src="https://raw.githubusercontent.com/Dante-dan/Dante-dan/main/assets/telemetry/stats-light-28b09799b1fcd26b.svg" alt="Public GitHub contribution totals" width="390" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Dante-dan/Dante-dan/main/assets/telemetry/stats-dark-6b568df7ab9db5d8.svg" />
+  <img src="https://raw.githubusercontent.com/Dante-dan/Dante-dan/main/assets/telemetry/stats-light-544bb0061d0d0a75.svg" alt="Public GitHub contribution totals" width="390" />
 </picture>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Dante-dan/Dante-dan/main/assets/telemetry/time-dark-f07b3c77cc2d0976.svg" />
@@ -129,7 +126,7 @@ I write about the process on [dhpie.com](https://dhpie.com).
 
 
 <!-- telemetry-refresh:start -->
-<sub>Fetched every 8 hours · last successful fetch<br>Totals: 2026-11-11 02:01:29 UTC · Commit hours: 2026-11-11 02:01:29 UTC · Reactions: 2026-11-11 02:01:29 UTC</sub>
+<sub>Fetched every 8 hours · last successful fetch<br>Totals: 2026-11-11 14:37:08 UTC · Commit hours: 2026-11-11 14:37:08 UTC · Reactions: 2026-11-11 14:37:08 UTC</sub>
 <!-- telemetry-refresh:end -->
 
 ### `~/arcade`
