@@ -33,9 +33,9 @@ I write about the process on [dhpie.com](https://dhpie.com).
 <sub>Recently pushed public projects · forks excluded</sub>
 
 <!-- workbench:start -->
+- **[web-regression-testing](https://github.com/Dante-dan/web-regression-testing)** — Regression Testing Tools By Puppeteer
 - **[pi-agent-book](https://github.com/Dante-dan/pi-agent-book)** — 《Pi Agent从入门到精通》：面向零基础的中文开源书，基于源码拆解上下文、记忆、工具、扩展与持续进化，附可复现实验。
 - **[dayweave](https://github.com/Dante-dan/dayweave)** — Dayweave · 拾日 — An ambient personal secretary: everyday conversations to lasting text archives and thoughtful insights.
-- **[dan-skills](https://github.com/Dante-dan/dan-skills)** — Public TypeScript project.
 <!-- workbench:end -->
 
 ### `~/contributions`
@@ -113,12 +113,12 @@ I write about the process on [dhpie.com](https://dhpie.com).
 ### `~/telemetry`
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Dante-dan/Dante-dan/main/assets/telemetry/stats-dark-e18e35fbe7ba5522.svg" />
-  <img src="https://raw.githubusercontent.com/Dante-dan/Dante-dan/main/assets/telemetry/stats-light-b70a31bac41e0fa8.svg" alt="Public GitHub contribution totals" width="390" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Dante-dan/Dante-dan/main/assets/telemetry/stats-dark-be05b0c221e29041.svg" />
+  <img src="https://raw.githubusercontent.com/Dante-dan/Dante-dan/main/assets/telemetry/stats-light-7904ce8f2754aee2.svg" alt="Public GitHub contribution totals" width="390" />
 </picture>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Dante-dan/Dante-dan/main/assets/telemetry/time-dark-1a6dd3537a15a3ee.svg" />
-  <img src="https://raw.githubusercontent.com/Dante-dan/Dante-dan/main/assets/telemetry/time-light-fb99d9564c885f0b.svg" alt="Commit distribution by time of day, UTC+8" width="390" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Dante-dan/Dante-dan/main/assets/telemetry/time-dark-eb5df353bae3930e.svg" />
+  <img src="https://raw.githubusercontent.com/Dante-dan/Dante-dan/main/assets/telemetry/time-light-f3d511d8624ac6ae.svg" alt="Commit distribution by time of day, UTC+8" width="390" />
 </picture>
 
 <img src="https://raw.githubusercontent.com/Dante-dan/Dante-dan/main/assets/telemetry/reactions-342df98a5edd991e.svg" alt="Reactions received on recent public comments and issue bodies" width="650" />
@@ -126,7 +126,7 @@ I write about the process on [dhpie.com](https://dhpie.com).
 
 
 <!-- telemetry-refresh:start -->
-<sub>Fetched every 8 hours · last successful fetch<br>Totals: 2026-11-12 15:30:33 UTC · Commit hours: 2026-11-12 15:30:33 UTC · Reactions: 2026-11-12 15:30:33 UTC</sub>
+<sub>Fetched every 8 hours · last successful fetch<br>Totals: 2026-11-13 02:45:31 UTC · Commit hours: 2026-11-13 02:45:31 UTC · Reactions: 2026-11-13 02:45:31 UTC</sub>
 <!-- telemetry-refresh:end -->
 
 ### `~/arcade`
