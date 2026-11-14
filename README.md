@@ -82,10 +82,10 @@ I write about the process on [dhpie.com](https://dhpie.com).
 
 | Status | Pull request | Updated (UTC) |
 | :--- | :--- | :--- |
+| `open` | **[heygen-com/hyperframes#6433](https://github.com/heygen-com/hyperframes/pull/6433)** — fix(engine): preserve untimed HDR overlays and subtree masks | 2026-11-14 |
 | `open` | **[makecindy/cindy#7446](https://github.com/makecindy/cindy/pull/7446)** — fix(chat): retain turns after transient heartbeat failures | 2026-11-13 |
 | `open` | **[makecindy/cindy#6319](https://github.com/makecindy/cindy/pull/6319)** — fix(local-models): keep Ollama DNS failures generic | 2026-11-12 |
 | `open` | **[alibaba/open-code-review#1797](https://github.com/alibaba/open-code-review/pull/1797)** — feat(telemetry): expose per-attempt LLM HTTP spans | 2026-11-10 |
-| `open` | **[anomalyco/opencode#55311](https://github.com/anomalyco/opencode/pull/55311)** — fix(client): stop failed services before reporting startup errors | 2026-11-07 |
 <!-- upstream:end -->
 
 <details>
@@ -126,7 +126,7 @@ I write about the process on [dhpie.com](https://dhpie.com).
 
 
 <!-- telemetry-refresh:start -->
-<sub>Fetched every 8 hours · last successful fetch<br>Totals: 2026-11-14 02:32:48 UTC · Commit hours: 2026-11-14 02:32:48 UTC · Reactions: 2026-11-14 02:32:48 UTC</sub>
+<sub>Fetched every 8 hours · last successful fetch<br>Totals: 2026-11-14 13:42:20 UTC · Commit hours: 2026-11-14 13:42:20 UTC · Reactions: 2026-11-14 13:42:20 UTC</sub>
 <!-- telemetry-refresh:end -->
 
 ### `~/arcade`
