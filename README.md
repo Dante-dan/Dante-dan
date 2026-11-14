@@ -78,14 +78,14 @@ I write about the process on [dhpie.com](https://dhpie.com).
 <sub>Public upstream PRs updated in the last 7 days · refreshed every 8 hours</sub>
 
 <!-- upstream:start -->
-<sub>4 PRs · 3 open · 1 merged</sub>
+<sub>4 PRs · 4 open</sub>
 
 | Status | Pull request | Updated (UTC) |
 | :--- | :--- | :--- |
+| `open` | **[makecindy/cindy#7446](https://github.com/makecindy/cindy/pull/7446)** — fix(chat): retain turns after transient heartbeat failures | 2026-11-13 |
 | `open` | **[makecindy/cindy#6319](https://github.com/makecindy/cindy/pull/6319)** — fix(local-models): keep Ollama DNS failures generic | 2026-11-12 |
 | `open` | **[alibaba/open-code-review#1797](https://github.com/alibaba/open-code-review/pull/1797)** — feat(telemetry): expose per-attempt LLM HTTP spans | 2026-11-10 |
 | `open` | **[anomalyco/opencode#55311](https://github.com/anomalyco/opencode/pull/55311)** — fix(client): stop failed services before reporting startup errors | 2026-11-07 |
-| `merged` | **[heygen-com/hyperframes#5594](https://github.com/heygen-com/hyperframes/pull/5594)** — feat(studio): show canvas gesture position, size and rotation | 2026-11-07 |
 <!-- upstream:end -->
 
 <details>
@@ -126,7 +126,7 @@ I write about the process on [dhpie.com](https://dhpie.com).
 
 
 <!-- telemetry-refresh:start -->
-<sub>Fetched every 8 hours · last successful fetch<br>Totals: 2026-11-13 14:46:05 UTC · Commit hours: 2026-11-13 14:46:05 UTC · Reactions: 2026-11-13 14:46:05 UTC</sub>
+<sub>Fetched every 8 hours · last successful fetch<br>Totals: 2026-11-14 02:32:48 UTC · Commit hours: 2026-11-14 02:32:48 UTC · Reactions: 2026-11-14 02:32:48 UTC</sub>
 <!-- telemetry-refresh:end -->
 
 ### `~/arcade`
