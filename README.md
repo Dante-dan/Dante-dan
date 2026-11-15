@@ -113,8 +113,8 @@ I write about the process on [dhpie.com](https://dhpie.com).
 ### `~/telemetry`
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Dante-dan/Dante-dan/main/assets/telemetry/stats-dark-c3732d2d5e619317.svg" />
-  <img src="https://raw.githubusercontent.com/Dante-dan/Dante-dan/main/assets/telemetry/stats-light-abeee1fe7b4af8ec.svg" alt="Public GitHub contribution totals" width="390" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Dante-dan/Dante-dan/main/assets/telemetry/stats-dark-178c95d214226342.svg" />
+  <img src="https://raw.githubusercontent.com/Dante-dan/Dante-dan/main/assets/telemetry/stats-light-f8d58c41eac1430a.svg" alt="Public GitHub contribution totals" width="390" />
 </picture>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Dante-dan/Dante-dan/main/assets/telemetry/time-dark-935c49e0291aea98.svg" />
@@ -126,7 +126,7 @@ I write about the process on [dhpie.com](https://dhpie.com).
 
 
 <!-- telemetry-refresh:start -->
-<sub>Fetched every 8 hours · last successful fetch<br>Totals: 2026-11-15 14:10:19 UTC · Commit hours: 2026-11-15 14:10:19 UTC · Reactions: 2026-11-15 14:10:19 UTC</sub>
+<sub>Fetched every 8 hours · last successful fetch<br>Totals: 2026-11-15 19:53:01 UTC · Commit hours: 2026-11-15 19:53:01 UTC · Reactions: 2026-11-15 19:53:01 UTC</sub>
 <!-- telemetry-refresh:end -->
 
 ### `~/arcade`
