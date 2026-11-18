@@ -78,10 +78,12 @@ I write about the process on [dhpie.com](https://dhpie.com).
 <sub>Public upstream PRs updated in the last 7 days · refreshed every 8 hours</sub>
 
 <!-- upstream:start -->
-<sub>14 PRs · 14 open</sub>
+<sub>16 PRs · 16 open</sub>
 
 | Status | Pull request | Updated (UTC) |
 | :--- | :--- | :--- |
+| `open` | **[apache/maka#5266](https://github.com/apache/maka/pull/5266)** — fix(runtime): allow bounded Apple Git startup | 2026-11-18 |
+| `open` | **[browser-use/browser-use#5991](https://github.com/browser-use/browser-use/pull/5991)** — fix: honor accept\_downloads in CDP browsers | 2026-11-18 |
 | `open` | **[makecindy/cindy#7200](https://github.com/makecindy/cindy/pull/7200)** — fix(codex): canonicalize adopted rollout paths before resume | 2026-11-17 |
 | `open` | **[makecindy/cindy#7235](https://github.com/makecindy/cindy/pull/7235)** — fix(remote-desktop): cache capability probes across remounts | 2026-11-17 |
 | `open` | **[makecindy/cindy#7191](https://github.com/makecindy/cindy/pull/7191)** — fix(desktop): distinguish upstream resource quota from Cindy balance | 2026-11-17 |
@@ -136,7 +138,7 @@ I write about the process on [dhpie.com](https://dhpie.com).
 
 
 <!-- telemetry-refresh:start -->
-<sub>Fetched every 8 hours · last successful fetch<br>Totals: 2026-11-17 16:19:26 UTC · Commit hours: 2026-11-17 16:19:26 UTC · Reactions: 2026-11-17 16:19:26 UTC</sub>
+<sub>Fetched every 8 hours · last successful fetch<br>Totals: 2026-11-18 03:46:15 UTC · Commit hours: 2026-11-18 03:46:15 UTC · Reactions: 2026-11-18 03:46:15 UTC</sub>
 <!-- telemetry-refresh:end -->
 
 ### `~/arcade`
