@@ -105,6 +105,7 @@ I write about the process on [dhpie.com](https://dhpie.com).
 <summary>Recent conversations · issues, comments &amp; reviews</summary>
 
 <!-- activity:start -->
+- `2026-11-19` Commented on **[cloudflare/security-audit-skill#82](https://github.com/cloudflare/security-audit-skill/pull/82#issuecomment-7006512426)** — fix: allow artifact sharing within an archived attempt
 - `2026-11-04` Commented on **[makecindy/cindy#7191](https://github.com/makecindy/cindy/pull/7191#issuecomment-6627614994)** — fix(desktop): distinguish upstream resource quota from Cindy balance
 <!-- activity:end -->
 
@@ -126,20 +127,20 @@ I write about the process on [dhpie.com](https://dhpie.com).
 ### `~/telemetry`
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Dante-dan/Dante-dan/main/assets/telemetry/stats-dark-f50bc5b7d8bba41f.svg" />
-  <img src="https://raw.githubusercontent.com/Dante-dan/Dante-dan/main/assets/telemetry/stats-light-01504583785ef618.svg" alt="Public GitHub contribution totals" width="390" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Dante-dan/Dante-dan/main/assets/telemetry/stats-dark-458e4f183cdc46cb.svg" />
+  <img src="https://raw.githubusercontent.com/Dante-dan/Dante-dan/main/assets/telemetry/stats-light-673676e6d4b7b9c9.svg" alt="Public GitHub contribution totals" width="390" />
 </picture>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Dante-dan/Dante-dan/main/assets/telemetry/time-dark-935c49e0291aea98.svg" />
-  <img src="https://raw.githubusercontent.com/Dante-dan/Dante-dan/main/assets/telemetry/time-light-7f78c1a25166a0d5.svg" alt="Commit distribution by time of day, UTC+8" width="390" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Dante-dan/Dante-dan/main/assets/telemetry/time-dark-d8c0468578e25a45.svg" />
+  <img src="https://raw.githubusercontent.com/Dante-dan/Dante-dan/main/assets/telemetry/time-light-1b2932aa7d56a4a6.svg" alt="Commit distribution by time of day, UTC+8" width="390" />
 </picture>
 
-<img src="https://raw.githubusercontent.com/Dante-dan/Dante-dan/main/assets/telemetry/reactions-342df98a5edd991e.svg" alt="Reactions received on recent public comments and issue bodies" width="650" />
+<img src="https://raw.githubusercontent.com/Dante-dan/Dante-dan/main/assets/telemetry/reactions-708e362b4911cf4d.svg" alt="Reactions received on recent public comments and issue bodies" width="650" />
 
 
 
 <!-- telemetry-refresh:start -->
-<sub>Fetched every 8 hours · last successful fetch<br>Totals: 2026-11-19 03:43:43 UTC · Commit hours: 2026-11-19 03:43:43 UTC · Reactions: 2026-11-19 03:43:43 UTC</sub>
+<sub>Fetched every 8 hours · last successful fetch<br>Totals: 2026-11-19 15:56:48 UTC · Commit hours: 2026-11-19 15:56:48 UTC · Reactions: 2026-11-19 15:56:48 UTC</sub>
 <!-- telemetry-refresh:end -->
 
 ### `~/arcade`
