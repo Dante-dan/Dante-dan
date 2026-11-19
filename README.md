@@ -78,10 +78,11 @@ I write about the process on [dhpie.com](https://dhpie.com).
 <sub>Public upstream PRs updated in the last 7 days · refreshed every 8 hours</sub>
 
 <!-- upstream:start -->
-<sub>16 PRs · 16 open</sub>
+<sub>17 PRs · 17 open</sub>
 
 | Status | Pull request | Updated (UTC) |
 | :--- | :--- | :--- |
+| `open` | **[cloudflare/security-audit-skill#82](https://github.com/cloudflare/security-audit-skill/pull/82)** — fix: allow artifact sharing within an archived attempt | 2026-11-19 |
 | `open` | **[apache/maka#5266](https://github.com/apache/maka/pull/5266)** — fix(runtime): allow bounded Apple Git startup | 2026-11-18 |
 | `open` | **[browser-use/browser-use#5991](https://github.com/browser-use/browser-use/pull/5991)** — fix: honor accept\_downloads in CDP browsers | 2026-11-18 |
 | `open` | **[makecindy/cindy#7200](https://github.com/makecindy/cindy/pull/7200)** — fix(codex): canonicalize adopted rollout paths before resume | 2026-11-17 |
@@ -125,8 +126,8 @@ I write about the process on [dhpie.com](https://dhpie.com).
 ### `~/telemetry`
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Dante-dan/Dante-dan/main/assets/telemetry/stats-dark-bd49938e0a8d44f4.svg" />
-  <img src="https://raw.githubusercontent.com/Dante-dan/Dante-dan/main/assets/telemetry/stats-light-462ef586a2e9582c.svg" alt="Public GitHub contribution totals" width="390" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Dante-dan/Dante-dan/main/assets/telemetry/stats-dark-f50bc5b7d8bba41f.svg" />
+  <img src="https://raw.githubusercontent.com/Dante-dan/Dante-dan/main/assets/telemetry/stats-light-01504583785ef618.svg" alt="Public GitHub contribution totals" width="390" />
 </picture>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Dante-dan/Dante-dan/main/assets/telemetry/time-dark-935c49e0291aea98.svg" />
@@ -138,7 +139,7 @@ I write about the process on [dhpie.com](https://dhpie.com).
 
 
 <!-- telemetry-refresh:start -->
-<sub>Fetched every 8 hours · last successful fetch<br>Totals: 2026-11-18 15:53:03 UTC · Commit hours: 2026-11-18 15:53:03 UTC · Reactions: 2026-11-18 15:53:03 UTC</sub>
+<sub>Fetched every 8 hours · last successful fetch<br>Totals: 2026-11-19 03:43:43 UTC · Commit hours: 2026-11-19 03:43:43 UTC · Reactions: 2026-11-19 03:43:43 UTC</sub>
 <!-- telemetry-refresh:end -->
 
 ### `~/arcade`
