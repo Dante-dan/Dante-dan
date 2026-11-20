@@ -78,10 +78,26 @@ I write about the process on [dhpie.com](https://dhpie.com).
 <sub>Public upstream PRs updated in the last 7 days · refreshed every 8 hours</sub>
 
 <!-- upstream:start -->
-<sub>17 PRs · 17 open</sub>
+<sub>33 PRs · 33 open</sub>
 
 | Status | Pull request | Updated (UTC) |
 | :--- | :--- | :--- |
+| `open` | **[code-yeongyu/oh-my-openagent#8404](https://github.com/code-yeongyu/oh-my-openagent/pull/8404)** — fix(team-core): publish complete lock owners atomically | 2026-11-19 |
+| `open` | **[code-yeongyu/oh-my-openagent#8297](https://github.com/code-yeongyu/oh-my-openagent/pull/8297)** — fix(opencode): expose V2 plugin setup entry | 2026-11-19 |
+| `open` | **[code-yeongyu/oh-my-openagent#8405](https://github.com/code-yeongyu/oh-my-openagent/pull/8405)** — test(codex): bound the installer manifest fixture | 2026-11-19 |
+| `open` | **[code-yeongyu/oh-my-openagent#8387](https://github.com/code-yeongyu/oh-my-openagent/pull/8387)** — fix(omo-native): keep Ghostty inline images in transcript flow | 2026-11-19 |
+| `open` | **[code-yeongyu/oh-my-openagent#9693](https://github.com/code-yeongyu/oh-my-openagent/pull/9693)** — feat(pr-watch): persist host polling and session wake receipts | 2026-11-19 |
+| `open` | **[code-yeongyu/oh-my-openagent#9684](https://github.com/code-yeongyu/oh-my-openagent/pull/9684)** — feat(work-with-pr): batch PR watch fingerprints before detail reads | 2026-11-19 |
+| `open` | **[code-yeongyu/oh-my-openagent#9635](https://github.com/code-yeongyu/oh-my-openagent/pull/9635)** — refactor(senpi): load Kibitzer child factory on first wake | 2026-11-19 |
+| `open` | **[code-yeongyu/oh-my-openagent#9621](https://github.com/code-yeongyu/oh-my-openagent/pull/9621)** — fix(task): settle idle host child admission errors | 2026-11-19 |
+| `open` | **[code-yeongyu/oh-my-openagent#9619](https://github.com/code-yeongyu/oh-my-openagent/pull/9619)** — fix(senpi): enable reviewer artifact lookup through eval | 2026-11-19 |
+| `open` | **[code-yeongyu/oh-my-openagent#9625](https://github.com/code-yeongyu/oh-my-openagent/pull/9625)** — refactor(senpi): load memory prompt compiler on demand | 2026-11-19 |
+| `open` | **[code-yeongyu/oh-my-openagent#9437](https://github.com/code-yeongyu/oh-my-openagent/pull/9437)** — test(team-mode): make fallback cancellation gate deterministic | 2026-11-19 |
+| `open` | **[code-yeongyu/oh-my-openagent#10107](https://github.com/code-yeongyu/oh-my-openagent/pull/10107)** — fix(senpi-task): name task child sessions with their parent | 2026-11-19 |
+| `open` | **[code-yeongyu/oh-my-openagent#10109](https://github.com/code-yeongyu/oh-my-openagent/pull/10109)** — fix(senpi): restore official R0 lifecycle QA fixtures | 2026-11-19 |
+| `open` | **[code-yeongyu/oh-my-openagent#10138](https://github.com/code-yeongyu/oh-my-openagent/pull/10138)** — docs(install): explain npm package-name bin conflicts | 2026-11-19 |
+| `open` | **[code-yeongyu/oh-my-openagent#11167](https://github.com/code-yeongyu/oh-my-openagent/pull/11167)** — fix(memory): neutralize inherited pathspec modes in literal Git lookups | 2026-11-19 |
+| `open` | **[code-yeongyu/oh-my-openagent#11418](https://github.com/code-yeongyu/oh-my-openagent/pull/11418)** — fix(senpi): report unstaged LSP runtime and stage preload builds | 2026-11-19 |
 | `open` | **[cloudflare/security-audit-skill#82](https://github.com/cloudflare/security-audit-skill/pull/82)** — fix: allow artifact sharing within an archived attempt | 2026-11-19 |
 | `open` | **[apache/maka#5266](https://github.com/apache/maka/pull/5266)** — fix(runtime): allow bounded Apple Git startup | 2026-11-18 |
 | `open` | **[browser-use/browser-use#5991](https://github.com/browser-use/browser-use/pull/5991)** — fix: honor accept\_downloads in CDP browsers | 2026-11-18 |
@@ -127,8 +143,8 @@ I write about the process on [dhpie.com](https://dhpie.com).
 ### `~/telemetry`
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Dante-dan/Dante-dan/main/assets/telemetry/stats-dark-458e4f183cdc46cb.svg" />
-  <img src="https://raw.githubusercontent.com/Dante-dan/Dante-dan/main/assets/telemetry/stats-light-673676e6d4b7b9c9.svg" alt="Public GitHub contribution totals" width="390" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Dante-dan/Dante-dan/main/assets/telemetry/stats-dark-79923fcb59eaf868.svg" />
+  <img src="https://raw.githubusercontent.com/Dante-dan/Dante-dan/main/assets/telemetry/stats-light-f0e698f53ef36f3d.svg" alt="Public GitHub contribution totals" width="390" />
 </picture>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Dante-dan/Dante-dan/main/assets/telemetry/time-dark-d8c0468578e25a45.svg" />
@@ -140,7 +156,7 @@ I write about the process on [dhpie.com](https://dhpie.com).
 
 
 <!-- telemetry-refresh:start -->
-<sub>Fetched every 8 hours · last successful fetch<br>Totals: 2026-11-19 15:56:48 UTC · Commit hours: 2026-11-19 15:56:48 UTC · Reactions: 2026-11-19 15:56:48 UTC</sub>
+<sub>Fetched every 8 hours · last successful fetch<br>Totals: 2026-11-20 03:36:19 UTC · Commit hours: 2026-11-20 03:36:19 UTC · Reactions: 2026-11-20 03:36:19 UTC</sub>
 <!-- telemetry-refresh:end -->
 
 ### `~/arcade`
