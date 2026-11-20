@@ -78,10 +78,17 @@ I write about the process on [dhpie.com](https://dhpie.com).
 <sub>Public upstream PRs updated in the last 7 days · refreshed every 8 hours</sub>
 
 <!-- upstream:start -->
-<sub>33 PRs · 33 open</sub>
+<sub>40 PRs · 40 open</sub>
 
 | Status | Pull request | Updated (UTC) |
 | :--- | :--- | :--- |
+| `open` | **[farion1231/cc-switch#8156](https://github.com/farion1231/cc-switch/pull/8156)** — fix(codex): reject unsupported encrypted agent tasks in chat conversion | 2026-11-20 |
+| `open` | **[farion1231/cc-switch#8232](https://github.com/farion1231/cc-switch/pull/8232)** — feat(codex): persist restart notice dismissal preference | 2026-11-20 |
+| `open` | **[farion1231/cc-switch#8568](https://github.com/farion1231/cc-switch/pull/8568)** — fix(provider): remind users to check active provider after adding | 2026-11-20 |
+| `open` | **[farion1231/cc-switch#8647](https://github.com/farion1231/cc-switch/pull/8647)** — feat(provider): refresh Claude Desktop providers from Claude Code | 2026-11-20 |
+| `open` | **[farion1231/cc-switch#8642](https://github.com/farion1231/cc-switch/pull/8642)** — fix(usage): use Chinese units for compact token counts | 2026-11-20 |
+| `open` | **[farion1231/cc-switch#8800](https://github.com/farion1231/cc-switch/pull/8800)** — fix(codex): preserve image tool discovery through local routing | 2026-11-20 |
+| `open` | **[farion1231/cc-switch#8893](https://github.com/farion1231/cc-switch/pull/8893)** — feat(apps): add compact and large-card display density | 2026-11-20 |
 | `open` | **[code-yeongyu/oh-my-openagent#8404](https://github.com/code-yeongyu/oh-my-openagent/pull/8404)** — fix(team-core): publish complete lock owners atomically | 2026-11-19 |
 | `open` | **[code-yeongyu/oh-my-openagent#8297](https://github.com/code-yeongyu/oh-my-openagent/pull/8297)** — fix(opencode): expose V2 plugin setup entry | 2026-11-19 |
 | `open` | **[code-yeongyu/oh-my-openagent#8405](https://github.com/code-yeongyu/oh-my-openagent/pull/8405)** — test(codex): bound the installer manifest fixture | 2026-11-19 |
@@ -143,8 +150,8 @@ I write about the process on [dhpie.com](https://dhpie.com).
 ### `~/telemetry`
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Dante-dan/Dante-dan/main/assets/telemetry/stats-dark-79923fcb59eaf868.svg" />
-  <img src="https://raw.githubusercontent.com/Dante-dan/Dante-dan/main/assets/telemetry/stats-light-f0e698f53ef36f3d.svg" alt="Public GitHub contribution totals" width="390" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Dante-dan/Dante-dan/main/assets/telemetry/stats-dark-a7135d28bcffb202.svg" />
+  <img src="https://raw.githubusercontent.com/Dante-dan/Dante-dan/main/assets/telemetry/stats-light-44638041cd4a6a6a.svg" alt="Public GitHub contribution totals" width="390" />
 </picture>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Dante-dan/Dante-dan/main/assets/telemetry/time-dark-d8c0468578e25a45.svg" />
@@ -156,7 +163,7 @@ I write about the process on [dhpie.com](https://dhpie.com).
 
 
 <!-- telemetry-refresh:start -->
-<sub>Fetched every 8 hours · last successful fetch<br>Totals: 2026-11-20 03:36:19 UTC · Commit hours: 2026-11-20 03:36:19 UTC · Reactions: 2026-11-20 03:36:19 UTC</sub>
+<sub>Fetched every 8 hours · last successful fetch<br>Totals: 2026-11-20 15:40:12 UTC · Commit hours: 2026-11-20 15:40:12 UTC · Reactions: 2026-11-20 15:40:12 UTC</sub>
 <!-- telemetry-refresh:end -->
 
 ### `~/arcade`
