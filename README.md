@@ -78,10 +78,12 @@ I write about the process on [dhpie.com](https://dhpie.com).
 <sub>Public upstream PRs updated in the last 7 days · refreshed every 8 hours</sub>
 
 <!-- upstream:start -->
-<sub>40 PRs · 40 open</sub>
+<sub>41 PRs · 41 open</sub>
 
 | Status | Pull request | Updated (UTC) |
 | :--- | :--- | :--- |
+| `open` | **[apache/maka#6198](https://github.com/apache/maka/pull/6198)** — feat(desktop): unify Personal Assistant task panel densities | 2026-11-21 |
+| `open` | **[apache/maka#6212](https://github.com/apache/maka/pull/6212)** — fix(desktop): keep lightbox close clear of window controls | 2026-11-21 |
 | `open` | **[farion1231/cc-switch#8642](https://github.com/farion1231/cc-switch/pull/8642)** — fix(usage): use Chinese units for compact token counts | 2026-11-20 |
 | `open` | **[farion1231/cc-switch#8156](https://github.com/farion1231/cc-switch/pull/8156)** — fix(codex): reject unsupported encrypted agent tasks in chat conversion | 2026-11-20 |
 | `open` | **[farion1231/cc-switch#8232](https://github.com/farion1231/cc-switch/pull/8232)** — feat(codex): persist restart notice dismissal preference | 2026-11-20 |
@@ -121,7 +123,6 @@ I write about the process on [dhpie.com](https://dhpie.com).
 | `open` | **[makecindy/cindy#7202](https://github.com/makecindy/cindy/pull/7202)** — fix(maker-core): expose repeated Claude connection retry progress | 2026-11-17 |
 | `open` | **[makecindy/cindy#7446](https://github.com/makecindy/cindy/pull/7446)** — fix(chat): retain turns after transient heartbeat failures | 2026-11-17 |
 | `open` | **[makecindy/cindy#7448](https://github.com/makecindy/cindy/pull/7448)** — fix(learn): preserve namespaced built-in skill dispatch | 2026-11-17 |
-| `open` | **[heygen-com/hyperframes#6433](https://github.com/heygen-com/hyperframes/pull/6433)** — fix(engine): preserve untimed HDR overlays and subtree masks | 2026-11-14 |
 <!-- upstream:end -->
 
 <details>
@@ -150,8 +151,8 @@ I write about the process on [dhpie.com](https://dhpie.com).
 ### `~/telemetry`
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Dante-dan/Dante-dan/main/assets/telemetry/stats-dark-a7135d28bcffb202.svg" />
-  <img src="https://raw.githubusercontent.com/Dante-dan/Dante-dan/main/assets/telemetry/stats-light-44638041cd4a6a6a.svg" alt="Public GitHub contribution totals" width="390" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Dante-dan/Dante-dan/main/assets/telemetry/stats-dark-b426b6f3fffa5f3f.svg" />
+  <img src="https://raw.githubusercontent.com/Dante-dan/Dante-dan/main/assets/telemetry/stats-light-70b2d440950c1392.svg" alt="Public GitHub contribution totals" width="390" />
 </picture>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Dante-dan/Dante-dan/main/assets/telemetry/time-dark-d8c0468578e25a45.svg" />
@@ -163,7 +164,7 @@ I write about the process on [dhpie.com](https://dhpie.com).
 
 
 <!-- telemetry-refresh:start -->
-<sub>Fetched every 8 hours · last successful fetch<br>Totals: 2026-11-21 03:19:07 UTC · Commit hours: 2026-11-21 03:19:07 UTC · Reactions: 2026-11-21 03:19:07 UTC</sub>
+<sub>Fetched every 8 hours · last successful fetch<br>Totals: 2026-11-21 14:50:41 UTC · Commit hours: 2026-11-21 14:50:41 UTC · Reactions: 2026-11-21 14:50:41 UTC</sub>
 <!-- telemetry-refresh:end -->
 
 ### `~/arcade`
