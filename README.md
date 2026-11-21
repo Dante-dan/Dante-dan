@@ -82,11 +82,11 @@ I write about the process on [dhpie.com](https://dhpie.com).
 
 | Status | Pull request | Updated (UTC) |
 | :--- | :--- | :--- |
+| `open` | **[farion1231/cc-switch#8642](https://github.com/farion1231/cc-switch/pull/8642)** — fix(usage): use Chinese units for compact token counts | 2026-11-20 |
 | `open` | **[farion1231/cc-switch#8156](https://github.com/farion1231/cc-switch/pull/8156)** — fix(codex): reject unsupported encrypted agent tasks in chat conversion | 2026-11-20 |
 | `open` | **[farion1231/cc-switch#8232](https://github.com/farion1231/cc-switch/pull/8232)** — feat(codex): persist restart notice dismissal preference | 2026-11-20 |
 | `open` | **[farion1231/cc-switch#8568](https://github.com/farion1231/cc-switch/pull/8568)** — fix(provider): remind users to check active provider after adding | 2026-11-20 |
 | `open` | **[farion1231/cc-switch#8647](https://github.com/farion1231/cc-switch/pull/8647)** — feat(provider): refresh Claude Desktop providers from Claude Code | 2026-11-20 |
-| `open` | **[farion1231/cc-switch#8642](https://github.com/farion1231/cc-switch/pull/8642)** — fix(usage): use Chinese units for compact token counts | 2026-11-20 |
 | `open` | **[farion1231/cc-switch#8800](https://github.com/farion1231/cc-switch/pull/8800)** — fix(codex): preserve image tool discovery through local routing | 2026-11-20 |
 | `open` | **[farion1231/cc-switch#8893](https://github.com/farion1231/cc-switch/pull/8893)** — feat(apps): add compact and large-card display density | 2026-11-20 |
 | `open` | **[code-yeongyu/oh-my-openagent#8404](https://github.com/code-yeongyu/oh-my-openagent/pull/8404)** — fix(team-core): publish complete lock owners atomically | 2026-11-19 |
@@ -163,7 +163,7 @@ I write about the process on [dhpie.com](https://dhpie.com).
 
 
 <!-- telemetry-refresh:start -->
-<sub>Fetched every 8 hours · last successful fetch<br>Totals: 2026-11-20 15:40:12 UTC · Commit hours: 2026-11-20 15:40:12 UTC · Reactions: 2026-11-20 15:40:12 UTC</sub>
+<sub>Fetched every 8 hours · last successful fetch<br>Totals: 2026-11-21 03:19:07 UTC · Commit hours: 2026-11-21 03:19:07 UTC · Reactions: 2026-11-21 03:19:07 UTC</sub>
 <!-- telemetry-refresh:end -->
 
 ### `~/arcade`
