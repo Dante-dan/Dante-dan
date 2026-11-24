@@ -78,10 +78,11 @@ I write about the process on [dhpie.com](https://dhpie.com).
 <sub>Public upstream PRs updated in the last 7 days · refreshed every 8 hours</sub>
 
 <!-- upstream:start -->
-<sub>43 PRs · 43 open</sub>
+<sub>30 PRs · 30 open</sub>
 
 | Status | Pull request | Updated (UTC) |
 | :--- | :--- | :--- |
+| `open` | **[cloudflare/security-audit-skill#82](https://github.com/cloudflare/security-audit-skill/pull/82)** — fix: allow artifact sharing within an archived attempt | 2026-11-24 |
 | `open` | **[apache/maka#6226](https://github.com/apache/maka/pull/6226)** — fix(runtime-host): add explicit managed root identity recovery | 2026-11-24 |
 | `open` | **[apache/maka#6262](https://github.com/apache/maka/pull/6262)** — fix(runtime): handle recovered unknown calls in compaction | 2026-11-23 |
 | `open` | **[apache/maka#6198](https://github.com/apache/maka/pull/6198)** — feat(desktop): unify Personal Assistant task panel densities | 2026-11-21 |
@@ -109,22 +110,8 @@ I write about the process on [dhpie.com](https://dhpie.com).
 | `open` | **[code-yeongyu/oh-my-openagent#10138](https://github.com/code-yeongyu/oh-my-openagent/pull/10138)** — docs(install): explain npm package-name bin conflicts | 2026-11-19 |
 | `open` | **[code-yeongyu/oh-my-openagent#11167](https://github.com/code-yeongyu/oh-my-openagent/pull/11167)** — fix(memory): neutralize inherited pathspec modes in literal Git lookups | 2026-11-19 |
 | `open` | **[code-yeongyu/oh-my-openagent#11418](https://github.com/code-yeongyu/oh-my-openagent/pull/11418)** — fix(senpi): report unstaged LSP runtime and stage preload builds | 2026-11-19 |
-| `open` | **[cloudflare/security-audit-skill#82](https://github.com/cloudflare/security-audit-skill/pull/82)** — fix: allow artifact sharing within an archived attempt | 2026-11-19 |
 | `open` | **[apache/maka#5266](https://github.com/apache/maka/pull/5266)** — fix(runtime): allow bounded Apple Git startup | 2026-11-18 |
 | `open` | **[browser-use/browser-use#5991](https://github.com/browser-use/browser-use/pull/5991)** — fix: honor accept\_downloads in CDP browsers | 2026-11-18 |
-| `open` | **[makecindy/cindy#7200](https://github.com/makecindy/cindy/pull/7200)** — fix(codex): canonicalize adopted rollout paths before resume | 2026-11-17 |
-| `open` | **[makecindy/cindy#7235](https://github.com/makecindy/cindy/pull/7235)** — fix(remote-desktop): cache capability probes across remounts | 2026-11-17 |
-| `open` | **[makecindy/cindy#7191](https://github.com/makecindy/cindy/pull/7191)** — fix(desktop): distinguish upstream resource quota from Cindy balance | 2026-11-17 |
-| `open` | **[makecindy/cindy#4424](https://github.com/makecindy/cindy/pull/4424)** — feat(mobile): render Mermaid in Markdown file reader | 2026-11-17 |
-| `open` | **[makecindy/cindy#6141](https://github.com/makecindy/cindy/pull/6141)** — fix(media): bind xAI media to independent OAuth accounts | 2026-11-17 |
-| `open` | **[makecindy/cindy#6168](https://github.com/makecindy/cindy/pull/6168)** — feat(desktop): add native Linux RPM packages | 2026-11-17 |
-| `open` | **[makecindy/cindy#6319](https://github.com/makecindy/cindy/pull/6319)** — fix(local-models): keep Ollama DNS failures generic | 2026-11-17 |
-| `open` | **[makecindy/cindy#7172](https://github.com/makecindy/cindy/pull/7172)** — fix(desktop): allow redirected userData media roots | 2026-11-17 |
-| `open` | **[makecindy/cindy#7190](https://github.com/makecindy/cindy/pull/7190)** — fix(scheduler): rearm one-shot schedules across restart | 2026-11-23 |
-| `open` | **[makecindy/cindy#7195](https://github.com/makecindy/cindy/pull/7195)** — fix(maker-ipc): preserve delegated task titles before source wrapping | 2026-11-17 |
-| `open` | **[makecindy/cindy#7202](https://github.com/makecindy/cindy/pull/7202)** — fix(maker-core): expose repeated Claude connection retry progress | 2026-11-17 |
-| `open` | **[makecindy/cindy#7446](https://github.com/makecindy/cindy/pull/7446)** — fix(chat): retain turns after transient heartbeat failures | 2026-11-17 |
-| `open` | **[makecindy/cindy#7448](https://github.com/makecindy/cindy/pull/7448)** — fix(learn): preserve namespaced built-in skill dispatch | 2026-11-17 |
 <!-- upstream:end -->
 
 <details>
@@ -153,8 +140,8 @@ I write about the process on [dhpie.com](https://dhpie.com).
 ### `~/telemetry`
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Dante-dan/Dante-dan/main/assets/telemetry/stats-dark-f17011bcc3d4d2ef.svg" />
-  <img src="https://raw.githubusercontent.com/Dante-dan/Dante-dan/main/assets/telemetry/stats-light-5a1b37f1a3541fbf.svg" alt="Public GitHub contribution totals" width="390" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Dante-dan/Dante-dan/main/assets/telemetry/stats-dark-5acaa845594c9d75.svg" />
+  <img src="https://raw.githubusercontent.com/Dante-dan/Dante-dan/main/assets/telemetry/stats-light-668f2fadaadc06e3.svg" alt="Public GitHub contribution totals" width="390" />
 </picture>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Dante-dan/Dante-dan/main/assets/telemetry/time-dark-d8c0468578e25a45.svg" />
@@ -166,7 +153,7 @@ I write about the process on [dhpie.com](https://dhpie.com).
 
 
 <!-- telemetry-refresh:start -->
-<sub>Fetched every 8 hours · last successful fetch<br>Totals: 2026-11-24 06:12:34 UTC · Commit hours: 2026-11-24 06:12:34 UTC · Reactions: 2026-11-24 06:12:34 UTC</sub>
+<sub>Fetched every 8 hours · last successful fetch<br>Totals: 2026-11-24 18:00:41 UTC · Commit hours: 2026-11-24 18:00:41 UTC · Reactions: 2026-11-24 18:00:41 UTC</sub>
 <!-- telemetry-refresh:end -->
 
 ### `~/arcade`
