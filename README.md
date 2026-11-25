@@ -78,16 +78,10 @@ I write about the process on [dhpie.com](https://dhpie.com).
 <sub>Public upstream PRs updated in the last 7 days · refreshed every 8 hours</sub>
 
 <!-- upstream:start -->
-<sub>34 PRs · 34 open</sub>
+<sub>28 PRs · 28 open</sub>
 
 | Status | Pull request | Updated (UTC) |
 | :--- | :--- | :--- |
-| `open` | **[can1357/oh-my-pi#12081](https://github.com/can1357/oh-my-pi/pull/12081)** — feat(github): support operation-specific approval policies | 2026-11-25 |
-| `open` | **[can1357/oh-my-pi#12082](https://github.com/can1357/oh-my-pi/pull/12082)** — feat(coding-agent): add producer-scoped artifact resolution | 2026-11-25 |
-| `open` | **[can1357/oh-my-pi#12083](https://github.com/can1357/oh-my-pi/pull/12083)** — fix(coding-agent): clarify omp identity in system prompt | 2026-11-25 |
-| `open` | **[can1357/oh-my-pi#12253](https://github.com/can1357/oh-my-pi/pull/12253)** — fix(session): anchor exit marker to persisted tail | 2026-11-25 |
-| `open` | **[can1357/oh-my-pi#12378](https://github.com/can1357/oh-my-pi/pull/12378)** — fix(session): relocate custom sessions across filesystems | 2026-11-25 |
-| `open` | **[can1357/oh-my-pi#12381](https://github.com/can1357/oh-my-pi/pull/12381)** — test(browser): require a live CDP endpoint for Linux Chromium | 2026-11-25 |
 | `open` | **[cloudflare/security-audit-skill#82](https://github.com/cloudflare/security-audit-skill/pull/82)** — fix: allow artifact sharing within an archived attempt | 2026-11-24 |
 | `open` | **[apache/maka#6226](https://github.com/apache/maka/pull/6226)** — fix(runtime-host): add explicit managed root identity recovery | 2026-11-24 |
 | `open` | **[apache/maka#6262](https://github.com/apache/maka/pull/6262)** — fix(runtime): handle recovered unknown calls in compaction | 2026-11-23 |
@@ -144,8 +138,8 @@ I write about the process on [dhpie.com](https://dhpie.com).
 ### `~/telemetry`
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Dante-dan/Dante-dan/main/assets/telemetry/stats-dark-5acaa845594c9d75.svg" />
-  <img src="https://raw.githubusercontent.com/Dante-dan/Dante-dan/main/assets/telemetry/stats-light-668f2fadaadc06e3.svg" alt="Public GitHub contribution totals" width="390" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Dante-dan/Dante-dan/main/assets/telemetry/stats-dark-4a9010e5a0f68b05.svg" />
+  <img src="https://raw.githubusercontent.com/Dante-dan/Dante-dan/main/assets/telemetry/stats-light-a243f85173e0eee1.svg" alt="Public GitHub contribution totals" width="390" />
 </picture>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Dante-dan/Dante-dan/main/assets/telemetry/time-dark-d8c0468578e25a45.svg" />
@@ -157,7 +151,7 @@ I write about the process on [dhpie.com](https://dhpie.com).
 
 
 <!-- telemetry-refresh:start -->
-<sub>Fetched every 8 hours · last successful fetch<br>Totals: 2026-11-25 04:58:27 UTC · Commit hours: 2026-11-25 04:58:27 UTC · Reactions: 2026-11-25 04:58:27 UTC</sub>
+<sub>Fetched every 8 hours · last successful fetch<br>Totals: 2026-11-25 17:29:01 UTC · Commit hours: 2026-11-25 17:29:01 UTC · Reactions: 2026-11-25 17:29:01 UTC</sub>
 <!-- telemetry-refresh:end -->
 
 ### `~/arcade`
