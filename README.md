@@ -78,10 +78,16 @@ I write about the process on [dhpie.com](https://dhpie.com).
 <sub>Public upstream PRs updated in the last 7 days · refreshed every 8 hours</sub>
 
 <!-- upstream:start -->
-<sub>30 PRs · 30 open</sub>
+<sub>34 PRs · 34 open</sub>
 
 | Status | Pull request | Updated (UTC) |
 | :--- | :--- | :--- |
+| `open` | **[can1357/oh-my-pi#12081](https://github.com/can1357/oh-my-pi/pull/12081)** — feat(github): support operation-specific approval policies | 2026-11-25 |
+| `open` | **[can1357/oh-my-pi#12082](https://github.com/can1357/oh-my-pi/pull/12082)** — feat(coding-agent): add producer-scoped artifact resolution | 2026-11-25 |
+| `open` | **[can1357/oh-my-pi#12083](https://github.com/can1357/oh-my-pi/pull/12083)** — fix(coding-agent): clarify omp identity in system prompt | 2026-11-25 |
+| `open` | **[can1357/oh-my-pi#12253](https://github.com/can1357/oh-my-pi/pull/12253)** — fix(session): anchor exit marker to persisted tail | 2026-11-25 |
+| `open` | **[can1357/oh-my-pi#12378](https://github.com/can1357/oh-my-pi/pull/12378)** — fix(session): relocate custom sessions across filesystems | 2026-11-25 |
+| `open` | **[can1357/oh-my-pi#12381](https://github.com/can1357/oh-my-pi/pull/12381)** — test(browser): require a live CDP endpoint for Linux Chromium | 2026-11-25 |
 | `open` | **[cloudflare/security-audit-skill#82](https://github.com/cloudflare/security-audit-skill/pull/82)** — fix: allow artifact sharing within an archived attempt | 2026-11-24 |
 | `open` | **[apache/maka#6226](https://github.com/apache/maka/pull/6226)** — fix(runtime-host): add explicit managed root identity recovery | 2026-11-24 |
 | `open` | **[apache/maka#6262](https://github.com/apache/maka/pull/6262)** — fix(runtime): handle recovered unknown calls in compaction | 2026-11-23 |
@@ -110,8 +116,6 @@ I write about the process on [dhpie.com](https://dhpie.com).
 | `open` | **[code-yeongyu/oh-my-openagent#10138](https://github.com/code-yeongyu/oh-my-openagent/pull/10138)** — docs(install): explain npm package-name bin conflicts | 2026-11-19 |
 | `open` | **[code-yeongyu/oh-my-openagent#11167](https://github.com/code-yeongyu/oh-my-openagent/pull/11167)** — fix(memory): neutralize inherited pathspec modes in literal Git lookups | 2026-11-19 |
 | `open` | **[code-yeongyu/oh-my-openagent#11418](https://github.com/code-yeongyu/oh-my-openagent/pull/11418)** — fix(senpi): report unstaged LSP runtime and stage preload builds | 2026-11-19 |
-| `open` | **[apache/maka#5266](https://github.com/apache/maka/pull/5266)** — fix(runtime): allow bounded Apple Git startup | 2026-11-18 |
-| `open` | **[browser-use/browser-use#5991](https://github.com/browser-use/browser-use/pull/5991)** — fix: honor accept\_downloads in CDP browsers | 2026-11-18 |
 <!-- upstream:end -->
 
 <details>
@@ -153,7 +157,7 @@ I write about the process on [dhpie.com](https://dhpie.com).
 
 
 <!-- telemetry-refresh:start -->
-<sub>Fetched every 8 hours · last successful fetch<br>Totals: 2026-11-24 18:00:41 UTC · Commit hours: 2026-11-24 18:00:41 UTC · Reactions: 2026-11-24 18:00:41 UTC</sub>
+<sub>Fetched every 8 hours · last successful fetch<br>Totals: 2026-11-25 04:58:27 UTC · Commit hours: 2026-11-25 04:58:27 UTC · Reactions: 2026-11-25 04:58:27 UTC</sub>
 <!-- telemetry-refresh:end -->
 
 ### `~/arcade`
