@@ -78,7 +78,7 @@ I write about the process on [dhpie.com](https://dhpie.com).
 <sub>Public upstream PRs updated in the last 7 days · refreshed every 8 hours</sub>
 
 <!-- upstream:start -->
-<sub>24 PRs · 24 open</sub>
+<sub>22 PRs · 22 open</sub>
 
 | Status | Pull request | Updated (UTC) |
 | :--- | :--- | :--- |
@@ -104,8 +104,6 @@ I write about the process on [dhpie.com](https://dhpie.com).
 | `open` | **[cloudflare/security-audit-skill#82](https://github.com/cloudflare/security-audit-skill/pull/82)** — fix: allow artifact sharing within an archived attempt | 2026-11-24 |
 | `open` | **[apache/maka#6226](https://github.com/apache/maka/pull/6226)** — fix(runtime-host): add explicit managed root identity recovery | 2026-11-24 |
 | `open` | **[apache/maka#6262](https://github.com/apache/maka/pull/6262)** — fix(runtime): handle recovered unknown calls in compaction | 2026-11-23 |
-| `open` | **[apache/maka#6198](https://github.com/apache/maka/pull/6198)** — feat(desktop): unify Personal Assistant task panel densities | 2026-11-21 |
-| `open` | **[apache/maka#6212](https://github.com/apache/maka/pull/6212)** — fix(desktop): keep lightbox close clear of window controls | 2026-11-21 |
 <!-- upstream:end -->
 
 <details>
@@ -148,7 +146,7 @@ I write about the process on [dhpie.com](https://dhpie.com).
 
 
 <!-- telemetry-refresh:start -->
-<sub>Fetched every 8 hours · last successful fetch<br>Totals: 2026-11-27 16:52:41 UTC · Commit hours: 2026-11-27 16:52:41 UTC · Reactions: 2026-11-27 16:52:41 UTC</sub>
+<sub>Fetched every 8 hours · last successful fetch<br>Totals: 2026-11-28 04:03:15 UTC · Commit hours: 2026-11-28 04:03:15 UTC · Reactions: 2026-11-28 04:03:15 UTC</sub>
 <!-- telemetry-refresh:end -->
 
 ### `~/arcade`
